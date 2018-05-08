@@ -1383,7 +1383,7 @@ var locations = [
 }
 },{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.198889,40.956944]},"properties":{"name":"East Hampton, New York","affiliated people":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-1.308544,53.018115]},"properties":{"name":"Eastwood, United Kingdom","affiliated people":""}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[-6.2588369,36.6393281]},"properties":{"name":"El Puerto de Santa Maria","affiliated people":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-6.2588369,36.6393281]},"properties":{"name":"El Puerto de Santa Maria, Spain","affiliated people":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-2.0481401,38.4500743]},"properties":{"name":"Elche de la Sierra, Spain","affiliated people":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-2.4128202,43.2157113]},"properties":{"name":"Elgoibar, Gipuzkoa, Spain","affiliated people":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-111.946213,46.274788]},"properties":{"name":"Elkhorn, Montana","affiliated people":""}},
@@ -1400,7 +1400,7 @@ var locations = [
 {"type":"Feature","geometry":{"type":"Point","coordinates":[8.6821267,50.1109221]},"properties":{"name":"Frankfurt, Germany","affiliated people":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[10.7059193,53.8479951]},"properties":{"name":"Free City of Lubeck","affiliated people":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[7.8421043,47.9990077]},"properties":{"name":"Freiburg im Breisgau, Germany","affiliated people":""}},
-{"type":"Feature","geometry":{"type":"Point","coordinates":[16.9240554, 32.6669328]},"properties":{"name":"Funchal, Portugal","affiliated people":""}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[32.6669328,-16.9240554]},"properties":{"name":"Funchal, Portugal","affiliated people":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-2.814449,55.623728]},"properties":{"name":"Galashiels, Scotland","affiliated people":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[6.1431577,46.2043907]},"properties":{"name":"Geneva, Switzerland","affiliated people":""}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[3.7174243,51.0543422]},"properties":{"name":"Ghent, Belgium","affiliated people":""}},

@@ -5,3 +5,13 @@ html, body, #map {
   width: 100%;
   font-family: "LibreBaskerville", Corbel, serif;
 }
+
+.networks {
+    float: left;
+    height: 30%;
+    width: 20%;
+    display: inline;
+    border: solid black 1px;
+    padding: 2px;
+    margin-left: none;
+}
