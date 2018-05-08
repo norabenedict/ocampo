@@ -6,12 +6,17 @@ html, body, #map {
   font-family: "LibreBaskerville", Corbel, serif;
 }
 
-.networks {
-    float: left;
-    height: 30%;
-    width: 20%;
-    display: inline;
-    border: solid black 1px;
-    padding: 2px;
-    margin-left: none;
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  background: #f9f9f9;
+  font-size: 24px;
+  padding: 25px;
+}
+
+.parallax {
+  background: url('images/gendered_network.png') no repeat center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 500px;
 }
