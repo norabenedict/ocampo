@@ -1,0 +1,111 @@
+31-rue-raynouard-paris:
+  name: 31 rue Raynouard, Paris, France
+  affiliated people:
+    - names: ""
+  popupContent: "31 rue Raynouard, Paris,France"
+  location:
+    - "48.856416, 2.281848"
+
+7-rue-l'odeon-paris:
+  name: 7 rue de L'Odéon, Paris, France
+  affiliated people:
+    - names: ""
+  popupContent: "7 rue de L'Odéon, Paris, France"
+  location:
+    - "48.851291, 2.338784"
+
+820-fifth-avenue-nyc:
+  name: 820 Fifth Avenue, New York City, New York
+  affiliated people:
+    - names: ""
+  popupContent: "820 Fifth Avenue, New York City, New York"
+  location:
+    - "40.7668, -73.9707"
+
+aberdeen-uk:
+  name: Aberdeen, United Kingdom
+  affiliated people:
+    - names: ""
+  popupContent: "Aberdeen, United Kingdom"
+  location:
+    - "57.149717, -2.094278"
+
+addison-maine:
+  name: Addison, Maine
+  affiliated people:
+    - names: ""
+  popupContent: "Addison, Maine"
+  location:
+    - "44.618333, -67.744167"
+
+adelaide-australia:
+  name: Adelaide, Australia
+  affiliated people:
+    - names: ""
+  popupContent: "Adelaide, Australia"
+  location:
+    - "-34.929, 138.601"
+
+agrigento-italy:
+  name: Agrigento, Italy
+  affiliated people:
+    - names: ""
+  popupContent: "Agrigento, Italy"
+  location:
+    - "37.3094, 13.586"
+
+ahrensburg-germany:
+  name: Ahrensburg, Germany
+  affiliated people:
+    - names: ""
+  popupContent: "Ahrensburg, Germany"
+  location:
+    - "53.6764136, 10.2378854"
+
+aix-en-provence-france:
+  name: Aix-en-Provence, France
+  affiliated people:
+    - names: ""
+  popupContent: "Aix-en-Provence, France"
+  location:
+    - "4.529742, 5.447427"
+
+alassio-italy:
+  name: Alassio, Italy
+  affiliated people:
+    - names: ""
+  popupContent: "Alassio, Italy"
+  location:
+    - "44.014336, 8.1811741"
+
+albairate-italy:
+  name: Albairate, Italy
+  affiliated people:
+    - names: ""
+  popupContent: "Albairate, Italy"
+  location:
+    - "45.4253354, 8.9448741"
+
+alberti-argentina:
+  name: Alberti, Buenos Aires, Argentina
+  affiliated people:
+    - names: ""
+  popupContent: "Alberti, Buenos Aires, Argentina"
+  location:
+    - "-35.0316512, -60.2802699"
+
+albuquerque-new-mexico:
+  name: Albuquerque, New Mexico
+  affiliated people:
+    - names: ""
+  popupContent: "Albuquerque, New Mexico"
+  location:
+    - "35.0853336, -106.6055534"
+
+alexandria-egypt:
+  name: Alexandria, Egypt
+  affiliated people:
+    - names: ""
+  popupContent: "Alexandria, Egypt"
+  location:
+    - "31.2000924, 29.9187387"
