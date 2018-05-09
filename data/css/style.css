@@ -1,22 +1,32 @@
-/*CSS for Ocampo Map*/
-
-html, body, #map {
-  height: 100%;
-  width: 100%;
-  font-family: "LibreBaskerville", Corbel, serif;
+html {
+  color: black;
+  font-family: Quicksand;
+  line-height: 1.5;
+  margin:0;
+  padding:0;
+  background-color: #b1b0b2
 }
 
-.container {
-  max-width: 960px;
-  margin: 0 auto;
-  background: #f9f9f9;
-  font-size: 24px;
-  padding: 25px;
+body {
+  margin:0;
+  padding:0;
+  font-family: Quicksand;
 }
 
-.parallax {
-  background: url('images/gendered_network.png') no repeat center;
-  background-size: cover;
-  background-attachment: fixed;
-  height: 500px;
+p.big {
+  line-height: 1.8;
+  text-align: justify;
+  margin-left: 15px;
 }
+
+.database {
+      float: right;
+      height: 60%;
+      width: 50%;
+      display: block;
+      border: solid black 1px;
+      padding: 2px;
+      margin-left: 5vh;
+      margin-right: none;
+      margin-bottom: 5vh;
+  }
