@@ -1,14 +1,32 @@
 html {
   color: black;
-  font-family: 'Libre Baskerville', serif;
+  font-family: Quicksand;
   line-height: 1.5;
   margin:0;
   padding:0;
-  background-color:
+  background-color: #b1b0b2
 }
 
 body {
   margin:0;
   padding:0;
-
+  font-family: Quicksand;
 }
+
+p.big {
+  line-height: 1.8;
+  text-align: justify;
+  margin-left: 15px;
+}
+
+.database {
+      float: right;
+      height: 60%;
+      width: 50%;
+      display: block;
+      border: solid black 1px;
+      padding: 2px;
+      margin-left: 5vh;
+      margin-right: none;
+      margin-bottom: 5vh;
+  }

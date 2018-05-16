@@ -3373,7 +3373,7 @@
     deathplace: Los Angeles, California
     FIELD6:
 -
-    name: 'Wladimir d''Ormesson'
+    name: 'Wladimir d'Ormesson'
     birthdate: 1888-08-02
     deathdate: 1973-09-15
     birthplace: Saint Petersburg, Russia
@@ -4909,6 +4909,13 @@
     name: Sherwood Anderson
     birthdate: 1876-09-13
     deathdate: 1941-05-08
-    FIELD4: Camden, Ohio
+    birthplace: Camden, Ohio
     deathplace: Colón, Panamá
+    FIELD6:
+-
+    name: Taylor Gordon
+    birthdate: 1893-04-29
+    deathdate: 1971-05-05
+    birthplace: White Sulphur Springs, Montana
+    deathplace: White Sulphur Springs, Montana
     FIELD6:

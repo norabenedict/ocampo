@@ -48,6 +48,31 @@
         margin-right: 5vh;
         border: solid black 1px;
     }
+
+  .network_1 {
+      float: left;
+      height: 40%;
+      width: 32%;
+      display: inline;
+      padding: 2px;
+    }
+
+  .network_2 {
+      float: center;
+      height: 60%;
+      width: 36%;
+      display: inline;
+      padding: 2px;
+    }
+
+  .network_3 {
+    float: right;
+    height: 25%;
+    width: 30%;
+    display: inline;
+    padding: 2px;
+  }
+
 </style>
 </header>
 
@@ -74,23 +99,44 @@
   </div>
 
 <h1>DATABASE DESIGN &#8595;</h1>
+
+  <p class="big"> All of the data about Victoria Ocampo's networks that fuels my network graphs and visualizations is drawn from a select series of print materials: issues of her literary journal <i>Sur</i>, books published with her Editorial Sur, or correspondence that she wrote or received during the 1930s up through her death in 1979.</p> 
+
+  <p class="big">At the moment, this database lives in a virtual machine on my computer, but I hope to host it for public use in the near future. When I first embarked on my journey of gathering data and designing a place to store it, I was new to the world of database design. In light of the fact that my digital project centers around networks, or groups of connected and interrelated individuals, I initially drew my project as an Entity-Relationship Diagram (ERD), which defines relationships between <b>entities</b> (people, places, things) and their <b>attributes</b> (characteristic properties of an entity). With respect to my project, an example entity would be “person” and the attributes of this entity might be “name,” “birthplace,” and “occupation.”</p>
+
+  <img src="images/drawing_networks.jpg" class="network_1">
+  <img src="images/drawing_networks_2.jpg" class="network_2">
+  <img src="images/drawing_networks_3.jpg" class="network_3">
+
+  <br></br>
+  <br></br>
+  <br></br>
+  <br></br>
+
+  <p class="big">These initial sketches led me to a more nuanced understanding of database design, and also how to format and structure all of my datasets. For starters, I began by conceptualizing the tables that contained my data around specific modules, or shared groupings of information. I then identified key pieces of information that I wanted to convey in the database, and key pieces of information that I hoped to make searchable for a larger public. This abstract visualization of my data as an ERD led to the development of a relational database using the open-source management system MySQL, where I created the following tables, or entities (represented here with <a href="https://github.com/Princeton-CDH/davilajs">Davila.js</a>): </p>
+
+  <br></br>
+
+
   <img src="images/davila.png" class="database">
 
-  <p class="big">Here is an interactive view of my database design, created with <a href="https://github.com/Princeton-CDH/davilajs">Davila.js</a></p>
+  <p class="big"></p>
 
-  <p class="big">These two networs break apart the larger occupation network above. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+  <p class="big"></p>
 
   <p class="big">This tool also allows you to see the details of each layer in a drop-down feature:</p>
 
   <img src="images/davila_detail.png" class="database">
 
-  <p class="big">These two networs break apart the larger occupation network above. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+  <p class="big"></p>
 
 <br></br>
 
-<p class="big">More details about my database design and how I built it.</p>
+<p class="big">Examples of information within my actual database.</p>
 
 <br></br>
+
+<img src="" class="">
 
 <p class="big">Details, details, details...</p>
 
