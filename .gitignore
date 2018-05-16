@@ -1,2 +1,6 @@
 # virtual environment
 venv/
+
+bower_components/
+
+node_modules/
