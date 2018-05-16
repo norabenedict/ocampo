@@ -1242,7 +1242,14 @@ var locations = [
     "affiliated people":""
   }
 },{
-  "type":"Feature","geometry":{"type":"Point","coordinates":[2.270748,48.771896]},"properties":{"name":"Chatenay-Malabry, France","affiliated people":""
+  "type":"Feature",
+  "geometry":{
+    "type":"Point",
+    "coordinates":[2.270748,48.771896]
+  },
+  "properties":{
+    "name":"Chatenay-Malabry, France",
+    "affiliated people":""
 }
 },{
   "type":"Feature","geometry":{"type":"Point","coordinates":[28.4244728,53.7117479]},"properties":{"name":"Chervyen, Belarus","affiliated people":""
