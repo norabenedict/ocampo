@@ -2,24 +2,39 @@
 <html>
 <head>
   <meta charset="utf-8">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"/>
 <link href="https://fonts.googleapis.com/css?family=Quicksand:500" rel="stylesheet">
 <link rel="stylesheet" href="test_style.css">
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="leaflet-providers.js"></script>
 <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
-<script src="locations.js" type="text/javascript"></script>
+<script src="./points.js" type="text/javascript"></script>
+<script src="../node_modules/leaflet-sidebar/src/L.Control.Sidebar.js"></script>
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css" type="text/css">
-<link rel="stylesheet" href="/css/styles.css">
-<link rel="stylesheet" href="/css/L.Control.Sidebar.css">
-<link rel="stylesheet" href="/css/L.Control.Sidebar.scss">
+<link rel="stylesheet" href="../node_modules/leaflet-sidebar/src/L.Control.Sidebar.css">
 
 <style>
 
-  #map {
+html, body {
     height: 100%;
-    width: 100%;
-    margin-top: 15vh;
-    position: absolute;
+    margin-top: 7vh;
+  }
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map {
+      height: 100%;
+      margin-top: 7vh;
+      position: relative;
+    }
+
+#sidebar {
+    height: 100%;
+    font-family: Quicksand;
+    font-size: 40;
   }
 
 </style>
@@ -45,44 +60,63 @@
             <li><a href="#">Bibliography</a></li>
             <li><a href="#">About Me</a></li>
           </ul>
+
     </nav>
+  </div>
+
+  <div id="sidebar">
+    <h1>Affiliated People</h1>
+    <p>Biographical information about individuals in Ocampo's network.</p>
   </div>
 
   <div id="map"></div>
 
-  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-  <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
-  <script src="https://unpkg.com/leaflet-sidebar"></script>
-
   <script>
 
-    var map = L.map('map').setView([20, 0], 2.5);
+      var map = L.map('map').setView([20, 0], 2.5);
 
-    var layer = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attributions">CARTO</a>'}).addTo(map);
+      var layer = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attributions">CARTO</a>'}).addTo(map);
 
-    L.geoJson(locations, {
-      pointToLayer: function(feature, latlng) {
-         return new L.CircleMarker(latlng, {
-             radius: 5,
-             fillColor: "blue",
-             color: "#000",
-             weight: 1,
-             opacity: 1,
-             fillOpacity: 0.4
-         }
-       )},
+      var sidebar = L.control.sidebar('sidebar', {
+               closeButton: true,
+               position: 'right'
+           });
+           map.addControl(sidebar);
 
-       onEachFeature: function(feature, layer){
-         layer.bindPopup(feature.properties.name
-       );
-     }
-   }).addTo(map)
+      L.geoJson(points, {
+        pointToLayer: function(feature, latlng) {
+           return new L.CircleMarker(latlng, {
+               radius: 5,
+               fillColor: "blue",
+               color: "#000",
+               weight: 1,
+               opacity: 1,
+               fillOpacity: 0.4
+           }
+         )},
 
-   var sidebar = L.control.sidebar('sidebar', {
-            closeButton: true,
-            position: 'left'
+         onEachFeature: function(feature, layer){
+           layer.bindPopup(feature.properties.name);
+           layer.on('click', function(e) {
+             console.log(e.sourceTarget)
+             // console.log(e.sourceTarget.feature.properties.affiliatedPeople)
+             sidebar.setContent(e.sourceTarget.feature.properties.affiliatedPeople.join(", "))
+           })
+       }
+     }).addTo(map).on('click', function () {
+            sidebar.show();
         });
-        map.addControl(sidebar);
+
+
+    setTimeout(function () {
+      sidebar.hide();
+    }, 500);
+
+    map.on('click', function () {
+      sidebar.hide()
+
+    })
+
 
   </script>
 
