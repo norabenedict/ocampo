@@ -1,0 +1,23 @@
+{
+  "name": "ocampo",
+  "version": "1.0.0",
+  "description": "network stuff",
+  "main": "index.js",
+  "dependencies": {
+    "leaflet-sidebar": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norabenedict/ocampo-pelican.git"
+  },
+  "author": "Nora Benedict",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norabenedict/ocampo-pelican/issues"
+  },
+  "homepage": "https://github.com/norabenedict/ocampo-pelican#readme"
+}

@@ -1,0 +1,4006 @@
+[
+  {
+    "id": 527,
+    "latitude": 48.856416,
+    "longitude": 2.281848,
+    "name": "31 rue Raynouard, Paris, France",
+    "notes": ""
+  },
+  {
+    "id": 532,
+    "latitude": 48.851291,
+    "longitude": 2.338784,
+    "name": "7 rue de L'Od\u00e9on, Paris, France",
+    "notes": ""
+  },
+  {
+    "id": 514,
+    "latitude": 40.7668,
+    "longitude": 73.9707,
+    "name": "820 Fifth Avenue, New York City, New York",
+    "notes": ""
+  },
+  {
+    "id": 1,
+    "latitude": 57.149717,
+    "longitude": -2.094278,
+    "name": "Aberdeen, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "latitude": 44.618333,
+    "longitude": -67.744167,
+    "name": "Addison, Maine",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "latitude": -34.929,
+    "longitude": 138.601,
+    "name": "Adelaide, Australia",
+    "notes": ""
+  },
+  {
+    "id": 551,
+    "latitude": 37.3094,
+    "longitude": 13.586,
+    "name": "Agrigento, Italy",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "latitude": 53.6764136,
+    "longitude": 10.2378854,
+    "name": "Ahrensburg, Germany",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "latitude": 43.529742,
+    "longitude": 5.447427,
+    "name": "Aix-en-Provence, France",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "latitude": 44.014336,
+    "longitude": 8.1811741,
+    "name": "Alassio, Italy",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "latitude": 45.4253354,
+    "longitude": 8.9448741,
+    "name": "Albairate, Italy",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "latitude": -35.0316512,
+    "longitude": -60.2802699,
+    "name": "Alberti, Buenos Aires, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "latitude": 35.0853336,
+    "longitude": -106.6055534,
+    "name": "Albuquerque, New Mexico",
+    "notes": ""
+  },
+  {
+    "id": 582,
+    "latitude": 44.1272,
+    "longitude": 4.0834,
+    "name": "Al\u00e8s, France",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "latitude": 31.2000924,
+    "longitude": 29.9187387,
+    "name": "Alexandria, Egypt",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "latitude": 25.4358011,
+    "longitude": 81.846311,
+    "name": "Allahabad, India",
+    "notes": ""
+  },
+  {
+    "id": 552,
+    "latitude": 39.5187,
+    "longitude": 75.0919,
+    "name": "Alliance, New Jersey",
+    "notes": ""
+  },
+  {
+    "id": 563,
+    "latitude": 36.834,
+    "longitude": 2.4637,
+    "name": "Almer\u00eda, Spain",
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "latitude": 41.8492599,
+    "longitude": -73.5567918,
+    "name": "Amenia, New York",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "latitude": 42.3732216,
+    "longitude": -72.5198537,
+    "name": "Amherst, Massachusetts",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "latitude": 40.6789893,
+    "longitude": -73.4170673,
+    "name": "Amityville, New York",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "latitude": 52.3702157,
+    "longitude": 4.8951679,
+    "name": "Amsterdam, Netherlands",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "latitude": 37.5442706,
+    "longitude": -4.7277528,
+    "name": "Andalusia, Spain",
+    "notes": ""
+  },
+  {
+    "id": 559,
+    "latitude": 40.9859,
+    "longitude": 74.7421,
+    "name": "Andover, New Jersey",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "latitude": 30.6006773,
+    "longitude": 117.9249002,
+    "name": "Anhui, China",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "latitude": 51.2194475,
+    "longitude": 4.4024643,
+    "name": "Antwerp, Belgium",
+    "notes": ""
+  },
+  {
+    "id": 581,
+    "latitude": 44.7139,
+    "longitude": 5.0566,
+    "name": "Aouste-sur-Sye, France",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "latitude": 40.7928393,
+    "longitude": 17.1011931,
+    "name": "Apulia, Italy",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "latitude": 10.591925,
+    "longitude": -74.186103,
+    "name": "Aracataca, Colombia",
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "latitude": -16.4090474,
+    "longitude": -71.537451,
+    "name": "Arequipa, Peru",
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "latitude": -38.416097,
+    "longitude": -63.616672,
+    "name": "Argentina",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "latitude": 42.4153925,
+    "longitude": -71.1564729,
+    "name": "Arlington, Massachusetts",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "latitude": 46.1615793,
+    "longitude": 8.7750131,
+    "name": "Ascona, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "latitude": -25.2637399,
+    "longitude": -57.575926,
+    "name": "Asuncion, Paraguay",
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "latitude": 50.0274106,
+    "longitude": 19.2019829,
+    "name": "Auschwitz, Poland",
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "latitude": -34.6610756,
+    "longitude": -58.3669739,
+    "name": "Avellaneda, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "latitude": 51.837203,
+    "longitude": -0.266776,
+    "name": "Ayot St Lawrence, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 572,
+    "latitude": 36.775,
+    "longitude": 59.854,
+    "name": "Azul, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "latitude": 38.8794495,
+    "longitude": -6.9706535,
+    "name": "Badajoz, Spain",
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "latitude": 48.7656,
+    "longitude": 8.2285,
+    "name": "Baden-Baden, Germany",
+    "notes": ""
+  },
+  {
+    "id": 522,
+    "latitude": 48.872622,
+    "longitude": 2.248883,
+    "name": "Bagatelle, France",
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "latitude": -38.7183177,
+    "longitude": -62.2663478,
+    "name": "Bahia Blanca, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 533,
+    "latitude": 39.2904,
+    "longitude": 76.6122,
+    "name": "Baltimore, Maryland",
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "latitude": 44.3876119,
+    "longitude": -68.2039123,
+    "name": "Bar Harbor, Maine",
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "latitude": 48.231209,
+    "longitude": 4.707771,
+    "name": "Bar-sur-Aube, France",
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "latitude": 41.3850639,
+    "longitude": 2.1734035,
+    "name": "Barcelona, Spain",
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "latitude": 48.6343172,
+    "longitude": 7.5252938,
+    "name": "Bas-Rhin, France",
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "latitude": 47.5595986,
+    "longitude": 7.5885761,
+    "name": "Basel, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "latitude": 20.3719163,
+    "longitude": -76.6297189,
+    "name": "Bayamo, Cuba",
+    "notes": ""
+  },
+  {
+    "id": 531,
+    "latitude": 49.9456,
+    "longitude": 11.5713,
+    "name": "Bayreuth, Germany",
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "latitude": -34.4640891,
+    "longitude": -58.5347609,
+    "name": "Beccar, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "latitude": 50.503887,
+    "longitude": 4.469936,
+    "name": "Belgium",
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "latitude": 51.498659,
+    "longitude": -0.15267,
+    "name": "Belgrave Square, London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "latitude": 46.122228,
+    "longitude": 1.051593,
+    "name": "Bellac, France",
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "latitude": 45.9641291,
+    "longitude": 9.2461642,
+    "name": "Bellagio, Lombardy, Italy",
+    "notes": ""
+  },
+  {
+    "id": 526,
+    "latitude": 40.764236,
+    "longitude": 73.973947,
+    "name": "Bergdorf Goodman's, New York City, New York",
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "latitude": 37.8715926,
+    "longitude": -122.272747,
+    "name": "Berkeley, California",
+    "notes": ""
+  },
+  {
+    "id": 592,
+    "latitude": 51.7598,
+    "longitude": 0.5679,
+    "name": "Berkhamsted, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "latitude": 52.5200066,
+    "longitude": 13.404954,
+    "name": "Berlin, Germany",
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "latitude": 34.0736204,
+    "longitude": -118.4003563,
+    "name": "Beverly Hills, California",
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "latitude": 43.48,
+    "longitude": -1.56,
+    "name": "Biarritz, France",
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "latitude": 4.7109886,
+    "longitude": -74.072092,
+    "name": "Bogot\u00e1, Colombia",
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "latitude": 44.494887,
+    "longitude": 11.3426162,
+    "name": "Bologna, Italy",
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "latitude": 44.837789,
+    "longitude": -0.57918,
+    "name": "Bordeaux, France",
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "latitude": 42.3600825,
+    "longitude": -71.0588801,
+    "name": "Boston, Massachusetts",
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "latitude": 50.725231,
+    "longitude": 1.613334,
+    "name": "Boulogne-sur-Mer, France",
+    "notes": ""
+  },
+  {
+    "id": 589,
+    "latitude": 50.698,
+    "longitude": 2.2286,
+    "name": "Bovington Camp, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "latitude": 41.2675956,
+    "longitude": -73.4417885,
+    "name": "Branchville, Connecticut",
+    "notes": ""
+  },
+  {
+    "id": 601,
+    "latitude": 53.0793,
+    "longitude": 8.8017,
+    "name": "Bremen, Germany",
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "latitude": 37.931944,
+    "longitude": -121.695833,
+    "name": "Brentwood, California",
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "latitude": 51.454513,
+    "longitude": -2.58791,
+    "name": "Bristol, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "latitude": 49.1950602,
+    "longitude": 16.6068371,
+    "name": "Brno, Czech Republic",
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "latitude": 51.406025,
+    "longitude": 0.013156,
+    "name": "Bromley, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "latitude": 42.3317642,
+    "longitude": -71.1211635,
+    "name": "Brookline, Massachusetts",
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "latitude": 50.8503463,
+    "longitude": 4.3517211,
+    "name": "Brussels, Belgium",
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "latitude": 44.4267674,
+    "longitude": 26.1025384,
+    "name": "Bucharest, Romania",
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "latitude": 47.497912,
+    "longitude": 19.040235,
+    "name": "Budapest, Hungary",
+    "notes": ""
+  },
+  {
+    "id": 62,
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "name": "Buenos Aires, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "latitude": 42.8864468,
+    "longitude": -78.8783689,
+    "name": "Buffalo, New York",
+    "notes": ""
+  },
+  {
+    "id": 64,
+    "latitude": 3.9005079,
+    "longitude": -76.3021889,
+    "name": "Buga, Colombia",
+    "notes": ""
+  },
+  {
+    "id": 65,
+    "latitude": 42.733883,
+    "longitude": 25.48583,
+    "name": "Bulgaria",
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "latitude": 41.587565,
+    "longitude": -3.0668549,
+    "name": "Burgo de Osma-Ciudad de Osma, Spain",
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "latitude": 42.3439925,
+    "longitude": -3.696906,
+    "name": "Burgos, Spain",
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "latitude": 52.2429228,
+    "longitude": 0.7104932,
+    "name": "Bury St Edmunds, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "latitude": 34.8723179,
+    "longitude": -89.6906396,
+    "name": "Byhalia, Mississippi",
+    "notes": ""
+  },
+  {
+    "id": 70,
+    "latitude": 30.0444196,
+    "longitude": 31.2357116,
+    "name": "Cairo, Egypt",
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "latitude": 50.95129,
+    "longitude": 1.858686,
+    "name": "Calais, France",
+    "notes": ""
+  },
+  {
+    "id": 573,
+    "latitude": 36.7783,
+    "longitude": 119.4179,
+    "name": "California",
+    "notes": ""
+  },
+  {
+    "id": 72,
+    "latitude": 21.3926035,
+    "longitude": -77.9053182,
+    "name": "Camaguey, Cuba",
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "latitude": 42.3736158,
+    "longitude": -71.1097335,
+    "name": "Cambridge, Massachusetts",
+    "notes": ""
+  },
+  {
+    "id": 74,
+    "latitude": 52.2053,
+    "longitude": 0.1218,
+    "name": "Cambridge, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 560,
+    "latitude": 39.6289,
+    "longitude": 84.6486,
+    "name": "Camden, Ohio",
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "latitude": -34.1633346,
+    "longitude": -58.9592643,
+    "name": "Campana, Buenos Aires, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 76,
+    "latitude": -24.907204,
+    "longitude": -65.6441178,
+    "name": "Campo Quijano, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 77,
+    "latitude": 43.552849,
+    "longitude": 7.017369,
+    "name": "Cannes, France",
+    "notes": ""
+  },
+  {
+    "id": 78,
+    "latitude": 10.3091314,
+    "longitude": -68.278778,
+    "name": "Canoabo, Venezuela",
+    "notes": ""
+  },
+  {
+    "id": 79,
+    "latitude": -21.9802716,
+    "longitude": -42.3625761,
+    "name": "Cantagalo, Rio de Janeiro, Brazil",
+    "notes": ""
+  },
+  {
+    "id": 80,
+    "latitude": 10.4805937,
+    "longitude": -66.9036063,
+    "name": "Caracas, Venezuela",
+    "notes": ""
+  },
+  {
+    "id": 554,
+    "latitude": 36.5552,
+    "longitude": 121.9233,
+    "name": "Carmel-by-the-Sea, California",
+    "notes": ""
+  },
+  {
+    "id": 81,
+    "latitude": -33.5482466,
+    "longitude": -71.6045745,
+    "name": "Cartagena, Chile",
+    "notes": ""
+  },
+  {
+    "id": 82,
+    "latitude": 45.8144729,
+    "longitude": 9.0319407,
+    "name": "Cavallasca, Italy",
+    "notes": ""
+  },
+  {
+    "id": 83,
+    "latitude": -11.9947642,
+    "longitude": -76.7682775,
+    "name": "Chaclacayo, Lima, Peru",
+    "notes": ""
+  },
+  {
+    "id": 84,
+    "latitude": 48.956682,
+    "longitude": 4.363073,
+    "name": "Chalons-en-Champagne, France",
+    "notes": ""
+  },
+  {
+    "id": 85,
+    "latitude": 48.8265,
+    "longitude": 2.405,
+    "name": "Charenton-le-Pont, France",
+    "notes": ""
+  },
+  {
+    "id": 558,
+    "latitude": 32.7765,
+    "longitude": 79.9311,
+    "name": "Charleston, South Carolina",
+    "notes": ""
+  },
+  {
+    "id": 499,
+    "latitude": 38.0293,
+    "longitude": 78.4767,
+    "name": "Charlottesville, Virginia",
+    "notes": ""
+  },
+  {
+    "id": 86,
+    "latitude": 48.771896,
+    "longitude": 2.270748,
+    "name": "Chatenay-Malabry, France",
+    "notes": ""
+  },
+  {
+    "id": 87,
+    "latitude": 53.7117479,
+    "longitude": 28.4244728,
+    "name": "Chervyen, Belarus",
+    "notes": ""
+  },
+  {
+    "id": 88,
+    "latitude": 41.8781136,
+    "longitude": -87.6297982,
+    "name": "Chicago, Illinois",
+    "notes": ""
+  },
+  {
+    "id": 89,
+    "latitude": -36.6062618,
+    "longitude": -72.1023351,
+    "name": "Chillan, Chile",
+    "notes": ""
+  },
+  {
+    "id": 90,
+    "latitude": -34.8969795,
+    "longitude": -60.0190731,
+    "name": "Chivilcoy, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 91,
+    "latitude": -12.1876499,
+    "longitude": -77.0077636,
+    "name": "Chorrillos, Lima, Peru",
+    "notes": ""
+  },
+  {
+    "id": 92,
+    "latitude": -16.4089164,
+    "longitude": -67.5276414,
+    "name": "Chulumani, Bolivia",
+    "notes": ""
+  },
+  {
+    "id": 93,
+    "latitude": 43.387537,
+    "longitude": -1.675432,
+    "name": "Ciboure, France",
+    "notes": ""
+  },
+  {
+    "id": 94,
+    "latitude": 48.799815,
+    "longitude": 2.257289,
+    "name": "Clamart, France",
+    "notes": ""
+  },
+  {
+    "id": 95,
+    "latitude": 51.46231,
+    "longitude": -0.13857,
+    "name": "Clapham, London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 537,
+    "latitude": "",
+    "longitude": "",
+    "name": "Claridge's, London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 96,
+    "latitude": 41.49932,
+    "longitude": -81.6943605,
+    "name": "Cleveland, Ohio",
+    "notes": ""
+  },
+  {
+    "id": 97,
+    "latitude": 42.844668,
+    "longitude": -73.8183804,
+    "name": "Clifton Park, New York",
+    "notes": ""
+  },
+  {
+    "id": 98,
+    "latitude": -36.1386156,
+    "longitude": -72.7945218,
+    "name": "Cobquecura, Chile",
+    "notes": ""
+  },
+  {
+    "id": 99,
+    "latitude": -17.4139766,
+    "longitude": -66.1653224,
+    "name": "Cochabamba, Bolivia",
+    "notes": ""
+  },
+  {
+    "id": 100,
+    "latitude": 41.3345486,
+    "longitude": -0.7004385,
+    "name": "Codo, Zaragoza, Spain",
+    "notes": ""
+  },
+  {
+    "id": 101,
+    "latitude": 45.691046,
+    "longitude": -0.328744,
+    "name": "Cognac, France",
+    "notes": ""
+  },
+  {
+    "id": 102,
+    "latitude": 45.4717,
+    "longitude": 6.5822,
+    "name": "Coise-Saint-Jean-Pied-Gauthier, France",
+    "notes": ""
+  },
+  {
+    "id": 103,
+    "latitude": 42.526752,
+    "longitude": 3.084631,
+    "name": "Collioure, France",
+    "notes": ""
+  },
+  {
+    "id": 104,
+    "latitude": 48.2242,
+    "longitude": 4.8867,
+    "name": "Colombey-les-Deux-Eglises, France",
+    "notes": ""
+  },
+  {
+    "id": 105,
+    "latitude": 4.570868,
+    "longitude": -74.297333,
+    "name": "Colombia",
+    "notes": ""
+  },
+  {
+    "id": 561,
+    "latitude": 9.3593,
+    "longitude": 79.8999,
+    "name": "Col\u00f3n, Panam\u00e1",
+    "notes": ""
+  },
+  {
+    "id": 106,
+    "latitude": 45.204444,
+    "longitude": 122.447778,
+    "name": "Colton, Oregon",
+    "notes": ""
+  },
+  {
+    "id": 107,
+    "latitude": 33.4956744,
+    "longitude": -88.4272627,
+    "name": "Columbus, Mississippi",
+    "notes": ""
+  },
+  {
+    "id": 108,
+    "latitude": 51.0733094,
+    "longitude": -3.2130433,
+    "name": "Combe Florey, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 109,
+    "latitude": 45.8080597,
+    "longitude": 9.0851765,
+    "name": "Como, Italy",
+    "notes": ""
+  },
+  {
+    "id": 110,
+    "latitude": -31.4200833,
+    "longitude": -64.1887761,
+    "name": "Cordoba, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 579,
+    "latitude": 48.9006,
+    "longitude": 2.2593,
+    "name": "Courbevoie, France",
+    "notes": ""
+  },
+  {
+    "id": 111,
+    "latitude": 46.9262933,
+    "longitude": 6.6324944,
+    "name": "Couvet, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 112,
+    "latitude": 52.406822,
+    "longitude": -1.519693,
+    "name": "Coventry, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 113,
+    "latitude": 19.3437444,
+    "longitude": -99.1561883,
+    "name": "Coyoac\u00e1n, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 114,
+    "latitude": 48.790367,
+    "longitude": 2.455572,
+    "name": "Creteil, France",
+    "notes": ""
+  },
+  {
+    "id": 115,
+    "latitude": 21.521757,
+    "longitude": -77.781167,
+    "name": "Cuba",
+    "notes": ""
+  },
+  {
+    "id": 116,
+    "latitude": 18.9242,
+    "longitude": 99.2216,
+    "name": "Cuernavaca, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 591,
+    "latitude": 48.268832258,
+    "longitude": 11.46749813,
+    "name": "Dachau Concentration Camp, Germany",
+    "notes": ""
+  },
+  {
+    "id": 520,
+    "latitude": 14.7167,
+    "longitude": 17.4677,
+    "name": "Dakar, Senegal",
+    "notes": ""
+  },
+  {
+    "id": 117,
+    "latitude": 32.775833,
+    "longitude": -96.796667,
+    "name": "Dallas, Texas",
+    "notes": ""
+  },
+  {
+    "id": 118,
+    "latitude": 32.9594891,
+    "longitude": -117.2653146,
+    "name": "Del Mar, California",
+    "notes": ""
+  },
+  {
+    "id": 119,
+    "latitude": 51.8308166,
+    "longitude": 12.2423302,
+    "name": "Dessau, Germany",
+    "notes": ""
+  },
+  {
+    "id": 120,
+    "latitude": 43.2712452,
+    "longitude": -2.9385576,
+    "name": "Deusto, Spain",
+    "notes": ""
+  },
+  {
+    "id": 121,
+    "latitude": 51.353,
+    "longitude": -1.994,
+    "name": "Devizes, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 122,
+    "latitude": 40.049722,
+    "longitude": -75.425556,
+    "name": "Devon, Pennsylvania",
+    "notes": ""
+  },
+  {
+    "id": 123,
+    "latitude": 44.092193,
+    "longitude": 6.235976,
+    "name": "Digne-les-Bains, France",
+    "notes": ""
+  },
+  {
+    "id": 124,
+    "latitude": 47.322047,
+    "longitude": 5.04148,
+    "name": "Dijon, France",
+    "notes": ""
+  },
+  {
+    "id": 125,
+    "latitude": 44.801305,
+    "longitude": 1.217048,
+    "name": "Domme, France",
+    "notes": ""
+  },
+  {
+    "id": 126,
+    "latitude": -34.4938049,
+    "longitude": -58.6272715,
+    "name": "Don Torcuato, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 127,
+    "latitude": 36.6923855,
+    "longitude": 7.730807,
+    "name": "Drean, Algeria",
+    "notes": ""
+  },
+  {
+    "id": 128,
+    "latitude": 51.0746657,
+    "longitude": 13.7741132,
+    "name": "Dresden-Neustadt, Germany",
+    "notes": ""
+  },
+  {
+    "id": 129,
+    "latitude": 48.736134,
+    "longitude": 1.370889,
+    "name": "Dreux, France",
+    "notes": ""
+  },
+  {
+    "id": 130,
+    "latitude": 53.3498053,
+    "longitude": -6.2603097,
+    "name": "Dublin, Ireland",
+    "notes": ""
+  },
+  {
+    "id": 131,
+    "latitude": 40.956944,
+    "longitude": -72.198889,
+    "name": "East Hampton, New York",
+    "notes": ""
+  },
+  {
+    "id": 132,
+    "latitude": 53.018115,
+    "longitude": -1.308544,
+    "name": "Eastwood, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 136,
+    "latitude": 36.6393281,
+    "longitude": -6.2588369,
+    "name": "El Puerto de Santa Maria",
+    "notes": ""
+  },
+  {
+    "id": 562,
+    "latitude": 49.2922,
+    "longitude": 1.0069,
+    "name": "Elbeuf, France",
+    "notes": ""
+  },
+  {
+    "id": 133,
+    "latitude": 38.4500743,
+    "longitude": -2.0481401,
+    "name": "Elche de la Sierra, Spain",
+    "notes": ""
+  },
+  {
+    "id": 134,
+    "latitude": 43.2157113,
+    "longitude": -2.4128202,
+    "name": "Elgoibar, Gipuzkoa, Spain",
+    "notes": ""
+  },
+  {
+    "id": 135,
+    "latitude": 46.274788,
+    "longitude": -111.946213,
+    "name": "Elkhorn, Montana",
+    "notes": ""
+  },
+  {
+    "id": 568,
+    "latitude": 40.0697,
+    "longitude": 75.1253,
+    "name": "Elkins Park, Pennsylvania",
+    "notes": ""
+  },
+  {
+    "id": 137,
+    "latitude": 54.3438243,
+    "longitude": -7.6315336,
+    "name": "Enniskillen, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 138,
+    "latitude": -31.4489859,
+    "longitude": -60.9303663,
+    "name": "Esperanza, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 139,
+    "latitude": 42.0450722,
+    "longitude": -87.6876969,
+    "name": "Evanston, Illinois",
+    "notes": ""
+  },
+  {
+    "id": 140,
+    "latitude": 41.5532,
+    "longitude": 70.6086,
+    "name": "Falmouth, Massachusetts",
+    "notes": ""
+  },
+  {
+    "id": 141,
+    "latitude": 40.7674987,
+    "longitude": -73.833079,
+    "name": "Flushing, New York",
+    "notes": ""
+  },
+  {
+    "id": 142,
+    "latitude": 48.404676,
+    "longitude": 2.70162,
+    "name": "Fontainebleau, France",
+    "notes": ""
+  },
+  {
+    "id": 143,
+    "latitude": 48.789776,
+    "longitude": 2.287181,
+    "name": "Fontenay-aux-Roses, France",
+    "notes": ""
+  },
+  {
+    "id": 144,
+    "latitude": 48.3515609,
+    "longitude": -1.204626,
+    "name": "Fougeres, France",
+    "notes": ""
+  },
+  {
+    "id": 145,
+    "latitude": 50.41094,
+    "longitude": 3.89551,
+    "name": "Frameries, Belgium",
+    "notes": ""
+  },
+  {
+    "id": 146,
+    "latitude": 46.227638,
+    "longitude": 2.213749,
+    "name": "France",
+    "notes": ""
+  },
+  {
+    "id": 147,
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "name": "Frankfurt, Germany",
+    "notes": ""
+  },
+  {
+    "id": 148,
+    "latitude": 53.8479951,
+    "longitude": 10.7059193,
+    "name": "Free City of Lubeck",
+    "notes": ""
+  },
+  {
+    "id": 149,
+    "latitude": 47.9990077,
+    "longitude": 7.8421043,
+    "name": "Freiburg im Breisgau, Germany",
+    "notes": ""
+  },
+  {
+    "id": 150,
+    "latitude": 32.6669328,
+    "longitude": -16.9240554,
+    "name": "Funchal, Portugal",
+    "notes": ""
+  },
+  {
+    "id": 151,
+    "latitude": 55.623728,
+    "longitude": -2.814449,
+    "name": "Galashiels, Scotland",
+    "notes": ""
+  },
+  {
+    "id": 567,
+    "latitude": 38.2806,
+    "longitude": 95.2419,
+    "name": "Garnett, Kansas",
+    "notes": ""
+  },
+  {
+    "id": 152,
+    "latitude": 46.2043907,
+    "longitude": 6.1431577,
+    "name": "Geneva, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 153,
+    "latitude": 51.0543422,
+    "longitude": 3.7174243,
+    "name": "Ghent, Belgium",
+    "notes": ""
+  },
+  {
+    "id": 154,
+    "latitude": 43.033889,
+    "longitude": 6.140833,
+    "name": "Giens Peninsula, Hyeres, France",
+    "notes": ""
+  },
+  {
+    "id": 155,
+    "latitude": 42.1350268,
+    "longitude": -87.7581188,
+    "name": "Glencoe, Illinois",
+    "notes": ""
+  },
+  {
+    "id": 156,
+    "latitude": 51.185732,
+    "longitude": -0.612808,
+    "name": "Godalming, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 157,
+    "latitude": 45.9401812,
+    "longitude": 13.6201754,
+    "name": "Gorizia, Italy",
+    "notes": ""
+  },
+  {
+    "id": 158,
+    "latitude": -37.7217867,
+    "longitude": -62.6104441,
+    "name": "Goyena, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 159,
+    "latitude": 37.1773363,
+    "longitude": -3.5985571,
+    "name": "Granada, Spain",
+    "notes": ""
+  },
+  {
+    "id": 160,
+    "latitude": 40.9263957,
+    "longitude": -98.3420118,
+    "name": "Grand Island, Nebraska",
+    "notes": ""
+  },
+  {
+    "id": 161,
+    "latitude": 45.188529,
+    "longitude": 5.724524,
+    "name": "Grenoble, France",
+    "notes": ""
+  },
+  {
+    "id": 162,
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "name": "Grosvenor Square, London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 163,
+    "latitude": 20.6596988,
+    "longitude": -103.3496092,
+    "name": "Guadalajara, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 164,
+    "latitude": 40.632489,
+    "longitude": -3.16017,
+    "name": "Guadalajara, Spain",
+    "notes": ""
+  },
+  {
+    "id": 165,
+    "latitude": -33.1503285,
+    "longitude": -59.3104685,
+    "name": "Gualeguay, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 166,
+    "latitude": -33.0077778,
+    "longitude": -58.5111667,
+    "name": "Gualeguaychu, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 167,
+    "latitude": 21.0190145,
+    "longitude": -101.2573586,
+    "name": "Guanajuato, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 168,
+    "latitude": -2.1709979,
+    "longitude": -79.9223592,
+    "name": "Guayaquil, Ecuador",
+    "notes": ""
+  },
+  {
+    "id": 169,
+    "latitude": 26.490278,
+    "longitude": -80.061111,
+    "name": "Gulf Stream, Florida",
+    "notes": ""
+  },
+  {
+    "id": 170,
+    "latitude": 52.3758916,
+    "longitude": 9.7320104,
+    "name": "Hanover, Germany",
+    "notes": ""
+  },
+  {
+    "id": 171,
+    "latitude": 43.4297135,
+    "longitude": -98.5273039,
+    "name": "Harrison, South Dakota",
+    "notes": ""
+  },
+  {
+    "id": 172,
+    "latitude": 41.7637111,
+    "longitude": -72.6850932,
+    "name": "Hartford, Connecticut",
+    "notes": ""
+  },
+  {
+    "id": 173,
+    "latitude": 48.833333,
+    "longitude": 2.22,
+    "name": "Hauts-de-Seine, France",
+    "notes": ""
+  },
+  {
+    "id": 174,
+    "latitude": 23.1135925,
+    "longitude": -82.3665956,
+    "name": "Havana, Cuba",
+    "notes": ""
+  },
+  {
+    "id": 585,
+    "latitude": 53.8302,
+    "longitude": 1.9492,
+    "name": "Haworth, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 175,
+    "latitude": 55.771718,
+    "longitude": 9.70228,
+    "name": "Hedensted, Denmark",
+    "notes": ""
+  },
+  {
+    "id": 176,
+    "latitude": 60.1698557,
+    "longitude": 24.9383791,
+    "name": "Helsinki, Finland",
+    "notes": ""
+  },
+  {
+    "id": 177,
+    "latitude": 40.7062128,
+    "longitude": -73.6187397,
+    "name": "Hempstead, New York",
+    "notes": ""
+  },
+  {
+    "id": 178,
+    "latitude": 49.100706,
+    "longitude": 2.128767,
+    "name": "Herouville, France",
+    "notes": ""
+  },
+  {
+    "id": 528,
+    "latitude": 48.870156,
+    "longitude": 2.305036,
+    "name": "Hotel Ath\u00e9n\u00e9e, Paris, France",
+    "notes": ""
+  },
+  {
+    "id": 519,
+    "latitude": -33.440462,
+    "longitude": -70.655121,
+    "name": "Hotel Carrera, Santiago, Chile",
+    "notes": ""
+  },
+  {
+    "id": 515,
+    "latitude": 48.871132,
+    "longitude": 2.303898,
+    "name": "Hotel de la Tr\u00e9moille, Paris, France",
+    "notes": ""
+  },
+  {
+    "id": 538,
+    "latitude": 49.3434,
+    "longitude": 0.1013,
+    "name": "Hotel du Golf, Pr\u00e8s de Touques, France",
+    "notes": ""
+  },
+  {
+    "id": 540,
+    "latitude": 18.4783,
+    "longitude": 70.3126,
+    "name": "Hotel Pac\u00edfico, Casilla No. 1, Arica, Chile",
+    "notes": ""
+  },
+  {
+    "id": 179,
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "name": "Houjarray, France",
+    "notes": ""
+  },
+  {
+    "id": 180,
+    "latitude": 43.1205,
+    "longitude": 6.1286,
+    "name": "Hyeres, France",
+    "notes": ""
+  },
+  {
+    "id": 181,
+    "latitude": 47.1584549,
+    "longitude": 27.6014418,
+    "name": "Iasi, Romania",
+    "notes": ""
+  },
+  {
+    "id": 182,
+    "latitude": 48.804722,
+    "longitude": 2.121782,
+    "name": "Ile-de-France, France",
+    "notes": ""
+  },
+  {
+    "id": 183,
+    "latitude": 47.2692124,
+    "longitude": 11.4041024,
+    "name": "Innsbruck, Austria",
+    "notes": ""
+  },
+  {
+    "id": 184,
+    "latitude": 40.7313,
+    "longitude": 13.8957,
+    "name": "Ischia, Italy",
+    "notes": ""
+  },
+  {
+    "id": 185,
+    "latitude": 28.2915637,
+    "longitude": -16.6291304,
+    "name": "Islas Canarias, Spain",
+    "notes": ""
+  },
+  {
+    "id": 186,
+    "latitude": 45.6290805,
+    "longitude": 11.4421511,
+    "name": "Isola Vicentina, Italy",
+    "notes": ""
+  },
+  {
+    "id": 187,
+    "latitude": 41.8719,
+    "longitude": 12.5674,
+    "name": "Italy",
+    "notes": ""
+  },
+  {
+    "id": 188,
+    "latitude": 48.813055,
+    "longitude": 2.38822,
+    "name": "Ivry-sur-Seine, France",
+    "notes": ""
+  },
+  {
+    "id": 189,
+    "latitude": 50.8333432,
+    "longitude": 4.3666294,
+    "name": "Ixelles, Belgium",
+    "notes": ""
+  },
+  {
+    "id": 557,
+    "latitude": 30.3322,
+    "longitude": 81.6557,
+    "name": "Jacksonville, Florida",
+    "notes": ""
+  },
+  {
+    "id": 190,
+    "latitude": 37.7795941,
+    "longitude": -3.7849057,
+    "name": "Jaen, Spain",
+    "notes": ""
+  },
+  {
+    "id": 191,
+    "latitude": 31.768319,
+    "longitude": 35.21371,
+    "name": "Jerusalem, Israel",
+    "notes": ""
+  },
+  {
+    "id": 521,
+    "latitude": 40.752971,
+    "longitude": -73.979398,
+    "name": "John Simon Guggenheim Memorial Foundation, 551 Fifth Avenue, New York",
+    "notes": ""
+  },
+  {
+    "id": 596,
+    "latitude": 47.9814,
+    "longitude": 3.399,
+    "name": "Joigny, France",
+    "notes": ""
+  },
+  {
+    "id": 564,
+    "latitude": -94.5133,
+    "longitude": 37.0842,
+    "name": "Joplin, Missouri",
+    "notes": ""
+  },
+  {
+    "id": 192,
+    "latitude": 35.3192254,
+    "longitude": 139.5466868,
+    "name": "Kamakura, Japan",
+    "notes": ""
+  },
+  {
+    "id": 193,
+    "latitude": 39.114053,
+    "longitude": -94.6274636,
+    "name": "Kansas City, Kansas",
+    "notes": ""
+  },
+  {
+    "id": 194,
+    "latitude": 48.13889,
+    "longitude": 7.264023,
+    "name": "Kayserberg, Germany",
+    "notes": ""
+  },
+  {
+    "id": 195,
+    "latitude": 54.328006,
+    "longitude": -2.74629,
+    "name": "Kendal, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 197,
+    "latitude": 51.5010095,
+    "longitude": -0.1932794,
+    "name": "Kensington, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 198,
+    "latitude": 47.5935362,
+    "longitude": 9.3177304,
+    "name": "Kesswil, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 556,
+    "latitude": 43.6807,
+    "longitude": 114.3637,
+    "name": "Ketchum, Idaho",
+    "notes": ""
+  },
+  {
+    "id": 199,
+    "latitude": 49.9935,
+    "longitude": 36.230383,
+    "name": "Kharkiv, Ukraine",
+    "notes": ""
+  },
+  {
+    "id": 200,
+    "latitude": 50.4501,
+    "longitude": 30.5234,
+    "name": "Kiev, Ukraine",
+    "notes": ""
+  },
+  {
+    "id": 597,
+    "latitude": 54.4,
+    "longitude": 5.6508,
+    "name": "Killyleagh, Ireland",
+    "notes": ""
+  },
+  {
+    "id": 201,
+    "latitude": 52.7516798,
+    "longitude": 0.4022963,
+    "name": "King's Lynn, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 202,
+    "latitude": 41.9270367,
+    "longitude": -73.9973608,
+    "name": "Kingston, New York",
+    "notes": ""
+  },
+  {
+    "id": 203,
+    "latitude": 38.5833862,
+    "longitude": -90.406785,
+    "name": "Kirkwood, Missouri",
+    "notes": ""
+  },
+  {
+    "id": 204,
+    "latitude": 51.2662551,
+    "longitude": 0.20557,
+    "name": "Knole House, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 205,
+    "latitude": 22.572646,
+    "longitude": 88.363895,
+    "name": "Kolkata, India",
+    "notes": ""
+  },
+  {
+    "id": 206,
+    "latitude": 58.439,
+    "longitude": 22.7922999,
+    "name": "Konnu, Estonia",
+    "notes": ""
+  },
+  {
+    "id": 207,
+    "latitude": 46.8794597,
+    "longitude": 7.6208263,
+    "name": "Konolfingen, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 208,
+    "latitude": 47.3189227,
+    "longitude": 8.5844705,
+    "name": "Kusnacht, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 586,
+    "latitude": 47.3636,
+    "longitude": 2.4335,
+    "name": "La Chapelle-d'Angillon, France",
+    "notes": ""
+  },
+  {
+    "id": 209,
+    "latitude": 47.1034892,
+    "longitude": 6.8327838,
+    "name": "La Chaux-de-Fonds, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 210,
+    "latitude": 43.3623436,
+    "longitude": -8.4115401,
+    "name": "La Coruna , Spain",
+    "notes": ""
+  },
+  {
+    "id": 211,
+    "latitude": -31.1,
+    "longitude": -64.483,
+    "name": "La Cumbre, Cordoba, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 213,
+    "latitude": -8.1435933,
+    "longitude": -78.4751945,
+    "name": "La Libertad, Peru",
+    "notes": ""
+  },
+  {
+    "id": 216,
+    "latitude": -16.489689,
+    "longitude": -68.1192936,
+    "name": "La Paz, Bolivia",
+    "notes": ""
+  },
+  {
+    "id": 217,
+    "latitude": -34.9204948,
+    "longitude": -57.9535657,
+    "name": "La Plata, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 218,
+    "latitude": -33.4411269,
+    "longitude": -70.5340591,
+    "name": "La Reina, Chile",
+    "notes": ""
+  },
+  {
+    "id": 219,
+    "latitude": 42.2870733,
+    "longitude": -2.539603,
+    "name": "La Rioja, Spain",
+    "notes": ""
+  },
+  {
+    "id": 220,
+    "latitude": 46.670511,
+    "longitude": -1.426442,
+    "name": "La Roche-sur-Yon, France",
+    "notes": ""
+  },
+  {
+    "id": 569,
+    "latitude": 29.9027,
+    "longitude": 71.2519,
+    "name": "La Serena, Chile",
+    "notes": ""
+  },
+  {
+    "id": 212,
+    "latitude": 45.4207,
+    "longitude": 122.6706,
+    "name": "Lake Oswego, Oregon",
+    "notes": ""
+  },
+  {
+    "id": 214,
+    "latitude": -0.7015457,
+    "longitude": 10.2403858,
+    "name": "Lambarene, Gabon",
+    "notes": ""
+  },
+  {
+    "id": 215,
+    "latitude": 53.7632254,
+    "longitude": -2.7044052,
+    "name": "Lancashire, England",
+    "notes": ""
+  },
+  {
+    "id": 221,
+    "latitude": 46.5196535,
+    "longitude": 6.6322734,
+    "name": "Lausanne, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 524,
+    "latitude": 48.9368,
+    "longitude": 2.4254,
+    "name": "Le Bourget, France",
+    "notes": ""
+  },
+  {
+    "id": 576,
+    "latitude": 46.4667,
+    "longitude": 6.8556,
+    "name": "Le Mont-P\u00e8lerin, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 226,
+    "latitude": 48.894198,
+    "longitude": 2.134716,
+    "name": "Le Vesinet, France",
+    "notes": ""
+  },
+  {
+    "id": 222,
+    "latitude": -12.5617279,
+    "longitude": -41.3898761,
+    "name": "Lecois, Brazil",
+    "notes": ""
+  },
+  {
+    "id": 223,
+    "latitude": 51.3396955,
+    "longitude": 12.3730747,
+    "name": "Leipzig, Germany",
+    "notes": ""
+  },
+  {
+    "id": 225,
+    "latitude": 42.4837725,
+    "longitude": -1.9722513,
+    "name": "Leon, Spain",
+    "notes": ""
+  },
+  {
+    "id": 224,
+    "latitude": 41.6175899,
+    "longitude": 0.6200146,
+    "name": "Lerida, Spain",
+    "notes": ""
+  },
+  {
+    "id": 500,
+    "latitude": 42.483,
+    "longitude": -1.967,
+    "name": "Ler\u00edn, Spain",
+    "notes": ""
+  },
+  {
+    "id": 227,
+    "latitude": 50.6325574,
+    "longitude": 5.5796662,
+    "name": "Liege, Belgium",
+    "notes": ""
+  },
+  {
+    "id": 228,
+    "latitude": 50.62925,
+    "longitude": 3.057256,
+    "name": "Lille, France",
+    "notes": ""
+  },
+  {
+    "id": 229,
+    "latitude": -12.0463731,
+    "longitude": -77.042754,
+    "name": "Lima, Peru",
+    "notes": ""
+  },
+  {
+    "id": 230,
+    "latitude": 38.7222524,
+    "longitude": -9.1393366,
+    "name": "Lisbon, Portugal",
+    "notes": ""
+  },
+  {
+    "id": 231,
+    "latitude": 41.7005989,
+    "longitude": 2.8398194,
+    "name": "Lloret de Mar, Spain",
+    "notes": ""
+  },
+  {
+    "id": 232,
+    "latitude": 42.4627195,
+    "longitude": -2.4449852,
+    "name": "Logrono, Spain",
+    "notes": ""
+  },
+  {
+    "id": 233,
+    "latitude": -34.7611823,
+    "longitude": -58.4302476,
+    "name": "Lomas de Zamora, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 234,
+    "latitude": 59.9107006,
+    "longitude": 29.7359614,
+    "name": "Lomonosov, Russia",
+    "notes": ""
+  },
+  {
+    "id": 235,
+    "latitude": 51.5073509,
+    "longitude": -0.1277583,
+    "name": "London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 236,
+    "latitude": 40.3042778,
+    "longitude": -73.9923596,
+    "name": "Long Branch, New Jersey",
+    "notes": ""
+  },
+  {
+    "id": 237,
+    "latitude": 43.1181228,
+    "longitude": -76.243261,
+    "name": "Long Branch, New York",
+    "notes": ""
+  },
+  {
+    "id": 598,
+    "latitude": 50.4579,
+    "longitude": 2.7928,
+    "name": "Loos, France",
+    "notes": ""
+  },
+  {
+    "id": 238,
+    "latitude": 34.0522342,
+    "longitude": -118.2436849,
+    "name": "Los Angeles, California",
+    "notes": ""
+  },
+  {
+    "id": 240,
+    "latitude": 43.7696,
+    "longitude": 5.363,
+    "name": "Lourmarin, France",
+    "notes": ""
+  },
+  {
+    "id": 241,
+    "latitude": 48.86189,
+    "longitude": 2.112527,
+    "name": "Louveciennes, France",
+    "notes": ""
+  },
+  {
+    "id": 242,
+    "latitude": 42.6334247,
+    "longitude": -71.3161718,
+    "name": "Lowell, Massachusetts",
+    "notes": ""
+  },
+  {
+    "id": 243,
+    "latitude": 42.6366,
+    "longitude": 12.11,
+    "name": "Lubriano, Italy",
+    "notes": ""
+  },
+  {
+    "id": 244,
+    "latitude": 49.839683,
+    "longitude": 24.029717,
+    "name": "Lviv, Ukraine",
+    "notes": ""
+  },
+  {
+    "id": 245,
+    "latitude": 49.8367905,
+    "longitude": 24.028029,
+    "name": "Lvov, France",
+    "notes": ""
+  },
+  {
+    "id": 590,
+    "latitude": 45.764,
+    "longitude": 4.8357,
+    "name": "Lyon, France",
+    "notes": ""
+  },
+  {
+    "id": 246,
+    "latitude": 13.5603491,
+    "longitude": 78.5036065,
+    "name": "Madanapalle, India",
+    "notes": ""
+  },
+  {
+    "id": 247,
+    "latitude": 40.4167754,
+    "longitude": -3.7037902,
+    "name": "Madrid, Spain",
+    "notes": ""
+  },
+  {
+    "id": 248,
+    "latitude": 48.947545,
+    "longitude": 2.1423899,
+    "name": "Maisons-Laffitte, France",
+    "notes": ""
+  },
+  {
+    "id": 249,
+    "latitude": 36.7212737,
+    "longitude": -4.4213988,
+    "name": "Malaga, Spain",
+    "notes": ""
+  },
+  {
+    "id": 250,
+    "latitude": 40.7830603,
+    "longitude": -73.9712488,
+    "name": "Manhattan, New York City, New York",
+    "notes": ""
+  },
+  {
+    "id": 251,
+    "latitude": 49.4874592,
+    "longitude": 8.4660395,
+    "name": "Mannheim, Germany",
+    "notes": ""
+  },
+  {
+    "id": 252,
+    "latitude": -38.0054771,
+    "longitude": -57.5426106,
+    "name": "Mar del Plata, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 583,
+    "latitude": 48.8331,
+    "longitude": 2.1623,
+    "name": "Marnes-la-Coquette, France",
+    "notes": ""
+  },
+  {
+    "id": 253,
+    "latitude": 43.296482,
+    "longitude": 5.36978,
+    "name": "Marseille, France",
+    "notes": ""
+  },
+  {
+    "id": 593,
+    "latitude": 51.518875,
+    "longitude": -0.149895,
+    "name": "Marylebone, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 254,
+    "latitude": 48.3050874,
+    "longitude": -0.6185636,
+    "name": "Mayenne, France",
+    "notes": ""
+  },
+  {
+    "id": 566,
+    "latitude": 23.2494,
+    "longitude": 106.4111,
+    "name": "Mazatl\u00e1n, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 255,
+    "latitude": -32.3648617,
+    "longitude": -54.1665506,
+    "name": "Melo, Uruguay",
+    "notes": ""
+  },
+  {
+    "id": 256,
+    "latitude": -32.8894587,
+    "longitude": -68.8458386,
+    "name": "Mendoza, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 257,
+    "latitude": 20.9673702,
+    "longitude": -89.5925857,
+    "name": "Merida, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 258,
+    "latitude": 8.5698244,
+    "longitude": -71.1804988,
+    "name": "Merida, Venezuela",
+    "notes": ""
+  },
+  {
+    "id": 259,
+    "latitude": 47.9944211,
+    "longitude": 9.1156399,
+    "name": "Messkirch, Germany",
+    "notes": ""
+  },
+  {
+    "id": 580,
+    "latitude": 48.813,
+    "longitude": 2.2385,
+    "name": "Meudon, France",
+    "notes": ""
+  },
+  {
+    "id": 260,
+    "latitude": 23.634501,
+    "longitude": -102.552784,
+    "name": "Mexico",
+    "notes": ""
+  },
+  {
+    "id": 261,
+    "latitude": 19.4326077,
+    "longitude": -99.133208,
+    "name": "Mexico City, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 262,
+    "latitude": 25.7616798,
+    "longitude": -80.1917902,
+    "name": "Miami, Florida",
+    "notes": ""
+  },
+  {
+    "id": 263,
+    "latitude": 25.7616798,
+    "longitude": -80.1917902,
+    "name": "Miami, United States",
+    "notes": ""
+  },
+  {
+    "id": 264,
+    "latitude": 45.4642035,
+    "longitude": 9.189982,
+    "name": "Milan, Italy",
+    "notes": ""
+  },
+  {
+    "id": 265,
+    "latitude": 48.405,
+    "longitude": 2.4678,
+    "name": "Milly-la-Foret, France",
+    "notes": ""
+  },
+  {
+    "id": 266,
+    "latitude": 37.27464,
+    "longitude": -6.8369079,
+    "name": "Moguer, Spain",
+    "notes": ""
+  },
+  {
+    "id": 267,
+    "latitude": 43.0648865,
+    "longitude": -2.4902081,
+    "name": "Mondragon, Spain",
+    "notes": ""
+  },
+  {
+    "id": 268,
+    "latitude": 45.60745,
+    "longitude": 4.063338,
+    "name": "Montbrison, France",
+    "notes": ""
+  },
+  {
+    "id": 269,
+    "latitude": 43.0986938,
+    "longitude": 11.7872467,
+    "name": "Montepulciano, Italy",
+    "notes": ""
+  },
+  {
+    "id": 270,
+    "latitude": 25.6866142,
+    "longitude": -100.3161126,
+    "name": "Monterrey, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 271,
+    "latitude": -34.9011127,
+    "longitude": -56.1645314,
+    "name": "Montevideo, Uruguay",
+    "notes": ""
+  },
+  {
+    "id": 272,
+    "latitude": 48.0134479,
+    "longitude": 1.234505,
+    "name": "Montigny-le-Gannelon, France",
+    "notes": ""
+  },
+  {
+    "id": 273,
+    "latitude": 48.8867148,
+    "longitude": 2.3388895,
+    "name": "Montmartre, Paris, France",
+    "notes": ""
+  },
+  {
+    "id": 274,
+    "latitude": 45.5016889,
+    "longitude": -73.567256,
+    "name": "Montreal, Canada",
+    "notes": ""
+  },
+  {
+    "id": 275,
+    "latitude": 46.4312213,
+    "longitude": 6.9106799,
+    "name": "Montreux, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 276,
+    "latitude": 45.5845001,
+    "longitude": 9.2744485,
+    "name": "Monza, Italy",
+    "notes": ""
+  },
+  {
+    "id": 577,
+    "latitude": 33.2868,
+    "longitude": 84.7677,
+    "name": "Moreland, Georgia",
+    "notes": ""
+  },
+  {
+    "id": 277,
+    "latitude": -34.6558611,
+    "longitude": -58.6167212,
+    "name": "Moron, Buenos Aires, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 278,
+    "latitude": 55.755826,
+    "longitude": 37.6172999,
+    "name": "Moscow, Russia",
+    "notes": ""
+  },
+  {
+    "id": 279,
+    "latitude": 36.3566484,
+    "longitude": 43.1640004,
+    "name": "Mosul, Iraq",
+    "notes": ""
+  },
+  {
+    "id": 280,
+    "latitude": 26.6469624,
+    "longitude": 84.9088938,
+    "name": "Motihari, India",
+    "notes": ""
+  },
+  {
+    "id": 281,
+    "latitude": 43.6023319,
+    "longitude": 7.006491,
+    "name": "Mougins, France",
+    "notes": ""
+  },
+  {
+    "id": 282,
+    "latitude": -36.8841017,
+    "longitude": 174.7155919,
+    "name": "Mount Albert, New Zealand",
+    "notes": ""
+  },
+  {
+    "id": 283,
+    "latitude": 48.1351253,
+    "longitude": 11.5819805,
+    "name": "Munich, Germany",
+    "notes": ""
+  },
+  {
+    "id": 284,
+    "latitude": 47.9032101,
+    "longitude": 11.3726087,
+    "name": "Munsing, Germany",
+    "notes": ""
+  },
+  {
+    "id": 285,
+    "latitude": 46.1729618,
+    "longitude": 8.8056081,
+    "name": "Muralto, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 286,
+    "latitude": 47.6069,
+    "longitude": 15.6717,
+    "name": "Murzzuschlag, Austria",
+    "notes": ""
+  },
+  {
+    "id": 287,
+    "latitude": 47.1950111,
+    "longitude": 35.3061096,
+    "name": "Mykhailivka Raion, Ukraine",
+    "notes": ""
+  },
+  {
+    "id": 288,
+    "latitude": 35.4875479,
+    "longitude": 137.5005092,
+    "name": "Nakatsugawa, Japan",
+    "notes": ""
+  },
+  {
+    "id": 289,
+    "latitude": 50.4673883,
+    "longitude": 4.8719854,
+    "name": "Namur, Belgium",
+    "notes": ""
+  },
+  {
+    "id": 290,
+    "latitude": 48.692054,
+    "longitude": 6.184417,
+    "name": "Nancy, France",
+    "notes": ""
+  },
+  {
+    "id": 291,
+    "latitude": 47.218371,
+    "longitude": -1.553621,
+    "name": "Nantes, France",
+    "notes": ""
+  },
+  {
+    "id": 292,
+    "latitude": 26.15,
+    "longitude": -81.8,
+    "name": "Naples, Florida",
+    "notes": ""
+  },
+  {
+    "id": 293,
+    "latitude": 43.184277,
+    "longitude": 3.003078,
+    "name": "Narbonne, France",
+    "notes": ""
+  },
+  {
+    "id": 294,
+    "latitude": 46.9899874,
+    "longitude": 6.9292732,
+    "name": "Neuchatel, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 295,
+    "latitude": 48.884831,
+    "longitude": 2.26851,
+    "name": "Neuilly-sur-Seine, France",
+    "notes": ""
+  },
+  {
+    "id": 296,
+    "latitude": 34.4942683,
+    "longitude": -89.0078418,
+    "name": "New Albany, Mississippi",
+    "notes": ""
+  },
+  {
+    "id": 297,
+    "latitude": 28.613889,
+    "longitude": 77.208889,
+    "name": "New Delhi, India",
+    "notes": ""
+  },
+  {
+    "id": 299,
+    "latitude": 40.7127753,
+    "longitude": -74.0059728,
+    "name": "New York City, New York",
+    "notes": ""
+  },
+  {
+    "id": 300,
+    "latitude": 43.836699,
+    "longitude": 4.360054,
+    "name": "Nimes, France",
+    "notes": ""
+  },
+  {
+    "id": 301,
+    "latitude": 44.294167,
+    "longitude": -68.289722,
+    "name": "Northeast Harbor, Maine",
+    "notes": ""
+  },
+  {
+    "id": 302,
+    "latitude": 52.6308859,
+    "longitude": 1.297355,
+    "name": "Norwich, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 555,
+    "latitude": 34.1792,
+    "longitude": 118.7629,
+    "name": "Oak Park, California",
+    "notes": ""
+  },
+  {
+    "id": 303,
+    "latitude": 37.8043637,
+    "longitude": -122.2711137,
+    "name": "Oakland, California",
+    "notes": ""
+  },
+  {
+    "id": 304,
+    "latitude": 50.109938,
+    "longitude": 30.6298846,
+    "name": "Obukhiv, Ukraine",
+    "notes": ""
+  },
+  {
+    "id": 305,
+    "latitude": 46.482526,
+    "longitude": 30.7233095,
+    "name": "Odessa, Ukraine",
+    "notes": ""
+  },
+  {
+    "id": 306,
+    "latitude": 34.449167,
+    "longitude": -119.246667,
+    "name": "Ojai, California",
+    "notes": ""
+  },
+  {
+    "id": 307,
+    "latitude": 53.1434501,
+    "longitude": 8.2145521,
+    "name": "Oldenburg, Germany",
+    "notes": ""
+  },
+  {
+    "id": 308,
+    "latitude": 35.6970697,
+    "longitude": -0.6307988,
+    "name": "Oran, Algeria",
+    "notes": ""
+  },
+  {
+    "id": 309,
+    "latitude": 45.3573429,
+    "longitude": -122.6067584,
+    "name": "Oregon City, Oregon",
+    "notes": ""
+  },
+  {
+    "id": 310,
+    "latitude": 48.7858,
+    "longitude": 2.5383,
+    "name": "Ormesson-sur-Marne, France",
+    "notes": ""
+  },
+  {
+    "id": 311,
+    "latitude": 43.6580789,
+    "longitude": -7.8068851,
+    "name": "Ortigueira, Spain",
+    "notes": ""
+  },
+  {
+    "id": 312,
+    "latitude": 59.9138688,
+    "longitude": 10.7522454,
+    "name": "Oslo, Norway",
+    "notes": ""
+  },
+  {
+    "id": 570,
+    "latitude": 43.3619,
+    "longitude": 5.8494,
+    "name": "Oviedo, Spain",
+    "notes": ""
+  },
+  {
+    "id": 313,
+    "latitude": 51.7520209,
+    "longitude": -1.2577263,
+    "name": "Oxford, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 314,
+    "latitude": 20.1010608,
+    "longitude": -98.7591311,
+    "name": "Pachuca, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 315,
+    "latitude": -33.88477,
+    "longitude": 151.22621,
+    "name": "Paddington, Australia",
+    "notes": ""
+  },
+  {
+    "id": 316,
+    "latitude": 39.5696005,
+    "longitude": 2.6501603,
+    "name": "Palma de Majorca, Spain",
+    "notes": ""
+  },
+  {
+    "id": 578,
+    "latitude": 33.5312,
+    "longitude": 111.9426,
+    "name": "Paradise Valley, Arizona",
+    "notes": ""
+  },
+  {
+    "id": 317,
+    "latitude": -31.7413197,
+    "longitude": -60.5115471,
+    "name": "Parana, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 318,
+    "latitude": 48.856614,
+    "longitude": 2.3522219,
+    "name": "Paris, France",
+    "notes": ""
+  },
+  {
+    "id": 516,
+    "latitude": 51.505789,
+    "longitude": -0.14693,
+    "name": "Park Lane Hotel, London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 319,
+    "latitude": -36.1406484,
+    "longitude": -71.8227528,
+    "name": "Parral, Chile",
+    "notes": ""
+  },
+  {
+    "id": 320,
+    "latitude": -32.2706789,
+    "longitude": -58.081134,
+    "name": "Paysandu, Uruguay",
+    "notes": ""
+  },
+  {
+    "id": 321,
+    "latitude": 51.474191,
+    "longitude": -0.069137,
+    "name": "Peckham, London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 322,
+    "latitude": -33.8912831,
+    "longitude": -60.5745999,
+    "name": "Pergamino, Buenos Aires, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 323,
+    "latitude": -8.8137173,
+    "longitude": -36.954107,
+    "name": "Pernambuco, Brazil",
+    "notes": ""
+  },
+  {
+    "id": 324,
+    "latitude": 42.0253997,
+    "longitude": 13.6505082,
+    "name": "Pescina, Italy",
+    "notes": ""
+  },
+  {
+    "id": 565,
+    "latitude": 44.3091,
+    "longitude": 78.3197,
+    "name": "Peterborough, Ontario, Canada",
+    "notes": ""
+  },
+  {
+    "id": 325,
+    "latitude": -33.8961,
+    "longitude": 151.1543,
+    "name": "Petersham, Australia",
+    "notes": ""
+  },
+  {
+    "id": 326,
+    "latitude": 59.9342802,
+    "longitude": 30.3350986,
+    "name": "Petrograd (Leningrad), Russia",
+    "notes": ""
+  },
+  {
+    "id": 327,
+    "latitude": -22.5112638,
+    "longitude": -43.1779137,
+    "name": "Petropolis, Brazil",
+    "notes": ""
+  },
+  {
+    "id": 328,
+    "latitude": 39.9525839,
+    "longitude": -75.1652215,
+    "name": "Philadelphia, Pennsylvania",
+    "notes": ""
+  },
+  {
+    "id": 525,
+    "latitude": 51.510067,
+    "longitude": -0.133869,
+    "name": "Piccadilly, London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 329,
+    "latitude": 22.4076256,
+    "longitude": -83.8473015,
+    "name": "Pinar del Rio, Cuba",
+    "notes": ""
+  },
+  {
+    "id": 330,
+    "latitude": 22.856,
+    "longitude": -81.839,
+    "name": "Pipian, Havana, Cuba",
+    "notes": ""
+  },
+  {
+    "id": 553,
+    "latitude": 40.4406,
+    "longitude": 79.9959,
+    "name": "Pittsburgh, Pennsylvania",
+    "notes": ""
+  },
+  {
+    "id": 331,
+    "latitude": 47.966667,
+    "longitude": 11.3,
+    "name": "Pocking, Germany",
+    "notes": ""
+  },
+  {
+    "id": 332,
+    "latitude": 16.2376869,
+    "longitude": -61.5340424,
+    "name": "Point-a-Pitre, Guadeloupe",
+    "notes": ""
+  },
+  {
+    "id": 333,
+    "latitude": 49.588267,
+    "longitude": 34.5514169,
+    "name": "Poltava, Ukraine",
+    "notes": ""
+  },
+  {
+    "id": 334,
+    "latitude": -32.7921453,
+    "longitude": -69.6508287,
+    "name": "Polvaredas, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 335,
+    "latitude": 46.6667994,
+    "longitude": 6.5107091,
+    "name": "Pompaples, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 336,
+    "latitude": 48.6972499,
+    "longitude": -3.162961,
+    "name": "Pontrieux, France",
+    "notes": ""
+  },
+  {
+    "id": 337,
+    "latitude": 21.6417069,
+    "longitude": 69.6292654,
+    "name": "Porbandar, India",
+    "notes": ""
+  },
+  {
+    "id": 575,
+    "latitude": 40.8141,
+    "longitude": 14.3391,
+    "name": "Portici, Italy",
+    "notes": ""
+  },
+  {
+    "id": 338,
+    "latitude": -27.3621374,
+    "longitude": -55.9008746,
+    "name": "Posadas, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 339,
+    "latitude": 39.0181651,
+    "longitude": -77.2085914,
+    "name": "Potomac, Maryland",
+    "notes": ""
+  },
+  {
+    "id": 594,
+    "latitude": 52.3906,
+    "longitude": 13.0645,
+    "name": "Potsdam, Germany",
+    "notes": ""
+  },
+  {
+    "id": 340,
+    "latitude": 50.0755381,
+    "longitude": 14.4378005,
+    "name": "Prague, Czech Republic",
+    "notes": ""
+  },
+  {
+    "id": 497,
+    "latitude": 40.3573,
+    "longitude": 74.6672,
+    "name": "Princeton, New Jersey",
+    "notes": ""
+  },
+  {
+    "id": 341,
+    "latitude": 19.0414398,
+    "longitude": -98.2062727,
+    "name": "Puebla, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 342,
+    "latitude": -0.1806532,
+    "longitude": -78.4678382,
+    "name": "Quito, Ecuador",
+    "notes": ""
+  },
+  {
+    "id": 343,
+    "latitude": 22.3723336,
+    "longitude": -80.1484407,
+    "name": "Ranchuelo, Cuba",
+    "notes": ""
+  },
+  {
+    "id": 344,
+    "latitude": 53.3188869,
+    "longitude": -6.2691599,
+    "name": "Rathgar, Republic of Ireland",
+    "notes": ""
+  },
+  {
+    "id": 345,
+    "latitude": 40.341667,
+    "longitude": -75.926389,
+    "name": "Reading, Pennsylvania",
+    "notes": ""
+  },
+  {
+    "id": 346,
+    "latitude": -29.1448193,
+    "longitude": -59.6435242,
+    "name": "Reconquista, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 347,
+    "latitude": 51.5313,
+    "longitude": -0.157,
+    "name": "Regent's Park, London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 348,
+    "latitude": 49.258329,
+    "longitude": 4.031696,
+    "name": "Reims, France",
+    "notes": ""
+  },
+  {
+    "id": 349,
+    "latitude": 64.1265206,
+    "longitude": -21.8174392,
+    "name": "Reykjavik, Iceland",
+    "notes": ""
+  },
+  {
+    "id": 350,
+    "latitude": 41.5800945,
+    "longitude": -71.4774291,
+    "name": "Rhode Island",
+    "notes": ""
+  },
+  {
+    "id": 351,
+    "latitude": 42.6513206,
+    "longitude": -8.8166051,
+    "name": "Rianxo, Spain",
+    "notes": ""
+  },
+  {
+    "id": 600,
+    "latitude": 56.946285,
+    "longitude": 24.105078,
+    "name": "Riga, Governorate of Livonia, Russian Empire",
+    "notes": ""
+  },
+  {
+    "id": 353,
+    "latitude": -22.9068467,
+    "longitude": -43.1728965,
+    "name": "Rio de Janeiro, Brazil",
+    "notes": ""
+  },
+  {
+    "id": 352,
+    "latitude": -1.6635508,
+    "longitude": -78.654646,
+    "name": "Riobamba, Ecuador",
+    "notes": ""
+  },
+  {
+    "id": 354,
+    "latitude": 6.144837,
+    "longitude": -75.375085,
+    "name": "Rionegro, Colombia",
+    "notes": ""
+  },
+  {
+    "id": 355,
+    "latitude": 42.6556505,
+    "longitude": -70.620363,
+    "name": "Rockport, Massachusetts",
+    "notes": ""
+  },
+  {
+    "id": 513,
+    "latitude": -34.588155,
+    "longitude": -58.386657,
+    "name": "Rodriguez Pe\u00f1a 1960, Buenos Aires, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 356,
+    "latitude": 41.9027835,
+    "longitude": 12.4963655,
+    "name": "Rome, Italy",
+    "notes": ""
+  },
+  {
+    "id": 357,
+    "latitude": 43.757808,
+    "longitude": 7.473754,
+    "name": "Roquebrune-Cap-Martin, France",
+    "notes": ""
+  },
+  {
+    "id": 358,
+    "latitude": -32.9442426,
+    "longitude": -60.6505388,
+    "name": "Rosario, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 359,
+    "latitude": -32.9442426,
+    "longitude": -60.6505388,
+    "name": "Rosario-Santa Fe, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 360,
+    "latitude": 47.2357137,
+    "longitude": 39.701505,
+    "name": "Rostov-on-Don, Russia",
+    "notes": ""
+  },
+  {
+    "id": 361,
+    "latitude": 51.9244201,
+    "longitude": 4.4777326,
+    "name": "Rotterdam, Netherlands",
+    "notes": ""
+  },
+  {
+    "id": 362,
+    "latitude": 51.132377,
+    "longitude": 0.263695,
+    "name": "Royal Tunbridge Wells, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 363,
+    "latitude": 47.9255629,
+    "longitude": 6.660436,
+    "name": "Rupt-sur-Moselle, France",
+    "notes": ""
+  },
+  {
+    "id": 364,
+    "latitude": 61.524,
+    "longitude": 105.3188,
+    "name": "Russia",
+    "notes": ""
+  },
+  {
+    "id": 365,
+    "latitude": 40.826489,
+    "longitude": -74.1068091,
+    "name": "Rutherford, New Jersey",
+    "notes": ""
+  },
+  {
+    "id": 371,
+    "latitude": 59.9342802,
+    "longitude": 30.3350986,
+    "name": "Saint Petersburg, Russia",
+    "notes": ""
+  },
+  {
+    "id": 366,
+    "latitude": 45.460617,
+    "longitude": -0.722185,
+    "name": "Saint-Fort-sur-Gironde, France",
+    "notes": ""
+  },
+  {
+    "id": 367,
+    "latitude": 43.106895,
+    "longitude": 0.723763,
+    "name": "Saint-Gaudens, Haute-Garonne, France",
+    "notes": ""
+  },
+  {
+    "id": 368,
+    "latitude": 43.09324,
+    "longitude": 2.31038,
+    "name": "Saint-Hilaire, France",
+    "notes": ""
+  },
+  {
+    "id": 369,
+    "latitude": 45.036187,
+    "longitude": 4.0601969,
+    "name": "Saint-Julien-Chapteuil",
+    "notes": ""
+  },
+  {
+    "id": 370,
+    "latitude": 47.706925,
+    "longitude": -0.744224,
+    "name": "Saint-Martin-du-Bois, France",
+    "notes": ""
+  },
+  {
+    "id": 587,
+    "latitude": 49.0461,
+    "longitude": 5.6018,
+    "name": "Saint-Remy-la-Calonne, France",
+    "notes": ""
+  },
+  {
+    "id": 372,
+    "latitude": 45.532569,
+    "longitude": 4.862609,
+    "name": "Saint-Romain-en-Gal, France",
+    "notes": ""
+  },
+  {
+    "id": 373,
+    "latitude": 47.618107,
+    "longitude": 3.194848,
+    "name": "Saint-Sauveur-en-Puisaye, Yonne, France",
+    "notes": ""
+  },
+  {
+    "id": 374,
+    "latitude": 40.9701039,
+    "longitude": -5.6635397,
+    "name": "Salamanca, Spain",
+    "notes": ""
+  },
+  {
+    "id": 375,
+    "latitude": -24.7821269,
+    "longitude": -65.4231976,
+    "name": "Salta, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 377,
+    "latitude": -34.295047,
+    "longitude": -60.2473787,
+    "name": "Salto, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 508,
+    "latitude": -31.3855,
+    "longitude": -57.9601,
+    "name": "Salto, Uruguay",
+    "notes": ""
+  },
+  {
+    "id": 378,
+    "latitude": 16.737,
+    "longitude": 92.6376,
+    "name": "San Cristobal de las Casas, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 379,
+    "latitude": -32.3711039,
+    "longitude": -61.3593557,
+    "name": "San Genaro, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 381,
+    "latitude": -33.1130905,
+    "longitude": -61.7021942,
+    "name": "San Jose de la Esquina, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 382,
+    "latitude": -34.3486042,
+    "longitude": -56.7075141,
+    "name": "San Jose de Mayo, Uruguay",
+    "notes": ""
+  },
+  {
+    "id": 380,
+    "latitude": 9.9280694,
+    "longitude": -84.0907246,
+    "name": "San Jose, Costa Rica",
+    "notes": ""
+  },
+  {
+    "id": 383,
+    "latitude": 18.4655394,
+    "longitude": -66.1057355,
+    "name": "San Juan, Puerto Rico",
+    "notes": ""
+  },
+  {
+    "id": 384,
+    "latitude": 40.5932386,
+    "longitude": -4.1475748,
+    "name": "San Lorenzo de El Escorial, Spain",
+    "notes": ""
+  },
+  {
+    "id": 386,
+    "latitude": 22.1564699,
+    "longitude": -100.9855409,
+    "name": "San Luis Potosi, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 385,
+    "latitude": -33.3017267,
+    "longitude": -66.3377522,
+    "name": "San Luis, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 387,
+    "latitude": -34.5759506,
+    "longitude": -58.5372696,
+    "name": "San Martin, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 388,
+    "latitude": -26.8082848,
+    "longitude": -65.2175903,
+    "name": "San Miguel de Tucuman",
+    "notes": ""
+  },
+  {
+    "id": 389,
+    "latitude": -26.8082848,
+    "longitude": -65.2175903,
+    "name": "San Miguel de Tucuman, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 390,
+    "latitude": 42.3280438,
+    "longitude": -2.8645685,
+    "name": "San Millan de la Cogolla, Spain",
+    "notes": ""
+  },
+  {
+    "id": 391,
+    "latitude": -33.3334669,
+    "longitude": -60.2110494,
+    "name": "San Nicolas de los Arroyos, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 392,
+    "latitude": -32.6612397,
+    "longitude": -65.3055784,
+    "name": "San Pablo, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 393,
+    "latitude": -34.6128922,
+    "longitude": -68.3390622,
+    "name": "San Rafael, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 574,
+    "latitude": 43.3183,
+    "longitude": 1.9812,
+    "name": "San Sebasti\u00e1n, Spain",
+    "notes": ""
+  },
+  {
+    "id": 398,
+    "latitude": -34.6833766,
+    "longitude": -58.4811204,
+    "name": "San Tammaro, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 408,
+    "latitude": 40.658316,
+    "longitude": 17.706466,
+    "name": "San Vito dei Normanni, Italy",
+    "notes": ""
+  },
+  {
+    "id": 407,
+    "latitude": 41.2570604,
+    "longitude": 1.7830973,
+    "name": "Sant Pere de Ribes, Spain",
+    "notes": ""
+  },
+  {
+    "id": 394,
+    "latitude": 34.4208305,
+    "longitude": -119.6981901,
+    "name": "Santa Barbara, California",
+    "notes": ""
+  },
+  {
+    "id": 395,
+    "latitude": -31.6106578,
+    "longitude": -60.697294,
+    "name": "Santa Fe, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 396,
+    "latitude": 35.667222,
+    "longitude": -105.964444,
+    "name": "Santa Fe, New Mexico",
+    "notes": ""
+  },
+  {
+    "id": 397,
+    "latitude": 23.0613598,
+    "longitude": -82.2575659,
+    "name": "Santa Maria del Rosario, Cuba",
+    "notes": ""
+  },
+  {
+    "id": 399,
+    "latitude": 34.0194543,
+    "longitude": -118.4911912,
+    "name": "Santa Monica, California",
+    "notes": ""
+  },
+  {
+    "id": 400,
+    "latitude": 43.4623057,
+    "longitude": -3.8099803,
+    "name": "Santander, Spain",
+    "notes": ""
+  },
+  {
+    "id": 402,
+    "latitude": 42.8782132,
+    "longitude": -8.5448445,
+    "name": "Santiago de Compostela, Spain",
+    "notes": ""
+  },
+  {
+    "id": 403,
+    "latitude": -27.7833574,
+    "longitude": -64.264167,
+    "name": "Santiago del Estero, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 401,
+    "latitude": -33.4488897,
+    "longitude": -70.6692655,
+    "name": "Santiago, Chile",
+    "notes": ""
+  },
+  {
+    "id": 404,
+    "latitude": 18.4860575,
+    "longitude": -69.9312117,
+    "name": "Santo Domingo, Dominican Republic",
+    "notes": ""
+  },
+  {
+    "id": 406,
+    "latitude": 0.3301924,
+    "longitude": 6.733343,
+    "name": "Santo Tomas",
+    "notes": ""
+  },
+  {
+    "id": 505,
+    "latitude": "",
+    "longitude": "",
+    "name": "Santo Tom\u00e9",
+    "notes": ""
+  },
+  {
+    "id": 405,
+    "latitude": -34.5990645,
+    "longitude": -58.5467344,
+    "name": "Santos Lugares, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 409,
+    "latitude": -23.5505199,
+    "longitude": -46.6333094,
+    "name": "Sao Paulo, Brazil",
+    "notes": ""
+  },
+  {
+    "id": 410,
+    "latitude": -23.5298156,
+    "longitude": -47.1374002,
+    "name": "Sao Roque, Brazil",
+    "notes": ""
+  },
+  {
+    "id": 411,
+    "latitude": 40.054753,
+    "longitude": -88.2517165,
+    "name": "Savoy",
+    "notes": ""
+  },
+  {
+    "id": 412,
+    "latitude": 52.4893436,
+    "longitude": 13.352548,
+    "name": "Schoneberg, Germany",
+    "notes": ""
+  },
+  {
+    "id": 413,
+    "latitude": 48.9137455,
+    "longitude": 2.4845729,
+    "name": "Seine-Saint-Denis, France",
+    "notes": ""
+  },
+  {
+    "id": 414,
+    "latitude": 34.6176032,
+    "longitude": -89.9687011,
+    "name": "Senatobia, Mississippi",
+    "notes": ""
+  },
+  {
+    "id": 415,
+    "latitude": 43.7197926,
+    "longitude": 13.2152224,
+    "name": "Senigallia, Italy",
+    "notes": ""
+  },
+  {
+    "id": 416,
+    "latitude": 43.4078758,
+    "longitude": 3.7008219,
+    "name": "Sete, France",
+    "notes": ""
+  },
+  {
+    "id": 417,
+    "latitude": 37.3890924,
+    "longitude": -5.9844589,
+    "name": "Sevilla, Spain",
+    "notes": ""
+  },
+  {
+    "id": 418,
+    "latitude": 48.93897,
+    "longitude": 2.538716,
+    "name": "Sevran, France",
+    "notes": ""
+  },
+  {
+    "id": 419,
+    "latitude": 51.1155223,
+    "longitude": 0.5826609,
+    "name": "Sissinghurst Castle Garden, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 420,
+    "latitude": 41.3189575,
+    "longitude": -122.3087674,
+    "name": "Sisson, California",
+    "notes": ""
+  },
+  {
+    "id": 421,
+    "latitude": 49.085485,
+    "longitude": 5.462618,
+    "name": "Sommedieue, France",
+    "notes": ""
+  },
+  {
+    "id": 422,
+    "latitude": 40.8598656,
+    "longitude": -72.5678041,
+    "name": "Southhampton, New York",
+    "notes": ""
+  },
+  {
+    "id": 423,
+    "latitude": 40.463667,
+    "longitude": -3.74922,
+    "name": "Spain",
+    "notes": ""
+  },
+  {
+    "id": 424,
+    "latitude": 47.4244818,
+    "longitude": 9.3767173,
+    "name": "St. Gallen, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 425,
+    "latitude": 38.6270025,
+    "longitude": -90.1994042,
+    "name": "St. Louis, Missouri",
+    "notes": ""
+  },
+  {
+    "id": 426,
+    "latitude": 27.7676008,
+    "longitude": -82.6402915,
+    "name": "St. Petersburg, Florida",
+    "notes": ""
+  },
+  {
+    "id": 427,
+    "latitude": 59.9342802,
+    "longitude": 30.3350986,
+    "name": "St. Petersburg, Russia",
+    "notes": ""
+  },
+  {
+    "id": 428,
+    "latitude": 59.3293235,
+    "longitude": 18.0685808,
+    "name": "Stockholm, Sweden",
+    "notes": ""
+  },
+  {
+    "id": 595,
+    "latitude": 48.7758,
+    "longitude": 9.1829,
+    "name": "Stuttgart, Germany",
+    "notes": ""
+  },
+  {
+    "id": 429,
+    "latitude": -19.0195852,
+    "longitude": -65.2619615,
+    "name": "Sucre, Bolivia",
+    "notes": ""
+  },
+  {
+    "id": 430,
+    "latitude": 43.1836046,
+    "longitude": -89.2137254,
+    "name": "Sun Prairie, Wisconsin",
+    "notes": ""
+  },
+  {
+    "id": 431,
+    "latitude": 48.87,
+    "longitude": 2.22,
+    "name": "Suresnes, France",
+    "notes": ""
+  },
+  {
+    "id": 432,
+    "latitude": 50.8670895,
+    "longitude": -0.087914,
+    "name": "Sussex, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 433,
+    "latitude": 53.0298854,
+    "longitude": 17.1246243,
+    "name": "Szamocin, Poland",
+    "notes": ""
+  },
+  {
+    "id": 434,
+    "latitude": 59.4369608,
+    "longitude": 24.7535747,
+    "name": "Tallinn, Estonia",
+    "notes": ""
+  },
+  {
+    "id": 435,
+    "latitude": 41.1188827,
+    "longitude": 1.2444909,
+    "name": "Tarragona, Spain",
+    "notes": ""
+  },
+  {
+    "id": 436,
+    "latitude": 50.5138516,
+    "longitude": 14.1652281,
+    "name": "Theresienstadt Concentration Camp, Czech Republic",
+    "notes": ""
+  },
+  {
+    "id": 584,
+    "latitude": 53.5,
+    "longitude": -3,
+    "name": "Thornton, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 437,
+    "latitude": 50.4777681,
+    "longitude": 3.055458,
+    "name": "Thumeries, France",
+    "notes": ""
+  },
+  {
+    "id": 571,
+    "latitude": 48.7629,
+    "longitude": 0.7325,
+    "name": "Tinchebray, France",
+    "notes": ""
+  },
+  {
+    "id": 438,
+    "latitude": 36.8338638,
+    "longitude": -87.1422895,
+    "name": "Todd County, Kentucky",
+    "notes": ""
+  },
+  {
+    "id": 439,
+    "latitude": 35.6894875,
+    "longitude": 139.6917064,
+    "name": "Tokyo, Japan",
+    "notes": ""
+  },
+  {
+    "id": 440,
+    "latitude": 45.070312,
+    "longitude": 7.6868565,
+    "name": "Torino, Italy",
+    "notes": ""
+  },
+  {
+    "id": 441,
+    "latitude": 43.604652,
+    "longitude": 1.444209,
+    "name": "Toulouse, France",
+    "notes": ""
+  },
+  {
+    "id": 442,
+    "latitude": 43.6067868,
+    "longitude": 1.4471126,
+    "name": "Toulouse, Italy",
+    "notes": ""
+  },
+  {
+    "id": 443,
+    "latitude": 47.394144,
+    "longitude": 0.68484,
+    "name": "Tours, France",
+    "notes": ""
+  },
+  {
+    "id": 444,
+    "latitude": 49.858616,
+    "longitude": 1.095163,
+    "name": "Tourville-sur-Arques, France",
+    "notes": ""
+  },
+  {
+    "id": 445,
+    "latitude": 53.2833765,
+    "longitude": -6.1044944,
+    "name": "Tower Hill, Dalkey, Co. Dublin",
+    "notes": ""
+  },
+  {
+    "id": 588,
+    "latitude": 52.941004,
+    "longitude": 4.141929,
+    "name": "Tremadog, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 446,
+    "latitude": 51.319664,
+    "longitude": -2.208853,
+    "name": "Trowbridge, Wiltshire, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 447,
+    "latitude": 45.070312,
+    "longitude": 7.6868565,
+    "name": "Turin, Italy",
+    "notes": ""
+  },
+  {
+    "id": 448,
+    "latitude": 50.8023982,
+    "longitude": 4.34067,
+    "name": "Uccle, Belgium",
+    "notes": ""
+  },
+  {
+    "id": 449,
+    "latitude": 40.8673215,
+    "longitude": -74.5221011,
+    "name": "Union Hill, New Jersey",
+    "notes": ""
+  },
+  {
+    "id": 450,
+    "latitude": -31.2341309,
+    "longitude": -64.3167114,
+    "name": "Unquillo, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 451,
+    "latitude": 51.61789,
+    "longitude": -3.972711,
+    "name": "Uplands, Swansea, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 452,
+    "latitude": 41.1692494,
+    "longitude": -0.4974359,
+    "name": "Urrea de Gaen, Spain",
+    "notes": ""
+  },
+  {
+    "id": 453,
+    "latitude": 48.7931426,
+    "longitude": 2.4740337,
+    "name": "Val-de-Marne, France",
+    "notes": ""
+  },
+  {
+    "id": 454,
+    "latitude": 38.8113074,
+    "longitude": -3.4599326,
+    "name": "Valdepe\u00f1as, Spain",
+    "notes": ""
+  },
+  {
+    "id": 455,
+    "latitude": 41.652251,
+    "longitude": -4.7245321,
+    "name": "Valladolid, Spain",
+    "notes": ""
+  },
+  {
+    "id": 456,
+    "latitude": 48.7100091,
+    "longitude": 2.0422148,
+    "name": "Vallee de Chevreuse, France",
+    "notes": ""
+  },
+  {
+    "id": 457,
+    "latitude": 49.097092,
+    "longitude": 2.190744,
+    "name": "Valmondois, France",
+    "notes": ""
+  },
+  {
+    "id": 458,
+    "latitude": -33.047238,
+    "longitude": -71.6126885,
+    "name": "Valparaiso, Chile",
+    "notes": ""
+  },
+  {
+    "id": 459,
+    "latitude": 49.25,
+    "longitude": -123.1,
+    "name": "Vancouver, Canada",
+    "notes": ""
+  },
+  {
+    "id": 460,
+    "latitude": 47.658236,
+    "longitude": -2.760847,
+    "name": "Vannes, Brittany",
+    "notes": ""
+  },
+  {
+    "id": 461,
+    "latitude": 23.1401998,
+    "longitude": -82.379729,
+    "name": "Vedado, Havana, Cuba",
+    "notes": ""
+  },
+  {
+    "id": 462,
+    "latitude": 36.7799228,
+    "longitude": -4.1005589,
+    "name": "Velez-Malaga, Spain",
+    "notes": ""
+  },
+  {
+    "id": 463,
+    "latitude": 43.7223216,
+    "longitude": 7.1117033,
+    "name": "Vence, France",
+    "notes": ""
+  },
+  {
+    "id": 464,
+    "latitude": 45.4408474,
+    "longitude": 12.3155151,
+    "name": "Venice, Italy",
+    "notes": ""
+  },
+  {
+    "id": 465,
+    "latitude": 45.4383842,
+    "longitude": 10.9916215,
+    "name": "Verona, Italy",
+    "notes": ""
+  },
+  {
+    "id": 529,
+    "latitude": 48.8014,
+    "longitude": 2.1301,
+    "name": "Versailles, France",
+    "notes": ""
+  },
+  {
+    "id": 466,
+    "latitude": 46.4628333,
+    "longitude": 6.8419192,
+    "name": "Vevey, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 530,
+    "latitude": -34.599555,
+    "longitude": -58.373813,
+    "name": "Viamonte 494, Buenos Aires, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 536,
+    "latitude": -34.599587,
+    "longitude": -58.37493,
+    "name": "Viamonte 570, Buenos Aires, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 467,
+    "latitude": 46.131859,
+    "longitude": 3.425488,
+    "name": "Vichy, France",
+    "notes": ""
+  },
+  {
+    "id": 468,
+    "latitude": -30.0319,
+    "longitude": -70.7081,
+    "name": "Vicuna, Chile",
+    "notes": ""
+  },
+  {
+    "id": 469,
+    "latitude": 48.2081743,
+    "longitude": 16.3738189,
+    "name": "Vienna, Austria",
+    "notes": ""
+  },
+  {
+    "id": 470,
+    "latitude": 49.0307,
+    "longitude": 2.3717,
+    "name": "Vigny, Val-d'Oise, France",
+    "notes": ""
+  },
+  {
+    "id": 471,
+    "latitude": 41.2151504,
+    "longitude": 1.727446,
+    "name": "Vilanova i la Geltru, Spain",
+    "notes": ""
+  },
+  {
+    "id": 473,
+    "latitude": -31.5562575,
+    "longitude": -63.5356054,
+    "name": "Villa del Rosario, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 474,
+    "latitude": -31.9877299,
+    "longitude": -58.9635815,
+    "name": "Villa Dominguez, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 511,
+    "latitude": -34.456819,
+    "longitude": -58.519631,
+    "name": "Villa Ocampo, Argentina",
+    "notes": ""
+  },
+  {
+    "id": 472,
+    "latitude": 46.60856,
+    "longitude": 13.85062,
+    "name": "Villach, Austria",
+    "notes": ""
+  },
+  {
+    "id": 475,
+    "latitude": 17.989456,
+    "longitude": -92.9475061,
+    "name": "Villahermosa, Mexico",
+    "notes": ""
+  },
+  {
+    "id": 523,
+    "latitude": 46.300057,
+    "longitude": 7.055056,
+    "name": "Villars-sur-Ollon, Switzerland",
+    "notes": ""
+  },
+  {
+    "id": 477,
+    "latitude": 48.8270042,
+    "longitude": 2.1886944,
+    "name": "Ville-d'Avray, France",
+    "notes": ""
+  },
+  {
+    "id": 476,
+    "latitude": 48.3240399,
+    "longitude": 3.08279,
+    "name": "Villeblevin, France",
+    "notes": ""
+  },
+  {
+    "id": 478,
+    "latitude": 49.177522,
+    "longitude": 3.473478,
+    "name": "Villeneuve-sur-Fere, France",
+    "notes": ""
+  },
+  {
+    "id": 479,
+    "latitude": -33.0153481,
+    "longitude": -71.5500276,
+    "name": "Vi\u00f1a del Mar, Chile",
+    "notes": ""
+  },
+  {
+    "id": 480,
+    "latitude": 43.6642649,
+    "longitude": -7.5945348,
+    "name": "Viveiro, Spain",
+    "notes": ""
+  },
+  {
+    "id": 512,
+    "latitude": 40.7565,
+    "longitude": 73.9742,
+    "name": "Waldorf-Astoria, New York City, New York",
+    "notes": ""
+  },
+  {
+    "id": 481,
+    "latitude": 53.3900441,
+    "longitude": -2.5969501,
+    "name": "Warrington, Cheshire, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 482,
+    "latitude": 52.2296756,
+    "longitude": 21.0122287,
+    "name": "Warsaw, Poland",
+    "notes": ""
+  },
+  {
+    "id": 483,
+    "latitude": 38.9071923,
+    "longitude": -77.0368707,
+    "name": "Washington, D.C.",
+    "notes": ""
+  },
+  {
+    "id": 484,
+    "latitude": 41.3542395,
+    "longitude": -72.164816,
+    "name": "Waterford, Connecticut",
+    "notes": ""
+  },
+  {
+    "id": 485,
+    "latitude": 50.9794934,
+    "longitude": 11.3235439,
+    "name": "Weimar, Germany",
+    "notes": ""
+  },
+  {
+    "id": 486,
+    "latitude": 51.547358,
+    "longitude": -0.190436,
+    "name": "West Hampstead, London, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 487,
+    "latitude": 51.4995,
+    "longitude": -0.1333,
+    "name": "Westminster, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 488,
+    "latitude": 41.0339862,
+    "longitude": -73.7629097,
+    "name": "White Plains, New York",
+    "notes": ""
+  },
+  {
+    "id": 599,
+    "latitude": 46.5483,
+    "longitude": 110.9022,
+    "name": "White Sulphur Springs, Montana",
+    "notes": ""
+  },
+  {
+    "id": 489,
+    "latitude": 53.528409,
+    "longitude": -1.461325,
+    "name": "Worsbrough, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 490,
+    "latitude": 51.1078852,
+    "longitude": 17.0385376,
+    "name": "Wroclaw, Poland",
+    "notes": ""
+  },
+  {
+    "id": 491,
+    "latitude": 53.365407,
+    "longitude": -2.058357,
+    "name": "Wyberslegh Hall, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 492,
+    "latitude": 35.4437078,
+    "longitude": 139.6380256,
+    "name": "Yokohama, Japan",
+    "notes": ""
+  },
+  {
+    "id": 493,
+    "latitude": 53.9599651,
+    "longitude": -1.0872979,
+    "name": "York, United Kingdom",
+    "notes": ""
+  },
+  {
+    "id": 494,
+    "latitude": 41.6488226,
+    "longitude": -0.8890853,
+    "name": "Zaragoza, Spain",
+    "notes": ""
+  },
+  {
+    "id": 495,
+    "latitude": 51.0006721,
+    "longitude": 4.9830118,
+    "name": "Zichem, Belgium",
+    "notes": ""
+  },
+  {
+    "id": 496,
+    "latitude": 47.3768866,
+    "longitude": 8.541694,
+    "name": "Zurich, Switzerland",
+    "notes": ""
+  }
+]

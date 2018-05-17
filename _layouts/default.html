@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>"Ocampo's Networks"</title>
+
+
+{% if page.title == 'Map' %}
+
+{% endif %}
+
+{% if page.title == 'Database Essay' %}
+<script type="text/javascript">
+  $(window).on('scroll', function() {
+    if ($(window).scrollTop()){
+      $('nav').addClass('black');
+    }
+    else {
+      $('nav').removeClass('black');
+    }
+    })
+</script>
+<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+{% endif %}
+
+{% if page.title != 'Home' %}
+<header>
+  <img src="images/borges-webcover.jpg" alt="logo" class="logo">
+  <h1><a href="index.html" onclick="window.location">Mapping Borges</a></h1>
+<nav>
+  <ul>
+    {% assign navigation_pages = site.html_pages | sort: "order" %}
+    {% for p in navigation_pages %}
+    {% if p.order %}
+      <li>
+        <a href="{{ p.url | prepend: site.baseurl }}" {% if p.url == page.url %}class="active"{% endif %}>
+          {{ p.title }}
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+</header>
+{% endif %}
+
+<main class="{{ page.title | downcase | replace: " ","-" }}">
+  {{ content }}
+</main>
