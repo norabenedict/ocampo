@@ -260,15 +260,6 @@ p.bio {
   font-family: Quicksand;
 }
 
-p.education {
-  line-height:normal;
-  margin-left: 7vh;
-  margin-right: 7vh;
-  font-size: 12px;
-  text-align: right;
-  font-size: Quicksand;
-}
-
 .site-footer {
   text-align: center;
   height: 105px;
