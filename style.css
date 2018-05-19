@@ -31,6 +31,7 @@ h2 {
     font-size: 40;
   }
 
+
 nav {
   position:fixed;
   top: 0;
@@ -301,4 +302,12 @@ p.display {
   margin-right: 5vh;
   font-family: 'Lobster', cursive;
   font-size: 30px;
+}
+
+.ocampo {
+      float: right;
+      height: 30%;
+      width: 30%;
+      display: inline;
+      padding: 2px;
 }
