@@ -138,16 +138,15 @@ section.sec1 {
   margin: 30px;
   text-align: justify;
   font-size: 20px;
-  line-height: 30px;
 }
 
 p.big {
   line-height: 1.8;
   text-align: justify;
-  margin-left: 5vh;
-  margin-right: 5vh;
+  margin-left: 15vh;
+  margin-right: 15vh;
   padding-top: 5px;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .sur_group {
@@ -170,6 +169,32 @@ p.big {
     margin-right: 10vh;
   }
 
+.sur_issue_1 {
+  float: left;
+  height: 30%;
+  width: 30%;
+  display: inline-block;
+  margin-left: 7vh;
+  padding: 1px;
+}
+
+.sur_issue_2 {
+  float: center;
+  height: 30%;
+  width: 30%;
+  display: inline-block;
+  padding: 1px;
+}
+
+.sur_issue_3 {
+  float: right;
+  height: 30%;
+  width: 30%;
+  display: inline-block;
+  margin-right: 7vh;
+  padding: 1px;
+}
+
 .network {
       float: center;
       height: 80%;
@@ -184,23 +209,21 @@ p.big {
     float: left;
     height: 50%;
     width: 49%;
-    display: inline;
-    padding: 2px;
+    display: inline-block;
   }
 
 .network_3 {
     float: right;
-    height: 50%;
+    height: 100%;
     width: 49%;
-    display: inline;
-    padding: 2px;
+    display: inline-block;
   }
 
 .database_1 {
       float: left;
       height: 40%;
       width: 32%;
-      display: inline;
+      display: inline-block;
       padding: 2px;
     }
 
