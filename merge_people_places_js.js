@@ -1,5 +1,5 @@
-var people = require('./People-2018-07-17.json')
-var places = require('./Place-2018-07-17.json')
+var people = require('./People-2018-08-03.json')
+var places = require('./Place-2018-08-03.json')
 
 let output = []
 
