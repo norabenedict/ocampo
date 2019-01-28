@@ -4,109 +4,6 @@ var points = [
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "",
-        ""
-      ]
-    },
-    "properties": {
-      "name": "",
-      "popupContent": "",
-      "affiliatedPeople": [
-        "Abraham Eidlicz",
-        "Alain Malraux",
-        "Alberto J. Aguirre",
-        "Alejandra de Kent",
-        "Alvaro Guillot Muñoz",
-        "Andrés L. Caro",
-        "Antoine Radé",
-        "Beatrice Kean Seymour",
-        "Buenaventura Noé Vita",
-        "C. A. Burone",
-        "Carlos Alberto Floria",
-        "Carlos Caro Potestad",
-        "Carlos Soldevila",
-        "Catherine Ann Andersen (McHaffie)",
-        "Charles Duff",
-        "Christian Murciaux",
-        "Christovam de Camargo",
-        "D. Wells Gill (¿?)",
-        "Daan Bolten",
-        "Daniel Arias Argáez",
-        "David Dove Carver",
-        "Delfina Varela Domínguez de Ghioldi",
-        "Edgardo Cozarinsky",
-        "Elga Wolff (Mme. Emil Ludwig)",
-        "Elvine Georglevna Simeon (Adams)",
-        "Emile Gouirán",
-        "Emilio Carreira ",
-        "Enrique Luis Revol",
-        "Ernesto Garzón Valdés",
-        "Eugen Millington Drake",
-        "Fani (Estefanía)",
-        "Francisca (Pancha) Ocampo",
-        "Giuseppe Faggin",
-        "Guillermo Jiménez",
-        "Harriet de Onís",
-        "Henry Allen Moe",
-        "Herminia Hallam Hipwell (Baroness Vivenot)",
-        "Hortensia Margarita Raffo",
-        "Hugo Parpagnoli",
-        "Isabel Dato y Barrenechea",
-        "Ivy Herczegh Konjovich",
-        "Jaime Luis Pous Moroques",
-        "James Donald Adams",
-        "Jeanie Drysdale Entwistle",
-        "Joaquín Andúriz, S. J. ",
-        "Joaquín Neyra",
-        "Jorge Cruz",
-        "Jorge Pinto",
-        "José A. Blanco",
-        "José María Coco Ferraris",
-        "José Martínez Jerez",
-        "José Martínez Orozco",
-        "Juan Francisco Ashero",
-        "Juan R. Angueira",
-        "Julia Elena Acuña",
-        "Kalidas Nag",
-        "Leopoldo Fortnoy",
-        "Louis Ollivier",
-        "Ludovico Ivanissevich Machado",
-        "Luis de Elizalde (h.)",
-        "Magie T. Brown",
-        "Manuel S. Ocampo",
-        "Marcelo Menasché",
-        "María Esther Bruno de Barros",
-        "Maria Nys (Huxley)",
-        "María Reneé Cura",
-        "Mario Setle",
-        "Mauricio Gómez Mayorga",
-        "Michel Berveiller",
-        "Mme. Dominique Braga",
-        "Mohamed Abbad",
-        "Norah Rowan Hamilton",
-        "Oscar Delgado",
-        "Patricio Armando Canto",
-        "Paul Chadourne",
-        "Paul Jourde",
-        "Raquel Santángelo",
-        "Ricardo de los Heros",
-        "Ricardo Delgado",
-        "Roberto Cortéz Conde",
-        "Seamus MacCall",
-        "Susana Larguía",
-        "Sylvia Molloy",
-        "Uldarica Maños",
-        "Umberto Cianciolo",
-        "Valborg Anderson",
-        "Vladeta Popvić"
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         2.281848,
         48.856416
       ]
@@ -1761,7 +1658,7 @@ var points = [
     "geometry": {
       "type": "Point",
       "coordinates": [
-        66.5384,
+        -66.5384,
         18.4547
       ]
     },
@@ -12450,7 +12347,7 @@ var points = [
       "type": "Point",
       "coordinates": [
         144.9631,
-        37.8136
+        -37.8136
       ]
     },
     "properties": {
