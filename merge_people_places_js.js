@@ -1,4 +1,4 @@
-var people = require('./People-2019-01-28.json')
+var people = require('./People-2019-01-29.json')
 var places = require('./Place-2019-01-28.json')
 
 let output = []
@@ -20,7 +20,14 @@ for (let place of places) {
     // add the affiliated people to place
     for (let person of people) {
         if (place.id == person.birthplace || place.id == person.deathplace) {
-            point.properties.affiliatedPeople.push(person.name)
+            point.properties.affiliatedPeople.push({
+              name: person.name,
+              birthdate: person.birthdate,
+              deathdate: person.deathdate,
+              occupation: person.occupation.split(';'),
+              sex: person.sex,
+              viaf: person.viaf_id
+          })
         }
     }
     // add the new point to the list

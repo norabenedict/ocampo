@@ -17,7 +17,7 @@
 <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
 <script src="leaflet-providers.js"></script>
-<script src="./points4.js" type="text/javascript"></script>
+<script src="./points6.js" type="text/javascript"></script>
 <script src="./js/L.Control.Sidebar.js"></script>
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css" type="text/css">
 <link rel="stylesheet" href="./css/L.Control.Sidebar.css">
@@ -77,7 +77,11 @@ body {
 
       var map = L.map('map').setView([20, 0], 2.5);
 
-      var layer = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://carto.com/attributions">CARTO</a>'}).addTo(map);
+      var layer = L.tileLayer('https://api.mapbox.com/styles/v1/norabenedict/cjri5hvvi2d4h2sogf1awmac0/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoibm9yYWJlbmVkaWN0IiwiYSI6ImNpdXllbjdkbzA0aHYyeWwxd3BoaDdrYzgifQ.F94DF9486D8vAprIkZSOnQ', {
+        attribution: '&copy; <a href="http://www.mapbox.com">Mapbox</a>',
+        tileSize: 512,
+        zoomOffset: -1,
+        }).addTo(map);
 
       var sidebar = L.control.sidebar('sidebar', {
                closeButton: true,
@@ -89,8 +93,7 @@ body {
         pointToLayer: function(feature, latlng) {
            return new L.CircleMarker(latlng, {
                radius: 3,
-               fillColor: "blue",
-               color: "#000",
+               color: "#4c4d4f",
                weight: 1,
                opacity: 1,
                fillOpacity: 0.4
@@ -102,7 +105,14 @@ body {
            layer.on('click', function(e) {
              console.log(e.sourceTarget)
              // console.log(e.sourceTarget.feature.properties.affiliatedPeople)
-             sidebar.setContent(e.sourceTarget.feature.properties.affiliatedPeople.join("</br >"))
+             sidebarContent = ""
+             e.sourceTarget.feature.properties.affiliatedPeople.forEach(function(person) {
+               sidebarContent += ('<b>' + person.name + '</b><br/>')
+               sidebarContent += ('<li>Birth date: ' + person.birthdate + '</li>')
+               sidebarContent += ('<li>Death date: ' + person.deathdate + '</li>')
+               sidebarContent += ('</ul>')
+             })
+             sidebar.setContent(sidebarContent)
            })
        }
      }).addTo(map).on('click', function () {

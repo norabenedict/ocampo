@@ -4,6 +4,370 @@ var points = [
     "geometry": {
       "type": "Point",
       "coordinates": [
+        "",
+        ""
+      ]
+    },
+    "properties": {
+      "name": "",
+      "popupContent": "",
+      "affiliatedPeople": [
+        {
+          "name": "Abraham Eidlicz",
+          "viaf": ""
+        },
+        {
+          "name": "Alain Malraux",
+          "viaf": "34578454"
+        },
+        {
+          "name": "Alberto J. Aguirre",
+          "viaf": ""
+        },
+        {
+          "name": "Alejandra de Kent",
+          "viaf": "186930560"
+        },
+        {
+          "name": "Alvaro Guillot Muñoz",
+          "viaf": "97873345"
+        },
+        {
+          "name": "Andrés L. Caro",
+          "viaf": "18912679"
+        },
+        {
+          "name": "Antoine Radé",
+          "viaf": ""
+        },
+        {
+          "name": "Beatrice Kean Seymour",
+          "viaf": "62586312"
+        },
+        {
+          "name": "Buenaventura Noé Vita",
+          "viaf": ""
+        },
+        {
+          "name": "C. A. Burone",
+          "viaf": ""
+        },
+        {
+          "name": "Carlos Alberto Floria",
+          "viaf": "73898195"
+        },
+        {
+          "name": "Carlos Caro Potestad",
+          "viaf": ""
+        },
+        {
+          "name": "Carlos Soldevila",
+          "viaf": "62674007"
+        },
+        {
+          "name": "Catherine Ann Andersen (McHaffie)",
+          "viaf": ""
+        },
+        {
+          "name": "Charles Duff",
+          "viaf": "111898910"
+        },
+        {
+          "name": "Christian Murciaux",
+          "viaf": "119997355"
+        },
+        {
+          "name": "Christovam de Camargo",
+          "viaf": "60631655"
+        },
+        {
+          "name": "D. Wells Gill (¿?)",
+          "viaf": ""
+        },
+        {
+          "name": "Daan Bolten",
+          "viaf": ""
+        },
+        {
+          "name": "Daniel Arias Argáez",
+          "viaf": ""
+        },
+        {
+          "name": "David Dove Carver",
+          "viaf": "166165131"
+        },
+        {
+          "name": "Delfina Varela Domínguez de Ghioldi",
+          "viaf": "170677081"
+        },
+        {
+          "name": "Edgardo Cozarinsky",
+          "viaf": ""
+        },
+        {
+          "name": "Elga Wolff (Mme. Emil Ludwig)",
+          "viaf": ""
+        },
+        {
+          "name": "Elvine Georglevna Simeon (Adams)",
+          "viaf": ""
+        },
+        {
+          "name": "Emile Gouirán",
+          "viaf": "162567261"
+        },
+        {
+          "name": "Emilio Carreira ",
+          "viaf": "86791046"
+        },
+        {
+          "name": "Enrique Luis Revol",
+          "viaf": "61148639"
+        },
+        {
+          "name": "Ernesto Garzón Valdés",
+          "viaf": "12944765"
+        },
+        {
+          "name": "Eugen Millington Drake",
+          "viaf": "48223228"
+        },
+        {
+          "name": "Fani (Estefanía)",
+          "viaf": ""
+        },
+        {
+          "name": "Francisca (Pancha) Ocampo",
+          "viaf": ""
+        },
+        {
+          "name": "Giuseppe Faggin",
+          "viaf": "66550126"
+        },
+        {
+          "name": "Guillermo Jiménez",
+          "viaf": ""
+        },
+        {
+          "name": "Harriet de Onís",
+          "viaf": "46823286"
+        },
+        {
+          "name": "Henry Allen Moe",
+          "viaf": ""
+        },
+        {
+          "name": "Herminia Hallam Hipwell (Baroness Vivenot)",
+          "viaf": ""
+        },
+        {
+          "name": "Hortensia Margarita Raffo",
+          "viaf": "124575250"
+        },
+        {
+          "name": "Hugo Parpagnoli",
+          "viaf": ""
+        },
+        {
+          "name": "Isabel Dato y Barrenechea",
+          "viaf": ""
+        },
+        {
+          "name": "Ivy Herczegh Konjovich",
+          "viaf": ""
+        },
+        {
+          "name": "Jaime Luis Pous Moroques",
+          "viaf": ""
+        },
+        {
+          "name": "James Donald Adams",
+          "viaf": "67708961"
+        },
+        {
+          "name": "Jeanie Drysdale Entwistle",
+          "viaf": ""
+        },
+        {
+          "name": "Joaquín Andúriz, S. J. ",
+          "viaf": ""
+        },
+        {
+          "name": "Joaquín Neyra",
+          "viaf": "291122999"
+        },
+        {
+          "name": "Jorge Cruz",
+          "viaf": "60972170"
+        },
+        {
+          "name": "Jorge Pinto",
+          "viaf": ""
+        },
+        {
+          "name": "José A. Blanco",
+          "viaf": ""
+        },
+        {
+          "name": "José María Coco Ferraris",
+          "viaf": "23158856"
+        },
+        {
+          "name": "José Martínez Jerez",
+          "viaf": "23822057"
+        },
+        {
+          "name": "José Martínez Orozco",
+          "viaf": "43501449"
+        },
+        {
+          "name": "Juan Francisco Ashero",
+          "viaf": ""
+        },
+        {
+          "name": "Juan R. Angueira",
+          "viaf": ""
+        },
+        {
+          "name": "Julia Elena Acuña",
+          "viaf": "60648080"
+        },
+        {
+          "name": "Kalidas Nag",
+          "viaf": "36987024"
+        },
+        {
+          "name": "Leopoldo Fortnoy",
+          "viaf": ""
+        },
+        {
+          "name": "Louis Ollivier",
+          "viaf": "56710397"
+        },
+        {
+          "name": "Ludovico Ivanissevich Machado",
+          "viaf": ""
+        },
+        {
+          "name": "Luis de Elizalde (h.)",
+          "viaf": ""
+        },
+        {
+          "name": "Magie T. Brown",
+          "viaf": ""
+        },
+        {
+          "name": "Manuel S. Ocampo",
+          "viaf": ""
+        },
+        {
+          "name": "Marcelo Menasché",
+          "viaf": "56331172"
+        },
+        {
+          "name": "María Esther Bruno de Barros",
+          "viaf": ""
+        },
+        {
+          "name": "Maria Nys (Huxley)",
+          "viaf": "282951015"
+        },
+        {
+          "name": "María Reneé Cura",
+          "viaf": "28455322"
+        },
+        {
+          "name": "Mario Setle",
+          "viaf": ""
+        },
+        {
+          "name": "Mauricio Gómez Mayorga",
+          "viaf": "242632817"
+        },
+        {
+          "name": "Michel Berveiller",
+          "viaf": "71387394"
+        },
+        {
+          "name": "Mme. Dominique Braga",
+          "viaf": ""
+        },
+        {
+          "name": "Mohamed Abbad",
+          "viaf": ""
+        },
+        {
+          "name": "Norah Rowan Hamilton",
+          "viaf": "26934435"
+        },
+        {
+          "name": "Oscar Delgado",
+          "viaf": "45639614"
+        },
+        {
+          "name": "Patricio Armando Canto",
+          "viaf": "86637297"
+        },
+        {
+          "name": "Paul Chadourne",
+          "viaf": "7605783"
+        },
+        {
+          "name": "Paul Jourde",
+          "viaf": "282516039"
+        },
+        {
+          "name": "Raquel Santángelo",
+          "viaf": ""
+        },
+        {
+          "name": "Ricardo de los Heros",
+          "viaf": ""
+        },
+        {
+          "name": "Ricardo Delgado",
+          "viaf": ""
+        },
+        {
+          "name": "Roberto Cortéz Conde",
+          "viaf": ""
+        },
+        {
+          "name": "Seamus MacCall",
+          "viaf": "114012712"
+        },
+        {
+          "name": "Susana Larguía",
+          "viaf": ""
+        },
+        {
+          "name": "Sylvia Molloy",
+          "viaf": "265662911"
+        },
+        {
+          "name": "Uldarica Maños",
+          "viaf": ""
+        },
+        {
+          "name": "Umberto Cianciolo",
+          "viaf": "88910410"
+        },
+        {
+          "name": "Valborg Anderson",
+          "viaf": "77759937"
+        },
+        {
+          "name": "Vladeta Popvić",
+          "viaf": "24175804"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         2.281848,
         48.856416
       ]
@@ -57,7 +421,10 @@ var points = [
       "name": "Aachen, Germany",
       "popupContent": "Aachen, Germany",
       "affiliatedPeople": [
-        "Walter Biemel"
+        {
+          "name": "Walter Biemel",
+          "viaf": "108419753"
+        }
       ]
     }
   },
@@ -74,7 +441,10 @@ var points = [
       "name": "Abbott, Buenos Aires, Argentina",
       "popupContent": "Abbott, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Juan R. Angueira"
+        {
+          "name": "Juan R. Angueira",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -91,7 +461,10 @@ var points = [
       "name": "Abeilhan, France",
       "popupContent": "Abeilhan, France",
       "affiliatedPeople": [
-        "Georges Izard"
+        {
+          "name": "Georges Izard",
+          "viaf": "5062395"
+        }
       ]
     }
   },
@@ -108,7 +481,10 @@ var points = [
       "name": "Aberdeen, United Kingdom",
       "popupContent": "Aberdeen, United Kingdom",
       "affiliatedPeople": [
-        "Mary Garden"
+        {
+          "name": "Mary Garden",
+          "viaf": "22228088"
+        }
       ]
     }
   },
@@ -125,7 +501,10 @@ var points = [
       "name": "Abingdon, United Kingdom",
       "popupContent": "Abingdon, United Kingdom",
       "affiliatedPeople": [
-        "John Masefield"
+        {
+          "name": "John Masefield",
+          "viaf": "68945598"
+        }
       ]
     }
   },
@@ -142,7 +521,10 @@ var points = [
       "name": "Addison, Maine",
       "popupContent": "Addison, Maine",
       "affiliatedPeople": [
-        "John Marin"
+        {
+          "name": "John Marin",
+          "viaf": "74649315"
+        }
       ]
     }
   },
@@ -159,7 +541,10 @@ var points = [
       "name": "Adelaide, Australia",
       "popupContent": "Adelaide, Australia",
       "affiliatedPeople": [
-        "Herbert Matthews"
+        {
+          "name": "Herbert Matthews",
+          "viaf": "18384596"
+        }
       ]
     }
   },
@@ -176,8 +561,14 @@ var points = [
       "name": "Agrigento, Italy",
       "popupContent": "Agrigento, Italy",
       "affiliatedPeople": [
-        "Ezio D'Errico",
-        "Luigi Pirandello"
+        {
+          "name": "Ezio D'Errico",
+          "viaf": "25411547"
+        },
+        {
+          "name": "Luigi Pirandello",
+          "viaf": "64010465"
+        }
       ]
     }
   },
@@ -194,7 +585,10 @@ var points = [
       "name": "Ahrensburg, Germany",
       "popupContent": "Ahrensburg, Germany",
       "affiliatedPeople": [
-        "Waldemar Bonsels"
+        {
+          "name": "Waldemar Bonsels",
+          "viaf": "73850380"
+        }
       ]
     }
   },
@@ -211,7 +605,10 @@ var points = [
       "name": "Aillevillers-et-Lyaumont, France",
       "popupContent": "Aillevillers-et-Lyaumont, France",
       "affiliatedPeople": [
-        "Georges Balandier"
+        {
+          "name": "Georges Balandier",
+          "viaf": "9813819"
+        }
       ]
     }
   },
@@ -228,8 +625,14 @@ var points = [
       "name": "Aix-en-Provence, France",
       "popupContent": "Aix-en-Provence, France",
       "affiliatedPeople": [
-        "Henri Brémond",
-        "Pierre Hourcade"
+        {
+          "name": "Henri Brémond",
+          "viaf": "29570131"
+        },
+        {
+          "name": "Pierre Hourcade",
+          "viaf": "59204688"
+        }
       ]
     }
   },
@@ -246,7 +649,10 @@ var points = [
       "name": "Aix-les-Bains, France",
       "popupContent": "Aix-les-Bains, France",
       "affiliatedPeople": [
-        "León Brunschvicg"
+        {
+          "name": "León Brunschvicg",
+          "viaf": "29668791"
+        }
       ]
     }
   },
@@ -263,7 +669,10 @@ var points = [
       "name": "Alassio, Italy",
       "popupContent": "Alassio, Italy",
       "affiliatedPeople": [
-        "Emmanuel Stickelberger"
+        {
+          "name": "Emmanuel Stickelberger",
+          "viaf": "112500342"
+        }
       ]
     }
   },
@@ -280,7 +689,10 @@ var points = [
       "name": "Albacete, Spain",
       "popupContent": "Albacete, Spain",
       "affiliatedPeople": [
-        "Guillermo Díaz Doin"
+        {
+          "name": "Guillermo Díaz Doin",
+          "viaf": "48939650"
+        }
       ]
     }
   },
@@ -297,7 +709,10 @@ var points = [
       "name": "Albairate, Italy",
       "popupContent": "Albairate, Italy",
       "affiliatedPeople": [
-        "Attilio Rossi"
+        {
+          "name": "Attilio Rossi",
+          "viaf": "79401900"
+        }
       ]
     }
   },
@@ -314,7 +729,10 @@ var points = [
       "name": "Albany, New York",
       "popupContent": "Albany, New York",
       "affiliatedPeople": [
-        "Francis Bret Harte"
+        {
+          "name": "Francis Bret Harte",
+          "viaf": "100194313"
+        }
       ]
     }
   },
@@ -331,8 +749,14 @@ var points = [
       "name": "Alberti, Buenos Aires, Argentina",
       "popupContent": "Alberti, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Juan Gregorio Basso Ferreyra",
-        "Vicente Barbieri"
+        {
+          "name": "Juan Gregorio Basso Ferreyra",
+          "viaf": "2362585"
+        },
+        {
+          "name": "Vicente Barbieri",
+          "viaf": "68941999"
+        }
       ]
     }
   },
@@ -349,7 +773,10 @@ var points = [
       "name": "Albuquerque, New Mexico",
       "popupContent": "Albuquerque, New Mexico",
       "affiliatedPeople": [
-        "Edwin Lieuwen"
+        {
+          "name": "Edwin Lieuwen",
+          "viaf": "57858893"
+        }
       ]
     }
   },
@@ -366,7 +793,10 @@ var points = [
       "name": "Alcázar de San Juan, Spain",
       "popupContent": "Alcázar de San Juan, Spain",
       "affiliatedPeople": [
-        "Antonio Fernández Molina"
+        {
+          "name": "Antonio Fernández Molina",
+          "viaf": "79243247"
+        }
       ]
     }
   },
@@ -383,7 +813,10 @@ var points = [
       "name": "Alcoy, Spain",
       "popupContent": "Alcoy, Spain",
       "affiliatedPeople": [
-        "Juan Gil-Albert"
+        {
+          "name": "Juan Gil-Albert",
+          "viaf": "59095594"
+        }
       ]
     }
   },
@@ -400,7 +833,10 @@ var points = [
       "name": "Aldwincle, United Kingdom",
       "popupContent": "Aldwincle, United Kingdom",
       "affiliatedPeople": [
-        "John Dryden"
+        {
+          "name": "John Dryden",
+          "viaf": "57517466"
+        }
       ]
     }
   },
@@ -417,7 +853,10 @@ var points = [
       "name": "Alès, France",
       "popupContent": "Alès, France",
       "affiliatedPeople": [
-        "Thierry Maulnier"
+        {
+          "name": "Thierry Maulnier",
+          "viaf": "111076827"
+        }
       ]
     }
   },
@@ -434,9 +873,18 @@ var points = [
       "name": "Alexandria, Egypt",
       "popupContent": "Alexandria, Egypt",
       "affiliatedPeople": [
-        "Constantino Kavafis",
-        "Filippo Tommaso Marinetti",
-        "Giuseppe Ungaretti"
+        {
+          "name": "Constantino Kavafis",
+          "viaf": "29535936"
+        },
+        {
+          "name": "Filippo Tommaso Marinetti",
+          "viaf": "4933263"
+        },
+        {
+          "name": "Giuseppe Ungaretti",
+          "viaf": "89710987"
+        }
       ]
     }
   },
@@ -453,7 +901,10 @@ var points = [
       "name": "Alexandria, Virginia",
       "popupContent": "Alexandria, Virginia",
       "affiliatedPeople": [
-        "Ralph E. Lapp"
+        {
+          "name": "Ralph E. Lapp",
+          "viaf": "32807011"
+        }
       ]
     }
   },
@@ -470,7 +921,10 @@ var points = [
       "name": "Algeciras, Spain",
       "popupContent": "Algeciras, Spain",
       "affiliatedPeople": [
-        "José Luis Cano"
+        {
+          "name": "José Luis Cano",
+          "viaf": "195303424"
+        }
       ]
     }
   },
@@ -487,7 +941,10 @@ var points = [
       "name": "Alhaurin el Grande, Spain",
       "popupContent": "Alhaurin el Grande, Spain",
       "affiliatedPeople": [
-        "Gerald Brenan"
+        {
+          "name": "Gerald Brenan",
+          "viaf": "7515708"
+        }
       ]
     }
   },
@@ -504,7 +961,10 @@ var points = [
       "name": "Alicante, Spain",
       "popupContent": "Alicante, Spain",
       "affiliatedPeople": [
-        "Miguel Hernández"
+        {
+          "name": "Miguel Hernández",
+          "viaf": "64032485"
+        }
       ]
     }
   },
@@ -521,7 +981,10 @@ var points = [
       "name": "Alimos, Greece",
       "popupContent": "Alimos, Greece",
       "affiliatedPeople": [
-        "Thucydides"
+        {
+          "name": "Thucydides",
+          "viaf": "95161463"
+        }
       ]
     }
   },
@@ -538,7 +1001,10 @@ var points = [
       "name": "Allahabad, India",
       "popupContent": "Allahabad, India",
       "affiliatedPeople": [
-        "Jawaharlal Nehru"
+        {
+          "name": "Jawaharlal Nehru",
+          "viaf": "49252619"
+        }
       ]
     }
   },
@@ -555,7 +1021,10 @@ var points = [
       "name": "Alliance, New Jersey",
       "popupContent": "Alliance, New Jersey",
       "affiliatedPeople": [
-        "Gilbert Seldes"
+        {
+          "name": "Gilbert Seldes",
+          "viaf": "109372554"
+        }
       ]
     }
   },
@@ -572,7 +1041,10 @@ var points = [
       "name": "Almería, Spain",
       "popupContent": "Almería, Spain",
       "affiliatedPeople": [
-        "Fermín Estrella Gutiérrez"
+        {
+          "name": "Fermín Estrella Gutiérrez",
+          "viaf": "36983522"
+        }
       ]
     }
   },
@@ -589,7 +1061,10 @@ var points = [
       "name": "Alta Gracia, Argentina",
       "popupContent": "Alta Gracia, Argentina",
       "affiliatedPeople": [
-        "Delfina Bunge de Gálvez"
+        {
+          "name": "Delfina Bunge de Gálvez",
+          "viaf": "13785567"
+        }
       ]
     }
   },
@@ -606,7 +1081,10 @@ var points = [
       "name": "Amenia, New York",
       "popupContent": "Amenia, New York",
       "affiliatedPeople": [
-        "Lewis Mumford"
+        {
+          "name": "Lewis Mumford",
+          "viaf": "12312890"
+        }
       ]
     }
   },
@@ -623,8 +1101,14 @@ var points = [
       "name": "Amherst, Massachusetts",
       "popupContent": "Amherst, Massachusetts",
       "affiliatedPeople": [
-        "Henry Steele Commager",
-        "Lewis Hanke"
+        {
+          "name": "Henry Steele Commager",
+          "viaf": "91303057"
+        },
+        {
+          "name": "Lewis Hanke",
+          "viaf": "108256647"
+        }
       ]
     }
   },
@@ -641,7 +1125,10 @@ var points = [
       "name": "Amityville, New York",
       "popupContent": "Amityville, New York",
       "affiliatedPeople": [
-        "Gorham Munson"
+        {
+          "name": "Gorham Munson",
+          "viaf": "5305985"
+        }
       ]
     }
   },
@@ -658,9 +1145,18 @@ var points = [
       "name": "Amsterdam, Netherlands",
       "popupContent": "Amsterdam, Netherlands",
       "affiliatedPeople": [
-        "Clifford Cook Furnas",
-        "N. A. Donkersloot (Anthonie Donker)",
-        "Piet Bakker"
+        {
+          "name": "Clifford Cook Furnas",
+          "viaf": "18143685"
+        },
+        {
+          "name": "N. A. Donkersloot (Anthonie Donker)",
+          "viaf": "36025931"
+        },
+        {
+          "name": "Piet Bakker",
+          "viaf": "215885948"
+        }
       ]
     }
   },
@@ -677,7 +1173,10 @@ var points = [
       "name": "Andalusia, Spain",
       "popupContent": "Andalusia, Spain",
       "affiliatedPeople": [
-        "Federico García Lorca"
+        {
+          "name": "Federico García Lorca",
+          "viaf": "34456883"
+        }
       ]
     }
   },
@@ -694,7 +1193,10 @@ var points = [
       "name": "Andover, New Jersey",
       "popupContent": "Andover, New Jersey",
       "affiliatedPeople": [
-        "Kenneth Burke"
+        {
+          "name": "Kenneth Burke",
+          "viaf": "100257278"
+        }
       ]
     }
   },
@@ -711,7 +1213,10 @@ var points = [
       "name": "Angers, France",
       "popupContent": "Angers, France",
       "affiliatedPeople": [
-        "Julien Gracq"
+        {
+          "name": "Julien Gracq",
+          "viaf": "91584356"
+        }
       ]
     }
   },
@@ -728,7 +1233,10 @@ var points = [
       "name": "Anhui, China",
       "popupContent": "Anhui, China",
       "affiliatedPeople": [
-        "William James Entwistle"
+        {
+          "name": "William James Entwistle",
+          "viaf": "69056978"
+        }
       ]
     }
   },
@@ -745,7 +1253,10 @@ var points = [
       "name": "Antwerp, Belgium",
       "popupContent": "Antwerp, Belgium",
       "affiliatedPeople": [
-        "Víctor Delhez"
+        {
+          "name": "Víctor Delhez",
+          "viaf": "69108176"
+        }
       ]
     }
   },
@@ -762,7 +1273,10 @@ var points = [
       "name": "Aouste-sur-Sye, France",
       "popupContent": "Aouste-sur-Sye, France",
       "affiliatedPeople": [
-        "René Gillouin"
+        {
+          "name": "René Gillouin",
+          "viaf": "482144782725253747220"
+        }
       ]
     }
   },
@@ -779,7 +1293,10 @@ var points = [
       "name": "Apulia, Italy",
       "popupContent": "Apulia, Italy",
       "affiliatedPeople": [
-        "Alfredo R. Bufano"
+        {
+          "name": "Alfredo R. Bufano",
+          "viaf": "3861448"
+        }
       ]
     }
   },
@@ -796,7 +1313,10 @@ var points = [
       "name": "Aracataca, Colombia",
       "popupContent": "Aracataca, Colombia",
       "affiliatedPeople": [
-        "Gabriel García Márquez"
+        {
+          "name": "Gabriel García Márquez",
+          "viaf": "54147956"
+        }
       ]
     }
   },
@@ -813,7 +1333,10 @@ var points = [
       "name": "Arcetri, Italy",
       "popupContent": "Arcetri, Italy",
       "affiliatedPeople": [
-        "Francesco Guicciardini"
+        {
+          "name": "Francesco Guicciardini",
+          "viaf": "89549325"
+        }
       ]
     }
   },
@@ -830,7 +1353,10 @@ var points = [
       "name": "Arcetri, Italy",
       "popupContent": "Arcetri, Italy",
       "affiliatedPeople": [
-        "Galileo Galilei"
+        {
+          "name": "Galileo Galilei",
+          "viaf": "2470550"
+        }
       ]
     }
   },
@@ -847,7 +1373,10 @@ var points = [
       "name": "Arequipa, Peru",
       "popupContent": "Arequipa, Peru",
       "affiliatedPeople": [
-        "Harriete Monroe"
+        {
+          "name": "Harriete Monroe",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -864,70 +1393,262 @@ var points = [
       "name": "Argentina",
       "popupContent": "Argentina",
       "affiliatedPeople": [
-        "Adela Grondona",
-        "Alfredo J. Weiss",
-        "Alicia Dora Carrera",
-        "Ángel A. Castellán",
-        "Antonio Aita",
-        "Carlos Alberto Álvarez",
-        "Carlos Altschul",
-        "Carlos Coire",
-        "Carlos Coldaroli",
-        "Carlos Maria Reyles",
-        "Carlos Viola Soto",
-        "Catalina E. Lago",
-        "Cecilio Benítez de Castro",
-        "César Rosales",
-        "Delfín Leocadio Garasa",
-        "Dora Pastoriza de Etchebarne",
-        "Eduardo Ladislao Holmberg",
-        "Elena Sansinena de Elizalde",
-        "Elva de Lóizaga",
-        "Enrique Abeledo",
-        "Eugenio Pucciarelli",
-        "Fernando Elenberg",
-        "Fernando Emery",
-        "Fernando Guibert",
-        "Francisco Jorge Solero",
-        "Germán García",
-        "Gustavo Ferrari",
-        "Héctor Ciocchini",
-        "Héctor Ignacio Eandi",
-        "Hellén Ferro",
-        "Horacio Estol",
-        "José Juan Bruera",
-        "Juan Francisco Ashero",
-        "Juan José Fitzpatrick",
-        "Julio Ardiles Gray",
-        "Julio Navarro Monzó",
-        "León Ostrov",
-        "Lorenzo Dagnino Pastore",
-        "Luis Aznar",
-        "Luis de Elizalde",
-        "María Luisa Bastos",
-        "Mario A. Lancelotti",
-        "Mario Amadeo",
-        "Marta Gallo",
-        "Mercedes Inés Leloir Unzué (Mimí)",
-        "Nelly Vera Saglio",
-        "Néstor Bondoni",
-        "Noemí Vergara de Bietti",
-        "Norberto Rodriguez Bustamante",
-        "Ofelia Kovacci",
-        "Oscar Ferreiro",
-        "Osvaldo Cuadro",
-        "Osvaldo Horacio Dondo",
-        "Pedro Albertelli",
-        "Pedro Larralde",
-        "Rafael Pividal",
-        "Raquel Santángelo",
-        "Rául Arrarás Vergara",
-        "Raúl H. Bottaro",
-        "Rodrigo Bonome",
-        "Roy Bartholomew",
-        "Sara Gallardo",
-        "Vicente Gesualdo",
-        "Vicente Manzorro"
+        {
+          "name": "Adela Grondona",
+          "viaf": "6311062"
+        },
+        {
+          "name": "Alfredo J. Weiss",
+          "viaf": "38342344"
+        },
+        {
+          "name": "Alicia Dora Carrera",
+          "viaf": ""
+        },
+        {
+          "name": "Ángel A. Castellán",
+          "viaf": "44332295"
+        },
+        {
+          "name": "Antonio Aita",
+          "viaf": "59209740"
+        },
+        {
+          "name": "Carlos Alberto Álvarez",
+          "viaf": "53911366"
+        },
+        {
+          "name": "Carlos Altschul",
+          "viaf": "30820253"
+        },
+        {
+          "name": "Carlos Coire",
+          "viaf": "172266119"
+        },
+        {
+          "name": "Carlos Coldaroli",
+          "viaf": ""
+        },
+        {
+          "name": "Carlos Maria Reyles",
+          "viaf": ""
+        },
+        {
+          "name": "Carlos Viola Soto",
+          "viaf": "24213629"
+        },
+        {
+          "name": "Catalina E. Lago",
+          "viaf": ""
+        },
+        {
+          "name": "Cecilio Benítez de Castro",
+          "viaf": "19302953"
+        },
+        {
+          "name": "César Rosales",
+          "viaf": "68001451"
+        },
+        {
+          "name": "Delfín Leocadio Garasa",
+          "viaf": "24613844"
+        },
+        {
+          "name": "Dora Pastoriza de Etchebarne",
+          "viaf": "219534406"
+        },
+        {
+          "name": "Eduardo Ladislao Holmberg",
+          "viaf": "64238553"
+        },
+        {
+          "name": "Elena Sansinena de Elizalde",
+          "viaf": "83474529"
+        },
+        {
+          "name": "Elva de Lóizaga",
+          "viaf": "122105423"
+        },
+        {
+          "name": "Enrique Abeledo",
+          "viaf": ""
+        },
+        {
+          "name": "Eugenio Pucciarelli",
+          "viaf": "29661001"
+        },
+        {
+          "name": "Fernando Elenberg",
+          "viaf": "89644105"
+        },
+        {
+          "name": "Fernando Emery",
+          "viaf": "4236545"
+        },
+        {
+          "name": "Fernando Guibert",
+          "viaf": "86977704"
+        },
+        {
+          "name": "Francisco Jorge Solero",
+          "viaf": "511145857116622922632"
+        },
+        {
+          "name": "Germán García",
+          "viaf": ""
+        },
+        {
+          "name": "Gustavo Ferrari",
+          "viaf": ""
+        },
+        {
+          "name": "Héctor Ciocchini",
+          "viaf": "3973256"
+        },
+        {
+          "name": "Héctor Ignacio Eandi",
+          "viaf": "11163205"
+        },
+        {
+          "name": "Hellén Ferro",
+          "viaf": "13645521"
+        },
+        {
+          "name": "Horacio Estol",
+          "viaf": ""
+        },
+        {
+          "name": "José Juan Bruera",
+          "viaf": "285869878"
+        },
+        {
+          "name": "Juan Francisco Ashero",
+          "viaf": ""
+        },
+        {
+          "name": "Juan José Fitzpatrick",
+          "viaf": ""
+        },
+        {
+          "name": "Julio Ardiles Gray",
+          "viaf": "39410530"
+        },
+        {
+          "name": "Julio Navarro Monzó",
+          "viaf": "99813657"
+        },
+        {
+          "name": "León Ostrov",
+          "viaf": "296920961"
+        },
+        {
+          "name": "Lorenzo Dagnino Pastore",
+          "viaf": "310586158"
+        },
+        {
+          "name": "Luis Aznar",
+          "viaf": "11208688"
+        },
+        {
+          "name": "Luis de Elizalde",
+          "viaf": ""
+        },
+        {
+          "name": "María Luisa Bastos",
+          "viaf": "77934579"
+        },
+        {
+          "name": "Mario A. Lancelotti",
+          "viaf": "29193361"
+        },
+        {
+          "name": "Mario Amadeo",
+          "viaf": "310570143"
+        },
+        {
+          "name": "Marta Gallo",
+          "viaf": "60582804"
+        },
+        {
+          "name": "Mercedes Inés Leloir Unzué (Mimí)",
+          "viaf": ""
+        },
+        {
+          "name": "Nelly Vera Saglio",
+          "viaf": "58923271"
+        },
+        {
+          "name": "Néstor Bondoni",
+          "viaf": "49102086"
+        },
+        {
+          "name": "Noemí Vergara de Bietti",
+          "viaf": "3794000"
+        },
+        {
+          "name": "Norberto Rodriguez Bustamante",
+          "viaf": "67942113"
+        },
+        {
+          "name": "Ofelia Kovacci",
+          "viaf": "92074018"
+        },
+        {
+          "name": "Oscar Ferreiro",
+          "viaf": "230027043"
+        },
+        {
+          "name": "Osvaldo Cuadro",
+          "viaf": "70176091"
+        },
+        {
+          "name": "Osvaldo Horacio Dondo",
+          "viaf": "36043932"
+        },
+        {
+          "name": "Pedro Albertelli",
+          "viaf": "166660334"
+        },
+        {
+          "name": "Pedro Larralde",
+          "viaf": "98597323"
+        },
+        {
+          "name": "Rafael Pividal",
+          "viaf": "72333878"
+        },
+        {
+          "name": "Raquel Santángelo",
+          "viaf": ""
+        },
+        {
+          "name": "Rául Arrarás Vergara",
+          "viaf": ""
+        },
+        {
+          "name": "Raúl H. Bottaro",
+          "viaf": ""
+        },
+        {
+          "name": "Rodrigo Bonome",
+          "viaf": "31906321"
+        },
+        {
+          "name": "Roy Bartholomew",
+          "viaf": "51842041"
+        },
+        {
+          "name": "Sara Gallardo",
+          "viaf": "85325751"
+        },
+        {
+          "name": "Vicente Gesualdo",
+          "viaf": "13705358"
+        },
+        {
+          "name": "Vicente Manzorro",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -944,7 +1665,10 @@ var points = [
       "name": "Arjonilla, Spain",
       "popupContent": "Arjonilla, Spain",
       "affiliatedPeople": [
-        "Manuel García Morente"
+        {
+          "name": "Manuel García Morente",
+          "viaf": "14770046"
+        }
       ]
     }
   },
@@ -961,7 +1685,10 @@ var points = [
       "name": "Arlington, Massachusetts",
       "popupContent": "Arlington, Massachusetts",
       "affiliatedPeople": [
-        "Amado Alonso"
+        {
+          "name": "Amado Alonso",
+          "viaf": "32110832"
+        }
       ]
     }
   },
@@ -978,7 +1705,10 @@ var points = [
       "name": "Armagh, Ireland",
       "popupContent": "Armagh, Ireland",
       "affiliatedPeople": [
-        "Martin Davidson"
+        {
+          "name": "Martin Davidson",
+          "viaf": "299159042"
+        }
       ]
     }
   },
@@ -995,7 +1725,10 @@ var points = [
       "name": "Arras, France",
       "popupContent": "Arras, France",
       "affiliatedPeople": [
-        "René Huyghe"
+        {
+          "name": "René Huyghe",
+          "viaf": "7391755"
+        }
       ]
     }
   },
@@ -1012,7 +1745,10 @@ var points = [
       "name": "Arthez-d'Asson, France",
       "popupContent": "Arthez-d'Asson, France",
       "affiliatedPeople": [
-        "Henri Brémond"
+        {
+          "name": "Henri Brémond",
+          "viaf": "29570131"
+        }
       ]
     }
   },
@@ -1029,7 +1765,10 @@ var points = [
       "name": "Ascoli Piceno, Italy",
       "popupContent": "Ascoli Piceno, Italy",
       "affiliatedPeople": [
-        "Valentino Bompiani"
+        {
+          "name": "Valentino Bompiani",
+          "viaf": "109376432"
+        }
       ]
     }
   },
@@ -1046,7 +1785,10 @@ var points = [
       "name": "Ascona, Switzerland",
       "popupContent": "Ascona, Switzerland",
       "affiliatedPeople": [
-        "Emil Ludwig"
+        {
+          "name": "Emil Ludwig",
+          "viaf": "44454588"
+        }
       ]
     }
   },
@@ -1063,7 +1805,10 @@ var points = [
       "name": "Asheville, North Carolina",
       "popupContent": "Asheville, North Carolina",
       "affiliatedPeople": [
-        "Thomas Wolfe"
+        {
+          "name": "Thomas Wolfe",
+          "viaf": "54155795"
+        }
       ]
     }
   },
@@ -1080,7 +1825,10 @@ var points = [
       "name": "Asturias, Spain",
       "popupContent": "Asturias, Spain",
       "affiliatedPeople": [
-        "Aurora de Albornoz"
+        {
+          "name": "Aurora de Albornoz",
+          "viaf": "14784461"
+        }
       ]
     }
   },
@@ -1097,9 +1845,18 @@ var points = [
       "name": "Asuncion, Paraguay",
       "popupContent": "Asuncion, Paraguay",
       "affiliatedPeople": [
-        "Alfredo Andrés Jacquet",
-        "Augusto Roa Bastos",
-        "Domingo F. Sarmiento"
+        {
+          "name": "Alfredo Andrés Jacquet",
+          "viaf": "13918215"
+        },
+        {
+          "name": "Augusto Roa Bastos",
+          "viaf": "44304512"
+        },
+        {
+          "name": "Domingo F. Sarmiento",
+          "viaf": "12340366"
+        }
       ]
     }
   },
@@ -1116,8 +1873,14 @@ var points = [
       "name": "Athens, Greece",
       "popupContent": "Athens, Greece",
       "affiliatedPeople": [
-        "Kostas Axelos",
-        "Thucydides"
+        {
+          "name": "Kostas Axelos",
+          "viaf": "108466921"
+        },
+        {
+          "name": "Thucydides",
+          "viaf": "95161463"
+        }
       ]
     }
   },
@@ -1134,7 +1897,10 @@ var points = [
       "name": "Atuona, French Polynesia",
       "popupContent": "Atuona, French Polynesia",
       "affiliatedPeople": [
-        "Paul Gauguin"
+        {
+          "name": "Paul Gauguin",
+          "viaf": "27064953"
+        }
       ]
     }
   },
@@ -1151,7 +1917,10 @@ var points = [
       "name": "Auderghem, Belgium",
       "popupContent": "Auderghem, Belgium",
       "affiliatedPeople": [
-        "Émilie Noulet"
+        {
+          "name": "Émilie Noulet",
+          "viaf": "46755877"
+        }
       ]
     }
   },
@@ -1168,7 +1937,10 @@ var points = [
       "name": "Augsburg, Germany",
       "popupContent": "Augsburg, Germany",
       "affiliatedPeople": [
-        "Bertolt Brecht"
+        {
+          "name": "Bertolt Brecht",
+          "viaf": "2467372"
+        }
       ]
     }
   },
@@ -1185,7 +1957,10 @@ var points = [
       "name": "Auschwitz, Poland",
       "popupContent": "Auschwitz, Poland",
       "affiliatedPeople": [
-        "Benjamin Fondane"
+        {
+          "name": "Benjamin Fondane",
+          "viaf": "4929921"
+        }
       ]
     }
   },
@@ -1202,7 +1977,10 @@ var points = [
       "name": "Austin, Minnesota",
       "popupContent": "Austin, Minnesota",
       "affiliatedPeople": [
-        "Richard Eberhart"
+        {
+          "name": "Richard Eberhart",
+          "viaf": "97788157"
+        }
       ]
     }
   },
@@ -1219,7 +1997,10 @@ var points = [
       "name": "Auxerre, France",
       "popupContent": "Auxerre, France",
       "affiliatedPeople": [
-        "Etienne Gilson"
+        {
+          "name": "Etienne Gilson",
+          "viaf": "9846775"
+        }
       ]
     }
   },
@@ -1236,8 +2017,14 @@ var points = [
       "name": "Avellaneda, Argentina",
       "popupContent": "Avellaneda, Argentina",
       "affiliatedPeople": [
-        "Alejandra Pizarnik",
-        "Juan José Castro"
+        {
+          "name": "Alejandra Pizarnik",
+          "viaf": "17233961"
+        },
+        {
+          "name": "Juan José Castro",
+          "viaf": "206271"
+        }
       ]
     }
   },
@@ -1254,7 +2041,10 @@ var points = [
       "name": "Avignon, France",
       "popupContent": "Avignon, France",
       "affiliatedPeople": [
-        "Maurice Le Roux"
+        {
+          "name": "Maurice Le Roux",
+          "viaf": "210469"
+        }
       ]
     }
   },
@@ -1271,7 +2061,10 @@ var points = [
       "name": "Ayot St Lawrence, United Kingdom",
       "popupContent": "Ayot St Lawrence, United Kingdom",
       "affiliatedPeople": [
-        "George Bernard Shaw"
+        {
+          "name": "George Bernard Shaw",
+          "viaf": "89019752"
+        }
       ]
     }
   },
@@ -1288,7 +2081,10 @@ var points = [
       "name": "Azul, Argentina",
       "popupContent": "Azul, Argentina",
       "affiliatedPeople": [
-        "Aníbal Sánchez Reulet"
+        {
+          "name": "Aníbal Sánchez Reulet",
+          "viaf": "302178751"
+        }
       ]
     }
   },
@@ -1305,7 +2101,10 @@ var points = [
       "name": "Bad Pyrmont, Germany",
       "popupContent": "Bad Pyrmont, Germany",
       "affiliatedPeople": [
-        "Walter Erben"
+        {
+          "name": "Walter Erben",
+          "viaf": "64151372"
+        }
       ]
     }
   },
@@ -1322,8 +2121,14 @@ var points = [
       "name": "Badajoz, Spain",
       "popupContent": "Badajoz, Spain",
       "affiliatedPeople": [
-        "Arturo Barea",
-        "Enrique Díez-Canedo"
+        {
+          "name": "Arturo Barea",
+          "viaf": "54280835"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "viaf": "59091986"
+        }
       ]
     }
   },
@@ -1340,7 +2145,10 @@ var points = [
       "name": "Badalona, Spain",
       "popupContent": "Badalona, Spain",
       "affiliatedPeople": [
-        "Enrique Borrás"
+        {
+          "name": "Enrique Borrás",
+          "viaf": "87243615"
+        }
       ]
     }
   },
@@ -1357,7 +2165,10 @@ var points = [
       "name": "Baden bei Wien, Austria",
       "popupContent": "Baden bei Wien, Austria",
       "affiliatedPeople": [
-        "George Hoellering"
+        {
+          "name": "George Hoellering",
+          "viaf": "55983794"
+        }
       ]
     }
   },
@@ -1374,7 +2185,10 @@ var points = [
       "name": "Baden, Switzerland",
       "popupContent": "Baden, Switzerland",
       "affiliatedPeople": [
-        "Édith Boissonnas"
+        {
+          "name": "Édith Boissonnas",
+          "viaf": "19797627"
+        }
       ]
     }
   },
@@ -1391,8 +2205,14 @@ var points = [
       "name": "Baden-Baden, Germany",
       "popupContent": "Baden-Baden, Germany",
       "affiliatedPeople": [
-        "Hans Freyer",
-        "Pierre Luis Joseph Boulez"
+        {
+          "name": "Hans Freyer",
+          "viaf": "14801416"
+        },
+        {
+          "name": "Pierre Luis Joseph Boulez",
+          "viaf": "108239968"
+        }
       ]
     }
   },
@@ -1409,7 +2229,10 @@ var points = [
       "name": "Badenweiler, Germany",
       "popupContent": "Badenweiler, Germany",
       "affiliatedPeople": [
-        "Anton Pavlovich Chekhov"
+        {
+          "name": "Anton Pavlovich Chekhov",
+          "viaf": "95216565"
+        }
       ]
     }
   },
@@ -1441,7 +2264,10 @@ var points = [
       "name": "Bagni di Lucca, Italy",
       "popupContent": "Bagni di Lucca, Italy",
       "affiliatedPeople": [
-        "Francis Marion Crawford"
+        {
+          "name": "Francis Marion Crawford",
+          "viaf": "4958780"
+        }
       ]
     }
   },
@@ -1458,8 +2284,14 @@ var points = [
       "name": "Bahia Blanca, Argentina",
       "popupContent": "Bahia Blanca, Argentina",
       "affiliatedPeople": [
-        "Eduardo Mallea",
-        "Ezequiel Martínez Estrada"
+        {
+          "name": "Eduardo Mallea",
+          "viaf": "114171402"
+        },
+        {
+          "name": "Ezequiel Martínez Estrada",
+          "viaf": "46755849"
+        }
       ]
     }
   },
@@ -1476,9 +2308,18 @@ var points = [
       "name": "Baltimore, Maryland",
       "popupContent": "Baltimore, Maryland",
       "affiliatedPeople": [
-        "Karl J. Shapiro",
-        "Sylvia Beach",
-        "Thomas Wolfe"
+        {
+          "name": "Karl J. Shapiro",
+          "viaf": "109257053"
+        },
+        {
+          "name": "Sylvia Beach",
+          "viaf": "35247539"
+        },
+        {
+          "name": "Thomas Wolfe",
+          "viaf": "54155795"
+        }
       ]
     }
   },
@@ -1495,7 +2336,10 @@ var points = [
       "name": "Banbury, United Kingdom",
       "popupContent": "Banbury, United Kingdom",
       "affiliatedPeople": [
-        "George Fitz-Hardinge Berkeley"
+        {
+          "name": "George Fitz-Hardinge Berkeley",
+          "viaf": "111233636"
+        }
       ]
     }
   },
@@ -1512,7 +2356,10 @@ var points = [
       "name": "Bandel, India",
       "popupContent": "Bandel, India",
       "affiliatedPeople": [
-        "Sarat Chandra Chatterjee"
+        {
+          "name": "Sarat Chandra Chatterjee",
+          "viaf": "68938788"
+        }
       ]
     }
   },
@@ -1529,7 +2376,10 @@ var points = [
       "name": "Banfield, Buenos Aires, Argentina",
       "popupContent": "Banfield, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Elva de Lóizaga"
+        {
+          "name": "Elva de Lóizaga",
+          "viaf": "122105423"
+        }
       ]
     }
   },
@@ -1546,7 +2396,10 @@ var points = [
       "name": "Banzai, Fujian, Zhangzhou, China",
       "popupContent": "Banzai, Fujian, Zhangzhou, China",
       "affiliatedPeople": [
-        "Lin Yutang"
+        {
+          "name": "Lin Yutang",
+          "viaf": "66481926"
+        }
       ]
     }
   },
@@ -1563,7 +2416,10 @@ var points = [
       "name": "Bar Harbor, Maine",
       "popupContent": "Bar Harbor, Maine",
       "affiliatedPeople": [
-        "Nelson Rockefeller"
+        {
+          "name": "Nelson Rockefeller",
+          "viaf": "9919239"
+        }
       ]
     }
   },
@@ -1580,7 +2436,10 @@ var points = [
       "name": "Bar-le-Duc, France",
       "popupContent": "Bar-le-Duc, France",
       "affiliatedPeople": [
-        "Émile Bréhier"
+        {
+          "name": "Émile Bréhier",
+          "viaf": "8202"
+        }
       ]
     }
   },
@@ -1597,7 +2456,10 @@ var points = [
       "name": "Bar-sur-Aube, France",
       "popupContent": "Bar-sur-Aube, France",
       "affiliatedPeople": [
-        "Gastón Bachelard"
+        {
+          "name": "Gastón Bachelard",
+          "viaf": "4926151"
+        }
       ]
     }
   },
@@ -1614,7 +2476,10 @@ var points = [
       "name": "Baradero, Argentina",
       "popupContent": "Baradero, Argentina",
       "affiliatedPeople": [
-        "Raúl Galán"
+        {
+          "name": "Raúl Galán",
+          "viaf": "164505117"
+        }
       ]
     }
   },
@@ -1631,25 +2496,82 @@ var points = [
       "name": "Barcelona, Spain",
       "popupContent": "Barcelona, Spain",
       "affiliatedPeople": [
-        "Alberto Junyent",
-        "Antonio García Birlan",
-        "Antonio López Llausás",
-        "Carlos Soldevila",
-        "Enrique Borrás",
-        "Eugenio d'Ors",
-        "Francisco Candel",
-        "Francisco González Ledesma",
-        "José Agustín Goytisolo",
-        "José Carner",
-        "José Ferrater Mora",
-        "José María Castellet",
-        "Juan Eduardo Cirlot",
-        "Juan Goytisolo",
-        "Manuel Durán",
-        "Sebastián Soler",
-        "Tomás Garcés",
-        "Víctor Alba",
-        "Xavier Benguerel i Llobet"
+        {
+          "name": "Alberto Junyent",
+          "viaf": "6593275"
+        },
+        {
+          "name": "Antonio García Birlan",
+          "viaf": "56159936"
+        },
+        {
+          "name": "Antonio López Llausás",
+          "viaf": "170716796"
+        },
+        {
+          "name": "Carlos Soldevila",
+          "viaf": "62674007"
+        },
+        {
+          "name": "Enrique Borrás",
+          "viaf": "87243615"
+        },
+        {
+          "name": "Eugenio d'Ors",
+          "viaf": "59077528"
+        },
+        {
+          "name": "Francisco Candel",
+          "viaf": "269850"
+        },
+        {
+          "name": "Francisco González Ledesma",
+          "viaf": "119934250"
+        },
+        {
+          "name": "José Agustín Goytisolo",
+          "viaf": "117022600"
+        },
+        {
+          "name": "José Carner",
+          "viaf": "41834938"
+        },
+        {
+          "name": "José Ferrater Mora",
+          "viaf": "109100695"
+        },
+        {
+          "name": "José María Castellet",
+          "viaf": "109575146"
+        },
+        {
+          "name": "Juan Eduardo Cirlot",
+          "viaf": "24814"
+        },
+        {
+          "name": "Juan Goytisolo",
+          "viaf": "100258886"
+        },
+        {
+          "name": "Manuel Durán",
+          "viaf": "85162761"
+        },
+        {
+          "name": "Sebastián Soler",
+          "viaf": "47788812"
+        },
+        {
+          "name": "Tomás Garcés",
+          "viaf": "68951895"
+        },
+        {
+          "name": "Víctor Alba",
+          "viaf": "108893961"
+        },
+        {
+          "name": "Xavier Benguerel i Llobet",
+          "viaf": "114660038"
+        }
       ]
     }
   },
@@ -1658,7 +2580,7 @@ var points = [
     "geometry": {
       "type": "Point",
       "coordinates": [
-        -66.5384,
+        66.5384,
         18.4547
       ]
     },
@@ -1666,7 +2588,10 @@ var points = [
       "name": "Barceloneta, Puerto Rico",
       "popupContent": "Barceloneta, Puerto Rico",
       "affiliatedPeople": [
-        "Ángel Flores"
+        {
+          "name": "Ángel Flores",
+          "viaf": "98522831"
+        }
       ]
     }
   },
@@ -1683,7 +2608,10 @@ var points = [
       "name": "Bárcena de Pie de Concha, Spain",
       "popupContent": "Bárcena de Pie de Concha, Spain",
       "affiliatedPeople": [
-        "Luis Araquistáin"
+        {
+          "name": "Luis Araquistáin",
+          "viaf": "24616799"
+        }
       ]
     }
   },
@@ -1700,7 +2628,10 @@ var points = [
       "name": "Bardsea, United Kingdom",
       "popupContent": "Bardsea, United Kingdom",
       "affiliatedPeople": [
-        "Eliza Marian Butler"
+        {
+          "name": "Eliza Marian Butler",
+          "viaf": "13325702"
+        }
       ]
     }
   },
@@ -1717,7 +2648,10 @@ var points = [
       "name": "Barmen, Germany",
       "popupContent": "Barmen, Germany",
       "affiliatedPeople": [
-        "Ulrich Klug"
+        {
+          "name": "Ulrich Klug",
+          "viaf": "108926828"
+        }
       ]
     }
   },
@@ -1734,7 +2668,10 @@ var points = [
       "name": "Barracas, Buenos Aires, Argentina",
       "popupContent": "Barracas, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Jacob Fijman"
+        {
+          "name": "Jacob Fijman",
+          "viaf": "34615650"
+        }
       ]
     }
   },
@@ -1751,7 +2688,10 @@ var points = [
       "name": "Barton-upon-Humber, United Kingdom",
       "popupContent": "Barton-upon-Humber, United Kingdom",
       "affiliatedPeople": [
-        "Henry Treece"
+        {
+          "name": "Henry Treece",
+          "viaf": "7759774"
+        }
       ]
     }
   },
@@ -1768,7 +2708,10 @@ var points = [
       "name": "Bas-Rhin, France",
       "popupContent": "Bas-Rhin, France",
       "affiliatedPeople": [
-        "Albert Kahn"
+        {
+          "name": "Albert Kahn",
+          "viaf": "27073338"
+        }
       ]
     }
   },
@@ -1785,11 +2728,26 @@ var points = [
       "name": "Basel, Switzerland",
       "popupContent": "Basel, Switzerland",
       "affiliatedPeople": [
-        "Carl Jacob Burckhardt",
-        "Hans Kunz",
-        "Hans Urs Von Balthasar",
-        "Jakob Christoph Buckhardt",
-        "Karl Jaspers"
+        {
+          "name": "Carl Jacob Burckhardt",
+          "viaf": "59079766"
+        },
+        {
+          "name": "Hans Kunz",
+          "viaf": "79214903"
+        },
+        {
+          "name": "Hans Urs Von Balthasar",
+          "viaf": "120634293"
+        },
+        {
+          "name": "Jakob Christoph Buckhardt",
+          "viaf": ""
+        },
+        {
+          "name": "Karl Jaspers",
+          "viaf": "31998030"
+        }
       ]
     }
   },
@@ -1806,7 +2764,10 @@ var points = [
       "name": "Bayamo, Cuba",
       "popupContent": "Bayamo, Cuba",
       "affiliatedPeople": [
-        "Ricardo Baeza"
+        {
+          "name": "Ricardo Baeza",
+          "viaf": "13404577"
+        }
       ]
     }
   },
@@ -1823,7 +2784,10 @@ var points = [
       "name": "Bayonne, France",
       "popupContent": "Bayonne, France",
       "affiliatedPeople": [
-        "Gloria Alcorta"
+        {
+          "name": "Gloria Alcorta",
+          "viaf": "36913604"
+        }
       ]
     }
   },
@@ -1840,7 +2804,10 @@ var points = [
       "name": "Bayonne, New Jersey",
       "popupContent": "Bayonne, New Jersey",
       "affiliatedPeople": [
-        "Jean Boley"
+        {
+          "name": "Jean Boley",
+          "viaf": "48795839"
+        }
       ]
     }
   },
@@ -1872,8 +2839,14 @@ var points = [
       "name": "Beaconsfield, United Kingdom",
       "popupContent": "Beaconsfield, United Kingdom",
       "affiliatedPeople": [
-        "G. K. Chesterton",
-        "Paul Féval"
+        {
+          "name": "G. K. Chesterton",
+          "viaf": "14767719"
+        },
+        {
+          "name": "Paul Féval",
+          "viaf": "17222447"
+        }
       ]
     }
   },
@@ -1890,7 +2863,10 @@ var points = [
       "name": "Beaumont-Hamel, France",
       "popupContent": "Beaumont-Hamel, France",
       "affiliatedPeople": [
-        "Hector Hugh Munro (\"Saki\")"
+        {
+          "name": "Hector Hugh Munro (\"Saki\")",
+          "viaf": "7396805"
+        }
       ]
     }
   },
@@ -1907,7 +2883,10 @@ var points = [
       "name": "Beccar, Argentina",
       "popupContent": "Beccar, Argentina",
       "affiliatedPeople": [
-        "Victoria Ocampo"
+        {
+          "name": "Victoria Ocampo",
+          "viaf": "14774594"
+        }
       ]
     }
   },
@@ -1924,7 +2903,10 @@ var points = [
       "name": "Bedford, Indiana",
       "popupContent": "Bedford, Indiana",
       "affiliatedPeople": [
-        "Alfred Bertram Guthrie, Jr."
+        {
+          "name": "Alfred Bertram Guthrie, Jr.",
+          "viaf": "109374827"
+        }
       ]
     }
   },
@@ -1941,7 +2923,10 @@ var points = [
       "name": "Beijing, China",
       "popupContent": "Beijing, China",
       "affiliatedPeople": [
-        "Chi'en Hsiao (Xiao Qian)"
+        {
+          "name": "Chi'en Hsiao (Xiao Qian)",
+          "viaf": "88980245"
+        }
       ]
     }
   },
@@ -1958,7 +2943,10 @@ var points = [
       "name": "Bel-Air, Los Angeles, California",
       "popupContent": "Bel-Air, Los Angeles, California",
       "affiliatedPeople": [
-        "Truman Capote"
+        {
+          "name": "Truman Capote",
+          "viaf": "51686739"
+        }
       ]
     }
   },
@@ -1975,9 +2963,18 @@ var points = [
       "name": "Belfast, Ireland",
       "popupContent": "Belfast, Ireland",
       "affiliatedPeople": [
-        "Clive Staples Lewis",
-        "Louis MacNeice",
-        "Samuel Lilley"
+        {
+          "name": "Clive Staples Lewis",
+          "viaf": "22144877"
+        },
+        {
+          "name": "Louis MacNeice",
+          "viaf": "46802910"
+        },
+        {
+          "name": "Samuel Lilley",
+          "viaf": "107276245"
+        }
       ]
     }
   },
@@ -1994,8 +2991,14 @@ var points = [
       "name": "Belgium",
       "popupContent": "Belgium",
       "affiliatedPeople": [
-        "Maria Nys (Huxley)",
-        "Pierre Frederix"
+        {
+          "name": "Maria Nys (Huxley)",
+          "viaf": "282951015"
+        },
+        {
+          "name": "Pierre Frederix",
+          "viaf": "9846349"
+        }
       ]
     }
   },
@@ -2012,8 +3015,14 @@ var points = [
       "name": "Belgrade, Serbia",
       "popupContent": "Belgrade, Serbia",
       "affiliatedPeople": [
-        "Ivo Andrić",
-        "Walter Biemel"
+        {
+          "name": "Ivo Andrić",
+          "viaf": "97177322"
+        },
+        {
+          "name": "Walter Biemel",
+          "viaf": "108419753"
+        }
       ]
     }
   },
@@ -2030,7 +3039,10 @@ var points = [
       "name": "Belgrave Square, London, United Kingdom",
       "popupContent": "Belgrave Square, London, United Kingdom",
       "affiliatedPeople": [
-        "Alejandra de Kent"
+        {
+          "name": "Alejandra de Kent",
+          "viaf": "186930560"
+        }
       ]
     }
   },
@@ -2047,7 +3059,10 @@ var points = [
       "name": "Belknap County, New Hampshire",
       "popupContent": "Belknap County, New Hampshire",
       "affiliatedPeople": [
-        "Richard Volney Chase"
+        {
+          "name": "Richard Volney Chase",
+          "viaf": "54218651"
+        }
       ]
     }
   },
@@ -2064,7 +3079,10 @@ var points = [
       "name": "Bellac, France",
       "popupContent": "Bellac, France",
       "affiliatedPeople": [
-        "Jean Giraudoux"
+        {
+          "name": "Jean Giraudoux",
+          "viaf": "2470938"
+        }
       ]
     }
   },
@@ -2081,7 +3099,10 @@ var points = [
       "name": "Bellagio, Lombardy, Italy",
       "popupContent": "Bellagio, Lombardy, Italy",
       "affiliatedPeople": [
-        "Filippo Tommaso Marinetti"
+        {
+          "name": "Filippo Tommaso Marinetti",
+          "viaf": "4933263"
+        }
       ]
     }
   },
@@ -2098,8 +3119,14 @@ var points = [
       "name": "Belluno, Italy",
       "popupContent": "Belluno, Italy",
       "affiliatedPeople": [
-        "Beniamino Dal Fabbro",
-        "Dino Buzzatti"
+        {
+          "name": "Beniamino Dal Fabbro",
+          "viaf": "59893050"
+        },
+        {
+          "name": "Dino Buzzatti",
+          "viaf": "305556424"
+        }
       ]
     }
   },
@@ -2116,7 +3143,10 @@ var points = [
       "name": "Belsano, Pennsylvania",
       "popupContent": "Belsano, Pennsylvania",
       "affiliatedPeople": [
-        "Malcolm Cowley"
+        {
+          "name": "Malcolm Cowley",
+          "viaf": "91308069"
+        }
       ]
     }
   },
@@ -2133,7 +3163,10 @@ var points = [
       "name": "Bengal, India",
       "popupContent": "Bengal, India",
       "affiliatedPeople": [
-        "Humayun Kabir"
+        {
+          "name": "Humayun Kabir",
+          "viaf": "95148746"
+        }
       ]
     }
   },
@@ -2150,7 +3183,10 @@ var points = [
       "name": "Berdychiv, Ukraine",
       "popupContent": "Berdychiv, Ukraine",
       "affiliatedPeople": [
-        "Joseph Conrad"
+        {
+          "name": "Joseph Conrad",
+          "viaf": "73862853"
+        }
       ]
     }
   },
@@ -2182,7 +3218,10 @@ var points = [
       "name": "Bergen, Norway",
       "popupContent": "Bergen, Norway",
       "affiliatedPeople": [
-        "C. J. Hambro"
+        {
+          "name": "C. J. Hambro",
+          "viaf": "52497376"
+        }
       ]
     }
   },
@@ -2199,7 +3238,10 @@ var points = [
       "name": "Bergondo, Spain",
       "popupContent": "Bergondo, Spain",
       "affiliatedPeople": [
-        "José Blanco Amor"
+        {
+          "name": "José Blanco Amor",
+          "viaf": "56629027"
+        }
       ]
     }
   },
@@ -2216,8 +3258,14 @@ var points = [
       "name": "Berkeley, California",
       "popupContent": "Berkeley, California",
       "affiliatedPeople": [
-        "Tulio Halperín Donghi",
-        "Yakov Malkiel"
+        {
+          "name": "Tulio Halperín Donghi",
+          "viaf": "19698846"
+        },
+        {
+          "name": "Yakov Malkiel",
+          "viaf": "110261896"
+        }
       ]
     }
   },
@@ -2234,8 +3282,14 @@ var points = [
       "name": "Berkhamsted, United Kingdom",
       "popupContent": "Berkhamsted, United Kingdom",
       "affiliatedPeople": [
-        "Graham Greene",
-        "Hugh Greene"
+        {
+          "name": "Graham Greene",
+          "viaf": "59083415"
+        },
+        {
+          "name": "Hugh Greene",
+          "viaf": "64799041"
+        }
       ]
     }
   },
@@ -2252,25 +3306,82 @@ var points = [
       "name": "Berlin, Germany",
       "popupContent": "Berlin, Germany",
       "affiliatedPeople": [
-        "Adolf Hitler",
-        "Ansgar Klein",
-        "Bertolt Brecht",
-        "E. T. A. Hoffmann",
-        "Edgar Bodenheimer",
-        "Gottfried Benn",
-        "Guy de Pourtalès",
-        "Heinrich Popitz",
-        "Heinrich Scholz",
-        "Heinrich von Kleist",
-        "Herbert Marcuse",
-        "Jürgen von Kempski",
-        "Leni Riefenstahl",
-        "Michel Gordey",
-        "Peter Gradenwitz",
-        "Péter Szondi",
-        "Walter Benjamin",
-        "Walter Gropius",
-        "Walter Mehring"
+        {
+          "name": "Adolf Hitler",
+          "viaf": "38190770"
+        },
+        {
+          "name": "Ansgar Klein",
+          "viaf": ""
+        },
+        {
+          "name": "Bertolt Brecht",
+          "viaf": "2467372"
+        },
+        {
+          "name": "E. T. A. Hoffmann",
+          "viaf": "29535422"
+        },
+        {
+          "name": "Edgar Bodenheimer",
+          "viaf": "32058196"
+        },
+        {
+          "name": "Gottfried Benn",
+          "viaf": "49221461"
+        },
+        {
+          "name": "Guy de Pourtalès",
+          "viaf": "95156378"
+        },
+        {
+          "name": "Heinrich Popitz",
+          "viaf": "14783735"
+        },
+        {
+          "name": "Heinrich Scholz",
+          "viaf": "56717980"
+        },
+        {
+          "name": "Heinrich von Kleist",
+          "viaf": "7392307"
+        },
+        {
+          "name": "Herbert Marcuse",
+          "viaf": "36921579"
+        },
+        {
+          "name": "Jürgen von Kempski",
+          "viaf": "66483843"
+        },
+        {
+          "name": "Leni Riefenstahl",
+          "viaf": "44304468"
+        },
+        {
+          "name": "Michel Gordey",
+          "viaf": "251011343"
+        },
+        {
+          "name": "Peter Gradenwitz",
+          "viaf": "108626335"
+        },
+        {
+          "name": "Péter Szondi",
+          "viaf": "2477319"
+        },
+        {
+          "name": "Walter Benjamin",
+          "viaf": "46757196"
+        },
+        {
+          "name": "Walter Gropius",
+          "viaf": "24663766"
+        },
+        {
+          "name": "Walter Mehring",
+          "viaf": "27068501"
+        }
       ]
     }
   },
@@ -2287,7 +3398,10 @@ var points = [
       "name": "Bermeo, Spain",
       "popupContent": "Bermeo, Spain",
       "affiliatedPeople": [
-        "Juan Arzadún"
+        {
+          "name": "Juan Arzadún",
+          "viaf": "206458923"
+        }
       ]
     }
   },
@@ -2304,7 +3418,10 @@ var points = [
       "name": "Bern, Switzerland",
       "popupContent": "Bern, Switzerland",
       "affiliatedPeople": [
-        "Judith Janoska-Bendl"
+        {
+          "name": "Judith Janoska-Bendl",
+          "viaf": "292849686"
+        }
       ]
     }
   },
@@ -2321,7 +3438,10 @@ var points = [
       "name": "Bernkastel-Kues, Germany",
       "popupContent": "Bernkastel-Kues, Germany",
       "affiliatedPeople": [
-        "Nicolás de Cusa"
+        {
+          "name": "Nicolás de Cusa",
+          "viaf": "89623095"
+        }
       ]
     }
   },
@@ -2338,8 +3458,14 @@ var points = [
       "name": "Besançon, France",
       "popupContent": "Besançon, France",
       "affiliatedPeople": [
-        "Charles Nodier",
-        "Victor-Marie Hugo"
+        {
+          "name": "Charles Nodier",
+          "viaf": "64009895"
+        },
+        {
+          "name": "Victor-Marie Hugo",
+          "viaf": "9847974"
+        }
       ]
     }
   },
@@ -2356,7 +3482,10 @@ var points = [
       "name": "Bethlehem, Pennsylvania",
       "popupContent": "Bethlehem, Pennsylvania",
       "affiliatedPeople": [
-        "Stephen Vincent Benét"
+        {
+          "name": "Stephen Vincent Benét",
+          "viaf": "100260717"
+        }
       ]
     }
   },
@@ -2373,10 +3502,22 @@ var points = [
       "name": "Beverly Hills, California",
       "popupContent": "Beverly Hills, California",
       "affiliatedPeople": [
-        "Franz Werfel",
-        "Jean Renoir",
-        "Leonard Elmhirst",
-        "Louis Malle"
+        {
+          "name": "Franz Werfel",
+          "viaf": "34464361"
+        },
+        {
+          "name": "Jean Renoir",
+          "viaf": "104724700"
+        },
+        {
+          "name": "Leonard Elmhirst",
+          "viaf": "59920590"
+        },
+        {
+          "name": "Louis Malle",
+          "viaf": "109999709"
+        }
       ]
     }
   },
@@ -2393,7 +3534,10 @@ var points = [
       "name": "Bhagalpur, India",
       "popupContent": "Bhagalpur, India",
       "affiliatedPeople": [
-        "Bhabani Bhattacharya"
+        {
+          "name": "Bhabani Bhattacharya",
+          "viaf": "41954938"
+        }
       ]
     }
   },
@@ -2410,7 +3554,10 @@ var points = [
       "name": "Biarritz, France",
       "popupContent": "Biarritz, France",
       "affiliatedPeople": [
-        "Carlos Caro Potestad"
+        {
+          "name": "Carlos Caro Potestad",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -2427,7 +3574,10 @@ var points = [
       "name": "Biddeford, Maine",
       "popupContent": "Biddeford, Maine",
       "affiliatedPeople": [
-        "Carlos Baker"
+        {
+          "name": "Carlos Baker",
+          "viaf": "107027003"
+        }
       ]
     }
   },
@@ -2444,7 +3594,10 @@ var points = [
       "name": "Biebrich, Wiesbaden, Germany",
       "popupContent": "Biebrich, Wiesbaden, Germany",
       "affiliatedPeople": [
-        "Wilhelm Dilthey"
+        {
+          "name": "Wilhelm Dilthey",
+          "viaf": "68943563"
+        }
       ]
     }
   },
@@ -2461,8 +3614,14 @@ var points = [
       "name": "Bilbao, Spain",
       "popupContent": "Bilbao, Spain",
       "affiliatedPeople": [
-        "Juan Larrea",
-        "Miguel de Unamuno"
+        {
+          "name": "Juan Larrea",
+          "viaf": "41854551"
+        },
+        {
+          "name": "Miguel de Unamuno",
+          "viaf": "88844103"
+        }
       ]
     }
   },
@@ -2479,7 +3638,10 @@ var points = [
       "name": "Billom, France",
       "popupContent": "Billom, France",
       "affiliatedPeople": [
-        "George Bataille"
+        {
+          "name": "George Bataille",
+          "viaf": "41834843"
+        }
       ]
     }
   },
@@ -2496,8 +3658,14 @@ var points = [
       "name": "Birmingham, United Kingdom",
       "popupContent": "Birmingham, United Kingdom",
       "affiliatedPeople": [
-        "John Hadfield",
-        "Rex Warner"
+        {
+          "name": "John Hadfield",
+          "viaf": "110245129"
+        },
+        {
+          "name": "Rex Warner",
+          "viaf": "100912192"
+        }
       ]
     }
   },
@@ -2514,7 +3682,10 @@ var points = [
       "name": "Bishopsbourne, United Kingdom",
       "popupContent": "Bishopsbourne, United Kingdom",
       "affiliatedPeople": [
-        "Joseph Conrad"
+        {
+          "name": "Joseph Conrad",
+          "viaf": "73862853"
+        }
       ]
     }
   },
@@ -2531,7 +3702,10 @@ var points = [
       "name": "Blackheath, Australia",
       "popupContent": "Blackheath, Australia",
       "affiliatedPeople": [
-        "Vere Gordon Childe"
+        {
+          "name": "Vere Gordon Childe",
+          "viaf": "76388231"
+        }
       ]
     }
   },
@@ -2548,7 +3722,10 @@ var points = [
       "name": "Blenheim Palace, United Kingdom",
       "popupContent": "Blenheim Palace, United Kingdom",
       "affiliatedPeople": [
-        "Sir Winston Churchill"
+        {
+          "name": "Sir Winston Churchill",
+          "viaf": "94507588"
+        }
       ]
     }
   },
@@ -2565,7 +3742,10 @@ var points = [
       "name": "Boal, Spain",
       "popupContent": "Boal, Spain",
       "affiliatedPeople": [
-        "Carlos Bousoño"
+        {
+          "name": "Carlos Bousoño",
+          "viaf": "22945913"
+        }
       ]
     }
   },
@@ -2582,12 +3762,30 @@ var points = [
       "name": "Bogotá, Colombia",
       "popupContent": "Bogotá, Colombia",
       "affiliatedPeople": [
-        "Baldomero Sanín Cano",
-        "Cornelio Hispano (Ismael López)",
-        "Daniel Arias Argáez",
-        "Germán Arciniegas",
-        "Jorge Zalamea Borda",
-        "José María Restrepo Millán"
+        {
+          "name": "Baldomero Sanín Cano",
+          "viaf": "44331409"
+        },
+        {
+          "name": "Cornelio Hispano (Ismael López)",
+          "viaf": "114969417"
+        },
+        {
+          "name": "Daniel Arias Argáez",
+          "viaf": ""
+        },
+        {
+          "name": "Germán Arciniegas",
+          "viaf": "66462822"
+        },
+        {
+          "name": "Jorge Zalamea Borda",
+          "viaf": "79043123"
+        },
+        {
+          "name": "José María Restrepo Millán",
+          "viaf": "34034715"
+        }
       ]
     }
   },
@@ -2604,7 +3802,10 @@ var points = [
       "name": "Boguchar, Russia",
       "popupContent": "Boguchar, Russia",
       "affiliatedPeople": [
-        "Aleksandr Afanasiev"
+        {
+          "name": "Aleksandr Afanasiev",
+          "viaf": "64000655"
+        }
       ]
     }
   },
@@ -2621,12 +3822,30 @@ var points = [
       "name": "Bologna, Italy",
       "popupContent": "Bologna, Italy",
       "affiliatedPeople": [
-        "Cristina Campo",
-        "Giorgio Bassani",
-        "Próspero Lambertini (Pope Benedict XIV)",
-        "Riccardo Bacchelli",
-        "Spartaco Gamberini",
-        "Victoria Prati de Fernández"
+        {
+          "name": "Cristina Campo",
+          "viaf": "22197621"
+        },
+        {
+          "name": "Giorgio Bassani",
+          "viaf": "108729325"
+        },
+        {
+          "name": "Próspero Lambertini (Pope Benedict XIV)",
+          "viaf": "76327169"
+        },
+        {
+          "name": "Riccardo Bacchelli",
+          "viaf": "64044782"
+        },
+        {
+          "name": "Spartaco Gamberini",
+          "viaf": "29661283"
+        },
+        {
+          "name": "Victoria Prati de Fernández",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -2643,9 +3862,18 @@ var points = [
       "name": "Bonn, Germany",
       "popupContent": "Bonn, Germany",
       "affiliatedPeople": [
-        "Paul Ludwig Landsberg",
-        "Rafael Gutiérrez Girardot",
-        "Reinhold Friedrich Alfred Hoernlé"
+        {
+          "name": "Paul Ludwig Landsberg",
+          "viaf": "7709588"
+        },
+        {
+          "name": "Rafael Gutiérrez Girardot",
+          "viaf": "108934932"
+        },
+        {
+          "name": "Reinhold Friedrich Alfred Hoernlé",
+          "viaf": "41500143"
+        }
       ]
     }
   },
@@ -2662,11 +3890,26 @@ var points = [
       "name": "Bordeaux, France",
       "popupContent": "Bordeaux, France",
       "affiliatedPeople": [
-        "André Lhote",
-        "François Mauriac",
-        "Gaëton Picon",
-        "Guy Dumur",
-        "Jean Anouilh"
+        {
+          "name": "André Lhote",
+          "viaf": "71528345"
+        },
+        {
+          "name": "François Mauriac",
+          "viaf": "9850407"
+        },
+        {
+          "name": "Gaëton Picon",
+          "viaf": "14775139"
+        },
+        {
+          "name": "Guy Dumur",
+          "viaf": "113744754"
+        },
+        {
+          "name": "Jean Anouilh",
+          "viaf": "54143634"
+        }
       ]
     }
   },
@@ -2683,7 +3926,10 @@ var points = [
       "name": "Borgo Valsugana, Italy",
       "popupContent": "Borgo Valsugana, Italy",
       "affiliatedPeople": [
-        "Alcides de Gasperi"
+        {
+          "name": "Alcides de Gasperi",
+          "viaf": "32011324"
+        }
       ]
     }
   },
@@ -2700,11 +3946,26 @@ var points = [
       "name": "Boston, Massachusetts",
       "popupContent": "Boston, Massachusetts",
       "affiliatedPeople": [
-        "Archibald MacLeish",
-        "Dudley Fitts",
-        "Edith F. Helman",
-        "Pedro Salinas",
-        "Walter Gropius"
+        {
+          "name": "Archibald MacLeish",
+          "viaf": "4926151"
+        },
+        {
+          "name": "Dudley Fitts",
+          "viaf": "111370364"
+        },
+        {
+          "name": "Edith F. Helman",
+          "viaf": "591764"
+        },
+        {
+          "name": "Pedro Salinas",
+          "viaf": "44304992"
+        },
+        {
+          "name": "Walter Gropius",
+          "viaf": "24663766"
+        }
       ]
     }
   },
@@ -2721,7 +3982,10 @@ var points = [
       "name": "Boulder, Colorado",
       "popupContent": "Boulder, Colorado",
       "affiliatedPeople": [
-        "George Gamow"
+        {
+          "name": "George Gamow",
+          "viaf": "76443377"
+        }
       ]
     }
   },
@@ -2738,7 +4002,10 @@ var points = [
       "name": "Boulogne-sur-Mer, France",
       "popupContent": "Boulogne-sur-Mer, France",
       "affiliatedPeople": [
-        "Valentine Hugo"
+        {
+          "name": "Valentine Hugo",
+          "viaf": "68930456"
+        }
       ]
     }
   },
@@ -2755,7 +4022,10 @@ var points = [
       "name": "Bourne End, Wooburn Green, United Kingdom",
       "popupContent": "Bourne End, Wooburn Green, United Kingdom",
       "affiliatedPeople": [
-        "John Lehmann"
+        {
+          "name": "John Lehmann",
+          "viaf": "56672392"
+        }
       ]
     }
   },
@@ -2772,7 +4042,10 @@ var points = [
       "name": "Bovington Camp, United Kingdom",
       "popupContent": "Bovington Camp, United Kingdom",
       "affiliatedPeople": [
-        "Thomas Edward Lawrence"
+        {
+          "name": "Thomas Edward Lawrence",
+          "viaf": "100164858"
+        }
       ]
     }
   },
@@ -2789,7 +4062,10 @@ var points = [
       "name": "Bowie, Maryland",
       "popupContent": "Bowie, Maryland",
       "affiliatedPeople": [
-        "Hoang Van Chi"
+        {
+          "name": "Hoang Van Chi",
+          "viaf": "49252528"
+        }
       ]
     }
   },
@@ -2806,7 +4082,10 @@ var points = [
       "name": "Brackley, United Kingdom",
       "popupContent": "Brackley, United Kingdom",
       "affiliatedPeople": [
-        "William G. Beasley"
+        {
+          "name": "William G. Beasley",
+          "viaf": "12336480"
+        }
       ]
     }
   },
@@ -2823,7 +4102,10 @@ var points = [
       "name": "Branchville, Connecticut",
       "popupContent": "Branchville, Connecticut",
       "affiliatedPeople": [
-        "Herschel Brickell"
+        {
+          "name": "Herschel Brickell",
+          "viaf": "75223922"
+        }
       ]
     }
   },
@@ -2840,7 +4122,10 @@ var points = [
       "name": "Braunau am Inn, Austria",
       "popupContent": "Braunau am Inn, Austria",
       "affiliatedPeople": [
-        "Adolf Hitler"
+        {
+          "name": "Adolf Hitler",
+          "viaf": "38190770"
+        }
       ]
     }
   },
@@ -2857,9 +4142,18 @@ var points = [
       "name": "Bremen, Germany",
       "popupContent": "Bremen, Germany",
       "affiliatedPeople": [
-        "Alexander Gottfried Gode von Aesch",
-        "Nicolás Schönfeld",
-        "Zoltán Szankay"
+        {
+          "name": "Alexander Gottfried Gode von Aesch",
+          "viaf": "74074414"
+        },
+        {
+          "name": "Nicolás Schönfeld",
+          "viaf": "54415509"
+        },
+        {
+          "name": "Zoltán Szankay",
+          "viaf": "42364790"
+        }
       ]
     }
   },
@@ -2876,7 +4170,10 @@ var points = [
       "name": "Brentwood, California",
       "popupContent": "Brentwood, California",
       "affiliatedPeople": [
-        "Marilyn Monroe"
+        {
+          "name": "Marilyn Monroe",
+          "viaf": "27069077"
+        }
       ]
     }
   },
@@ -2893,7 +4190,10 @@ var points = [
       "name": "Brest, France",
       "popupContent": "Brest, France",
       "affiliatedPeople": [
-        "Noël Devaulx"
+        {
+          "name": "Noël Devaulx",
+          "viaf": "24600615"
+        }
       ]
     }
   },
@@ -2910,7 +4210,10 @@ var points = [
       "name": "Bridgewater, Connecticut",
       "popupContent": "Bridgewater, Connecticut",
       "affiliatedPeople": [
-        "Van Wyck Brooks"
+        {
+          "name": "Van Wyck Brooks",
+          "viaf": "32080684"
+        }
       ]
     }
   },
@@ -2927,7 +4230,10 @@ var points = [
       "name": "Brighton, United Kingdom",
       "popupContent": "Brighton, United Kingdom",
       "affiliatedPeople": [
-        "David Garnett"
+        {
+          "name": "David Garnett",
+          "viaf": "7390509"
+        }
       ]
     }
   },
@@ -2944,7 +4250,10 @@ var points = [
       "name": "Bristol, Rhode Island",
       "popupContent": "Bristol, Rhode Island",
       "affiliatedPeople": [
-        "Arthur Mizener"
+        {
+          "name": "Arthur Mizener",
+          "viaf": "108230775"
+        }
       ]
     }
   },
@@ -2961,8 +4270,14 @@ var points = [
       "name": "Bristol, United Kingdom",
       "popupContent": "Bristol, United Kingdom",
       "affiliatedPeople": [
-        "Christopher Fry",
-        "Ricardo E. Latcham"
+        {
+          "name": "Christopher Fry",
+          "viaf": "99838963"
+        },
+        {
+          "name": "Ricardo E. Latcham",
+          "viaf": "55913494"
+        }
       ]
     }
   },
@@ -2979,7 +4294,10 @@ var points = [
       "name": "Brno, Czech Republic",
       "popupContent": "Brno, Czech Republic",
       "affiliatedPeople": [
-        "José (Pepe) Weissberger"
+        {
+          "name": "José (Pepe) Weissberger",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -2996,8 +4314,14 @@ var points = [
       "name": "Bromley, United Kingdom",
       "popupContent": "Bromley, United Kingdom",
       "affiliatedPeople": [
-        "Charles Langbridge Morgan",
-        "Herbert George Wells"
+        {
+          "name": "Charles Langbridge Morgan",
+          "viaf": "76404437"
+        },
+        {
+          "name": "Herbert George Wells",
+          "viaf": "97006424"
+        }
       ]
     }
   },
@@ -3014,7 +4338,10 @@ var points = [
       "name": "Bromsgrove, United Kingdom",
       "popupContent": "Bromsgrove, United Kingdom",
       "affiliatedPeople": [
-        "Alfred Edward Housman"
+        {
+          "name": "Alfred Edward Housman",
+          "viaf": "49249069"
+        }
       ]
     }
   },
@@ -3031,7 +4358,10 @@ var points = [
       "name": "Bronxville, New York",
       "popupContent": "Bronxville, New York",
       "affiliatedPeople": [
-        "Lawrence Ferlinghetti"
+        {
+          "name": "Lawrence Ferlinghetti",
+          "viaf": "110070499"
+        }
       ]
     }
   },
@@ -3048,7 +4378,10 @@ var points = [
       "name": "Brooklin, Ontario, Whitby, Canada",
       "popupContent": "Brooklin, Ontario, Whitby, Canada",
       "affiliatedPeople": [
-        "Donald Grant Creighton"
+        {
+          "name": "Donald Grant Creighton",
+          "viaf": "5008458"
+        }
       ]
     }
   },
@@ -3065,8 +4398,14 @@ var points = [
       "name": "Brookline, Massachusetts",
       "popupContent": "Brookline, Massachusetts",
       "affiliatedPeople": [
-        "John F. Kennedy",
-        "Saul Bellow"
+        {
+          "name": "John F. Kennedy",
+          "viaf": "68910251"
+        },
+        {
+          "name": "Saul Bellow",
+          "viaf": "27060791"
+        }
       ]
     }
   },
@@ -3083,11 +4422,26 @@ var points = [
       "name": "Brooklyn, New York City, New York",
       "popupContent": "Brooklyn, New York City, New York",
       "affiliatedPeople": [
-        "Delmore Schwartz",
-        "Elizabeth Janeway",
-        "Manfred Bennington Lee",
-        "Robert Maynard Hutchins",
-        "T. Carmi"
+        {
+          "name": "Delmore Schwartz",
+          "viaf": "36934167"
+        },
+        {
+          "name": "Elizabeth Janeway",
+          "viaf": "30005917"
+        },
+        {
+          "name": "Manfred Bennington Lee",
+          "viaf": "101145067241066631196"
+        },
+        {
+          "name": "Robert Maynard Hutchins",
+          "viaf": "74154730"
+        },
+        {
+          "name": "T. Carmi",
+          "viaf": "111299931"
+        }
       ]
     }
   },
@@ -3104,7 +4458,10 @@ var points = [
       "name": "Brownsville, New York City, New York",
       "popupContent": "Brownsville, New York City, New York",
       "affiliatedPeople": [
-        "Alfred Kazin"
+        {
+          "name": "Alfred Kazin",
+          "viaf": "108771008"
+        }
       ]
     }
   },
@@ -3121,13 +4478,34 @@ var points = [
       "name": "Brussels, Belgium",
       "popupContent": "Brussels, Belgium",
       "affiliatedPeople": [
-        "Auguste Vermeylen",
-        "Frederic van Ermengen (Franz Hellens)",
-        "José Carner",
-        "Luis Mercier Vega",
-        "Marguerite Yourcenar",
-        "Michel de Ghelderode",
-        "René Berger"
+        {
+          "name": "Auguste Vermeylen",
+          "viaf": "22946210"
+        },
+        {
+          "name": "Frederic van Ermengen (Franz Hellens)",
+          "viaf": "97896642"
+        },
+        {
+          "name": "José Carner",
+          "viaf": "41834938"
+        },
+        {
+          "name": "Luis Mercier Vega",
+          "viaf": "71394972"
+        },
+        {
+          "name": "Marguerite Yourcenar",
+          "viaf": "105154898"
+        },
+        {
+          "name": "Michel de Ghelderode",
+          "viaf": "68927788"
+        },
+        {
+          "name": "René Berger",
+          "viaf": "40528305"
+        }
       ]
     }
   },
@@ -3144,7 +4522,10 @@ var points = [
       "name": "Buchach, Ukraine",
       "popupContent": "Buchach, Ukraine",
       "affiliatedPeople": [
-        "Shmuel Yosef Agnon"
+        {
+          "name": "Shmuel Yosef Agnon",
+          "viaf": "14765267"
+        }
       ]
     }
   },
@@ -3161,7 +4542,10 @@ var points = [
       "name": "Buchardo, Argentina",
       "popupContent": "Buchardo, Argentina",
       "affiliatedPeople": [
-        "Alejandro Bonome"
+        {
+          "name": "Alejandro Bonome",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -3178,7 +4562,10 @@ var points = [
       "name": "Bucharest, Romania",
       "popupContent": "Bucharest, Romania",
       "affiliatedPeople": [
-        "Mircea Eliade"
+        {
+          "name": "Mircea Eliade",
+          "viaf": "73853074"
+        }
       ]
     }
   },
@@ -3195,7 +4582,10 @@ var points = [
       "name": "Bucharest, Romania",
       "popupContent": "Bucharest, Romania",
       "affiliatedPeople": [
-        "Elena Vacarescu"
+        {
+          "name": "Elena Vacarescu",
+          "viaf": "89520833"
+        }
       ]
     }
   },
@@ -3212,11 +4602,26 @@ var points = [
       "name": "Budapest, Hungary",
       "popupContent": "Budapest, Hungary",
       "affiliatedPeople": [
-        "Arnold Hauser",
-        "Arthur Koestler",
-        "Étienne Balazs",
-        "Ivy Herczegh Konjovich",
-        "Péter Szondi"
+        {
+          "name": "Arnold Hauser",
+          "viaf": "39378414"
+        },
+        {
+          "name": "Arthur Koestler",
+          "viaf": "59084510"
+        },
+        {
+          "name": "Étienne Balazs",
+          "viaf": "4960398"
+        },
+        {
+          "name": "Ivy Herczegh Konjovich",
+          "viaf": ""
+        },
+        {
+          "name": "Péter Szondi",
+          "viaf": "2477319"
+        }
       ]
     }
   },
@@ -3233,7 +4638,10 @@ var points = [
       "name": "Büdesheim, Germany",
       "popupContent": "Büdesheim, Germany",
       "affiliatedPeople": [
-        "Stefan George"
+        {
+          "name": "Stefan George",
+          "viaf": "46761592"
+        }
       ]
     }
   },
@@ -3250,331 +4658,1306 @@ var points = [
       "name": "Buenos Aires, Argentina",
       "popupContent": "Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Abelardo Arias",
-        "Abelardo Castillo",
-        "Abraham Eidlicz",
-        "Adan C. Diehl",
-        "Adolfo Bioy Casares",
-        "Adolfo Luis Pérez Zelaschi",
-        "Adolfo P. Carpio",
-        "Agustín Cuzzani",
-        "Agustina Larreta de Alzaga",
-        "Alberto de Zavalía",
-        "Alberto E. Ginastera",
-        "Alberto Girri",
-        "Alberto J. Aguirre",
-        "Alberto Mario Salas",
-        "Alberto Prebisch (Horacio Linares)",
-        "Albino A. Gómez",
-        "Alejandra Pizarnik",
-        "Alejandro Bonome",
-        "Alejandro Denis Krause",
-        "Alfredo Bigatti",
-        "Alfredo Cahn",
-        "Alfredo Coviello",
-        "Alfredo de la Guardia",
-        "Alfredo González Garaño",
-        "Alfredo Martínez de Hoz",
-        "Alicia Jurado",
-        "Álvaro Alsogaray",
-        "Amaro Villanueva",
-        "Ana Gándara",
-        "Ana María Barrenechea",
-        "Andrés Fidalgo",
-        "Andrés L. Caro",
-        "Ángel A. Castellán",
-        "Ángel Bonomini",
-        "Angel J. Battistessa",
-        "Angel Vassallo",
-        "Angélica Ocampo",
-        "Aníbal Ruiz Moreno",
-        "Ansgar Klein",
-        "Antonio di Benedetto",
-        "Antonio López Llausás",
-        "Aquiles Badi",
-        "Ariel Canzani D.",
-        "Armando Asti Vera",
-        "Arturo Cerretani",
-        "Arturo Jacinto Álvarez",
-        "Augusto José Durelli",
-        "Augusto Raúl Cortázar",
-        "Aurora Bernárdez",
-        "Baldomero Fernández Moreno",
-        "Basilio Uribe",
-        "Bernardo Canal Feijóo",
-        "Bernardo González Arrili",
-        "Bernardo Houssay",
-        "Betina Edelberg",
-        "Bonifacio Lastra",
-        "Buenaventura Noé Vita",
-        "C. A. Burone",
-        "Carlos A. Méndez Mosquera",
-        "Carlos Alberto Erro",
-        "Carlos Alberto Floria",
-        "Carlos Arcidiácono",
-        "Carlos Astrada",
-        "Carlos Coire",
-        "Carlos Cossio",
-        "Carlos Ibarguren",
-        "Carlos Mastronardi",
-        "Carlos S. Fayt",
-        "Carmen Gándara",
-        "Cayetano Córdova Iturburu",
-        "César Fernández Moreno",
-        "César Rosales",
-        "Conrado Nalé Roxlo",
-        "Damián Carlos Bayón",
-        "Daniel Devoto",
-        "Dardo Cúneo",
-        "Darío Cantón",
-        "David J. Vogelmann",
-        "Delfina Bunge de Gálvez",
-        "Edgar Bayley",
-        "Edgardo Cozarinsky",
-        "Edmundo Guibourg",
-        "Eduardo Acevedo Díaz",
-        "Eduardo García Belsunce",
-        "Eduardo Goligorsky",
-        "Eduardo González Lanuza",
-        "Eduardo J. Bullrich",
-        "Eduardo Jonquières",
-        "Eduardo Jorge Bosco",
-        "Eduardo Ladislao Holmberg",
-        "Eduardo Lozano",
-        "Eduardo Mallea",
-        "Eduardo Tiscornia",
-        "Elías Castelnuovo",
-        "Elizabeth Azcona Cranwell",
-        "Emilio Carreira ",
-        "Enrique Amorim",
-        "Enrique Anderson Imbert",
-        "Enrique Belloc",
-        "Enrique Bullrich",
-        "Enrique Fernández Latour",
-        "Enrique Molina",
-        "Enrique Pezzoni",
-        "Ernesto J. Fitte",
-        "Ernesto Palacio",
-        "Ernesto Sabato",
-        "Estanislao del Campo",
-        "Esteban Echevarría",
-        "Estela Canto",
-        "Evar Méndez",
-        "Ezequiel de Olaso",
-        "Federico Gorbea",
-        "Félix Daniel Frascara",
-        "Fermín Estrella Gutiérrez",
-        "Fernando de Elizalde",
-        "Fernando Guibert",
-        "Florencio Escardó",
-        "Francisca (Pancha) Ocampo",
-        "Francisco Luis Bernárdez",
-        "Francisco Romero",
-        "Fray Mocho (José Sixto Álvarez)",
-        "Fritz Thyssen",
-        "Fryda Schultz de Mantovani",
-        "Gastón Jarry",
-        "Gloria Alcorta",
-        "Gregorio Bermann",
-        "Gregorio Klimovsky",
-        "Guido Parpagnoli",
-        "Guillermo de Torre",
-        "Gyula Kosice",
-        "H. A. Murena (Héctor Alberto Álvarez)",
-        "Héctor Basaldúa",
-        "Héctor Miguel Ángeli",
-        "Hemilce Margarita Saforcada",
-        "Herminia Catalina Brumana",
-        "Herminia Hallam Hipwell (Baroness Vivenot)",
-        "Homero Mario Guglielmini",
-        "Honario Bustos Domecq",
-        "Honorio Siccardi",
-        "Horacio Armani",
-        "Horacio Butler",
-        "Horacio Coppola",
-        "Horacio Estol",
-        "Horacio Jorge Becco",
-        "Horacio Quiroga",
-        "Horacio Sueldo",
-        "Hugo Acevedo",
-        "Hugo Ezequiel Lezama",
-        "Hugo Parpagnoli",
-        "Ignacio B. Anzoátegui",
-        "Isaías Lerner",
-        "Iverna Codina",
-        "Ivonne Aline Bordelois",
-        "Jaime Barylko",
-        "Jaime Dávalos",
-        "Jaime Rest",
-        "Joaquín Andúriz, S. J. ",
-        "Joaquín Gómez Bas",
-        "Joaquín O. Giannuzzi",
-        "Jorge Andrés Paita",
-        "Jorge Bemberg",
-        "Jorge Cruz",
-        "Jorge D'Urbano",
-        "Jorge Eduardo Bosch",
-        "Jorge Larco",
-        "Jorge Luis Borges",
-        "Jorge Luzuriaga",
-        "Jorge M. Furt",
-        "Jorge Oscar Pickenhayn",
-        "Jorge Pedro Fumiére",
-        "Jorge Romero Brest",
-        "Jorge Vocos Lescano",
-        "José A. García Martínez",
-        "José Alfredo Martínez de Hoz",
-        "José Babini",
-        "José Bianco",
-        "José Blanco Amor",
-        "José Edmundo Clemente",
-        "José Enrique Miguens",
-        "José González Carbalho",
-        "José Hernández",
-        "José Isaacson",
-        "José Luis de Ímaz",
-        "José Luis Lanuza",
-        "José Luis Romero",
-        "José S. Campobassi",
-        "Josefina Cruz",
-        "Josefina de Atucha",
-        "Juan Bautista Ambrosetti",
-        "Juan Carlos Ghiano",
-        "Juan Carlos Paz",
-        "Juan del Prete",
-        "Juan García Gayo",
-        "Juan Gregorio Basso Ferreyra",
-        "Juan José Castro",
-        "Juan Pablo Echagüe",
-        "Juan Pedro Franze",
-        "Juan Rodolfo Wilcock",
-        "Julia Helena Durañona",
-        "Julio Caillet-Bois",
-        "Julio E. Payró",
-        "Julio Molina y Vedia",
-        "Leal Rey",
-        "Leandro Pita Moreno",
-        "León Benarós",
-        "León Dujovne",
-        "Leonardo Castellani",
-        "Leónidas Barletta",
-        "Leopoldo Fortnoy",
-        "Leopoldo Hurtado",
-        "Leopoldo Marechal",
-        "Lino Enea Spilimbergo",
-        "Lisardo Zía",
-        "Lorenzo Dagnino Pastore",
-        "Lorenzo Luzuriaga",
-        "Luciano Allende Lezama",
-        "Ludovico Ivanissevich Machado",
-        "Luis A. Arocena",
-        "Luis de Elizalde (h.)",
-        "Luis Emilio Soto",
-        "Luis Falcini",
-        "Luis Saslavsky",
-        "Luisa Futoransky",
-        "Luisa Mercedes Levinson",
-        "Macedonio Fernández",
-        "Magdalena Harriague",
-        "Manuel Gálvez",
-        "Manuel Lamana",
-        "Manuel Peyrou",
-        "Manuel S. Ocampo",
-        "Marcelo Menasché",
-        "Marcelo Torcuato de Alvear",
-        "Marco Denevi",
-        "Marcos Tiglio",
-        "María Adelia Acevedo y Larrázabal",
-        "María de Villarino",
-        "María Elena Walsh",
-        "María Esther Vásquez",
-        "María Lejárraga (María Martínez Sierra)",
-        "María Reneé Cura",
-        "María Rosa Lida de Malkiel",
-        "María Rosa Oliver",
-        "Marino Ayerra",
-        "Mario Albano",
-        "Mario Amadeo",
-        "Mario Justo López",
-        "Mario Roberto Álvarez",
-        "Marta Mosquera",
-        "Mary Rega Molina",
-        "Matilde Díaz Vélez",
-        "Máximo José Kahn",
-        "Mayor Alberto Da Rocha",
-        "Miguel Alfredo Olivera",
-        "Miguel Ángel Virasoro",
-        "Miguel Cané",
-        "Miguel de Etchebarne",
-        "Miguel Gallardo",
-        "Miguel Ocampo",
-        "Mirta Arlt",
-        "Moisés Carol",
-        "Nélida Baigorria",
-        "Nelly Candegabe",
-        "Nicolás A. Cócaro",
-        "Nicolás Espiro",
-        "Nicolás Schönfeld",
-        "Noël-Pierre Lenoir",
-        "Norah Borges de Torre",
-        "Norah Lange",
-        "Norberto Frontini",
-        "Oliverio Girondo",
-        "Omar Rubén Aracama",
-        "Oscar Ferreiro",
-        "Osvaldo Jorge Ruda",
-        "Patricio Armando Canto",
-        "Patricio Gannon",
-        "Pedro Henríquez Ureña",
-        "Pedro Lecuona (Pedro Ibarzabal)",
-        "Peregrina Pastorino",
-        "Pilar de Lusarreta",
-        "Ramón Doll",
-        "Ramón Gómez de la Serna",
-        "Ramona Maximina Aguirre Herrera",
-        "Raquel Forner",
-        "Rául Arrarás Vergara",
-        "Raúl Gustavo Aguirre",
-        "Raúl H. Burzaco",
-        "Raúl H. Castagnino",
-        "Raúl Horacio Premat",
-        "Raúl Larra",
-        "Raúl Soldi",
-        "Ricardo Güiraldes",
-        "Ricardo Molinari",
-        "Ricardo Mosquera Eastman",
-        "Roberto Cortéz Conde",
-        "Roberto Cortéz Conde",
-        "Roberto Di Pasquale",
-        "Roberto García Morillo",
-        "Roberto Ledesma",
-        "Rodolfo Godino",
-        "Rodolfo Kusch",
-        "Rodolfo Mondolfo",
-        "Roger Pla",
-        "Romualdo Brugetti (sic) - Brughetti",
-        "Samuel Eichelbaum",
-        "Sara Facio",
-        "Sara Gallardo",
-        "Sebastián Marotta",
-        "Sebastián Soler",
-        "Silvina Bullrich",
-        "Silvina Ocampo",
-        "Sirio Alejandro (Nicanor Álvarez Díaz)",
-        "Susana Bombal",
-        "Susana Larguía",
-        "Sylvia Molloy",
-        "Tulio Carella",
-        "Tulio Halperín Donghi",
-        "Valentín Fernando",
-        "Vicente Barbieri",
-        "Vicente Fatone",
-        "Victoria Ocampo",
-        "Victoria Prati de Fernández",
-        "Viviano Hidalgo",
-        "Walter Beveraggi Allende",
-        "William Shand",
-        "Wladimiro Acosta"
+        {
+          "name": "Abelardo Arias",
+          "viaf": "206276715"
+        },
+        {
+          "name": "Abelardo Castillo",
+          "viaf": "84194925"
+        },
+        {
+          "name": "Abraham Eidlicz",
+          "viaf": ""
+        },
+        {
+          "name": "Adan C. Diehl",
+          "viaf": ""
+        },
+        {
+          "name": "Adolfo Bioy Casares",
+          "viaf": "12305230"
+        },
+        {
+          "name": "Adolfo Luis Pérez Zelaschi",
+          "viaf": "50561560"
+        },
+        {
+          "name": "Adolfo P. Carpio",
+          "viaf": "93699841"
+        },
+        {
+          "name": "Agustín Cuzzani",
+          "viaf": "78622281"
+        },
+        {
+          "name": "Agustina Larreta de Alzaga",
+          "viaf": "20930492"
+        },
+        {
+          "name": "Alberto de Zavalía",
+          "viaf": "16349881"
+        },
+        {
+          "name": "Alberto E. Ginastera",
+          "viaf": "27251793"
+        },
+        {
+          "name": "Alberto Girri",
+          "viaf": "32007181"
+        },
+        {
+          "name": "Alberto J. Aguirre",
+          "viaf": ""
+        },
+        {
+          "name": "Alberto Mario Salas",
+          "viaf": "67791729"
+        },
+        {
+          "name": "Alberto Prebisch (Horacio Linares)",
+          "viaf": "96554966"
+        },
+        {
+          "name": "Albino A. Gómez",
+          "viaf": "7617710"
+        },
+        {
+          "name": "Alejandra Pizarnik",
+          "viaf": "17233961"
+        },
+        {
+          "name": "Alejandro Bonome",
+          "viaf": ""
+        },
+        {
+          "name": "Alejandro Denis Krause",
+          "viaf": ""
+        },
+        {
+          "name": "Alfredo Bigatti",
+          "viaf": "261090944"
+        },
+        {
+          "name": "Alfredo Cahn",
+          "viaf": "72405782"
+        },
+        {
+          "name": "Alfredo Coviello",
+          "viaf": "19577007"
+        },
+        {
+          "name": "Alfredo de la Guardia",
+          "viaf": "9788592"
+        },
+        {
+          "name": "Alfredo González Garaño",
+          "viaf": "30962511"
+        },
+        {
+          "name": "Alfredo Martínez de Hoz",
+          "viaf": "2530415"
+        },
+        {
+          "name": "Alicia Jurado",
+          "viaf": "99150208"
+        },
+        {
+          "name": "Álvaro Alsogaray",
+          "viaf": "197240782"
+        },
+        {
+          "name": "Amaro Villanueva",
+          "viaf": "160035107"
+        },
+        {
+          "name": "Ana Gándara",
+          "viaf": "75347052"
+        },
+        {
+          "name": "Ana María Barrenechea",
+          "viaf": "90721152"
+        },
+        {
+          "name": "Andrés Fidalgo",
+          "viaf": "309781735"
+        },
+        {
+          "name": "Andrés L. Caro",
+          "viaf": "18912679"
+        },
+        {
+          "name": "Ángel A. Castellán",
+          "viaf": "44332295"
+        },
+        {
+          "name": "Ángel Bonomini",
+          "viaf": "31067801"
+        },
+        {
+          "name": "Angel J. Battistessa",
+          "viaf": "19709928"
+        },
+        {
+          "name": "Angel Vassallo",
+          "viaf": "46907736"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "viaf": "36205505"
+        },
+        {
+          "name": "Aníbal Ruiz Moreno",
+          "viaf": ""
+        },
+        {
+          "name": "Ansgar Klein",
+          "viaf": ""
+        },
+        {
+          "name": "Antonio di Benedetto",
+          "viaf": "90678327"
+        },
+        {
+          "name": "Antonio López Llausás",
+          "viaf": "170716796"
+        },
+        {
+          "name": "Aquiles Badi",
+          "viaf": "63670450"
+        },
+        {
+          "name": "Ariel Canzani D.",
+          "viaf": "8936524"
+        },
+        {
+          "name": "Armando Asti Vera",
+          "viaf": "14595818"
+        },
+        {
+          "name": "Arturo Cerretani",
+          "viaf": "11333246"
+        },
+        {
+          "name": "Arturo Jacinto Álvarez",
+          "viaf": "70948613"
+        },
+        {
+          "name": "Augusto José Durelli",
+          "viaf": "113939641"
+        },
+        {
+          "name": "Augusto Raúl Cortázar",
+          "viaf": "100170642"
+        },
+        {
+          "name": "Aurora Bernárdez",
+          "viaf": "59213158"
+        },
+        {
+          "name": "Baldomero Fernández Moreno",
+          "viaf": "19686009"
+        },
+        {
+          "name": "Basilio Uribe",
+          "viaf": "305847659"
+        },
+        {
+          "name": "Bernardo Canal Feijóo",
+          "viaf": "117182921"
+        },
+        {
+          "name": "Bernardo González Arrili",
+          "viaf": "76329620"
+        },
+        {
+          "name": "Bernardo Houssay",
+          "viaf": "112501974"
+        },
+        {
+          "name": "Betina Edelberg",
+          "viaf": "76489929"
+        },
+        {
+          "name": "Bonifacio Lastra",
+          "viaf": "73097442"
+        },
+        {
+          "name": "Buenaventura Noé Vita",
+          "viaf": ""
+        },
+        {
+          "name": "C. A. Burone",
+          "viaf": ""
+        },
+        {
+          "name": "Carlos A. Méndez Mosquera",
+          "viaf": "120391113"
+        },
+        {
+          "name": "Carlos Alberto Erro",
+          "viaf": "55698183"
+        },
+        {
+          "name": "Carlos Alberto Floria",
+          "viaf": "73898195"
+        },
+        {
+          "name": "Carlos Arcidiácono",
+          "viaf": "310545733"
+        },
+        {
+          "name": "Carlos Astrada",
+          "viaf": "9969745"
+        },
+        {
+          "name": "Carlos Coire",
+          "viaf": "172266119"
+        },
+        {
+          "name": "Carlos Cossio",
+          "viaf": "93230574"
+        },
+        {
+          "name": "Carlos Ibarguren",
+          "viaf": "34829990"
+        },
+        {
+          "name": "Carlos Mastronardi",
+          "viaf": "44320563"
+        },
+        {
+          "name": "Carlos S. Fayt",
+          "viaf": "77720426"
+        },
+        {
+          "name": "Carmen Gándara",
+          "viaf": "35930989"
+        },
+        {
+          "name": "Cayetano Córdova Iturburu",
+          "viaf": "62886506"
+        },
+        {
+          "name": "César Fernández Moreno",
+          "viaf": "19686009"
+        },
+        {
+          "name": "César Rosales",
+          "viaf": "68001451"
+        },
+        {
+          "name": "Conrado Nalé Roxlo",
+          "viaf": "64099989"
+        },
+        {
+          "name": "Damián Carlos Bayón",
+          "viaf": "76311854"
+        },
+        {
+          "name": "Daniel Devoto",
+          "viaf": "9933"
+        },
+        {
+          "name": "Dardo Cúneo",
+          "viaf": "165400"
+        },
+        {
+          "name": "Darío Cantón",
+          "viaf": "61622886"
+        },
+        {
+          "name": "David J. Vogelmann",
+          "viaf": "28086517"
+        },
+        {
+          "name": "Delfina Bunge de Gálvez",
+          "viaf": "13785567"
+        },
+        {
+          "name": "Edgar Bayley",
+          "viaf": "2488471"
+        },
+        {
+          "name": "Edgardo Cozarinsky",
+          "viaf": ""
+        },
+        {
+          "name": "Edmundo Guibourg",
+          "viaf": "97872900"
+        },
+        {
+          "name": "Eduardo Acevedo Díaz",
+          "viaf": "24614248"
+        },
+        {
+          "name": "Eduardo García Belsunce",
+          "viaf": "5945300"
+        },
+        {
+          "name": "Eduardo Goligorsky",
+          "viaf": "38364518"
+        },
+        {
+          "name": "Eduardo González Lanuza",
+          "viaf": "114082531"
+        },
+        {
+          "name": "Eduardo J. Bullrich",
+          "viaf": "71619611"
+        },
+        {
+          "name": "Eduardo Jonquières",
+          "viaf": "51962611"
+        },
+        {
+          "name": "Eduardo Jorge Bosco",
+          "viaf": "87479892"
+        },
+        {
+          "name": "Eduardo Ladislao Holmberg",
+          "viaf": "64238553"
+        },
+        {
+          "name": "Eduardo Lozano",
+          "viaf": "57814801"
+        },
+        {
+          "name": "Eduardo Mallea",
+          "viaf": "114171402"
+        },
+        {
+          "name": "Eduardo Tiscornia",
+          "viaf": "75242039"
+        },
+        {
+          "name": "Elías Castelnuovo",
+          "viaf": "27984127"
+        },
+        {
+          "name": "Elizabeth Azcona Cranwell",
+          "viaf": "59369958"
+        },
+        {
+          "name": "Emilio Carreira ",
+          "viaf": "86791046"
+        },
+        {
+          "name": "Enrique Amorim",
+          "viaf": "41856621"
+        },
+        {
+          "name": "Enrique Anderson Imbert",
+          "viaf": "59095797"
+        },
+        {
+          "name": "Enrique Belloc",
+          "viaf": "264442506"
+        },
+        {
+          "name": "Enrique Bullrich",
+          "viaf": ""
+        },
+        {
+          "name": "Enrique Fernández Latour",
+          "viaf": "177809431"
+        },
+        {
+          "name": "Enrique Molina",
+          "viaf": "2504823"
+        },
+        {
+          "name": "Enrique Pezzoni",
+          "viaf": "218195575"
+        },
+        {
+          "name": "Ernesto J. Fitte",
+          "viaf": "257021236"
+        },
+        {
+          "name": "Ernesto Palacio",
+          "viaf": "94908879"
+        },
+        {
+          "name": "Ernesto Sabato",
+          "viaf": "108131182"
+        },
+        {
+          "name": "Estanislao del Campo",
+          "viaf": "25492491"
+        },
+        {
+          "name": "Esteban Echevarría",
+          "viaf": "32008821"
+        },
+        {
+          "name": "Estela Canto",
+          "viaf": "100255098"
+        },
+        {
+          "name": "Evar Méndez",
+          "viaf": "308179039"
+        },
+        {
+          "name": "Ezequiel de Olaso",
+          "viaf": "143883"
+        },
+        {
+          "name": "Federico Gorbea",
+          "viaf": "263025103"
+        },
+        {
+          "name": "Félix Daniel Frascara",
+          "viaf": ""
+        },
+        {
+          "name": "Fermín Estrella Gutiérrez",
+          "viaf": "36983522"
+        },
+        {
+          "name": "Fernando de Elizalde",
+          "viaf": "436145857074622921988"
+        },
+        {
+          "name": "Fernando Guibert",
+          "viaf": "86977704"
+        },
+        {
+          "name": "Florencio Escardó",
+          "viaf": "94342428"
+        },
+        {
+          "name": "Francisca (Pancha) Ocampo",
+          "viaf": ""
+        },
+        {
+          "name": "Francisco Luis Bernárdez",
+          "viaf": "99799184"
+        },
+        {
+          "name": "Francisco Romero",
+          "viaf": "9865505"
+        },
+        {
+          "name": "Fray Mocho (José Sixto Álvarez)",
+          "viaf": "72256647"
+        },
+        {
+          "name": "Fritz Thyssen",
+          "viaf": "139027302"
+        },
+        {
+          "name": "Fryda Schultz de Mantovani",
+          "viaf": "119506515"
+        },
+        {
+          "name": "Gastón Jarry",
+          "viaf": ""
+        },
+        {
+          "name": "Gloria Alcorta",
+          "viaf": "36913604"
+        },
+        {
+          "name": "Gregorio Bermann",
+          "viaf": "34991276"
+        },
+        {
+          "name": "Gregorio Klimovsky",
+          "viaf": "54295918"
+        },
+        {
+          "name": "Guido Parpagnoli",
+          "viaf": "305883393"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "viaf": "116932494"
+        },
+        {
+          "name": "Gyula Kosice",
+          "viaf": "34469625"
+        },
+        {
+          "name": "H. A. Murena (Héctor Alberto Álvarez)",
+          "viaf": "79187428"
+        },
+        {
+          "name": "Héctor Basaldúa",
+          "viaf": "32228358"
+        },
+        {
+          "name": "Héctor Miguel Ángeli",
+          "viaf": "72594987"
+        },
+        {
+          "name": "Hemilce Margarita Saforcada",
+          "viaf": "310589848"
+        },
+        {
+          "name": "Herminia Catalina Brumana",
+          "viaf": "293122863"
+        },
+        {
+          "name": "Herminia Hallam Hipwell (Baroness Vivenot)",
+          "viaf": ""
+        },
+        {
+          "name": "Homero Mario Guglielmini",
+          "viaf": "4504460"
+        },
+        {
+          "name": "Honario Bustos Domecq",
+          "viaf": ""
+        },
+        {
+          "name": "Honorio Siccardi",
+          "viaf": "11861619"
+        },
+        {
+          "name": "Horacio Armani",
+          "viaf": "36930320"
+        },
+        {
+          "name": "Horacio Butler",
+          "viaf": "71518123"
+        },
+        {
+          "name": "Horacio Coppola",
+          "viaf": "40185507"
+        },
+        {
+          "name": "Horacio Estol",
+          "viaf": ""
+        },
+        {
+          "name": "Horacio Jorge Becco",
+          "viaf": "3757124"
+        },
+        {
+          "name": "Horacio Quiroga",
+          "viaf": "19689428"
+        },
+        {
+          "name": "Horacio Sueldo",
+          "viaf": "33483939"
+        },
+        {
+          "name": "Hugo Acevedo",
+          "viaf": "63027338"
+        },
+        {
+          "name": "Hugo Ezequiel Lezama",
+          "viaf": "28707140"
+        },
+        {
+          "name": "Hugo Parpagnoli",
+          "viaf": ""
+        },
+        {
+          "name": "Ignacio B. Anzoátegui",
+          "viaf": "117703141"
+        },
+        {
+          "name": "Isaías Lerner",
+          "viaf": "Isaías Lerner"
+        },
+        {
+          "name": "Iverna Codina",
+          "viaf": "36496896"
+        },
+        {
+          "name": "Ivonne Aline Bordelois",
+          "viaf": "32020837"
+        },
+        {
+          "name": "Jaime Barylko",
+          "viaf": "13671900"
+        },
+        {
+          "name": "Jaime Dávalos",
+          "viaf": "19389787"
+        },
+        {
+          "name": "Jaime Rest",
+          "viaf": "25937905"
+        },
+        {
+          "name": "Joaquín Andúriz, S. J. ",
+          "viaf": ""
+        },
+        {
+          "name": "Joaquín Gómez Bas",
+          "viaf": "71018439"
+        },
+        {
+          "name": "Joaquín O. Giannuzzi",
+          "viaf": "213139967"
+        },
+        {
+          "name": "Jorge Andrés Paita",
+          "viaf": ""
+        },
+        {
+          "name": "Jorge Bemberg",
+          "viaf": "7383351"
+        },
+        {
+          "name": "Jorge Cruz",
+          "viaf": "60972170"
+        },
+        {
+          "name": "Jorge D'Urbano",
+          "viaf": "32124015"
+        },
+        {
+          "name": "Jorge Eduardo Bosch",
+          "viaf": "55731096"
+        },
+        {
+          "name": "Jorge Larco",
+          "viaf": "210424179"
+        },
+        {
+          "name": "Jorge Luis Borges",
+          "viaf": "88919448"
+        },
+        {
+          "name": "Jorge Luzuriaga",
+          "viaf": ""
+        },
+        {
+          "name": "Jorge M. Furt",
+          "viaf": "9969663"
+        },
+        {
+          "name": "Jorge Oscar Pickenhayn",
+          "viaf": "39410582"
+        },
+        {
+          "name": "Jorge Pedro Fumiére",
+          "viaf": "33945129"
+        },
+        {
+          "name": "Jorge Romero Brest",
+          "viaf": "19686764"
+        },
+        {
+          "name": "Jorge Vocos Lescano",
+          "viaf": "68942107"
+        },
+        {
+          "name": "José A. García Martínez",
+          "viaf": ""
+        },
+        {
+          "name": "José Alfredo Martínez de Hoz",
+          "viaf": "2530415"
+        },
+        {
+          "name": "José Babini",
+          "viaf": "119488705"
+        },
+        {
+          "name": "José Bianco",
+          "viaf": "19697874"
+        },
+        {
+          "name": "José Blanco Amor",
+          "viaf": "56629027"
+        },
+        {
+          "name": "José Edmundo Clemente",
+          "viaf": ""
+        },
+        {
+          "name": "José Enrique Miguens",
+          "viaf": "93667808"
+        },
+        {
+          "name": "José González Carbalho",
+          "viaf": "14782436"
+        },
+        {
+          "name": "José Hernández",
+          "viaf": "100187307"
+        },
+        {
+          "name": "José Isaacson",
+          "viaf": "2483816"
+        },
+        {
+          "name": "José Luis de Ímaz",
+          "viaf": "22185903"
+        },
+        {
+          "name": "José Luis Lanuza",
+          "viaf": "234675015"
+        },
+        {
+          "name": "José Luis Romero",
+          "viaf": "68961451"
+        },
+        {
+          "name": "José S. Campobassi",
+          "viaf": "251649228"
+        },
+        {
+          "name": "Josefina Cruz",
+          "viaf": "57931753"
+        },
+        {
+          "name": "Josefina de Atucha",
+          "viaf": ""
+        },
+        {
+          "name": "Juan Bautista Ambrosetti",
+          "viaf": "52472869"
+        },
+        {
+          "name": "Juan Carlos Ghiano",
+          "viaf": ""
+        },
+        {
+          "name": "Juan Carlos Paz",
+          "viaf": "6423790"
+        },
+        {
+          "name": "Juan del Prete",
+          "viaf": "70010517"
+        },
+        {
+          "name": "Juan García Gayo",
+          "viaf": "162907072"
+        },
+        {
+          "name": "Juan Gregorio Basso Ferreyra",
+          "viaf": "2362585"
+        },
+        {
+          "name": "Juan José Castro",
+          "viaf": "206271"
+        },
+        {
+          "name": "Juan Pablo Echagüe",
+          "viaf": "1128553"
+        },
+        {
+          "name": "Juan Pedro Franze",
+          "viaf": "8435834"
+        },
+        {
+          "name": "Juan Rodolfo Wilcock",
+          "viaf": "111636439"
+        },
+        {
+          "name": "Julia Helena Durañona",
+          "viaf": ""
+        },
+        {
+          "name": "Julio Caillet-Bois",
+          "viaf": "78724683"
+        },
+        {
+          "name": "Julio E. Payró",
+          "viaf": "40518362"
+        },
+        {
+          "name": "Julio Molina y Vedia",
+          "viaf": "53604277"
+        },
+        {
+          "name": "Leal Rey",
+          "viaf": "87872291"
+        },
+        {
+          "name": "Leandro Pita Moreno",
+          "viaf": ""
+        },
+        {
+          "name": "León Benarós",
+          "viaf": "71470496"
+        },
+        {
+          "name": "León Dujovne",
+          "viaf": "115297031"
+        },
+        {
+          "name": "Leonardo Castellani",
+          "viaf": "25850489"
+        },
+        {
+          "name": "Leónidas Barletta",
+          "viaf": "60548155"
+        },
+        {
+          "name": "Leopoldo Fortnoy",
+          "viaf": ""
+        },
+        {
+          "name": "Leopoldo Hurtado",
+          "viaf": ""
+        },
+        {
+          "name": "Leopoldo Marechal",
+          "viaf": "46840730"
+        },
+        {
+          "name": "Lino Enea Spilimbergo",
+          "viaf": "13362903"
+        },
+        {
+          "name": "Lisardo Zía",
+          "viaf": ""
+        },
+        {
+          "name": "Lorenzo Dagnino Pastore",
+          "viaf": "310586158"
+        },
+        {
+          "name": "Lorenzo Luzuriaga",
+          "viaf": "13106980"
+        },
+        {
+          "name": "Luciano Allende Lezama",
+          "viaf": "212151246596144132269"
+        },
+        {
+          "name": "Ludovico Ivanissevich Machado",
+          "viaf": ""
+        },
+        {
+          "name": "Luis A. Arocena",
+          "viaf": "263574069"
+        },
+        {
+          "name": "Luis de Elizalde (h.)",
+          "viaf": ""
+        },
+        {
+          "name": "Luis Emilio Soto",
+          "viaf": "203079139"
+        },
+        {
+          "name": "Luis Falcini",
+          "viaf": "96555748"
+        },
+        {
+          "name": "Luis Saslavsky",
+          "viaf": "160851139"
+        },
+        {
+          "name": "Luisa Futoransky",
+          "viaf": "49236278"
+        },
+        {
+          "name": "Luisa Mercedes Levinson",
+          "viaf": "100268245"
+        },
+        {
+          "name": "Macedonio Fernández",
+          "viaf": "7423470"
+        },
+        {
+          "name": "Magdalena Harriague",
+          "viaf": "24150516555103440790"
+        },
+        {
+          "name": "Manuel Gálvez",
+          "viaf": "22213019"
+        },
+        {
+          "name": "Manuel Lamana",
+          "viaf": "29070912"
+        },
+        {
+          "name": "Manuel Peyrou",
+          "viaf": "66759591"
+        },
+        {
+          "name": "Manuel S. Ocampo",
+          "viaf": ""
+        },
+        {
+          "name": "Marcelo Menasché",
+          "viaf": "56331172"
+        },
+        {
+          "name": "Marcelo Torcuato de Alvear",
+          "viaf": "50618680"
+        },
+        {
+          "name": "Marco Denevi",
+          "viaf": "110832410"
+        },
+        {
+          "name": "Marcos Tiglio",
+          "viaf": "308267281"
+        },
+        {
+          "name": "María Adelia Acevedo y Larrázabal",
+          "viaf": ""
+        },
+        {
+          "name": "María de Villarino",
+          "viaf": "93837235"
+        },
+        {
+          "name": "María Elena Walsh",
+          "viaf": "79093736"
+        },
+        {
+          "name": "María Esther Vásquez",
+          "viaf": "73870598"
+        },
+        {
+          "name": "María Lejárraga (María Martínez Sierra)",
+          "viaf": "93150576"
+        },
+        {
+          "name": "María Reneé Cura",
+          "viaf": "28455322"
+        },
+        {
+          "name": "María Rosa Lida de Malkiel",
+          "viaf": "29619575"
+        },
+        {
+          "name": "María Rosa Oliver",
+          "viaf": "17385432"
+        },
+        {
+          "name": "Marino Ayerra",
+          "viaf": "292810950"
+        },
+        {
+          "name": "Mario Albano",
+          "viaf": "243991716"
+        },
+        {
+          "name": "Mario Amadeo",
+          "viaf": "310570143"
+        },
+        {
+          "name": "Mario Justo López",
+          "viaf": "17368014"
+        },
+        {
+          "name": "Mario Roberto Álvarez",
+          "viaf": "27997731"
+        },
+        {
+          "name": "Marta Mosquera",
+          "viaf": "309765309"
+        },
+        {
+          "name": "Mary Rega Molina",
+          "viaf": ""
+        },
+        {
+          "name": "Matilde Díaz Vélez",
+          "viaf": ""
+        },
+        {
+          "name": "Máximo José Kahn",
+          "viaf": "11377917"
+        },
+        {
+          "name": "Mayor Alberto Da Rocha",
+          "viaf": ""
+        },
+        {
+          "name": "Miguel Alfredo Olivera",
+          "viaf": "93788379"
+        },
+        {
+          "name": "Miguel Ángel Virasoro",
+          "viaf": "77964401"
+        },
+        {
+          "name": "Miguel Cané",
+          "viaf": "39458418"
+        },
+        {
+          "name": "Miguel de Etchebarne",
+          "viaf": ""
+        },
+        {
+          "name": "Miguel Gallardo",
+          "viaf": ""
+        },
+        {
+          "name": "Miguel Ocampo",
+          "viaf": "96554997"
+        },
+        {
+          "name": "Mirta Arlt",
+          "viaf": "2595944"
+        },
+        {
+          "name": "Moisés Carol",
+          "viaf": "25930345"
+        },
+        {
+          "name": "Nélida Baigorria",
+          "viaf": "63571093"
+        },
+        {
+          "name": "Nelly Candegabe",
+          "viaf": "2413147373405241580003"
+        },
+        {
+          "name": "Nicolás A. Cócaro",
+          "viaf": "114042808"
+        },
+        {
+          "name": "Nicolás Espiro",
+          "viaf": ""
+        },
+        {
+          "name": "Nicolás Schönfeld",
+          "viaf": "54415509"
+        },
+        {
+          "name": "Noël-Pierre Lenoir",
+          "viaf": "268106192"
+        },
+        {
+          "name": "Norah Borges de Torre",
+          "viaf": "72662971"
+        },
+        {
+          "name": "Norah Lange",
+          "viaf": "97987063"
+        },
+        {
+          "name": "Norberto Frontini",
+          "viaf": "287844655"
+        },
+        {
+          "name": "Oliverio Girondo",
+          "viaf": "76327294"
+        },
+        {
+          "name": "Omar Rubén Aracama",
+          "viaf": ""
+        },
+        {
+          "name": "Oscar Ferreiro",
+          "viaf": "230027043"
+        },
+        {
+          "name": "Osvaldo Jorge Ruda",
+          "viaf": "190618542"
+        },
+        {
+          "name": "Patricio Armando Canto",
+          "viaf": "86637297"
+        },
+        {
+          "name": "Patricio Gannon",
+          "viaf": "315641120"
+        },
+        {
+          "name": "Pedro Henríquez Ureña",
+          "viaf": "61558646"
+        },
+        {
+          "name": "Pedro Lecuona (Pedro Ibarzabal)",
+          "viaf": "58833538"
+        },
+        {
+          "name": "Peregrina Pastorino",
+          "viaf": ""
+        },
+        {
+          "name": "Pilar de Lusarreta",
+          "viaf": "63727947"
+        },
+        {
+          "name": "Ramón Doll",
+          "viaf": "309676684"
+        },
+        {
+          "name": "Ramón Gómez de la Serna",
+          "viaf": "68929740"
+        },
+        {
+          "name": "Ramona Maximina Aguirre Herrera",
+          "viaf": ""
+        },
+        {
+          "name": "Raquel Forner",
+          "viaf": "79479681"
+        },
+        {
+          "name": "Rául Arrarás Vergara",
+          "viaf": ""
+        },
+        {
+          "name": "Raúl Gustavo Aguirre",
+          "viaf": "59525643"
+        },
+        {
+          "name": "Raúl H. Burzaco",
+          "viaf": ""
+        },
+        {
+          "name": "Raúl H. Castagnino",
+          "viaf": "73866625"
+        },
+        {
+          "name": "Raúl Horacio Premat",
+          "viaf": ""
+        },
+        {
+          "name": "Raúl Larra",
+          "viaf": "73885125"
+        },
+        {
+          "name": "Raúl Soldi",
+          "viaf": "59171671"
+        },
+        {
+          "name": "Ricardo Güiraldes",
+          "viaf": "34457726"
+        },
+        {
+          "name": "Ricardo Molinari",
+          "viaf": ""
+        },
+        {
+          "name": "Ricardo Mosquera Eastman",
+          "viaf": "309819678"
+        },
+        {
+          "name": "Roberto Cortéz Conde",
+          "viaf": ""
+        },
+        {
+          "name": "Roberto Cortéz Conde",
+          "viaf": ""
+        },
+        {
+          "name": "Roberto Di Pasquale",
+          "viaf": "79441731"
+        },
+        {
+          "name": "Roberto García Morillo",
+          "viaf": "22344148"
+        },
+        {
+          "name": "Roberto Ledesma",
+          "viaf": "311228973"
+        },
+        {
+          "name": "Rodolfo Godino",
+          "viaf": "53781979"
+        },
+        {
+          "name": "Rodolfo Kusch",
+          "viaf": "37041466"
+        },
+        {
+          "name": "Rodolfo Mondolfo",
+          "viaf": "17300457"
+        },
+        {
+          "name": "Roger Pla",
+          "viaf": "21192731"
+        },
+        {
+          "name": "Romualdo Brugetti (sic) - Brughetti",
+          "viaf": "7463248"
+        },
+        {
+          "name": "Samuel Eichelbaum",
+          "viaf": "97791518"
+        },
+        {
+          "name": "Sara Facio",
+          "viaf": "96555193"
+        },
+        {
+          "name": "Sara Gallardo",
+          "viaf": "85325751"
+        },
+        {
+          "name": "Sebastián Marotta",
+          "viaf": "21346107"
+        },
+        {
+          "name": "Sebastián Soler",
+          "viaf": "47788812"
+        },
+        {
+          "name": "Silvina Bullrich",
+          "viaf": "111179188"
+        },
+        {
+          "name": "Silvina Ocampo",
+          "viaf": "100247821"
+        },
+        {
+          "name": "Sirio Alejandro (Nicanor Álvarez Díaz)",
+          "viaf": "46567982"
+        },
+        {
+          "name": "Susana Bombal",
+          "viaf": "44421089"
+        },
+        {
+          "name": "Susana Larguía",
+          "viaf": ""
+        },
+        {
+          "name": "Sylvia Molloy",
+          "viaf": "265662911"
+        },
+        {
+          "name": "Tulio Carella",
+          "viaf": "7723796"
+        },
+        {
+          "name": "Tulio Halperín Donghi",
+          "viaf": "19698846"
+        },
+        {
+          "name": "Valentín Fernando",
+          "viaf": "4184410"
+        },
+        {
+          "name": "Vicente Barbieri",
+          "viaf": "68941999"
+        },
+        {
+          "name": "Vicente Fatone",
+          "viaf": "3845763"
+        },
+        {
+          "name": "Victoria Ocampo",
+          "viaf": "14774594"
+        },
+        {
+          "name": "Victoria Prati de Fernández",
+          "viaf": ""
+        },
+        {
+          "name": "Viviano Hidalgo",
+          "viaf": "13905821"
+        },
+        {
+          "name": "Walter Beveraggi Allende",
+          "viaf": "38229548"
+        },
+        {
+          "name": "William Shand",
+          "viaf": "66596176"
+        },
+        {
+          "name": "Wladimiro Acosta",
+          "viaf": "61192352"
+        }
       ]
     }
   },
@@ -3591,9 +5974,18 @@ var points = [
       "name": "Buffalo, New York",
       "popupContent": "Buffalo, New York",
       "affiliatedPeople": [
-        "Charles A. Brady",
-        "Ralph E. Lapp",
-        "Rosalind Edith Rajagopal"
+        {
+          "name": "Charles A. Brady",
+          "viaf": "21122610"
+        },
+        {
+          "name": "Ralph E. Lapp",
+          "viaf": "32807011"
+        },
+        {
+          "name": "Rosalind Edith Rajagopal",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -3610,7 +6002,10 @@ var points = [
       "name": "Buga, Colombia",
       "popupContent": "Buga, Colombia",
       "affiliatedPeople": [
-        "Cornelio Hispano (Ismael López)"
+        {
+          "name": "Cornelio Hispano (Ismael López)",
+          "viaf": "114969417"
+        }
       ]
     }
   },
@@ -3627,7 +6022,10 @@ var points = [
       "name": "Bulgaria",
       "popupContent": "Bulgaria",
       "affiliatedPeople": [
-        "Svetoslav Minkoff"
+        {
+          "name": "Svetoslav Minkoff",
+          "viaf": "32079699"
+        }
       ]
     }
   },
@@ -3644,7 +6042,10 @@ var points = [
       "name": "Burgo de Osma-Ciudad de Osma, Spain",
       "popupContent": "Burgo de Osma-Ciudad de Osma, Spain",
       "affiliatedPeople": [
-        "Dionisio Ridruejo"
+        {
+          "name": "Dionisio Ridruejo",
+          "viaf": "73868629"
+        }
       ]
     }
   },
@@ -3661,8 +6062,14 @@ var points = [
       "name": "Burgos, Spain",
       "popupContent": "Burgos, Spain",
       "affiliatedPeople": [
-        "Javier Fernández",
-        "Manuel Altolaguirre"
+        {
+          "name": "Javier Fernández",
+          "viaf": "93455514"
+        },
+        {
+          "name": "Manuel Altolaguirre",
+          "viaf": "2482525"
+        }
       ]
     }
   },
@@ -3679,7 +6086,10 @@ var points = [
       "name": "Bury St Edmunds, United Kingdom",
       "popupContent": "Bury St Edmunds, United Kingdom",
       "affiliatedPeople": [
-        "John Middleton Murry"
+        {
+          "name": "John Middleton Murry",
+          "viaf": "15229"
+        }
       ]
     }
   },
@@ -3696,7 +6106,10 @@ var points = [
       "name": "Byhalia, Mississippi",
       "popupContent": "Byhalia, Mississippi",
       "affiliatedPeople": [
-        "William Faulkner"
+        {
+          "name": "William Faulkner",
+          "viaf": "39376770"
+        }
       ]
     }
   },
@@ -3713,7 +6126,10 @@ var points = [
       "name": "Cachoeiro de Itapemirim, Espírito Santo, Brazil",
       "popupContent": "Cachoeiro de Itapemirim, Espírito Santo, Brazil",
       "affiliatedPeople": [
-        "Rubem Braga"
+        {
+          "name": "Rubem Braga",
+          "viaf": "54162569"
+        }
       ]
     }
   },
@@ -3730,7 +6146,10 @@ var points = [
       "name": "Cairo, Egypt",
       "popupContent": "Cairo, Egypt",
       "affiliatedPeople": [
-        "Gabriel Alomar"
+        {
+          "name": "Gabriel Alomar",
+          "viaf": "72844503"
+        }
       ]
     }
   },
@@ -3747,7 +6166,10 @@ var points = [
       "name": "Calais, France",
       "popupContent": "Calais, France",
       "affiliatedPeople": [
-        "Yvonne de Gaulle"
+        {
+          "name": "Yvonne de Gaulle",
+          "viaf": "8194049"
+        }
       ]
     }
   },
@@ -3764,7 +6186,10 @@ var points = [
       "name": "California",
       "popupContent": "California",
       "affiliatedPeople": [
-        "Aníbal Sánchez Reulet"
+        {
+          "name": "Aníbal Sánchez Reulet",
+          "viaf": "302178751"
+        }
       ]
     }
   },
@@ -3781,7 +6206,10 @@ var points = [
       "name": "Calw, Germany",
       "popupContent": "Calw, Germany",
       "affiliatedPeople": [
-        "Hermann Hesse"
+        {
+          "name": "Hermann Hesse",
+          "viaf": "41841418"
+        }
       ]
     }
   },
@@ -3798,7 +6226,10 @@ var points = [
       "name": "Camaguey, Cuba",
       "popupContent": "Camaguey, Cuba",
       "affiliatedPeople": [
-        "Emilio Ballagas"
+        {
+          "name": "Emilio Ballagas",
+          "viaf": "49966254"
+        }
       ]
     }
   },
@@ -3815,7 +6246,10 @@ var points = [
       "name": "Camberley, United Kingdom",
       "popupContent": "Camberley, United Kingdom",
       "affiliatedPeople": [
-        "Francis Bret Harte"
+        {
+          "name": "Francis Bret Harte",
+          "viaf": "100194313"
+        }
       ]
     }
   },
@@ -3832,14 +6266,38 @@ var points = [
       "name": "Cambridge, Massachusetts",
       "popupContent": "Cambridge, Massachusetts",
       "affiliatedPeople": [
-        "Edward Estlin Cummings",
-        "Harry Levin",
-        "John Kenneth Galbraith",
-        "Philip Rahv",
-        "Philipp Frank",
-        "Raimundo Lida",
-        "Robert Gorham Davis",
-        "Werner Wilhelm Jaeger"
+        {
+          "name": "Edward Estlin Cummings",
+          "viaf": "12306931"
+        },
+        {
+          "name": "Harry Levin",
+          "viaf": "85171640"
+        },
+        {
+          "name": "John Kenneth Galbraith",
+          "viaf": "108307703"
+        },
+        {
+          "name": "Philip Rahv",
+          "viaf": "73974415"
+        },
+        {
+          "name": "Philipp Frank",
+          "viaf": "56677234"
+        },
+        {
+          "name": "Raimundo Lida",
+          "viaf": "87710562"
+        },
+        {
+          "name": "Robert Gorham Davis",
+          "viaf": "55390915"
+        },
+        {
+          "name": "Werner Wilhelm Jaeger",
+          "viaf": "46762703"
+        }
       ]
     }
   },
@@ -3856,10 +6314,22 @@ var points = [
       "name": "Cambridge, United Kingdom",
       "popupContent": "Cambridge, United Kingdom",
       "affiliatedPeople": [
-        "Alfred Edward Housman",
-        "Arthur Stanley Eddington",
-        "Jack Lindsay",
-        "James George Frazer"
+        {
+          "name": "Alfred Edward Housman",
+          "viaf": "49249069"
+        },
+        {
+          "name": "Arthur Stanley Eddington",
+          "viaf": "24675918"
+        },
+        {
+          "name": "Jack Lindsay",
+          "viaf": "39501136"
+        },
+        {
+          "name": "James George Frazer",
+          "viaf": "31996454"
+        }
       ]
     }
   },
@@ -3876,7 +6346,10 @@ var points = [
       "name": "Camden, New Jersey",
       "popupContent": "Camden, New Jersey",
       "affiliatedPeople": [
-        "Walt Whitman"
+        {
+          "name": "Walt Whitman",
+          "viaf": "2478331"
+        }
       ]
     }
   },
@@ -3893,7 +6366,10 @@ var points = [
       "name": "Camden, Ohio",
       "popupContent": "Camden, Ohio",
       "affiliatedPeople": [
-        "Sherwood Anderson"
+        {
+          "name": "Sherwood Anderson",
+          "viaf": "39372890"
+        }
       ]
     }
   },
@@ -3910,7 +6386,10 @@ var points = [
       "name": "Campana, Buenos Aires, Argentina",
       "popupContent": "Campana, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Jorge Pedro Fumiére"
+        {
+          "name": "Jorge Pedro Fumiére",
+          "viaf": "33945129"
+        }
       ]
     }
   },
@@ -3927,7 +6406,10 @@ var points = [
       "name": "Campo Quijano, Argentina",
       "popupContent": "Campo Quijano, Argentina",
       "affiliatedPeople": [
-        "Joaquín O. Giannuzzi"
+        {
+          "name": "Joaquín O. Giannuzzi",
+          "viaf": "213139967"
+        }
       ]
     }
   },
@@ -3944,7 +6426,10 @@ var points = [
       "name": "Çanakkale, Turkey",
       "popupContent": "Çanakkale, Turkey",
       "affiliatedPeople": [
-        "Maír José Benardete"
+        {
+          "name": "Maír José Benardete",
+          "viaf": "97666114"
+        }
       ]
     }
   },
@@ -3961,7 +6446,10 @@ var points = [
       "name": "Cangas de Onís, Spain",
       "popupContent": "Cangas de Onís, Spain",
       "affiliatedPeople": [
-        "Joaquín Gómez Bas"
+        {
+          "name": "Joaquín Gómez Bas",
+          "viaf": "71018439"
+        }
       ]
     }
   },
@@ -3978,11 +6466,26 @@ var points = [
       "name": "Cannes, France",
       "popupContent": "Cannes, France",
       "affiliatedPeople": [
-        "Anna Kavan (Helen Ferguson)",
-        "Baba de Faucigny-Lucinge",
-        "Klaus Mann",
-        "Prosper Mérimée",
-        "Yvonne Cloetta"
+        {
+          "name": "Anna Kavan (Helen Ferguson)",
+          "viaf": "59084394"
+        },
+        {
+          "name": "Baba de Faucigny-Lucinge",
+          "viaf": "316441599"
+        },
+        {
+          "name": "Klaus Mann",
+          "viaf": "54151065"
+        },
+        {
+          "name": "Prosper Mérimée",
+          "viaf": "44302582"
+        },
+        {
+          "name": "Yvonne Cloetta",
+          "viaf": "20759097"
+        }
       ]
     }
   },
@@ -3999,7 +6502,10 @@ var points = [
       "name": "Canoabo, Venezuela",
       "popupContent": "Canoabo, Venezuela",
       "affiliatedPeople": [
-        "Vicente Gerbasi"
+        {
+          "name": "Vicente Gerbasi",
+          "viaf": "97841773"
+        }
       ]
     }
   },
@@ -4016,7 +6522,10 @@ var points = [
       "name": "Canonbury, London, United Kingdom",
       "popupContent": "Canonbury, London, United Kingdom",
       "affiliatedPeople": [
-        "Raymond Mortimer"
+        {
+          "name": "Raymond Mortimer",
+          "viaf": "33944978"
+        }
       ]
     }
   },
@@ -4033,7 +6542,10 @@ var points = [
       "name": "Cantagalo, Rio de Janeiro, Brazil",
       "popupContent": "Cantagalo, Rio de Janeiro, Brazil",
       "affiliatedPeople": [
-        "Américo Castro"
+        {
+          "name": "Américo Castro",
+          "viaf": "41855030"
+        }
       ]
     }
   },
@@ -4050,7 +6562,10 @@ var points = [
       "name": "Canterbury, United Kingdom",
       "popupContent": "Canterbury, United Kingdom",
       "affiliatedPeople": [
-        "Herbert Ernest Bates"
+        {
+          "name": "Herbert Ernest Bates",
+          "viaf": "32045124"
+        }
       ]
     }
   },
@@ -4067,7 +6582,10 @@ var points = [
       "name": "Capilla del Monte, Córdoba, Argentina",
       "popupContent": "Capilla del Monte, Córdoba, Argentina",
       "affiliatedPeople": [
-        "Moisés Carol"
+        {
+          "name": "Moisés Carol",
+          "viaf": "25930345"
+        }
       ]
     }
   },
@@ -4084,16 +6602,46 @@ var points = [
       "name": "Caracas, Venezuela",
       "popupContent": "Caracas, Venezuela",
       "affiliatedPeople": [
-        "Andrés Bello",
-        "Ángel Rosemblat",
-        "Baica Dávalos",
-        "José Nucete Sardi",
-        "Juan Liscano",
-        "Luis García Morente",
-        "Mariano Picón Salas",
-        "Ramón Díaz Sánchez",
-        "Segundo Serrano Poncela",
-        "Vicente Gerbasi"
+        {
+          "name": "Andrés Bello",
+          "viaf": "22152206"
+        },
+        {
+          "name": "Ángel Rosemblat",
+          "viaf": ""
+        },
+        {
+          "name": "Baica Dávalos",
+          "viaf": "6963709"
+        },
+        {
+          "name": "José Nucete Sardi",
+          "viaf": "74971714"
+        },
+        {
+          "name": "Juan Liscano",
+          "viaf": "109503920"
+        },
+        {
+          "name": "Luis García Morente",
+          "viaf": "55437272"
+        },
+        {
+          "name": "Mariano Picón Salas",
+          "viaf": "71408028"
+        },
+        {
+          "name": "Ramón Díaz Sánchez",
+          "viaf": "27883260"
+        },
+        {
+          "name": "Segundo Serrano Poncela",
+          "viaf": "30394181"
+        },
+        {
+          "name": "Vicente Gerbasi",
+          "viaf": "97841773"
+        }
       ]
     }
   },
@@ -4110,7 +6658,10 @@ var points = [
       "name": "Caransebeș, Romania",
       "popupContent": "Caransebeș, Romania",
       "affiliatedPeople": [
-        "René Fülöp-Miller"
+        {
+          "name": "René Fülöp-Miller",
+          "viaf": "54195416"
+        }
       ]
     }
   },
@@ -4127,7 +6678,10 @@ var points = [
       "name": "Carmarthen, United Kingdom",
       "popupContent": "Carmarthen, United Kingdom",
       "affiliatedPeople": [
-        "Percy Mansell Jones"
+        {
+          "name": "Percy Mansell Jones",
+          "viaf": "27440837"
+        }
       ]
     }
   },
@@ -4144,7 +6698,10 @@ var points = [
       "name": "Carmel-by-the-Sea, California",
       "popupContent": "Carmel-by-the-Sea, California",
       "affiliatedPeople": [
-        "Robinson Jeffers"
+        {
+          "name": "Robinson Jeffers",
+          "viaf": "68956184"
+        }
       ]
     }
   },
@@ -4161,7 +6718,10 @@ var points = [
       "name": "Carmen de Patagones, Buenos Aires, Argentina",
       "popupContent": "Carmen de Patagones, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Hellén Ferro"
+        {
+          "name": "Hellén Ferro",
+          "viaf": "13645521"
+        }
       ]
     }
   },
@@ -4178,7 +6738,10 @@ var points = [
       "name": "Cartagena, Chile",
       "popupContent": "Cartagena, Chile",
       "affiliatedPeople": [
-        "Vicente Huidobro"
+        {
+          "name": "Vicente Huidobro",
+          "viaf": "12329"
+        }
       ]
     }
   },
@@ -4195,7 +6758,10 @@ var points = [
       "name": "Cartagena, Spain",
       "popupContent": "Cartagena, Spain",
       "affiliatedPeople": [
-        "Carmen Conde Abellán"
+        {
+          "name": "Carmen Conde Abellán",
+          "viaf": "114239041"
+        }
       ]
     }
   },
@@ -4212,7 +6778,10 @@ var points = [
       "name": "Casas Altas, Spain",
       "popupContent": "Casas Altas, Spain",
       "affiliatedPeople": [
-        "Francisco Candel"
+        {
+          "name": "Francisco Candel",
+          "viaf": "269850"
+        }
       ]
     }
   },
@@ -4229,7 +6798,10 @@ var points = [
       "name": "Catania, Italy",
       "popupContent": "Catania, Italy",
       "affiliatedPeople": [
-        "Luigi Capuana"
+        {
+          "name": "Luigi Capuana",
+          "viaf": "24615920"
+        }
       ]
     }
   },
@@ -4246,7 +6818,10 @@ var points = [
       "name": "Caulaincourt, Aisne, France",
       "popupContent": "Caulaincourt, Aisne, France",
       "affiliatedPeople": [
-        "Armand-Augustin-Louis de Caulaincourt"
+        {
+          "name": "Armand-Augustin-Louis de Caulaincourt",
+          "viaf": "68948049"
+        }
       ]
     }
   },
@@ -4263,7 +6838,10 @@ var points = [
       "name": "Cavallasca, Italy",
       "popupContent": "Cavallasca, Italy",
       "affiliatedPeople": [
-        "Margarita Sarfatti"
+        {
+          "name": "Margarita Sarfatti",
+          "viaf": "102330009"
+        }
       ]
     }
   },
@@ -4280,7 +6858,10 @@ var points = [
       "name": "Ceffonds, France",
       "popupContent": "Ceffonds, France",
       "affiliatedPeople": [
-        "Alfred Loisy"
+        {
+          "name": "Alfred Loisy",
+          "viaf": "54145857789923020432"
+        }
       ]
     }
   },
@@ -4297,7 +6878,10 @@ var points = [
       "name": "Céret, France",
       "popupContent": "Céret, France",
       "affiliatedPeople": [
-        "Victor Crastre"
+        {
+          "name": "Victor Crastre",
+          "viaf": "41882345"
+        }
       ]
     }
   },
@@ -4314,7 +6898,10 @@ var points = [
       "name": "Cerrillos, Argentina",
       "popupContent": "Cerrillos, Argentina",
       "affiliatedPeople": [
-        "Manuel José Castilla"
+        {
+          "name": "Manuel José Castilla",
+          "viaf": "30587218"
+        }
       ]
     }
   },
@@ -4331,7 +6918,10 @@ var points = [
       "name": "Cervia, Italy",
       "popupContent": "Cervia, Italy",
       "affiliatedPeople": [
-        "Giovanni Guareschi"
+        {
+          "name": "Giovanni Guareschi",
+          "viaf": "9847198"
+        }
       ]
     }
   },
@@ -4348,7 +6938,10 @@ var points = [
       "name": "Chacabuco, Argentina",
       "popupContent": "Chacabuco, Argentina",
       "affiliatedPeople": [
-        "Haroldo Conti"
+        {
+          "name": "Haroldo Conti",
+          "viaf": "57226317"
+        }
       ]
     }
   },
@@ -4365,7 +6958,10 @@ var points = [
       "name": "Chaclacayo, Lima, Peru",
       "popupContent": "Chaclacayo, Lima, Peru",
       "affiliatedPeople": [
-        "Círo Alegría"
+        {
+          "name": "Círo Alegría",
+          "viaf": "12321079"
+        }
       ]
     }
   },
@@ -4382,7 +6978,10 @@ var points = [
       "name": "Chalons-en-Champagne, France",
       "popupContent": "Chalons-en-Champagne, France",
       "affiliatedPeople": [
-        "Pierre Hourcade"
+        {
+          "name": "Pierre Hourcade",
+          "viaf": "59204688"
+        }
       ]
     }
   },
@@ -4399,7 +6998,10 @@ var points = [
       "name": "Chamberlain, Uruguay",
       "popupContent": "Chamberlain, Uruguay",
       "affiliatedPeople": [
-        "Sara de Ibáñez"
+        {
+          "name": "Sara de Ibáñez",
+          "viaf": "165715395"
+        }
       ]
     }
   },
@@ -4416,7 +7018,10 @@ var points = [
       "name": "Chantada, Spain",
       "popupContent": "Chantada, Spain",
       "affiliatedPeople": [
-        "Ramón Ferreira"
+        {
+          "name": "Ramón Ferreira",
+          "viaf": "95562779"
+        }
       ]
     }
   },
@@ -4433,7 +7038,10 @@ var points = [
       "name": "Charenton-le-Pont, France",
       "popupContent": "Charenton-le-Pont, France",
       "affiliatedPeople": [
-        "Paul Éluard"
+        {
+          "name": "Paul Éluard",
+          "viaf": "73848255"
+        }
       ]
     }
   },
@@ -4450,7 +7058,10 @@ var points = [
       "name": "Charles Town, West Virginia",
       "popupContent": "Charles Town, West Virginia",
       "affiliatedPeople": [
-        "John Peale Bishop"
+        {
+          "name": "John Peale Bishop",
+          "viaf": "73984000"
+        }
       ]
     }
   },
@@ -4467,7 +7078,10 @@ var points = [
       "name": "Charleston, South Carolina",
       "popupContent": "Charleston, South Carolina",
       "affiliatedPeople": [
-        "George Dillon"
+        {
+          "name": "George Dillon",
+          "viaf": "29112877"
+        }
       ]
     }
   },
@@ -4484,7 +7098,10 @@ var points = [
       "name": "Charleville-Mézières, France",
       "popupContent": "Charleville-Mézières, France",
       "affiliatedPeople": [
-        "Adam Charles Ernest"
+        {
+          "name": "Adam Charles Ernest",
+          "viaf": "108271755"
+        }
       ]
     }
   },
@@ -4516,7 +7133,10 @@ var points = [
       "name": "Charlton, London, United Kingdom",
       "popupContent": "Charlton, London, United Kingdom",
       "affiliatedPeople": [
-        "Walter de la Mare"
+        {
+          "name": "Walter de la Mare",
+          "viaf": "2502254"
+        }
       ]
     }
   },
@@ -4533,7 +7153,10 @@ var points = [
       "name": "Chatenay-Malabry, France",
       "popupContent": "Chatenay-Malabry, France",
       "affiliatedPeople": [
-        "Emmanuel Mounier"
+        {
+          "name": "Emmanuel Mounier",
+          "viaf": "27128518"
+        }
       ]
     }
   },
@@ -4550,7 +7173,10 @@ var points = [
       "name": "Chaville, France",
       "popupContent": "Chaville, France",
       "affiliatedPeople": [
-        "Albert Ducrocq"
+        {
+          "name": "Albert Ducrocq",
+          "viaf": "56609059"
+        }
       ]
     }
   },
@@ -4567,7 +7193,10 @@ var points = [
       "name": "Checkendon, Oxfordshire, United Kingdom",
       "popupContent": "Checkendon, Oxfordshire, United Kingdom",
       "affiliatedPeople": [
-        "Evan John"
+        {
+          "name": "Evan John",
+          "viaf": "58227586"
+        }
       ]
     }
   },
@@ -4584,7 +7213,10 @@ var points = [
       "name": "Chelsea, London, United Kingdom",
       "popupContent": "Chelsea, London, United Kingdom",
       "affiliatedPeople": [
-        "Elizabeth Cleghorn Gaskell"
+        {
+          "name": "Elizabeth Cleghorn Gaskell",
+          "viaf": "39377536"
+        }
       ]
     }
   },
@@ -4601,7 +7233,10 @@ var points = [
       "name": "Chemnitz, Germany",
       "popupContent": "Chemnitz, Germany",
       "affiliatedPeople": [
-        "Helmut Schelsky"
+        {
+          "name": "Helmut Schelsky",
+          "viaf": "59158559"
+        }
       ]
     }
   },
@@ -4618,7 +7253,10 @@ var points = [
       "name": "Chennai, India",
       "popupContent": "Chennai, India",
       "affiliatedPeople": [
-        "Subramania Bharati"
+        {
+          "name": "Subramania Bharati",
+          "viaf": "49233815"
+        }
       ]
     }
   },
@@ -4635,7 +7273,10 @@ var points = [
       "name": "Chernivtsi, Ukraine",
       "popupContent": "Chernivtsi, Ukraine",
       "affiliatedPeople": [
-        "David J. Vogelmann"
+        {
+          "name": "David J. Vogelmann",
+          "viaf": "28086517"
+        }
       ]
     }
   },
@@ -4652,7 +7293,10 @@ var points = [
       "name": "Chervyen, Belarus",
       "popupContent": "Chervyen, Belarus",
       "affiliatedPeople": [
-        "H. Leivick (Leivick Halpern)"
+        {
+          "name": "H. Leivick (Leivick Halpern)",
+          "viaf": "47562232"
+        }
       ]
     }
   },
@@ -4669,12 +7313,30 @@ var points = [
       "name": "Chicago, Illinois",
       "popupContent": "Chicago, Illinois",
       "affiliatedPeople": [
-        "Eva H. Krapf",
-        "Frederick Wilcox Dupee",
-        "Harriete Monroe",
-        "James Burnham",
-        "Mircea Eliade",
-        "Morton Dauwen Zabel"
+        {
+          "name": "Eva H. Krapf",
+          "viaf": ""
+        },
+        {
+          "name": "Frederick Wilcox Dupee",
+          "viaf": "62789199"
+        },
+        {
+          "name": "Harriete Monroe",
+          "viaf": ""
+        },
+        {
+          "name": "James Burnham",
+          "viaf": "24613939"
+        },
+        {
+          "name": "Mircea Eliade",
+          "viaf": "73853074"
+        },
+        {
+          "name": "Morton Dauwen Zabel",
+          "viaf": "65295694"
+        }
       ]
     }
   },
@@ -4691,7 +7353,10 @@ var points = [
       "name": "Chichester, United Kingdom",
       "popupContent": "Chichester, United Kingdom",
       "affiliatedPeople": [
-        "Christopher Fry"
+        {
+          "name": "Christopher Fry",
+          "viaf": "99838963"
+        }
       ]
     }
   },
@@ -4708,7 +7373,10 @@ var points = [
       "name": "Chiclayo, Perú",
       "popupContent": "Chiclayo, Perú",
       "affiliatedPeople": [
-        "Alejandro Lora Risco"
+        {
+          "name": "Alejandro Lora Risco",
+          "viaf": "2609460"
+        }
       ]
     }
   },
@@ -4725,9 +7393,18 @@ var points = [
       "name": "Chile",
       "popupContent": "Chile",
       "affiliatedPeople": [
-        "Jorge Bogliano",
-        "María Rosa González",
-        "Recaredo Borja"
+        {
+          "name": "Jorge Bogliano",
+          "viaf": "21949336"
+        },
+        {
+          "name": "María Rosa González",
+          "viaf": ""
+        },
+        {
+          "name": "Recaredo Borja",
+          "viaf": "207145857001322921126"
+        }
       ]
     }
   },
@@ -4744,8 +7421,14 @@ var points = [
       "name": "Chillan, Chile",
       "popupContent": "Chillan, Chile",
       "affiliatedPeople": [
-        "Claudio Arrau",
-        "Marta Brunet"
+        {
+          "name": "Claudio Arrau",
+          "viaf": "61730908"
+        },
+        {
+          "name": "Marta Brunet",
+          "viaf": "44387769"
+        }
       ]
     }
   },
@@ -4762,7 +7445,10 @@ var points = [
       "name": "Chislehurst, United Kingdom",
       "popupContent": "Chislehurst, United Kingdom",
       "affiliatedPeople": [
-        "Fryniwyd Tennyson Jesse"
+        {
+          "name": "Fryniwyd Tennyson Jesse",
+          "viaf": "15771397"
+        }
       ]
     }
   },
@@ -4779,7 +7465,10 @@ var points = [
       "name": "Chitré, Panama",
       "popupContent": "Chitré, Panama",
       "affiliatedPeople": [
-        "Roque Javier Laurenza"
+        {
+          "name": "Roque Javier Laurenza",
+          "viaf": "8147149844974502960000"
+        }
       ]
     }
   },
@@ -4796,7 +7485,10 @@ var points = [
       "name": "Chivilcoy, Argentina",
       "popupContent": "Chivilcoy, Argentina",
       "affiliatedPeople": [
-        "María de Villarino"
+        {
+          "name": "María de Villarino",
+          "viaf": "93837235"
+        }
       ]
     }
   },
@@ -4813,7 +7505,10 @@ var points = [
       "name": "Chocorua, New Hampshire",
       "popupContent": "Chocorua, New Hampshire",
       "affiliatedPeople": [
-        "William James"
+        {
+          "name": "William James",
+          "viaf": "56625773"
+        }
       ]
     }
   },
@@ -4830,7 +7525,10 @@ var points = [
       "name": "Chorrillos, Lima, Peru",
       "popupContent": "Chorrillos, Lima, Peru",
       "affiliatedPeople": [
-        "Estuardo Núñez"
+        {
+          "name": "Estuardo Núñez",
+          "viaf": "102323214"
+        }
       ]
     }
   },
@@ -4847,7 +7545,10 @@ var points = [
       "name": "Choteau, Montana",
       "popupContent": "Choteau, Montana",
       "affiliatedPeople": [
-        "Alfred Bertram Guthrie, Jr."
+        {
+          "name": "Alfred Bertram Guthrie, Jr.",
+          "viaf": "109374827"
+        }
       ]
     }
   },
@@ -4864,7 +7565,10 @@ var points = [
       "name": "Chulumani, Bolivia",
       "popupContent": "Chulumani, Bolivia",
       "affiliatedPeople": [
-        "Alcides Arguedas"
+        {
+          "name": "Alcides Arguedas",
+          "viaf": "17262962"
+        }
       ]
     }
   },
@@ -4881,7 +7585,10 @@ var points = [
       "name": "Ciboure, France",
       "popupContent": "Ciboure, France",
       "affiliatedPeople": [
-        "Maurice Ravel"
+        {
+          "name": "Maurice Ravel",
+          "viaf": "2657495"
+        }
       ]
     }
   },
@@ -4898,7 +7605,10 @@ var points = [
       "name": "Cîteaux Abbaye, Saint-Nicolas-lès-Cîteaux, France",
       "popupContent": "Cîteaux Abbaye, Saint-Nicolas-lès-Cîteaux, France",
       "affiliatedPeople": [
-        "Alain de Lille"
+        {
+          "name": "Alain de Lille",
+          "viaf": "72187470"
+        }
       ]
     }
   },
@@ -4915,7 +7625,10 @@ var points = [
       "name": "Ciudad Bolívar, Venezuela",
       "popupContent": "Ciudad Bolívar, Venezuela",
       "affiliatedPeople": [
-        "Luis García Morente"
+        {
+          "name": "Luis García Morente",
+          "viaf": "55437272"
+        }
       ]
     }
   },
@@ -4932,7 +7645,10 @@ var points = [
       "name": "Ciudad Darío, Nicaragua",
       "popupContent": "Ciudad Darío, Nicaragua",
       "affiliatedPeople": [
-        "Rubén Darío (Félix Rubén García Sarmiento)"
+        {
+          "name": "Rubén Darío (Félix Rubén García Sarmiento)",
+          "viaf": "7399994"
+        }
       ]
     }
   },
@@ -4949,8 +7665,14 @@ var points = [
       "name": "Clamart, France",
       "popupContent": "Clamart, France",
       "affiliatedPeople": [
-        "Nicolás Berdiaeff",
-        "Robert Guillain"
+        {
+          "name": "Nicolás Berdiaeff",
+          "viaf": "36926249"
+        },
+        {
+          "name": "Robert Guillain",
+          "viaf": "101850036"
+        }
       ]
     }
   },
@@ -4967,7 +7689,10 @@ var points = [
       "name": "Clamecy, Nièvre, France",
       "popupContent": "Clamecy, Nièvre, France",
       "affiliatedPeople": [
-        "Romain Rolland"
+        {
+          "name": "Romain Rolland",
+          "viaf": "71397100"
+        }
       ]
     }
   },
@@ -4984,7 +7709,10 @@ var points = [
       "name": "Clapham, London, United Kingdom",
       "popupContent": "Clapham, London, United Kingdom",
       "affiliatedPeople": [
-        "Beatrice Kean Seymour"
+        {
+          "name": "Beatrice Kean Seymour",
+          "viaf": "62586312"
+        }
       ]
     }
   },
@@ -5016,7 +7744,10 @@ var points = [
       "name": "Cleveland, Ohio",
       "popupContent": "Cleveland, Ohio",
       "affiliatedPeople": [
-        "Josephine Porter Crane"
+        {
+          "name": "Josephine Porter Crane",
+          "viaf": "31928822"
+        }
       ]
     }
   },
@@ -5033,7 +7764,10 @@ var points = [
       "name": "Clifton Park, New York",
       "popupContent": "Clifton Park, New York",
       "affiliatedPeople": [
-        "Luis Monguió"
+        {
+          "name": "Luis Monguió",
+          "viaf": "14257798"
+        }
       ]
     }
   },
@@ -5050,7 +7784,10 @@ var points = [
       "name": "Clun, United Kingdom",
       "popupContent": "Clun, United Kingdom",
       "affiliatedPeople": [
-        "John Osborne"
+        {
+          "name": "John Osborne",
+          "viaf": "100954367"
+        }
       ]
     }
   },
@@ -5067,7 +7804,10 @@ var points = [
       "name": "Cobquecura, Chile",
       "popupContent": "Cobquecura, Chile",
       "affiliatedPeople": [
-        "Mariano Latorre"
+        {
+          "name": "Mariano Latorre",
+          "viaf": "39399454"
+        }
       ]
     }
   },
@@ -5084,7 +7824,10 @@ var points = [
       "name": "Cochabamba, Bolivia",
       "popupContent": "Cochabamba, Bolivia",
       "affiliatedPeople": [
-        "Juan Francisco Bedregal"
+        {
+          "name": "Juan Francisco Bedregal",
+          "viaf": "26060018"
+        }
       ]
     }
   },
@@ -5101,7 +7844,10 @@ var points = [
       "name": "Codo, Zaragoza, Spain",
       "popupContent": "Codo, Zaragoza, Spain",
       "affiliatedPeople": [
-        "Benjamín Jarnés"
+        {
+          "name": "Benjamín Jarnés",
+          "viaf": "17339452"
+        }
       ]
     }
   },
@@ -5118,7 +7864,10 @@ var points = [
       "name": "Cognac, France",
       "popupContent": "Cognac, France",
       "affiliatedPeople": [
-        "Jean Monnet"
+        {
+          "name": "Jean Monnet",
+          "viaf": "71414292"
+        }
       ]
     }
   },
@@ -5135,7 +7884,10 @@ var points = [
       "name": "Coise-Saint-Jean-Pied-Gauthier, France",
       "popupContent": "Coise-Saint-Jean-Pied-Gauthier, France",
       "affiliatedPeople": [
-        "Pierre Cot"
+        {
+          "name": "Pierre Cot",
+          "viaf": "68937637"
+        }
       ]
     }
   },
@@ -5152,7 +7904,10 @@ var points = [
       "name": "Colchester, United Kingdom",
       "popupContent": "Colchester, United Kingdom",
       "affiliatedPeople": [
-        "Margaret Cavendish"
+        {
+          "name": "Margaret Cavendish",
+          "viaf": "29597878"
+        }
       ]
     }
   },
@@ -5169,7 +7924,10 @@ var points = [
       "name": "Collioure, France",
       "popupContent": "Collioure, France",
       "affiliatedPeople": [
-        "Luis Mercier Vega"
+        {
+          "name": "Luis Mercier Vega",
+          "viaf": "71394972"
+        }
       ]
     }
   },
@@ -5186,10 +7944,22 @@ var points = [
       "name": "Cologne, Germany",
       "popupContent": "Cologne, Germany",
       "affiliatedPeople": [
-        "Hans Albert",
-        "Ludwig Beutin",
-        "René König",
-        "Ulrich Klug"
+        {
+          "name": "Hans Albert",
+          "viaf": "88673254"
+        },
+        {
+          "name": "Ludwig Beutin",
+          "viaf": "5834479"
+        },
+        {
+          "name": "René König",
+          "viaf": "98481480"
+        },
+        {
+          "name": "Ulrich Klug",
+          "viaf": "108926828"
+        }
       ]
     }
   },
@@ -5206,7 +7976,10 @@ var points = [
       "name": "Colombey-les-Deux-Eglises, France",
       "popupContent": "Colombey-les-Deux-Eglises, France",
       "affiliatedPeople": [
-        "Charles de Gaulle"
+        {
+          "name": "Charles de Gaulle",
+          "viaf": "27064969"
+        }
       ]
     }
   },
@@ -5223,7 +7996,10 @@ var points = [
       "name": "Colombia",
       "popupContent": "Colombia",
       "affiliatedPeople": [
-        "Sophia Wadia"
+        {
+          "name": "Sophia Wadia",
+          "viaf": "93641903"
+        }
       ]
     }
   },
@@ -5240,7 +8016,10 @@ var points = [
       "name": "Colón, Panamá",
       "popupContent": "Colón, Panamá",
       "affiliatedPeople": [
-        "Sherwood Anderson"
+        {
+          "name": "Sherwood Anderson",
+          "viaf": "39372890"
+        }
       ]
     }
   },
@@ -5257,7 +8036,10 @@ var points = [
       "name": "Colton, Oregon",
       "popupContent": "Colton, Oregon",
       "affiliatedPeople": [
-        "Valborg Anderson"
+        {
+          "name": "Valborg Anderson",
+          "viaf": "77759937"
+        }
       ]
     }
   },
@@ -5274,7 +8056,10 @@ var points = [
       "name": "Columbus, Mississippi",
       "popupContent": "Columbus, Mississippi",
       "affiliatedPeople": [
-        "Tennessee Williams"
+        {
+          "name": "Tennessee Williams",
+          "viaf": "51697407"
+        }
       ]
     }
   },
@@ -5291,8 +8076,14 @@ var points = [
       "name": "Columbus, Ohio",
       "popupContent": "Columbus, Ohio",
       "affiliatedPeople": [
-        "James Thurber",
-        "Ketti Frings"
+        {
+          "name": "James Thurber",
+          "viaf": "22149445"
+        },
+        {
+          "name": "Ketti Frings",
+          "viaf": "28385774"
+        }
       ]
     }
   },
@@ -5309,7 +8100,10 @@ var points = [
       "name": "Combe Florey, United Kingdom",
       "popupContent": "Combe Florey, United Kingdom",
       "affiliatedPeople": [
-        "Evelyn Waugh"
+        {
+          "name": "Evelyn Waugh",
+          "viaf": "68937142"
+        }
       ]
     }
   },
@@ -5326,7 +8120,10 @@ var points = [
       "name": "Comilla, Bangladesh",
       "popupContent": "Comilla, Bangladesh",
       "affiliatedPeople": [
-        "Buddhadeva Bose"
+        {
+          "name": "Buddhadeva Bose",
+          "viaf": "71440093"
+        }
       ]
     }
   },
@@ -5343,7 +8140,10 @@ var points = [
       "name": "Como, Italy",
       "popupContent": "Como, Italy",
       "affiliatedPeople": [
-        "Massimo Bontempelli"
+        {
+          "name": "Massimo Bontempelli",
+          "viaf": "59113424"
+        }
       ]
     }
   },
@@ -5360,7 +8160,10 @@ var points = [
       "name": "Concepción del Uruguay, Argentina",
       "popupContent": "Concepción del Uruguay, Argentina",
       "affiliatedPeople": [
-        "Emma de Cartosio"
+        {
+          "name": "Emma de Cartosio",
+          "viaf": "54160419"
+        }
       ]
     }
   },
@@ -5377,7 +8180,10 @@ var points = [
       "name": "Concord, Massachusetts",
       "popupContent": "Concord, Massachusetts",
       "affiliatedPeople": [
-        "George Russell Harrison"
+        {
+          "name": "George Russell Harrison",
+          "viaf": "32729158"
+        }
       ]
     }
   },
@@ -5394,7 +8200,10 @@ var points = [
       "name": "Constantine, Algeria",
       "popupContent": "Constantine, Algeria",
       "affiliatedPeople": [
-        "Christian Murciaux"
+        {
+          "name": "Christian Murciaux",
+          "viaf": "119997355"
+        }
       ]
     }
   },
@@ -5411,7 +8220,10 @@ var points = [
       "name": "Contamine-sur-Arve, France",
       "popupContent": "Contamine-sur-Arve, France",
       "affiliatedPeople": [
-        "Michel Butor"
+        {
+          "name": "Michel Butor",
+          "viaf": "34453964"
+        }
       ]
     }
   },
@@ -5428,7 +8240,10 @@ var points = [
       "name": "Copenhagen, Denmark",
       "popupContent": "Copenhagen, Denmark",
       "affiliatedPeople": [
-        "Sören Kierkegaard"
+        {
+          "name": "Sören Kierkegaard",
+          "viaf": "7392250"
+        }
       ]
     }
   },
@@ -5445,23 +8260,74 @@ var points = [
       "name": "Córdoba, Argentina",
       "popupContent": "Córdoba, Argentina",
       "affiliatedPeople": [
-        "Abelardo Arias",
-        "Agustín Cuzzani",
-        "Alfredo Orgaz",
-        "Alfredo Terzaga",
-        "Aníbal Ruiz Moreno",
-        "Arturo García Astrada",
-        "Carlos Astrada",
-        "Carmelo M. Bonet",
-        "Diego de León Pinelo",
-        "Enrique Anderson Imbert",
-        "Enrique Luis Revol",
-        "Ernesto Garzón Valdés",
-        "Gregorio Bermann",
-        "Jorge Vocos Lescano",
-        "Juan Larrea",
-        "Mirta Arlt",
-        "Rodolfo Aráoz Alfaro"
+        {
+          "name": "Abelardo Arias",
+          "viaf": "206276715"
+        },
+        {
+          "name": "Agustín Cuzzani",
+          "viaf": "78622281"
+        },
+        {
+          "name": "Alfredo Orgaz",
+          "viaf": "239058696"
+        },
+        {
+          "name": "Alfredo Terzaga",
+          "viaf": "93181268"
+        },
+        {
+          "name": "Aníbal Ruiz Moreno",
+          "viaf": ""
+        },
+        {
+          "name": "Arturo García Astrada",
+          "viaf": "68075706"
+        },
+        {
+          "name": "Carlos Astrada",
+          "viaf": "9969745"
+        },
+        {
+          "name": "Carmelo M. Bonet",
+          "viaf": "61136663"
+        },
+        {
+          "name": "Diego de León Pinelo",
+          "viaf": "28422901"
+        },
+        {
+          "name": "Enrique Anderson Imbert",
+          "viaf": "59095797"
+        },
+        {
+          "name": "Enrique Luis Revol",
+          "viaf": "61148639"
+        },
+        {
+          "name": "Ernesto Garzón Valdés",
+          "viaf": "12944765"
+        },
+        {
+          "name": "Gregorio Bermann",
+          "viaf": "34991276"
+        },
+        {
+          "name": "Jorge Vocos Lescano",
+          "viaf": "68942107"
+        },
+        {
+          "name": "Juan Larrea",
+          "viaf": "41854551"
+        },
+        {
+          "name": "Mirta Arlt",
+          "viaf": "2595944"
+        },
+        {
+          "name": "Rodolfo Aráoz Alfaro",
+          "viaf": "7858150567633406370009"
+        }
       ]
     }
   },
@@ -5478,7 +8344,10 @@ var points = [
       "name": "Córdoba, Spain",
       "popupContent": "Córdoba, Spain",
       "affiliatedPeople": [
-        "Fernando Colón"
+        {
+          "name": "Fernando Colón",
+          "viaf": "14786515"
+        }
       ]
     }
   },
@@ -5495,7 +8364,10 @@ var points = [
       "name": "Cork, Ireland",
       "popupContent": "Cork, Ireland",
       "affiliatedPeople": [
-        "Fitz James O'Brien"
+        {
+          "name": "Fitz James O'Brien",
+          "viaf": "68933640"
+        }
       ]
     }
   },
@@ -5512,7 +8384,10 @@ var points = [
       "name": "Coronel Dorrego, Argentina",
       "popupContent": "Coronel Dorrego, Argentina",
       "affiliatedPeople": [
-        "Roberto Juarroz"
+        {
+          "name": "Roberto Juarroz",
+          "viaf": "49227249"
+        }
       ]
     }
   },
@@ -5529,7 +8404,10 @@ var points = [
       "name": "Coșnița, Moldova",
       "popupContent": "Coșnița, Moldova",
       "affiliatedPeople": [
-        "Joseph Baratz"
+        {
+          "name": "Joseph Baratz",
+          "viaf": "59892954"
+        }
       ]
     }
   },
@@ -5546,8 +8424,14 @@ var points = [
       "name": "Costa Rica",
       "popupContent": "Costa Rica",
       "affiliatedPeople": [
-        "Leal Rey",
-        "Rubén Darío Contreras (hijo)"
+        {
+          "name": "Leal Rey",
+          "viaf": "87872291"
+        },
+        {
+          "name": "Rubén Darío Contreras (hijo)",
+          "viaf": "86599392"
+        }
       ]
     }
   },
@@ -5564,7 +8448,10 @@ var points = [
       "name": "County Laois, Ireland",
       "popupContent": "County Laois, Ireland",
       "affiliatedPeople": [
-        "Cecil Day-Lewis"
+        {
+          "name": "Cecil Day-Lewis",
+          "viaf": "88374638"
+        }
       ]
     }
   },
@@ -5581,7 +8468,10 @@ var points = [
       "name": "Courbevoie, France",
       "popupContent": "Courbevoie, France",
       "affiliatedPeople": [
-        "Louis Ferdinand Celine"
+        {
+          "name": "Louis Ferdinand Celine",
+          "viaf": "36916020"
+        }
       ]
     }
   },
@@ -5598,7 +8488,10 @@ var points = [
       "name": "Couvet, Switzerland",
       "popupContent": "Couvet, Switzerland",
       "affiliatedPeople": [
-        "Denis de Rougemont"
+        {
+          "name": "Denis de Rougemont",
+          "viaf": "49230943"
+        }
       ]
     }
   },
@@ -5615,8 +8508,14 @@ var points = [
       "name": "Coventry, United Kingdom",
       "popupContent": "Coventry, United Kingdom",
       "affiliatedPeople": [
-        "Cyril Connolly",
-        "E. M. Forster"
+        {
+          "name": "Cyril Connolly",
+          "viaf": "22140262"
+        },
+        {
+          "name": "E. M. Forster",
+          "viaf": "31996364"
+        }
       ]
     }
   },
@@ -5633,8 +8532,14 @@ var points = [
       "name": "Coyoacán, Mexico",
       "popupContent": "Coyoacán, Mexico",
       "affiliatedPeople": [
-        "Antonio Castro Leal",
-        "Concha Méndez"
+        {
+          "name": "Antonio Castro Leal",
+          "viaf": "56622388"
+        },
+        {
+          "name": "Concha Méndez",
+          "viaf": "9863418"
+        }
       ]
     }
   },
@@ -5651,8 +8556,14 @@ var points = [
       "name": "Creteil, France",
       "popupContent": "Creteil, France",
       "affiliatedPeople": [
-        "André Malraux",
-        "Jacques Barzun"
+        {
+          "name": "André Malraux",
+          "viaf": "51692748"
+        },
+        {
+          "name": "Jacques Barzun",
+          "viaf": "51703034"
+        }
       ]
     }
   },
@@ -5669,7 +8580,10 @@ var points = [
       "name": "Croydon, United Kingdom",
       "popupContent": "Croydon, United Kingdom",
       "affiliatedPeople": [
-        "Ralph Norman Angell"
+        {
+          "name": "Ralph Norman Angell",
+          "viaf": "51708094"
+        }
       ]
     }
   },
@@ -5686,8 +8600,14 @@ var points = [
       "name": "Cuba",
       "popupContent": "Cuba",
       "affiliatedPeople": [
-        "Luis Felipe Rodríguez",
-        "Rafael Azcárate y Rosell"
+        {
+          "name": "Luis Felipe Rodríguez",
+          "viaf": "66490627"
+        },
+        {
+          "name": "Rafael Azcárate y Rosell",
+          "viaf": "39537146"
+        }
       ]
     }
   },
@@ -5704,7 +8624,10 @@ var points = [
       "name": "Cuddington, Cheshire, United Kingdom",
       "popupContent": "Cuddington, Cheshire, United Kingdom",
       "affiliatedPeople": [
-        "Maurice Dale Colbourne"
+        {
+          "name": "Maurice Dale Colbourne",
+          "viaf": "9440334"
+        }
       ]
     }
   },
@@ -5721,8 +8644,14 @@ var points = [
       "name": "Cuernavaca, Mexico",
       "popupContent": "Cuernavaca, Mexico",
       "affiliatedPeople": [
-        "Allen Haden",
-        "Elena Garro (Paz)"
+        {
+          "name": "Allen Haden",
+          "viaf": ""
+        },
+        {
+          "name": "Elena Garro (Paz)",
+          "viaf": "22171519"
+        }
       ]
     }
   },
@@ -5739,7 +8668,10 @@ var points = [
       "name": "Cumberland, Maryland",
       "popupContent": "Cumberland, Maryland",
       "affiliatedPeople": [
-        "Fitz James O'Brien"
+        {
+          "name": "Fitz James O'Brien",
+          "viaf": "68933640"
+        }
       ]
     }
   },
@@ -5756,7 +8688,10 @@ var points = [
       "name": "Cusco, Peru",
       "popupContent": "Cusco, Peru",
       "affiliatedPeople": [
-        "Washington Delgado"
+        {
+          "name": "Washington Delgado",
+          "viaf": "56739043"
+        }
       ]
     }
   },
@@ -5773,7 +8708,10 @@ var points = [
       "name": "Dachau Concentration Camp, Germany",
       "popupContent": "Dachau Concentration Camp, Germany",
       "affiliatedPeople": [
-        "François Vernet"
+        {
+          "name": "François Vernet",
+          "viaf": "71525072"
+        }
       ]
     }
   },
@@ -5805,7 +8743,10 @@ var points = [
       "name": "Dallas, Texas",
       "popupContent": "Dallas, Texas",
       "affiliatedPeople": [
-        "John F. Kennedy"
+        {
+          "name": "John F. Kennedy",
+          "viaf": "68910251"
+        }
       ]
     }
   },
@@ -5822,7 +8763,10 @@ var points = [
       "name": "Danby, Vermont",
       "popupContent": "Danby, Vermont",
       "affiliatedPeople": [
-        "Pearl Sydenstricker Buck"
+        {
+          "name": "Pearl Sydenstricker Buck",
+          "viaf": "91868694"
+        }
       ]
     }
   },
@@ -5839,7 +8783,10 @@ var points = [
       "name": "Dartford, United Kingdom",
       "popupContent": "Dartford, United Kingdom",
       "affiliatedPeople": [
-        "Sidney Keyes"
+        {
+          "name": "Sidney Keyes",
+          "viaf": "39645826"
+        }
       ]
     }
   },
@@ -5856,7 +8803,10 @@ var points = [
       "name": "Davis, California",
       "popupContent": "Davis, California",
       "affiliatedPeople": [
-        "Edgar Bodenheimer"
+        {
+          "name": "Edgar Bodenheimer",
+          "viaf": "32058196"
+        }
       ]
     }
   },
@@ -5873,7 +8823,10 @@ var points = [
       "name": "De Steeg, Netherlands",
       "popupContent": "De Steeg, Netherlands",
       "affiliatedPeople": [
-        "Johan Huizinga"
+        {
+          "name": "Johan Huizinga",
+          "viaf": "66468881"
+        }
       ]
     }
   },
@@ -5890,7 +8843,10 @@ var points = [
       "name": "Deerness, United Kingdom",
       "popupContent": "Deerness, United Kingdom",
       "affiliatedPeople": [
-        "Edwin Muir"
+        {
+          "name": "Edwin Muir",
+          "viaf": "41875982"
+        }
       ]
     }
   },
@@ -5907,7 +8863,10 @@ var points = [
       "name": "Degania Alef, Israel",
       "popupContent": "Degania Alef, Israel",
       "affiliatedPeople": [
-        "Joseph Baratz"
+        {
+          "name": "Joseph Baratz",
+          "viaf": "59892954"
+        }
       ]
     }
   },
@@ -5924,7 +8883,10 @@ var points = [
       "name": "Deià, Spain",
       "popupContent": "Deià, Spain",
       "affiliatedPeople": [
-        "Robert Graves"
+        {
+          "name": "Robert Graves",
+          "viaf": "68929835"
+        }
       ]
     }
   },
@@ -5941,7 +8903,10 @@ var points = [
       "name": "Deir al-Qamar, Lebanon",
       "popupContent": "Deir al-Qamar, Lebanon",
       "affiliatedPeople": [
-        "Laure Ghorayeb"
+        {
+          "name": "Laure Ghorayeb",
+          "viaf": "140702461"
+        }
       ]
     }
   },
@@ -5958,7 +8923,10 @@ var points = [
       "name": "Del Mar, California",
       "popupContent": "Del Mar, California",
       "affiliatedPeople": [
-        "Manuel Pedro González"
+        {
+          "name": "Manuel Pedro González",
+          "viaf": "109936702"
+        }
       ]
     }
   },
@@ -5975,7 +8943,10 @@ var points = [
       "name": "Delhi, India",
       "popupContent": "Delhi, India",
       "affiliatedPeople": [
-        "Maulana Abul Kalam Azad"
+        {
+          "name": "Maulana Abul Kalam Azad",
+          "viaf": "77.1025"
+        }
       ]
     }
   },
@@ -5992,7 +8963,10 @@ var points = [
       "name": "Derbyshire, United Kingdom",
       "popupContent": "Derbyshire, United Kingdom",
       "affiliatedPeople": [
-        "Thomas Hobbes"
+        {
+          "name": "Thomas Hobbes",
+          "viaf": "59083895"
+        }
       ]
     }
   },
@@ -6009,7 +8983,10 @@ var points = [
       "name": "Derry, Ireland",
       "popupContent": "Derry, Ireland",
       "affiliatedPeople": [
-        "Joyce Cary"
+        {
+          "name": "Joyce Cary",
+          "viaf": "46778083"
+        }
       ]
     }
   },
@@ -6026,7 +9003,10 @@ var points = [
       "name": "Descartes, Indre-et-Loire, France",
       "popupContent": "Descartes, Indre-et-Loire, France",
       "affiliatedPeople": [
-        "René Descartes"
+        {
+          "name": "René Descartes",
+          "viaf": "41838958"
+        }
       ]
     }
   },
@@ -6043,7 +9023,10 @@ var points = [
       "name": "Dessau, Germany",
       "popupContent": "Dessau, Germany",
       "affiliatedPeople": [
-        "Max Muller"
+        {
+          "name": "Max Muller",
+          "viaf": "9893606"
+        }
       ]
     }
   },
@@ -6060,7 +9043,10 @@ var points = [
       "name": "Detroit, Michigan",
       "popupContent": "Detroit, Michigan",
       "affiliatedPeople": [
-        "Alfred Hamilton Barr, Jr."
+        {
+          "name": "Alfred Hamilton Barr, Jr.",
+          "viaf": "109252853"
+        }
       ]
     }
   },
@@ -6077,7 +9063,10 @@ var points = [
       "name": "Deusto, Spain",
       "popupContent": "Deusto, Spain",
       "affiliatedPeople": [
-        "Jean Cassou"
+        {
+          "name": "Jean Cassou",
+          "viaf": "121657958"
+        }
       ]
     }
   },
@@ -6094,7 +9083,10 @@ var points = [
       "name": "Devizes, United Kingdom",
       "popupContent": "Devizes, United Kingdom",
       "affiliatedPeople": [
-        "Arnold Walter Lawrence"
+        {
+          "name": "Arnold Walter Lawrence",
+          "viaf": "97991219"
+        }
       ]
     }
   },
@@ -6111,7 +9103,10 @@ var points = [
       "name": "Devon, Pennsylvania",
       "popupContent": "Devon, Pennsylvania",
       "affiliatedPeople": [
-        "Katherine Garrison Chapin Biddle"
+        {
+          "name": "Katherine Garrison Chapin Biddle",
+          "viaf": "45634544"
+        }
       ]
     }
   },
@@ -6128,7 +9123,10 @@ var points = [
       "name": "Dieppe, France",
       "popupContent": "Dieppe, France",
       "affiliatedPeople": [
-        "Louis de Broglie"
+        {
+          "name": "Louis de Broglie",
+          "viaf": "4927396"
+        }
       ]
     }
   },
@@ -6145,7 +9143,10 @@ var points = [
       "name": "Digne-les-Bains, France",
       "popupContent": "Digne-les-Bains, France",
       "affiliatedPeople": [
-        "Alexandre Arnoux"
+        {
+          "name": "Alexandre Arnoux",
+          "viaf": "6650"
+        }
       ]
     }
   },
@@ -6162,8 +9163,14 @@ var points = [
       "name": "Dijon, France",
       "popupContent": "Dijon, France",
       "affiliatedPeople": [
-        "Henri Focillon",
-        "Jean Bataillon"
+        {
+          "name": "Henri Focillon",
+          "viaf": "2470261"
+        },
+        {
+          "name": "Jean Bataillon",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -6180,7 +9187,10 @@ var points = [
       "name": "Dolac, Travnik, Bosnia and Herzegovina",
       "popupContent": "Dolac, Travnik, Bosnia and Herzegovina",
       "affiliatedPeople": [
-        "Ivo Andrić"
+        {
+          "name": "Ivo Andrić",
+          "viaf": "97177322"
+        }
       ]
     }
   },
@@ -6197,7 +9207,10 @@ var points = [
       "name": "Domme, France",
       "popupContent": "Domme, France",
       "affiliatedPeople": [
-        "Alain Malraux"
+        {
+          "name": "Alain Malraux",
+          "viaf": "34578454"
+        }
       ]
     }
   },
@@ -6214,7 +9227,10 @@ var points = [
       "name": "Don Torcuato, Argentina",
       "popupContent": "Don Torcuato, Argentina",
       "affiliatedPeople": [
-        "Marcelo Torcuato de Alvear"
+        {
+          "name": "Marcelo Torcuato de Alvear",
+          "viaf": "50618680"
+        }
       ]
     }
   },
@@ -6231,7 +9247,10 @@ var points = [
       "name": "Drean, Algeria",
       "popupContent": "Drean, Algeria",
       "affiliatedPeople": [
-        "Albert Camus"
+        {
+          "name": "Albert Camus",
+          "viaf": "97000332"
+        }
       ]
     }
   },
@@ -6248,8 +9267,14 @@ var points = [
       "name": "Dresden-Neustadt, Germany",
       "popupContent": "Dresden-Neustadt, Germany",
       "affiliatedPeople": [
-        "Alexander von Wuthenau",
-        "Hans Paul Bahrdt"
+        {
+          "name": "Alexander von Wuthenau",
+          "viaf": "30053241"
+        },
+        {
+          "name": "Hans Paul Bahrdt",
+          "viaf": "88046570"
+        }
       ]
     }
   },
@@ -6266,7 +9291,10 @@ var points = [
       "name": "Dreux, France",
       "popupContent": "Dreux, France",
       "affiliatedPeople": [
-        "Jean Grenier"
+        {
+          "name": "Jean Grenier",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -6283,11 +9311,26 @@ var points = [
       "name": "Dublin, Ireland",
       "popupContent": "Dublin, Ireland",
       "affiliatedPeople": [
-        "Elizabeth Bowen",
-        "George Bernard Shaw",
-        "George Fitz-Hardinge Berkeley",
-        "Seán O'Casey",
-        "Sheridan Le Fanu"
+        {
+          "name": "Elizabeth Bowen",
+          "viaf": "19674925"
+        },
+        {
+          "name": "George Bernard Shaw",
+          "viaf": "89019752"
+        },
+        {
+          "name": "George Fitz-Hardinge Berkeley",
+          "viaf": "111233636"
+        },
+        {
+          "name": "Seán O'Casey",
+          "viaf": "12319997"
+        },
+        {
+          "name": "Sheridan Le Fanu",
+          "viaf": "9849196"
+        }
       ]
     }
   },
@@ -6304,7 +9347,10 @@ var points = [
       "name": "Dumka, India",
       "popupContent": "Dumka, India",
       "affiliatedPeople": [
-        "Manik Bandyopadhyay"
+        {
+          "name": "Manik Bandyopadhyay",
+          "viaf": "59093293"
+        }
       ]
     }
   },
@@ -6321,7 +9367,10 @@ var points = [
       "name": "Dunkirk, France",
       "popupContent": "Dunkirk, France",
       "affiliatedPeople": [
-        "Pierre Herbart"
+        {
+          "name": "Pierre Herbart",
+          "viaf": "5068472"
+        }
       ]
     }
   },
@@ -6338,8 +9387,14 @@ var points = [
       "name": "Düsseldorf, Germany",
       "popupContent": "Düsseldorf, Germany",
       "affiliatedPeople": [
-        "Heine Heinrich",
-        "Jürgen Habermas"
+        {
+          "name": "Heine Heinrich",
+          "viaf": "34457918"
+        },
+        {
+          "name": "Jürgen Habermas",
+          "viaf": "108179854"
+        }
       ]
     }
   },
@@ -6356,7 +9411,10 @@ var points = [
       "name": "East Hampton, New York",
       "popupContent": "East Hampton, New York",
       "affiliatedPeople": [
-        "Dorothy Norman"
+        {
+          "name": "Dorothy Norman",
+          "viaf": "109835051"
+        }
       ]
     }
   },
@@ -6373,7 +9431,10 @@ var points = [
       "name": "East Orange, New Jersey",
       "popupContent": "East Orange, New Jersey",
       "affiliatedPeople": [
-        "Robert Hillyer"
+        {
+          "name": "Robert Hillyer",
+          "viaf": "59464846"
+        }
       ]
     }
   },
@@ -6390,7 +9451,10 @@ var points = [
       "name": "Eastwood, United Kingdom",
       "popupContent": "Eastwood, United Kingdom",
       "affiliatedPeople": [
-        "D. H. Lawrence"
+        {
+          "name": "D. H. Lawrence",
+          "viaf": "95150359"
+        }
       ]
     }
   },
@@ -6407,7 +9471,10 @@ var points = [
       "name": "Ecclefechan, United Kingdom",
       "popupContent": "Ecclefechan, United Kingdom",
       "affiliatedPeople": [
-        "Thomas Carlyle"
+        {
+          "name": "Thomas Carlyle",
+          "viaf": "39390702"
+        }
       ]
     }
   },
@@ -6424,7 +9491,10 @@ var points = [
       "name": "Écouché, France",
       "popupContent": "Écouché, France",
       "affiliatedPeople": [
-        "André Chéradame"
+        {
+          "name": "André Chéradame",
+          "viaf": "32100599"
+        }
       ]
     }
   },
@@ -6441,10 +9511,22 @@ var points = [
       "name": "Edinburgh, Scotland",
       "popupContent": "Edinburgh, Scotland",
       "affiliatedPeople": [
-        "David Daiches",
-        "David Hume",
-        "Lancelot Law Whyte",
-        "Thomas de Quincey"
+        {
+          "name": "David Daiches",
+          "viaf": "44311326"
+        },
+        {
+          "name": "David Hume",
+          "viaf": "49226972"
+        },
+        {
+          "name": "Lancelot Law Whyte",
+          "viaf": "7911281"
+        },
+        {
+          "name": "Thomas de Quincey",
+          "viaf": "14768427"
+        }
       ]
     }
   },
@@ -6461,7 +9543,10 @@ var points = [
       "name": "Egypt",
       "popupContent": "Egypt",
       "affiliatedPeople": [
-        "Mohamed Abbad"
+        {
+          "name": "Mohamed Abbad",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -6478,7 +9563,10 @@ var points = [
       "name": "El Puerto de Santa Maria",
       "popupContent": "El Puerto de Santa Maria",
       "affiliatedPeople": [
-        "Rafael Alberti"
+        {
+          "name": "Rafael Alberti",
+          "viaf": "51683733"
+        }
       ]
     }
   },
@@ -6495,7 +9583,10 @@ var points = [
       "name": "Elbeuf, France",
       "popupContent": "Elbeuf, France",
       "affiliatedPeople": [
-        "André Maurois"
+        {
+          "name": "André Maurois",
+          "viaf": "64009119"
+        }
       ]
     }
   },
@@ -6512,7 +9603,10 @@ var points = [
       "name": "Elche de la Sierra, Spain",
       "popupContent": "Elche de la Sierra, Spain",
       "affiliatedPeople": [
-        "Joseph Jean Lanza del Vasto"
+        {
+          "name": "Joseph Jean Lanza del Vasto",
+          "viaf": "2472923"
+        }
       ]
     }
   },
@@ -6529,7 +9623,10 @@ var points = [
       "name": "Elgoibar, Gipuzkoa, Spain",
       "popupContent": "Elgoibar, Gipuzkoa, Spain",
       "affiliatedPeople": [
-        "Pedro Lecuona (Pedro Ibarzabal)"
+        {
+          "name": "Pedro Lecuona (Pedro Ibarzabal)",
+          "viaf": "58833538"
+        }
       ]
     }
   },
@@ -6546,7 +9643,10 @@ var points = [
       "name": "Elkhorn, Montana",
       "popupContent": "Elkhorn, Montana",
       "affiliatedPeople": [
-        "Spruille Braden"
+        {
+          "name": "Spruille Braden",
+          "viaf": "91269805"
+        }
       ]
     }
   },
@@ -6563,7 +9663,10 @@ var points = [
       "name": "Elkins Park, Pennsylvania",
       "popupContent": "Elkins Park, Pennsylvania",
       "affiliatedPeople": [
-        "Edgar Lee Masters"
+        {
+          "name": "Edgar Lee Masters",
+          "viaf": "27068379"
+        }
       ]
     }
   },
@@ -6580,7 +9683,10 @@ var points = [
       "name": "Emmendingen, Germany",
       "popupContent": "Emmendingen, Germany",
       "affiliatedPeople": [
-        "Alfred Döblin"
+        {
+          "name": "Alfred Döblin",
+          "viaf": "51688166"
+        }
       ]
     }
   },
@@ -6597,10 +9703,22 @@ var points = [
       "name": "England",
       "popupContent": "England",
       "affiliatedPeople": [
-        "Angus Davidson",
-        "John Davy Hayward",
-        "Norah Rowan Hamilton",
-        "Patrick Dudgeon"
+        {
+          "name": "Angus Davidson",
+          "viaf": "53480876"
+        },
+        {
+          "name": "John Davy Hayward",
+          "viaf": "10189133"
+        },
+        {
+          "name": "Norah Rowan Hamilton",
+          "viaf": "26934435"
+        },
+        {
+          "name": "Patrick Dudgeon",
+          "viaf": "136145857073122921919"
+        }
       ]
     }
   },
@@ -6617,7 +9735,10 @@ var points = [
       "name": "Enniskillen, United Kingdom",
       "popupContent": "Enniskillen, United Kingdom",
       "affiliatedPeople": [
-        "Charles Duff"
+        {
+          "name": "Charles Duff",
+          "viaf": "111898910"
+        }
       ]
     }
   },
@@ -6634,7 +9755,10 @@ var points = [
       "name": "Épinal, France",
       "popupContent": "Épinal, France",
       "affiliatedPeople": [
-        "Émile Durkheim"
+        {
+          "name": "Émile Durkheim",
+          "viaf": "56609141"
+        }
       ]
     }
   },
@@ -6651,7 +9775,10 @@ var points = [
       "name": "Erie, Pennsylvania",
       "popupContent": "Erie, Pennsylvania",
       "affiliatedPeople": [
-        "Arthur Mizener"
+        {
+          "name": "Arthur Mizener",
+          "viaf": "108230775"
+        }
       ]
     }
   },
@@ -6668,8 +9795,14 @@ var points = [
       "name": "Esperanza, Argentina",
       "popupContent": "Esperanza, Argentina",
       "affiliatedPeople": [
-        "Álvaro Alsogaray",
-        "Gastón Gori"
+        {
+          "name": "Álvaro Alsogaray",
+          "viaf": "197240782"
+        },
+        {
+          "name": "Gastón Gori",
+          "viaf": "107539254"
+        }
       ]
     }
   },
@@ -6686,7 +9819,10 @@ var points = [
       "name": "Esseg, Austria",
       "popupContent": "Esseg, Austria",
       "affiliatedPeople": [
-        "René Kraus"
+        {
+          "name": "René Kraus",
+          "viaf": "29902293"
+        }
       ]
     }
   },
@@ -6703,7 +9839,10 @@ var points = [
       "name": "Estelí, Nicaragua",
       "popupContent": "Estelí, Nicaragua",
       "affiliatedPeople": [
-        "Claribel Alegría"
+        {
+          "name": "Claribel Alegría",
+          "viaf": "7385942"
+        }
       ]
     }
   },
@@ -6720,7 +9859,10 @@ var points = [
       "name": "Eton, United Kingdom",
       "popupContent": "Eton, United Kingdom",
       "affiliatedPeople": [
-        "Montague Rhodes James"
+        {
+          "name": "Montague Rhodes James",
+          "viaf": "88882890"
+        }
       ]
     }
   },
@@ -6737,7 +9879,10 @@ var points = [
       "name": "Étretat, France",
       "popupContent": "Étretat, France",
       "affiliatedPeople": [
-        "Élie Halévy"
+        {
+          "name": "Élie Halévy",
+          "viaf": "66532548"
+        }
       ]
     }
   },
@@ -6754,7 +9899,10 @@ var points = [
       "name": "Ettayapuram, India",
       "popupContent": "Ettayapuram, India",
       "affiliatedPeople": [
-        "Subramania Bharati"
+        {
+          "name": "Subramania Bharati",
+          "viaf": "49233815"
+        }
       ]
     }
   },
@@ -6771,7 +9919,10 @@ var points = [
       "name": "Eutin, Germany",
       "popupContent": "Eutin, Germany",
       "affiliatedPeople": [
-        "Gerhard Funke"
+        {
+          "name": "Gerhard Funke",
+          "viaf": "68943879"
+        }
       ]
     }
   },
@@ -6788,7 +9939,10 @@ var points = [
       "name": "Evanston, Illinois",
       "popupContent": "Evanston, Illinois",
       "affiliatedPeople": [
-        "Monroe Wheeler"
+        {
+          "name": "Monroe Wheeler",
+          "viaf": "40395988"
+        }
       ]
     }
   },
@@ -6805,7 +9959,10 @@ var points = [
       "name": "Failsworth, United Kingdom",
       "popupContent": "Failsworth, United Kingdom",
       "affiliatedPeople": [
-        "Roy Fuller"
+        {
+          "name": "Roy Fuller",
+          "viaf": "110202386"
+        }
       ]
     }
   },
@@ -6822,7 +9979,10 @@ var points = [
       "name": "Falmouth, Massachusetts",
       "popupContent": "Falmouth, Massachusetts",
       "affiliatedPeople": [
-        "Josephine Porter Crane"
+        {
+          "name": "Josephine Porter Crane",
+          "viaf": "31928822"
+        }
       ]
     }
   },
@@ -6839,7 +9999,10 @@ var points = [
       "name": "Faringdon, United Kingdom",
       "popupContent": "Faringdon, United Kingdom",
       "affiliatedPeople": [
-        "Arturo Barea"
+        {
+          "name": "Arturo Barea",
+          "viaf": "54280835"
+        }
       ]
     }
   },
@@ -6856,7 +10019,10 @@ var points = [
       "name": "Fårö, Sweden",
       "popupContent": "Fårö, Sweden",
       "affiliatedPeople": [
-        "Ingmar Bergman"
+        {
+          "name": "Ingmar Bergman",
+          "viaf": "110097018"
+        }
       ]
     }
   },
@@ -6873,7 +10039,10 @@ var points = [
       "name": "Figueres, Spain",
       "popupContent": "Figueres, Spain",
       "affiliatedPeople": [
-        "Salvador Dalí"
+        {
+          "name": "Salvador Dalí",
+          "viaf": "64004109"
+        }
       ]
     }
   },
@@ -6890,7 +10059,10 @@ var points = [
       "name": "Firle, United Kingdom",
       "popupContent": "Firle, United Kingdom",
       "affiliatedPeople": [
-        "Robert Donington"
+        {
+          "name": "Robert Donington",
+          "viaf": "232644942"
+        }
       ]
     }
   },
@@ -6907,13 +10079,34 @@ var points = [
       "name": "Florence, Italy",
       "popupContent": "Florence, Italy",
       "affiliatedPeople": [
-        "Dante Alighieri",
-        "Emilio Cecchi",
-        "Francesco Guicciardini",
-        "Giuseppe Antonio Borgese",
-        "Osbert Sitwell",
-        "Pablo Capanna",
-        "Roberto Calasso"
+        {
+          "name": "Dante Alighieri",
+          "viaf": "97105654"
+        },
+        {
+          "name": "Emilio Cecchi",
+          "viaf": "17242426"
+        },
+        {
+          "name": "Francesco Guicciardini",
+          "viaf": "89549325"
+        },
+        {
+          "name": "Giuseppe Antonio Borgese",
+          "viaf": "17234853"
+        },
+        {
+          "name": "Osbert Sitwell",
+          "viaf": "29544622"
+        },
+        {
+          "name": "Pablo Capanna",
+          "viaf": "11306820"
+        },
+        {
+          "name": "Roberto Calasso",
+          "viaf": "59067254"
+        }
       ]
     }
   },
@@ -6930,8 +10123,14 @@ var points = [
       "name": "Flushing, New York",
       "popupContent": "Flushing, New York",
       "affiliatedPeople": [
-        "Lewis Mumford",
-        "Miguel Iturrate"
+        {
+          "name": "Lewis Mumford",
+          "viaf": "12312890"
+        },
+        {
+          "name": "Miguel Iturrate",
+          "viaf": "33690476"
+        }
       ]
     }
   },
@@ -6948,7 +10147,10 @@ var points = [
       "name": "Fontainebleau, France",
       "popupContent": "Fontainebleau, France",
       "affiliatedPeople": [
-        "Thomas Lister (Lord Ribblesdale)"
+        {
+          "name": "Thomas Lister (Lord Ribblesdale)",
+          "viaf": "39748158"
+        }
       ]
     }
   },
@@ -6965,7 +10167,10 @@ var points = [
       "name": "Fontenay-aux-Roses, France",
       "popupContent": "Fontenay-aux-Roses, France",
       "affiliatedPeople": [
-        "Julien Benda"
+        {
+          "name": "Julien Benda",
+          "viaf": "13100935"
+        }
       ]
     }
   },
@@ -6982,7 +10187,10 @@ var points = [
       "name": "Formia, Italy",
       "popupContent": "Formia, Italy",
       "affiliatedPeople": [
-        "Vittorio Foa"
+        {
+          "name": "Vittorio Foa",
+          "viaf": "97818232"
+        }
       ]
     }
   },
@@ -6999,7 +10207,10 @@ var points = [
       "name": "Fort Lee, New Jersey",
       "popupContent": "Fort Lee, New Jersey",
       "affiliatedPeople": [
-        "Joan Bennett"
+        {
+          "name": "Joan Bennett",
+          "viaf": "32186172"
+        }
       ]
     }
   },
@@ -7016,7 +10227,10 @@ var points = [
       "name": "Fougeres, France",
       "popupContent": "Fougeres, France",
       "affiliatedPeople": [
-        "Jean Guéhenno"
+        {
+          "name": "Jean Guéhenno",
+          "viaf": "49226476"
+        }
       ]
     }
   },
@@ -7033,7 +10247,10 @@ var points = [
       "name": "Foxrock, Ireland",
       "popupContent": "Foxrock, Ireland",
       "affiliatedPeople": [
-        "Samuel Beckett"
+        {
+          "name": "Samuel Beckett",
+          "viaf": "7386737"
+        }
       ]
     }
   },
@@ -7050,7 +10267,10 @@ var points = [
       "name": "Frameries, Belgium",
       "popupContent": "Frameries, Belgium",
       "affiliatedPeople": [
-        "Louis Piérard"
+        {
+          "name": "Louis Piérard",
+          "viaf": "41882487"
+        }
       ]
     }
   },
@@ -7067,29 +10287,98 @@ var points = [
       "name": "France",
       "popupContent": "France",
       "affiliatedPeople": [
-        "Alfred Loisy",
-        "André Pieyre de Mandiargues",
-        "Anne-Marie Bon",
-        "Antoine Bon",
-        "Arnaud Dandieu",
-        "Blaise Allan",
-        "Chiriachitza Athanassio-Bénisty",
-        "François Gilles de la Tourette",
-        "Henri Gil-Marchex",
-        "Jacques Ménétrier (André Giraud-Boura)",
-        "Jean Bloch-Michel",
-        "Jean Cazaux",
-        "Louis Gillet",
-        "Louis Ollivier",
-        "Michel Gordey",
-        "Paul Bodin",
-        "Paul Jourde",
-        "Pierre Cot",
-        "Pierre Guédennet",
-        "Robert Weibel-Richard",
-        "Roger Labrousse",
-        "Roland-Pierre Caillois",
-        "Suzanne Tézenas"
+        {
+          "name": "Alfred Loisy",
+          "viaf": "54145857789923020432"
+        },
+        {
+          "name": "André Pieyre de Mandiargues",
+          "viaf": "108228000"
+        },
+        {
+          "name": "Anne-Marie Bon",
+          "viaf": "27203323"
+        },
+        {
+          "name": "Antoine Bon",
+          "viaf": "antoine bon"
+        },
+        {
+          "name": "Arnaud Dandieu",
+          "viaf": "68967957"
+        },
+        {
+          "name": "Blaise Allan",
+          "viaf": "73444059"
+        },
+        {
+          "name": "Chiriachitza Athanassio-Bénisty",
+          "viaf": "204848407"
+        },
+        {
+          "name": "François Gilles de la Tourette",
+          "viaf": "66777020"
+        },
+        {
+          "name": "Henri Gil-Marchex",
+          "viaf": "87048796"
+        },
+        {
+          "name": "Jacques Ménétrier (André Giraud-Boura)",
+          "viaf": "229026215"
+        },
+        {
+          "name": "Jean Bloch-Michel",
+          "viaf": "37717560"
+        },
+        {
+          "name": "Jean Cazaux",
+          "viaf": "90714031"
+        },
+        {
+          "name": "Louis Gillet",
+          "viaf": "66467917"
+        },
+        {
+          "name": "Louis Ollivier",
+          "viaf": "56710397"
+        },
+        {
+          "name": "Michel Gordey",
+          "viaf": "251011343"
+        },
+        {
+          "name": "Paul Bodin",
+          "viaf": "2466812"
+        },
+        {
+          "name": "Paul Jourde",
+          "viaf": "282516039"
+        },
+        {
+          "name": "Pierre Cot",
+          "viaf": "68937637"
+        },
+        {
+          "name": "Pierre Guédennet",
+          "viaf": ""
+        },
+        {
+          "name": "Robert Weibel-Richard",
+          "viaf": "202071715"
+        },
+        {
+          "name": "Roger Labrousse",
+          "viaf": "173097996"
+        },
+        {
+          "name": "Roland-Pierre Caillois",
+          "viaf": "32501694"
+        },
+        {
+          "name": "Suzanne Tézenas",
+          "viaf": "89824833"
+        }
       ]
     }
   },
@@ -7106,7 +10395,10 @@ var points = [
       "name": "Frangy, France",
       "popupContent": "Frangy, France",
       "affiliatedPeople": [
-        "Joseph François Angelloz"
+        {
+          "name": "Joseph François Angelloz",
+          "viaf": "59078009"
+        }
       ]
     }
   },
@@ -7123,14 +10415,38 @@ var points = [
       "name": "Frankfurt, Germany",
       "popupContent": "Frankfurt, Germany",
       "affiliatedPeople": [
-        "Alexander Mitscherlich",
-        "Carl Gebhardt",
-        "Dolf Sternberger",
-        "Heinrich von Kleist",
-        "Johann Wolfgang von Goethe",
-        "Max Scheler",
-        "Máximo José Kahn",
-        "Theodor W. Adorno"
+        {
+          "name": "Alexander Mitscherlich",
+          "viaf": "108352434"
+        },
+        {
+          "name": "Carl Gebhardt",
+          "viaf": "19773944"
+        },
+        {
+          "name": "Dolf Sternberger",
+          "viaf": "108933329"
+        },
+        {
+          "name": "Heinrich von Kleist",
+          "viaf": "7392307"
+        },
+        {
+          "name": "Johann Wolfgang von Goethe",
+          "viaf": "24602065"
+        },
+        {
+          "name": "Max Scheler",
+          "viaf": "41846336"
+        },
+        {
+          "name": "Máximo José Kahn",
+          "viaf": "11377917"
+        },
+        {
+          "name": "Theodor W. Adorno",
+          "viaf": "95247377"
+        }
       ]
     }
   },
@@ -7147,7 +10463,10 @@ var points = [
       "name": "Free City of Lubeck",
       "popupContent": "Free City of Lubeck",
       "affiliatedPeople": [
-        "Thomas Mann"
+        {
+          "name": "Thomas Mann",
+          "viaf": "54151065"
+        }
       ]
     }
   },
@@ -7164,7 +10483,10 @@ var points = [
       "name": "Freeport, New York",
       "popupContent": "Freeport, New York",
       "affiliatedPeople": [
-        "Robert Finch"
+        {
+          "name": "Robert Finch",
+          "viaf": "116867349"
+        }
       ]
     }
   },
@@ -7181,11 +10503,26 @@ var points = [
       "name": "Freiburg im Breisgau, Germany",
       "popupContent": "Freiburg im Breisgau, Germany",
       "affiliatedPeople": [
-        "Heinrich Popitz",
-        "Hugo Friedrich",
-        "Martin Heidegger",
-        "Nikos Kazantzakis",
-        "Wilhelm Hennis"
+        {
+          "name": "Heinrich Popitz",
+          "viaf": "14783735"
+        },
+        {
+          "name": "Hugo Friedrich",
+          "viaf": "68929294"
+        },
+        {
+          "name": "Martin Heidegger",
+          "viaf": "24602613"
+        },
+        {
+          "name": "Nikos Kazantzakis",
+          "viaf": "14771803"
+        },
+        {
+          "name": "Wilhelm Hennis",
+          "viaf": "97898320"
+        }
       ]
     }
   },
@@ -7202,7 +10539,10 @@ var points = [
       "name": "Fresno, California",
       "popupContent": "Fresno, California",
       "affiliatedPeople": [
-        "William Saroyan"
+        {
+          "name": "William Saroyan",
+          "viaf": "27071357"
+        }
       ]
     }
   },
@@ -7219,7 +10559,10 @@ var points = [
       "name": "Fuente Vaqueros, Spain",
       "popupContent": "Fuente Vaqueros, Spain",
       "affiliatedPeople": [
-        "Antonio García Birlan"
+        {
+          "name": "Antonio García Birlan",
+          "viaf": "56159936"
+        }
       ]
     }
   },
@@ -7236,7 +10579,10 @@ var points = [
       "name": "Fulham, London, United Kingdom",
       "popupContent": "Fulham, London, United Kingdom",
       "affiliatedPeople": [
-        "John Osborne"
+        {
+          "name": "John Osborne",
+          "viaf": "100954367"
+        }
       ]
     }
   },
@@ -7253,7 +10599,10 @@ var points = [
       "name": "Funchal, Portugal",
       "popupContent": "Funchal, Portugal",
       "affiliatedPeople": [
-        "Joao Cabral Do Nacimiento"
+        {
+          "name": "Joao Cabral Do Nacimiento",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -7270,7 +10619,10 @@ var points = [
       "name": "Galashiels, Scotland",
       "popupContent": "Galashiels, Scotland",
       "affiliatedPeople": [
-        "Ida Hayward"
+        {
+          "name": "Ida Hayward",
+          "viaf": "283928081"
+        }
       ]
     }
   },
@@ -7287,7 +10639,10 @@ var points = [
       "name": "Gálvez, Santa Fe, Argentina",
       "popupContent": "Gálvez, Santa Fe, Argentina",
       "affiliatedPeople": [
-        "Amelia Biagioni"
+        {
+          "name": "Amelia Biagioni",
+          "viaf": "310549639"
+        }
       ]
     }
   },
@@ -7319,7 +10674,10 @@ var points = [
       "name": "Galway, Republic of Ireland",
       "popupContent": "Galway, Republic of Ireland",
       "affiliatedPeople": [
-        "Frank Harris"
+        {
+          "name": "Frank Harris",
+          "viaf": "120702927"
+        }
       ]
     }
   },
@@ -7336,7 +10694,10 @@ var points = [
       "name": "Gan, France",
       "popupContent": "Gan, France",
       "affiliatedPeople": [
-        "Pierre Emmanuel"
+        {
+          "name": "Pierre Emmanuel",
+          "viaf": "36913028"
+        }
       ]
     }
   },
@@ -7353,7 +10714,10 @@ var points = [
       "name": "Garnett, Kansas",
       "popupContent": "Garnett, Kansas",
       "affiliatedPeople": [
-        "Edgar Lee Masters"
+        {
+          "name": "Edgar Lee Masters",
+          "viaf": "27068379"
+        }
       ]
     }
   },
@@ -7370,7 +10734,10 @@ var points = [
       "name": "Garrettsville, Ohio",
       "popupContent": "Garrettsville, Ohio",
       "affiliatedPeople": [
-        "Hart Crane"
+        {
+          "name": "Hart Crane",
+          "viaf": "22140431"
+        }
       ]
     }
   },
@@ -7387,7 +10754,10 @@ var points = [
       "name": "Garrucha, Spain",
       "popupContent": "Garrucha, Spain",
       "affiliatedPeople": [
-        "José Martínez Jerez"
+        {
+          "name": "José Martínez Jerez",
+          "viaf": "23822057"
+        }
       ]
     }
   },
@@ -7404,7 +10774,10 @@ var points = [
       "name": "Gdańsk, Poland",
       "popupContent": "Gdańsk, Poland",
       "affiliatedPeople": [
-        "Mathías Goeritz"
+        {
+          "name": "Mathías Goeritz",
+          "viaf": "74077072"
+        }
       ]
     }
   },
@@ -7421,22 +10794,70 @@ var points = [
       "name": "Geneva, Switzerland",
       "popupContent": "Geneva, Switzerland",
       "affiliatedPeople": [
-        "Alberto E. Ginastera",
-        "Alberto Jiménez Fraud",
-        "Alfonso Crespo Rodas",
-        "Charles Baudouin",
-        "Denis de Rougemont",
-        "Eduardo Enrique Krapf",
-        "Ernest Ansermet",
-        "Gina Lombroso",
-        "Ignazio Silone",
-        "Irina Aleksander",
-        "Jean Paul Malaquais",
-        "Jean Piaget",
-        "Jorge Luis Borges",
-        "Luis Araquistáin",
-        "Robert Musil",
-        "Silvina Bullrich"
+        {
+          "name": "Alberto E. Ginastera",
+          "viaf": "27251793"
+        },
+        {
+          "name": "Alberto Jiménez Fraud",
+          "viaf": "53095287"
+        },
+        {
+          "name": "Alfonso Crespo Rodas",
+          "viaf": "309738838"
+        },
+        {
+          "name": "Charles Baudouin",
+          "viaf": "64001401"
+        },
+        {
+          "name": "Denis de Rougemont",
+          "viaf": "49230943"
+        },
+        {
+          "name": "Eduardo Enrique Krapf",
+          "viaf": "310715699"
+        },
+        {
+          "name": "Ernest Ansermet",
+          "viaf": "14957421"
+        },
+        {
+          "name": "Gina Lombroso",
+          "viaf": "24666842"
+        },
+        {
+          "name": "Ignazio Silone",
+          "viaf": ""
+        },
+        {
+          "name": "Irina Aleksander",
+          "viaf": "88540269"
+        },
+        {
+          "name": "Jean Paul Malaquais",
+          "viaf": "12369507"
+        },
+        {
+          "name": "Jean Piaget",
+          "viaf": "39382513"
+        },
+        {
+          "name": "Jorge Luis Borges",
+          "viaf": "88919448"
+        },
+        {
+          "name": "Luis Araquistáin",
+          "viaf": "24616799"
+        },
+        {
+          "name": "Robert Musil",
+          "viaf": "46799598"
+        },
+        {
+          "name": "Silvina Bullrich",
+          "viaf": "111179188"
+        }
       ]
     }
   },
@@ -7453,9 +10874,18 @@ var points = [
       "name": "Germany",
       "popupContent": "Germany",
       "affiliatedPeople": [
-        "Cyrill von Korvin Krasinski",
-        "Richard Maximilian Lonsbach",
-        "S. K."
+        {
+          "name": "Cyrill von Korvin Krasinski",
+          "viaf": "113578890"
+        },
+        {
+          "name": "Richard Maximilian Lonsbach",
+          "viaf": "94032970"
+        },
+        {
+          "name": "S. K.",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -7472,7 +10902,10 @@ var points = [
       "name": "Ghent, Belgium",
       "popupContent": "Ghent, Belgium",
       "affiliatedPeople": [
-        "Louis Pauwels"
+        {
+          "name": "Louis Pauwels",
+          "viaf": "68934008"
+        }
       ]
     }
   },
@@ -7489,7 +10922,10 @@ var points = [
       "name": "Giens Peninsula, Hyeres, France",
       "popupContent": "Giens Peninsula, Hyeres, France",
       "affiliatedPeople": [
-        "Saint-John Perse (Alexis Léger)"
+        {
+          "name": "Saint-John Perse (Alexis Léger)",
+          "viaf": "88804613"
+        }
       ]
     }
   },
@@ -7506,7 +10942,10 @@ var points = [
       "name": "Giessen, Germany",
       "popupContent": "Giessen, Germany",
       "affiliatedPeople": [
-        "Werner Bock"
+        {
+          "name": "Werner Bock",
+          "viaf": "27865142"
+        }
       ]
     }
   },
@@ -7523,7 +10962,10 @@ var points = [
       "name": "Gijón, Spain",
       "popupContent": "Gijón, Spain",
       "affiliatedPeople": [
-        "José Gaos"
+        {
+          "name": "José Gaos",
+          "viaf": "71406518"
+        }
       ]
     }
   },
@@ -7540,8 +10982,14 @@ var points = [
       "name": "Glasgow, United Kingdom",
       "popupContent": "Glasgow, United Kingdom",
       "affiliatedPeople": [
-        "James George Frazer",
-        "William Shand"
+        {
+          "name": "James George Frazer",
+          "viaf": "31996454"
+        },
+        {
+          "name": "William Shand",
+          "viaf": "66596176"
+        }
       ]
     }
   },
@@ -7558,7 +11006,10 @@ var points = [
       "name": "Glencoe, Illinois",
       "popupContent": "Glencoe, Illinois",
       "affiliatedPeople": [
-        "Archibald MacLeish"
+        {
+          "name": "Archibald MacLeish",
+          "viaf": "4926151"
+        }
       ]
     }
   },
@@ -7575,7 +11026,10 @@ var points = [
       "name": "Gobernador Mansilla, Argentina",
       "popupContent": "Gobernador Mansilla, Argentina",
       "affiliatedPeople": [
-        "Arnaldo Calveyra"
+        {
+          "name": "Arnaldo Calveyra",
+          "viaf": "28253623"
+        }
       ]
     }
   },
@@ -7592,7 +11046,10 @@ var points = [
       "name": "Godalming, United Kingdom",
       "popupContent": "Godalming, United Kingdom",
       "affiliatedPeople": [
-        "Aldous Huxley"
+        {
+          "name": "Aldous Huxley",
+          "viaf": "71392434"
+        }
       ]
     }
   },
@@ -7609,7 +11066,10 @@ var points = [
       "name": "Goodnestone, United Kingdom",
       "popupContent": "Goodnestone, United Kingdom",
       "affiliatedPeople": [
-        "Montague Rhodes James"
+        {
+          "name": "Montague Rhodes James",
+          "viaf": "88882890"
+        }
       ]
     }
   },
@@ -7626,7 +11086,10 @@ var points = [
       "name": "Gorizia, Italy",
       "popupContent": "Gorizia, Italy",
       "affiliatedPeople": [
-        "Nora Grégor"
+        {
+          "name": "Nora Grégor",
+          "viaf": "29732362"
+        }
       ]
     }
   },
@@ -7643,8 +11106,14 @@ var points = [
       "name": "Göttingen, Germany",
       "popupContent": "Göttingen, Germany",
       "affiliatedPeople": [
-        "Hans Paul Bahrdt",
-        "Paul Lorenzen"
+        {
+          "name": "Hans Paul Bahrdt",
+          "viaf": "88046570"
+        },
+        {
+          "name": "Paul Lorenzen",
+          "viaf": "44375757"
+        }
       ]
     }
   },
@@ -7661,7 +11130,10 @@ var points = [
       "name": "Goyena, Argentina",
       "popupContent": "Goyena, Argentina",
       "affiliatedPeople": [
-        "Juan Goyanarte"
+        {
+          "name": "Juan Goyanarte",
+          "viaf": "91627343"
+        }
       ]
     }
   },
@@ -7678,9 +11150,18 @@ var points = [
       "name": "Granada, Spain",
       "popupContent": "Granada, Spain",
       "affiliatedPeople": [
-        "Federico García Lorca",
-        "Francisco Ayala",
-        "Melchor de Almagro San Martín"
+        {
+          "name": "Federico García Lorca",
+          "viaf": "34456883"
+        },
+        {
+          "name": "Francisco Ayala",
+          "viaf": "110572828"
+        },
+        {
+          "name": "Melchor de Almagro San Martín",
+          "viaf": "100233444"
+        }
       ]
     }
   },
@@ -7697,7 +11178,10 @@ var points = [
       "name": "Grand Island, Nebraska",
       "popupContent": "Grand Island, Nebraska",
       "affiliatedPeople": [
-        "Henry Fonda"
+        {
+          "name": "Henry Fonda",
+          "viaf": "112378001"
+        }
       ]
     }
   },
@@ -7714,7 +11198,10 @@ var points = [
       "name": "Grasse, France",
       "popupContent": "Grasse, France",
       "affiliatedPeople": [
-        "Pierre Herbart"
+        {
+          "name": "Pierre Herbart",
+          "viaf": "5068472"
+        }
       ]
     }
   },
@@ -7731,7 +11218,10 @@ var points = [
       "name": "Graubünden, Switzerland",
       "popupContent": "Graubünden, Switzerland",
       "affiliatedPeople": [
-        "Madeleine Goss"
+        {
+          "name": "Madeleine Goss",
+          "viaf": "39742347"
+        }
       ]
     }
   },
@@ -7748,7 +11238,10 @@ var points = [
       "name": "Graz, Austria",
       "popupContent": "Graz, Austria",
       "affiliatedPeople": [
-        "Judith Janoska-Bendl"
+        {
+          "name": "Judith Janoska-Bendl",
+          "viaf": "292849686"
+        }
       ]
     }
   },
@@ -7765,7 +11258,10 @@ var points = [
       "name": "Greenville, South Carolina",
       "popupContent": "Greenville, South Carolina",
       "affiliatedPeople": [
-        "John Dickson Carr"
+        {
+          "name": "John Dickson Carr",
+          "viaf": "64003044"
+        }
       ]
     }
   },
@@ -7782,7 +11278,10 @@ var points = [
       "name": "Greenwich, Connecticut",
       "popupContent": "Greenwich, Connecticut",
       "affiliatedPeople": [
-        "Elisha Jay Edwards"
+        {
+          "name": "Elisha Jay Edwards",
+          "viaf": "50567189"
+        }
       ]
     }
   },
@@ -7799,7 +11298,10 @@ var points = [
       "name": "Grenoble, France",
       "popupContent": "Grenoble, France",
       "affiliatedPeople": [
-        "Emmanuel Mounier"
+        {
+          "name": "Emmanuel Mounier",
+          "viaf": "27128518"
+        }
       ]
     }
   },
@@ -7816,7 +11318,10 @@ var points = [
       "name": "Groningen, Netherlands",
       "popupContent": "Groningen, Netherlands",
       "affiliatedPeople": [
-        "Johan Huizinga"
+        {
+          "name": "Johan Huizinga",
+          "viaf": "66468881"
+        }
       ]
     }
   },
@@ -7833,7 +11338,10 @@ var points = [
       "name": "Grosvenor Square, London, United Kingdom",
       "popupContent": "Grosvenor Square, London, United Kingdom",
       "affiliatedPeople": [
-        "Thomas Lister (Lord Ribblesdale)"
+        {
+          "name": "Thomas Lister (Lord Ribblesdale)",
+          "viaf": "39748158"
+        }
       ]
     }
   },
@@ -7850,10 +11358,22 @@ var points = [
       "name": "Guadalajara, Mexico",
       "popupContent": "Guadalajara, Mexico",
       "affiliatedPeople": [
-        "Agustín Yañez",
-        "Ángel Flores",
-        "Demetrio Loza (Antonio Gómez Robledo)",
-        "Enrique González Martínez"
+        {
+          "name": "Agustín Yañez",
+          "viaf": "112551221"
+        },
+        {
+          "name": "Ángel Flores",
+          "viaf": "98522831"
+        },
+        {
+          "name": "Demetrio Loza (Antonio Gómez Robledo)",
+          "viaf": "115438298"
+        },
+        {
+          "name": "Enrique González Martínez",
+          "viaf": "79039358"
+        }
       ]
     }
   },
@@ -7870,7 +11390,10 @@ var points = [
       "name": "Guadalajara, Spain",
       "popupContent": "Guadalajara, Spain",
       "affiliatedPeople": [
-        "Antonio Buero Vallejo"
+        {
+          "name": "Antonio Buero Vallejo",
+          "viaf": "109520156"
+        }
       ]
     }
   },
@@ -7887,9 +11410,18 @@ var points = [
       "name": "Gualeguay, Argentina",
       "popupContent": "Gualeguay, Argentina",
       "affiliatedPeople": [
-        "Amaro Villanueva",
-        "Carlos Mastronardi",
-        "Juan Bautista Ambrosetti"
+        {
+          "name": "Amaro Villanueva",
+          "viaf": "160035107"
+        },
+        {
+          "name": "Carlos Mastronardi",
+          "viaf": "44320563"
+        },
+        {
+          "name": "Juan Bautista Ambrosetti",
+          "viaf": "52472869"
+        }
       ]
     }
   },
@@ -7906,10 +11438,22 @@ var points = [
       "name": "Gualeguaychu, Argentina",
       "popupContent": "Gualeguaychu, Argentina",
       "affiliatedPeople": [
-        "Carlos Alberto Erro",
-        "Fray Mocho (José Sixto Álvarez)",
-        "Hortensia Margarita Raffo",
-        "Julio Irazusta"
+        {
+          "name": "Carlos Alberto Erro",
+          "viaf": "55698183"
+        },
+        {
+          "name": "Fray Mocho (José Sixto Álvarez)",
+          "viaf": "72256647"
+        },
+        {
+          "name": "Hortensia Margarita Raffo",
+          "viaf": "124575250"
+        },
+        {
+          "name": "Julio Irazusta",
+          "viaf": "28316693"
+        }
       ]
     }
   },
@@ -7926,7 +11470,10 @@ var points = [
       "name": "Guanajuato, Mexico",
       "popupContent": "Guanajuato, Mexico",
       "affiliatedPeople": [
-        "Diego Rivera"
+        {
+          "name": "Diego Rivera",
+          "viaf": "59099198"
+        }
       ]
     }
   },
@@ -7943,7 +11490,10 @@ var points = [
       "name": "Guatemala",
       "popupContent": "Guatemala",
       "affiliatedPeople": [
-        "Luis Cardoza y Aragón"
+        {
+          "name": "Luis Cardoza y Aragón",
+          "viaf": "84024245"
+        }
       ]
     }
   },
@@ -7960,8 +11510,14 @@ var points = [
       "name": "Guatemala City, Guatemala",
       "popupContent": "Guatemala City, Guatemala",
       "affiliatedPeople": [
-        "Miguel Ángel Asturias",
-        "Raúl Leiva"
+        {
+          "name": "Miguel Ángel Asturias",
+          "viaf": "46756659"
+        },
+        {
+          "name": "Raúl Leiva",
+          "viaf": "31214658"
+        }
       ]
     }
   },
@@ -7978,7 +11534,10 @@ var points = [
       "name": "Guayaquil, Ecuador",
       "popupContent": "Guayaquil, Ecuador",
       "affiliatedPeople": [
-        "Alfredo Pareja Díez-Canseco"
+        {
+          "name": "Alfredo Pareja Díez-Canseco",
+          "viaf": "79061805"
+        }
       ]
     }
   },
@@ -7995,7 +11554,10 @@ var points = [
       "name": "Guéret, France",
       "popupContent": "Guéret, France",
       "affiliatedPeople": [
-        "Marcel Jouhandeau"
+        {
+          "name": "Marcel Jouhandeau",
+          "viaf": "34458491"
+        }
       ]
     }
   },
@@ -8012,7 +11574,10 @@ var points = [
       "name": "Gulf of Mexico",
       "popupContent": "Gulf of Mexico",
       "affiliatedPeople": [
-        "Hart Crane"
+        {
+          "name": "Hart Crane",
+          "viaf": "22140431"
+        }
       ]
     }
   },
@@ -8029,7 +11594,10 @@ var points = [
       "name": "Gulf Stream, Florida",
       "popupContent": "Gulf Stream, Florida",
       "affiliatedPeople": [
-        "Robert Craft"
+        {
+          "name": "Robert Craft",
+          "viaf": "91308575"
+        }
       ]
     }
   },
@@ -8046,7 +11614,10 @@ var points = [
       "name": "Guthrie, Kentucky",
       "popupContent": "Guthrie, Kentucky",
       "affiliatedPeople": [
-        "Robert Penn Warren"
+        {
+          "name": "Robert Penn Warren",
+          "viaf": "61553765"
+        }
       ]
     }
   },
@@ -8063,7 +11634,10 @@ var points = [
       "name": "Hagetmau, France",
       "popupContent": "Hagetmau, France",
       "affiliatedPeople": [
-        "Henri Lefebvre"
+        {
+          "name": "Henri Lefebvre",
+          "viaf": "14808728"
+        }
       ]
     }
   },
@@ -8080,7 +11654,10 @@ var points = [
       "name": "Hailey, Idaho",
       "popupContent": "Hailey, Idaho",
       "affiliatedPeople": [
-        "Ezra Pound"
+        {
+          "name": "Ezra Pound",
+          "viaf": "24606774"
+        }
       ]
     }
   },
@@ -8097,8 +11674,14 @@ var points = [
       "name": "Hampstead, United Kingdom",
       "popupContent": "Hampstead, United Kingdom",
       "affiliatedPeople": [
-        "John Galsworthy",
-        "Nigel Balchin"
+        {
+          "name": "John Galsworthy",
+          "viaf": "61561917"
+        },
+        {
+          "name": "Nigel Balchin",
+          "viaf": "37113465"
+        }
       ]
     }
   },
@@ -8115,8 +11698,14 @@ var points = [
       "name": "Hanover, Germany",
       "popupContent": "Hanover, Germany",
       "affiliatedPeople": [
-        "Arthur Kutscher",
-        "Friedrich Georg Jünger"
+        {
+          "name": "Arthur Kutscher",
+          "viaf": "77110847"
+        },
+        {
+          "name": "Friedrich Georg Jünger",
+          "viaf": "93096780"
+        }
       ]
     }
   },
@@ -8133,8 +11722,14 @@ var points = [
       "name": "Hanover, New Hampshire",
       "popupContent": "Hanover, New Hampshire",
       "affiliatedPeople": [
-        "René Fülöp-Miller",
-        "Richard Eberhart"
+        {
+          "name": "René Fülöp-Miller",
+          "viaf": "54195416"
+        },
+        {
+          "name": "Richard Eberhart",
+          "viaf": "97788157"
+        }
       ]
     }
   },
@@ -8151,7 +11746,10 @@ var points = [
       "name": "Harrison, South Dakota",
       "popupContent": "Harrison, South Dakota",
       "affiliatedPeople": [
-        "Edwin Lieuwen"
+        {
+          "name": "Edwin Lieuwen",
+          "viaf": "57858893"
+        }
       ]
     }
   },
@@ -8168,7 +11766,10 @@ var points = [
       "name": "Harrow, London, United Kingdom",
       "popupContent": "Harrow, London, United Kingdom",
       "affiliatedPeople": [
-        "David Gascoyne"
+        {
+          "name": "David Gascoyne",
+          "viaf": "36918646"
+        }
       ]
     }
   },
@@ -8185,8 +11786,14 @@ var points = [
       "name": "Hartford, Connecticut",
       "popupContent": "Hartford, Connecticut",
       "affiliatedPeople": [
-        "Gorham Munson",
-        "Wallace Stevens"
+        {
+          "name": "Gorham Munson",
+          "viaf": "5305985"
+        },
+        {
+          "name": "Wallace Stevens",
+          "viaf": "61562486"
+        }
       ]
     }
   },
@@ -8203,7 +11810,10 @@ var points = [
       "name": "Hastings, United Kingdom",
       "popupContent": "Hastings, United Kingdom",
       "affiliatedPeople": [
-        "Philip Lindsay"
+        {
+          "name": "Philip Lindsay",
+          "viaf": "98010929"
+        }
       ]
     }
   },
@@ -8220,7 +11830,10 @@ var points = [
       "name": "Hauts-de-Seine, France",
       "popupContent": "Hauts-de-Seine, France",
       "affiliatedPeople": [
-        "Albert Kahn"
+        {
+          "name": "Albert Kahn",
+          "viaf": "27073338"
+        }
       ]
     }
   },
@@ -8237,12 +11850,30 @@ var points = [
       "name": "Havana, Cuba",
       "popupContent": "Havana, Cuba",
       "affiliatedPeople": [
-        "Adriano G. Carmona Romay",
-        "Emilio Ballagas",
-        "Francisco González del Valle",
-        "José Antonio Fernández de Castro",
-        "Juan Marinello Vidaurreta",
-        "Ricardo A. Latcham"
+        {
+          "name": "Adriano G. Carmona Romay",
+          "viaf": "18710741"
+        },
+        {
+          "name": "Emilio Ballagas",
+          "viaf": "49966254"
+        },
+        {
+          "name": "Francisco González del Valle",
+          "viaf": "24452762"
+        },
+        {
+          "name": "José Antonio Fernández de Castro",
+          "viaf": "246589780"
+        },
+        {
+          "name": "Juan Marinello Vidaurreta",
+          "viaf": "32020236"
+        },
+        {
+          "name": "Ricardo A. Latcham",
+          "viaf": "71417540"
+        }
       ]
     }
   },
@@ -8259,7 +11890,10 @@ var points = [
       "name": "Haworth, United Kingdom",
       "popupContent": "Haworth, United Kingdom",
       "affiliatedPeople": [
-        "Emily Brontë"
+        {
+          "name": "Emily Brontë",
+          "viaf": "97097302"
+        }
       ]
     }
   },
@@ -8276,7 +11910,10 @@ var points = [
       "name": "Hedensted, Denmark",
       "popupContent": "Hedensted, Denmark",
       "affiliatedPeople": [
-        "Johannes C. Andersen"
+        {
+          "name": "Johannes C. Andersen",
+          "viaf": "54246837"
+        }
       ]
     }
   },
@@ -8293,7 +11930,10 @@ var points = [
       "name": "Heidelberg, Germany",
       "popupContent": "Heidelberg, Germany",
       "affiliatedPeople": [
-        "Ernst Jünger"
+        {
+          "name": "Ernst Jünger",
+          "viaf": "12310323"
+        }
       ]
     }
   },
@@ -8310,7 +11950,10 @@ var points = [
       "name": "Helsinki, Finland",
       "popupContent": "Helsinki, Finland",
       "affiliatedPeople": [
-        "Hans Ruin"
+        {
+          "name": "Hans Ruin",
+          "viaf": "55208341"
+        }
       ]
     }
   },
@@ -8327,7 +11970,10 @@ var points = [
       "name": "Hempstead, New York",
       "popupContent": "Hempstead, New York",
       "affiliatedPeople": [
-        "Gabriela Mistral"
+        {
+          "name": "Gabriela Mistral",
+          "viaf": "44311414"
+        }
       ]
     }
   },
@@ -8344,7 +11990,10 @@ var points = [
       "name": "Hendaye, France",
       "popupContent": "Hendaye, France",
       "affiliatedPeople": [
-        "Daniel Devoto"
+        {
+          "name": "Daniel Devoto",
+          "viaf": "9933"
+        }
       ]
     }
   },
@@ -8361,7 +12010,10 @@ var points = [
       "name": "Heraklion, Greece",
       "popupContent": "Heraklion, Greece",
       "affiliatedPeople": [
-        "Nikos Kazantzakis"
+        {
+          "name": "Nikos Kazantzakis",
+          "viaf": "14771803"
+        }
       ]
     }
   },
@@ -8378,7 +12030,10 @@ var points = [
       "name": "Hernani, Spain",
       "popupContent": "Hernani, Spain",
       "affiliatedPeople": [
-        "Gabriel Celaya"
+        {
+          "name": "Gabriel Celaya",
+          "viaf": "79038967"
+        }
       ]
     }
   },
@@ -8395,7 +12050,10 @@ var points = [
       "name": "Herouville, France",
       "popupContent": "Herouville, France",
       "affiliatedPeople": [
-        "Blanche Albane (Mme. Georges Duhamel) "
+        {
+          "name": "Blanche Albane (Mme. Georges Duhamel) ",
+          "viaf": "56620305"
+        }
       ]
     }
   },
@@ -8412,7 +12070,10 @@ var points = [
       "name": "High Laver, United Kingdom",
       "popupContent": "High Laver, United Kingdom",
       "affiliatedPeople": [
-        "John Locke"
+        {
+          "name": "John Locke",
+          "viaf": "34459614"
+        }
       ]
     }
   },
@@ -8429,7 +12090,10 @@ var points = [
       "name": "Highland Park, Illinois",
       "popupContent": "Highland Park, Illinois",
       "affiliatedPeople": [
-        "Helen Hill Miller"
+        {
+          "name": "Helen Hill Miller",
+          "viaf": "112170138"
+        }
       ]
     }
   },
@@ -8446,7 +12110,10 @@ var points = [
       "name": "Hightstown, New Jersey",
       "popupContent": "Hightstown, New Jersey",
       "affiliatedPeople": [
-        "Howard Haycraft"
+        {
+          "name": "Howard Haycraft",
+          "viaf": "108752301"
+        }
       ]
     }
   },
@@ -8463,7 +12130,10 @@ var points = [
       "name": "Hildesheim, Germany",
       "popupContent": "Hildesheim, Germany",
       "affiliatedPeople": [
-        "Wilhelm Hennis"
+        {
+          "name": "Wilhelm Hennis",
+          "viaf": "97898320"
+        }
       ]
     }
   },
@@ -8480,7 +12150,10 @@ var points = [
       "name": "Hillsboro, West Virginia",
       "popupContent": "Hillsboro, West Virginia",
       "affiliatedPeople": [
-        "Pearl Sydenstricker Buck"
+        {
+          "name": "Pearl Sydenstricker Buck",
+          "viaf": "91868694"
+        }
       ]
     }
   },
@@ -8497,7 +12170,10 @@ var points = [
       "name": "Holbeach, United Kingdom",
       "popupContent": "Holbeach, United Kingdom",
       "affiliatedPeople": [
-        "Ralph Norman Angell"
+        {
+          "name": "Ralph Norman Angell",
+          "viaf": "51708094"
+        }
       ]
     }
   },
@@ -8514,7 +12190,10 @@ var points = [
       "name": "Holybourne, United Kingdom",
       "popupContent": "Holybourne, United Kingdom",
       "affiliatedPeople": [
-        "Elizabeth Cleghorn Gaskell"
+        {
+          "name": "Elizabeth Cleghorn Gaskell",
+          "viaf": "39377536"
+        }
       ]
     }
   },
@@ -8531,7 +12210,10 @@ var points = [
       "name": "Hong Kong, China",
       "popupContent": "Hong Kong, China",
       "affiliatedPeople": [
-        "Lin Yutang"
+        {
+          "name": "Lin Yutang",
+          "viaf": "66481926"
+        }
       ]
     }
   },
@@ -8548,8 +12230,14 @@ var points = [
       "name": "Honolulu, Hawaii",
       "popupContent": "Honolulu, Hawaii",
       "affiliatedPeople": [
-        "Joseph Campbell",
-        "Raymond Bernard Cattell"
+        {
+          "name": "Joseph Campbell",
+          "viaf": "9844141"
+        },
+        {
+          "name": "Raymond Bernard Cattell",
+          "viaf": "97724780"
+        }
       ]
     }
   },
@@ -8566,7 +12254,10 @@ var points = [
       "name": "Hoorn, Netherlands",
       "popupContent": "Hoorn, Netherlands",
       "affiliatedPeople": [
-        "Bart Bok"
+        {
+          "name": "Bart Bok",
+          "viaf": "15574196"
+        }
       ]
     }
   },
@@ -8658,7 +12349,10 @@ var points = [
       "name": "Houjarray, France",
       "popupContent": "Houjarray, France",
       "affiliatedPeople": [
-        "Jean Monnet"
+        {
+          "name": "Jean Monnet",
+          "viaf": "71414292"
+        }
       ]
     }
   },
@@ -8675,7 +12369,10 @@ var points = [
       "name": "Huinca Renancó, Argentina",
       "popupContent": "Huinca Renancó, Argentina",
       "affiliatedPeople": [
-        "David Lagmanovich"
+        {
+          "name": "David Lagmanovich",
+          "viaf": "112439967"
+        }
       ]
     }
   },
@@ -8692,7 +12389,10 @@ var points = [
       "name": "Hyannis, Massachusetts",
       "popupContent": "Hyannis, Massachusetts",
       "affiliatedPeople": [
-        "John Peale Bishop"
+        {
+          "name": "John Peale Bishop",
+          "viaf": "73984000"
+        }
       ]
     }
   },
@@ -8709,7 +12409,10 @@ var points = [
       "name": "Hyeres, France",
       "popupContent": "Hyeres, France",
       "affiliatedPeople": [
-        "Benoite Groult"
+        {
+          "name": "Benoite Groult",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -8726,7 +12429,10 @@ var points = [
       "name": "Iasi, Romania",
       "popupContent": "Iasi, Romania",
       "affiliatedPeople": [
-        "Benjamin Fondane"
+        {
+          "name": "Benjamin Fondane",
+          "viaf": "4929921"
+        }
       ]
     }
   },
@@ -8743,7 +12449,10 @@ var points = [
       "name": "Ichigaya, Tokyo, Japan",
       "popupContent": "Ichigaya, Tokyo, Japan",
       "affiliatedPeople": [
-        "Yukio Mishima (Kimitake Hiraoka)"
+        {
+          "name": "Yukio Mishima (Kimitake Hiraoka)",
+          "viaf": "122035954"
+        }
       ]
     }
   },
@@ -8760,7 +12469,10 @@ var points = [
       "name": "Ile-de-France, France",
       "popupContent": "Ile-de-France, France",
       "affiliatedPeople": [
-        "Yvette Billod-Cottier"
+        {
+          "name": "Yvette Billod-Cottier",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -8777,7 +12489,10 @@ var points = [
       "name": "Ilford, United Kingdom",
       "popupContent": "Ilford, United Kingdom",
       "affiliatedPeople": [
-        "Kathleen Raine"
+        {
+          "name": "Kathleen Raine",
+          "viaf": "71396599"
+        }
       ]
     }
   },
@@ -8794,7 +12509,10 @@ var points = [
       "name": "Illinois, United States",
       "popupContent": "Illinois, United States",
       "affiliatedPeople": [
-        "Madeleine Goss"
+        {
+          "name": "Madeleine Goss",
+          "viaf": "39742347"
+        }
       ]
     }
   },
@@ -8811,7 +12529,10 @@ var points = [
       "name": "India",
       "popupContent": "India",
       "affiliatedPeople": [
-        "Sophia Wadia"
+        {
+          "name": "Sophia Wadia",
+          "viaf": "93641903"
+        }
       ]
     }
   },
@@ -8828,7 +12549,10 @@ var points = [
       "name": "Indian Creek, Texas",
       "popupContent": "Indian Creek, Texas",
       "affiliatedPeople": [
-        "Katherine Anne Porter"
+        {
+          "name": "Katherine Anne Porter",
+          "viaf": "56620604"
+        }
       ]
     }
   },
@@ -8845,7 +12569,10 @@ var points = [
       "name": "Innsbruck, Austria",
       "popupContent": "Innsbruck, Austria",
       "affiliatedPeople": [
-        "Count Hermann Alexander von Keyserling"
+        {
+          "name": "Count Hermann Alexander von Keyserling",
+          "viaf": "34458713"
+        }
       ]
     }
   },
@@ -8862,7 +12589,10 @@ var points = [
       "name": "Iona Station, Canada",
       "popupContent": "Iona Station, Canada",
       "affiliatedPeople": [
-        "John Kenneth Galbraith"
+        {
+          "name": "John Kenneth Galbraith",
+          "viaf": "108307703"
+        }
       ]
     }
   },
@@ -8879,7 +12609,10 @@ var points = [
       "name": "Ipswich, United Kingdom",
       "popupContent": "Ipswich, United Kingdom",
       "affiliatedPeople": [
-        "V. S. Pritchett"
+        {
+          "name": "V. S. Pritchett",
+          "viaf": "94052985"
+        }
       ]
     }
   },
@@ -8896,7 +12629,10 @@ var points = [
       "name": "Iquitos, Peru",
       "popupContent": "Iquitos, Peru",
       "affiliatedPeople": [
-        "César Calvo"
+        {
+          "name": "César Calvo",
+          "viaf": "53033378"
+        }
       ]
     }
   },
@@ -8913,7 +12649,10 @@ var points = [
       "name": "Iria Flavia, Spain",
       "popupContent": "Iria Flavia, Spain",
       "affiliatedPeople": [
-        "Camilo José Cela"
+        {
+          "name": "Camilo José Cela",
+          "viaf": "14767431"
+        }
       ]
     }
   },
@@ -8930,7 +12669,10 @@ var points = [
       "name": "Ischia, Italy",
       "popupContent": "Ischia, Italy",
       "affiliatedPeople": [
-        "William Walton"
+        {
+          "name": "William Walton",
+          "viaf": "104009466"
+        }
       ]
     }
   },
@@ -8947,7 +12689,10 @@ var points = [
       "name": "Islas Canarias, Spain",
       "popupContent": "Islas Canarias, Spain",
       "affiliatedPeople": [
-        "Manuel Pedro González"
+        {
+          "name": "Manuel Pedro González",
+          "viaf": "109936702"
+        }
       ]
     }
   },
@@ -8964,8 +12709,14 @@ var points = [
       "name": "Isle of Wight, United Kingdom",
       "popupContent": "Isle of Wight, United Kingdom",
       "affiliatedPeople": [
-        "David Gascoyne",
-        "Neville Braybrooke"
+        {
+          "name": "David Gascoyne",
+          "viaf": "36918646"
+        },
+        {
+          "name": "Neville Braybrooke",
+          "viaf": "66593713"
+        }
       ]
     }
   },
@@ -8982,7 +12733,10 @@ var points = [
       "name": "Isola Vicentina, Italy",
       "popupContent": "Isola Vicentina, Italy",
       "affiliatedPeople": [
-        "Giuseppe Faggin"
+        {
+          "name": "Giuseppe Faggin",
+          "viaf": "66550126"
+        }
       ]
     }
   },
@@ -8999,9 +12753,18 @@ var points = [
       "name": "Israel",
       "popupContent": "Israel",
       "affiliatedPeople": [
-        "Haim Hazaz",
-        "Jacob Kahan",
-        "Yehuda Amijai"
+        {
+          "name": "Haim Hazaz",
+          "viaf": "102389039"
+        },
+        {
+          "name": "Jacob Kahan",
+          "viaf": "28188208"
+        },
+        {
+          "name": "Yehuda Amijai",
+          "viaf": "29529096"
+        }
       ]
     }
   },
@@ -9018,7 +12781,10 @@ var points = [
       "name": "Itabira, Minas Gerais, Brazil",
       "popupContent": "Itabira, Minas Gerais, Brazil",
       "affiliatedPeople": [
-        "Carlos Drummond de Andrade"
+        {
+          "name": "Carlos Drummond de Andrade",
+          "viaf": "111376689"
+        }
       ]
     }
   },
@@ -9035,7 +12801,10 @@ var points = [
       "name": "Itabuna, Bahia, Brazil",
       "popupContent": "Itabuna, Bahia, Brazil",
       "affiliatedPeople": [
-        "Jorge Amado"
+        {
+          "name": "Jorge Amado",
+          "viaf": "108732513"
+        }
       ]
     }
   },
@@ -9052,9 +12821,18 @@ var points = [
       "name": "Italy",
       "popupContent": "Italy",
       "affiliatedPeople": [
-        "Franco Mongi",
-        "Leonard Anfossi",
-        "Moura Budberg"
+        {
+          "name": "Franco Mongi",
+          "viaf": "72387182"
+        },
+        {
+          "name": "Leonard Anfossi",
+          "viaf": ""
+        },
+        {
+          "name": "Moura Budberg",
+          "viaf": "73989566"
+        }
       ]
     }
   },
@@ -9071,7 +12849,10 @@ var points = [
       "name": "Ivanovo, Russia",
       "popupContent": "Ivanovo, Russia",
       "affiliatedPeople": [
-        "Nathalie Sarraute"
+        {
+          "name": "Nathalie Sarraute",
+          "viaf": "100261678"
+        }
       ]
     }
   },
@@ -9088,7 +12869,10 @@ var points = [
       "name": "Ivry-sur-Seine, France",
       "popupContent": "Ivry-sur-Seine, France",
       "affiliatedPeople": [
-        "Antonin Artaud"
+        {
+          "name": "Antonin Artaud",
+          "viaf": "71386527"
+        }
       ]
     }
   },
@@ -9105,7 +12889,10 @@ var points = [
       "name": "Iwaki, Japan",
       "popupContent": "Iwaki, Japan",
       "affiliatedPeople": [
-        "Shinpei Kusano"
+        {
+          "name": "Shinpei Kusano",
+          "viaf": "12454839"
+        }
       ]
     }
   },
@@ -9122,7 +12909,10 @@ var points = [
       "name": "Iwate Prefecture, Japan",
       "popupContent": "Iwate Prefecture, Japan",
       "affiliatedPeople": [
-        "Takuboku Ishikawa"
+        {
+          "name": "Takuboku Ishikawa",
+          "viaf": "51691113"
+        }
       ]
     }
   },
@@ -9139,9 +12929,18 @@ var points = [
       "name": "Ixelles, Belgium",
       "popupContent": "Ixelles, Belgium",
       "affiliatedPeople": [
-        "Ernest Claes",
-        "Julio Cortázar",
-        "Michel de Ghelderode"
+        {
+          "name": "Ernest Claes",
+          "viaf": "71399529"
+        },
+        {
+          "name": "Julio Cortázar",
+          "viaf": "12306822"
+        },
+        {
+          "name": "Michel de Ghelderode",
+          "viaf": "68927788"
+        }
       ]
     }
   },
@@ -9158,7 +12957,10 @@ var points = [
       "name": "Jackson, Mississippi",
       "popupContent": "Jackson, Mississippi",
       "affiliatedPeople": [
-        "Eudora Welty"
+        {
+          "name": "Eudora Welty",
+          "viaf": "4938026"
+        }
       ]
     }
   },
@@ -9175,7 +12977,10 @@ var points = [
       "name": "Jacksonville, Florida",
       "popupContent": "Jacksonville, Florida",
       "affiliatedPeople": [
-        "George Dillon"
+        {
+          "name": "George Dillon",
+          "viaf": "29112877"
+        }
       ]
     }
   },
@@ -9192,8 +12997,14 @@ var points = [
       "name": "Jaen, Spain",
       "popupContent": "Jaen, Spain",
       "affiliatedPeople": [
-        "César A. Comet",
-        "Manuel Ángeles Ortiz"
+        {
+          "name": "César A. Comet",
+          "viaf": ""
+        },
+        {
+          "name": "Manuel Ángeles Ortiz",
+          "viaf": "49403783"
+        }
       ]
     }
   },
@@ -9210,7 +13021,10 @@ var points = [
       "name": "Jalandhar, India",
       "popupContent": "Jalandhar, India",
       "affiliatedPeople": [
-        "Lawrence Durrell"
+        {
+          "name": "Lawrence Durrell",
+          "viaf": "68928525"
+        }
       ]
     }
   },
@@ -9227,7 +13041,10 @@ var points = [
       "name": "Jamaica",
       "popupContent": "Jamaica",
       "affiliatedPeople": [
-        "Keith Ellis"
+        {
+          "name": "Keith Ellis",
+          "viaf": "22157165"
+        }
       ]
     }
   },
@@ -9244,7 +13061,10 @@ var points = [
       "name": "Japan",
       "popupContent": "Japan",
       "affiliatedPeople": [
-        "Ando Ichiro"
+        {
+          "name": "Ando Ichiro",
+          "viaf": "21717782"
+        }
       ]
     }
   },
@@ -9261,7 +13081,10 @@ var points = [
       "name": "Jerez de García Salinas, Mexico",
       "popupContent": "Jerez de García Salinas, Mexico",
       "affiliatedPeople": [
-        "Francisco Larroyo"
+        {
+          "name": "Francisco Larroyo",
+          "viaf": "111644912"
+        }
       ]
     }
   },
@@ -9278,12 +13101,30 @@ var points = [
       "name": "Jerusalem, Israel",
       "popupContent": "Jerusalem, Israel",
       "affiliatedPeople": [
-        "Aryeh Leon Kubovy",
-        "Martín Buber",
-        "Saúl Tchernichowsky",
-        "Shmuel Yosef Agnon",
-        "T. Carmi",
-        "Yehuda Haleví"
+        {
+          "name": "Aryeh Leon Kubovy",
+          "viaf": "54481676"
+        },
+        {
+          "name": "Martín Buber",
+          "viaf": "68926330"
+        },
+        {
+          "name": "Saúl Tchernichowsky",
+          "viaf": "12420180"
+        },
+        {
+          "name": "Shmuel Yosef Agnon",
+          "viaf": "14765267"
+        },
+        {
+          "name": "T. Carmi",
+          "viaf": "111299931"
+        },
+        {
+          "name": "Yehuda Haleví",
+          "viaf": "56620997"
+        }
       ]
     }
   },
@@ -9300,7 +13141,10 @@ var points = [
       "name": "Jiangyin, China",
       "popupContent": "Jiangyin, China",
       "affiliatedPeople": [
-        "Allen Haden"
+        {
+          "name": "Allen Haden",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -9317,7 +13161,10 @@ var points = [
       "name": "Johannesburg , South Africa",
       "popupContent": "Johannesburg , South Africa",
       "affiliatedPeople": [
-        "Reinhold Friedrich Alfred Hoernlé"
+        {
+          "name": "Reinhold Friedrich Alfred Hoernlé",
+          "viaf": "41500143"
+        }
       ]
     }
   },
@@ -9349,7 +13196,10 @@ var points = [
       "name": "Joigny, France",
       "popupContent": "Joigny, France",
       "affiliatedPeople": [
-        "Marcel Aymé"
+        {
+          "name": "Marcel Aymé",
+          "viaf": "9842427"
+        }
       ]
     }
   },
@@ -9366,7 +13216,10 @@ var points = [
       "name": "Jonzac, France",
       "popupContent": "Jonzac, France",
       "affiliatedPeople": [
-        "Jean Hyppolite"
+        {
+          "name": "Jean Hyppolite",
+          "viaf": "66526493"
+        }
       ]
     }
   },
@@ -9383,7 +13236,10 @@ var points = [
       "name": "Joplin, Missouri",
       "popupContent": "Joplin, Missouri",
       "affiliatedPeople": [
-        "Langston Hughes"
+        {
+          "name": "Langston Hughes",
+          "viaf": "44315795"
+        }
       ]
     }
   },
@@ -9400,7 +13256,10 @@ var points = [
       "name": "Juiz de Fora, Minas Gerais, Brazil",
       "popupContent": "Juiz de Fora, Minas Gerais, Brazil",
       "affiliatedPeople": [
-        "Murilo Mendes"
+        {
+          "name": "Murilo Mendes",
+          "viaf": "66486629"
+        }
       ]
     }
   },
@@ -9417,8 +13276,14 @@ var points = [
       "name": "Kamakura, Japan",
       "popupContent": "Kamakura, Japan",
       "affiliatedPeople": [
-        "Hakushü Kitahara",
-        "Ikuma Arishima (Arishima Mibuma)"
+        {
+          "name": "Hakushü Kitahara",
+          "viaf": "17342486"
+        },
+        {
+          "name": "Ikuma Arishima (Arishima Mibuma)",
+          "viaf": "96588579"
+        }
       ]
     }
   },
@@ -9435,7 +13300,10 @@ var points = [
       "name": "Kanagi, Aomori, Japan",
       "popupContent": "Kanagi, Aomori, Japan",
       "affiliatedPeople": [
-        "Osamu Dazai"
+        {
+          "name": "Osamu Dazai",
+          "viaf": "4940744"
+        }
       ]
     }
   },
@@ -9452,8 +13320,14 @@ var points = [
       "name": "Kansas City, Kansas",
       "popupContent": "Kansas City, Kansas",
       "affiliatedPeople": [
-        "Frederic Wakeman",
-        "Hall Bartlett"
+        {
+          "name": "Frederic Wakeman",
+          "viaf": "56654313"
+        },
+        {
+          "name": "Hall Bartlett",
+          "viaf": "19868904"
+        }
       ]
     }
   },
@@ -9470,7 +13344,10 @@ var points = [
       "name": "Karlsruhe, Germany",
       "popupContent": "Karlsruhe, Germany",
       "affiliatedPeople": [
-        "Hugo Friedrich"
+        {
+          "name": "Hugo Friedrich",
+          "viaf": "68929294"
+        }
       ]
     }
   },
@@ -9487,7 +13364,10 @@ var points = [
       "name": "Kaufbeuren, Germany",
       "popupContent": "Kaufbeuren, Germany",
       "affiliatedPeople": [
-        "Han Magnus Enzensberger"
+        {
+          "name": "Han Magnus Enzensberger",
+          "viaf": "31725760"
+        }
       ]
     }
   },
@@ -9504,7 +13384,10 @@ var points = [
       "name": "Kayserberg, Germany",
       "popupContent": "Kayserberg, Germany",
       "affiliatedPeople": [
-        "Albert Schweitzer"
+        {
+          "name": "Albert Schweitzer",
+          "viaf": "17367"
+        }
       ]
     }
   },
@@ -9521,7 +13404,10 @@ var points = [
       "name": "Kelmė, Lithuania",
       "popupContent": "Kelmė, Lithuania",
       "affiliatedPeople": [
-        "Morris Ginsberg"
+        {
+          "name": "Morris Ginsberg",
+          "viaf": "59147255"
+        }
       ]
     }
   },
@@ -9538,7 +13424,10 @@ var points = [
       "name": "Kelvedon Hatch, United Kingdom",
       "popupContent": "Kelvedon Hatch, United Kingdom",
       "affiliatedPeople": [
-        "Stuart Gilbert"
+        {
+          "name": "Stuart Gilbert",
+          "viaf": "24832693"
+        }
       ]
     }
   },
@@ -9555,7 +13444,10 @@ var points = [
       "name": "Kendal, United Kingdom",
       "popupContent": "Kendal, United Kingdom",
       "affiliatedPeople": [
-        "Arthur Stanley Eddington"
+        {
+          "name": "Arthur Stanley Eddington",
+          "viaf": "24675918"
+        }
       ]
     }
   },
@@ -9572,14 +13464,38 @@ var points = [
       "name": "Kensington, United Kingdom",
       "popupContent": "Kensington, United Kingdom",
       "affiliatedPeople": [
-        "Anna Kavan (Helen Ferguson)",
-        "Evan John",
-        "G. K. Chesterton",
-        "Jacob Epstein",
-        "Sir Winston Churchill",
-        "Stephen Spender",
-        "T. S. Eliot",
-        "Virginia Woolf"
+        {
+          "name": "Anna Kavan (Helen Ferguson)",
+          "viaf": "59084394"
+        },
+        {
+          "name": "Evan John",
+          "viaf": "58227586"
+        },
+        {
+          "name": "G. K. Chesterton",
+          "viaf": "14767719"
+        },
+        {
+          "name": "Jacob Epstein",
+          "viaf": "61779838"
+        },
+        {
+          "name": "Sir Winston Churchill",
+          "viaf": "94507588"
+        },
+        {
+          "name": "Stephen Spender",
+          "viaf": "39398656"
+        },
+        {
+          "name": "T. S. Eliot",
+          "viaf": "56609282"
+        },
+        {
+          "name": "Virginia Woolf",
+          "viaf": "39385478"
+        }
       ]
     }
   },
@@ -9596,7 +13512,10 @@ var points = [
       "name": "Kent, Connecticut",
       "popupContent": "Kent, Connecticut",
       "affiliatedPeople": [
-        "James Burnham"
+        {
+          "name": "James Burnham",
+          "viaf": "24613939"
+        }
       ]
     }
   },
@@ -9613,7 +13532,10 @@ var points = [
       "name": "Kesswil, Switzerland",
       "popupContent": "Kesswil, Switzerland",
       "affiliatedPeople": [
-        "C. G. Jung"
+        {
+          "name": "C. G. Jung",
+          "viaf": "88819182"
+        }
       ]
     }
   },
@@ -9630,7 +13552,10 @@ var points = [
       "name": "Ketchum, Idaho",
       "popupContent": "Ketchum, Idaho",
       "affiliatedPeople": [
-        "Ernest Hemingway"
+        {
+          "name": "Ernest Hemingway",
+          "viaf": "97006051"
+        }
       ]
     }
   },
@@ -9647,7 +13572,10 @@ var points = [
       "name": "Kharkiv, Ukraine",
       "popupContent": "Kharkiv, Ukraine",
       "affiliatedPeople": [
-        "Angel J. Battistessa"
+        {
+          "name": "Angel J. Battistessa",
+          "viaf": "19709928"
+        }
       ]
     }
   },
@@ -9664,7 +13592,10 @@ var points = [
       "name": "Kiel, Germany",
       "popupContent": "Kiel, Germany",
       "affiliatedPeople": [
-        "Paul Lorenzen"
+        {
+          "name": "Paul Lorenzen",
+          "viaf": "44375757"
+        }
       ]
     }
   },
@@ -9681,7 +13612,10 @@ var points = [
       "name": "Kielce, Poland",
       "popupContent": "Kielce, Poland",
       "affiliatedPeople": [
-        "Gustaw Herling-Grudziński"
+        {
+          "name": "Gustaw Herling-Grudziński",
+          "viaf": "17223996"
+        }
       ]
     }
   },
@@ -9698,7 +13632,10 @@ var points = [
       "name": "Kierling, Klosterneuburg, Austria",
       "popupContent": "Kierling, Klosterneuburg, Austria",
       "affiliatedPeople": [
-        "Franz Kafka"
+        {
+          "name": "Franz Kafka",
+          "viaf": "56611857"
+        }
       ]
     }
   },
@@ -9715,8 +13652,14 @@ var points = [
       "name": "Kiev, Ukraine",
       "popupContent": "Kiev, Ukraine",
       "affiliatedPeople": [
-        "León Chestov",
-        "Yakov Malkiel"
+        {
+          "name": "León Chestov",
+          "viaf": "36916319"
+        },
+        {
+          "name": "Yakov Malkiel",
+          "viaf": "110261896"
+        }
       ]
     }
   },
@@ -9733,7 +13676,10 @@ var points = [
       "name": "Kilkenny, Ireland",
       "popupContent": "Kilkenny, Ireland",
       "affiliatedPeople": [
-        "Alexander Brady"
+        {
+          "name": "Alexander Brady",
+          "viaf": "24972069"
+        }
       ]
     }
   },
@@ -9750,7 +13696,10 @@ var points = [
       "name": "Killiney, Ireland",
       "popupContent": "Killiney, Ireland",
       "affiliatedPeople": [
-        "Enid Starkie"
+        {
+          "name": "Enid Starkie",
+          "viaf": "61657177"
+        }
       ]
     }
   },
@@ -9767,7 +13716,10 @@ var points = [
       "name": "Killyleagh, Ireland",
       "popupContent": "Killyleagh, Ireland",
       "affiliatedPeople": [
-        "Archibald James Rowan Hamilton"
+        {
+          "name": "Archibald James Rowan Hamilton",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -9784,7 +13736,10 @@ var points = [
       "name": "King's Lynn, United Kingdom",
       "popupContent": "King's Lynn, United Kingdom",
       "affiliatedPeople": [
-        "R. H. Mottram"
+        {
+          "name": "R. H. Mottram",
+          "viaf": "111564164"
+        }
       ]
     }
   },
@@ -9801,7 +13756,10 @@ var points = [
       "name": "Kingston upon Thames, United Kingdom",
       "popupContent": "Kingston upon Thames, United Kingdom",
       "affiliatedPeople": [
-        "John Galsworthy"
+        {
+          "name": "John Galsworthy",
+          "viaf": "61561917"
+        }
       ]
     }
   },
@@ -9818,7 +13776,10 @@ var points = [
       "name": "Kingston, New York",
       "popupContent": "Kingston, New York",
       "affiliatedPeople": [
-        "Robert Craft"
+        {
+          "name": "Robert Craft",
+          "viaf": "91308575"
+        }
       ]
     }
   },
@@ -9835,7 +13796,10 @@ var points = [
       "name": "Kirkclady, Scotland",
       "popupContent": "Kirkclady, Scotland",
       "affiliatedPeople": [
-        "Jeanie Drysdale Entwistle"
+        {
+          "name": "Jeanie Drysdale Entwistle",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -9852,7 +13816,10 @@ var points = [
       "name": "Kirkham, United Kingdom",
       "popupContent": "Kirkham, United Kingdom",
       "affiliatedPeople": [
-        "Harry Hodgkinson"
+        {
+          "name": "Harry Hodgkinson",
+          "viaf": "16640785"
+        }
       ]
     }
   },
@@ -9869,7 +13836,10 @@ var points = [
       "name": "Kirkwood, Missouri",
       "popupContent": "Kirkwood, Missouri",
       "affiliatedPeople": [
-        "Marianne Moore"
+        {
+          "name": "Marianne Moore",
+          "viaf": "61562401"
+        }
       ]
     }
   },
@@ -9886,8 +13856,14 @@ var points = [
       "name": "Klagenfurt, Austria",
       "popupContent": "Klagenfurt, Austria",
       "affiliatedPeople": [
-        "Ingeborg Bachmann",
-        "Robert Musil"
+        {
+          "name": "Ingeborg Bachmann",
+          "viaf": "6839"
+        },
+        {
+          "name": "Robert Musil",
+          "viaf": "46799598"
+        }
       ]
     }
   },
@@ -9904,7 +13880,10 @@ var points = [
       "name": "Knightsbridge, London, United Kingdom",
       "popupContent": "Knightsbridge, London, United Kingdom",
       "affiliatedPeople": [
-        "Raymond Mortimer"
+        {
+          "name": "Raymond Mortimer",
+          "viaf": "33944978"
+        }
       ]
     }
   },
@@ -9921,7 +13900,10 @@ var points = [
       "name": "Knole House, United Kingdom",
       "popupContent": "Knole House, United Kingdom",
       "affiliatedPeople": [
-        "Vita (Victoria) Sackville-West"
+        {
+          "name": "Vita (Victoria) Sackville-West",
+          "viaf": "22148366"
+        }
       ]
     }
   },
@@ -9938,7 +13920,10 @@ var points = [
       "name": "Knoxville, Tennessee",
       "popupContent": "Knoxville, Tennessee",
       "affiliatedPeople": [
-        "Joseph Wood Krutch"
+        {
+          "name": "Joseph Wood Krutch",
+          "viaf": "49274843"
+        }
       ]
     }
   },
@@ -9955,7 +13940,10 @@ var points = [
       "name": "Koblenz, Germany",
       "popupContent": "Koblenz, Germany",
       "affiliatedPeople": [
-        "Rüdiger Lautmann"
+        {
+          "name": "Rüdiger Lautmann",
+          "viaf": "24732961"
+        }
       ]
     }
   },
@@ -9972,7 +13960,10 @@ var points = [
       "name": "Koksijde, Belgium",
       "popupContent": "Koksijde, Belgium",
       "affiliatedPeople": [
-        "Émilie Noulet"
+        {
+          "name": "Émilie Noulet",
+          "viaf": "46755877"
+        }
       ]
     }
   },
@@ -9989,12 +13980,30 @@ var points = [
       "name": "Kolkata, India",
       "popupContent": "Kolkata, India",
       "affiliatedPeople": [
-        "Buddhadeva Bose",
-        "Humayun Kabir",
-        "Kalidas Nag",
-        "Manik Bandyopadhyay",
-        "Rabindranath Tagore",
-        "Sarat Chandra Chatterjee"
+        {
+          "name": "Buddhadeva Bose",
+          "viaf": "71440093"
+        },
+        {
+          "name": "Humayun Kabir",
+          "viaf": "95148746"
+        },
+        {
+          "name": "Kalidas Nag",
+          "viaf": "36987024"
+        },
+        {
+          "name": "Manik Bandyopadhyay",
+          "viaf": "59093293"
+        },
+        {
+          "name": "Rabindranath Tagore",
+          "viaf": "24608356"
+        },
+        {
+          "name": "Sarat Chandra Chatterjee",
+          "viaf": "68938788"
+        }
       ]
     }
   },
@@ -10011,7 +14020,10 @@ var points = [
       "name": "Königsberg, Germany",
       "popupContent": "Königsberg, Germany",
       "affiliatedPeople": [
-        "E. T. A. Hoffmann"
+        {
+          "name": "E. T. A. Hoffmann",
+          "viaf": "29535422"
+        }
       ]
     }
   },
@@ -10028,7 +14040,10 @@ var points = [
       "name": "Konnu, Estonia",
       "popupContent": "Konnu, Estonia",
       "affiliatedPeople": [
-        "Count Hermann Alexander von Keyserling"
+        {
+          "name": "Count Hermann Alexander von Keyserling",
+          "viaf": "34458713"
+        }
       ]
     }
   },
@@ -10045,7 +14060,10 @@ var points = [
       "name": "Konolfingen, Switzerland",
       "popupContent": "Konolfingen, Switzerland",
       "affiliatedPeople": [
-        "Friedrich Durrenmatt"
+        {
+          "name": "Friedrich Durrenmatt",
+          "viaf": "64004790"
+        }
       ]
     }
   },
@@ -10062,7 +14080,10 @@ var points = [
       "name": "Košice, Slovakia",
       "popupContent": "Košice, Slovakia",
       "affiliatedPeople": [
-        "Gyula Kosice"
+        {
+          "name": "Gyula Kosice",
+          "viaf": "34469625"
+        }
       ]
     }
   },
@@ -10079,7 +14100,10 @@ var points = [
       "name": "Kraków, Poland",
       "popupContent": "Kraków, Poland",
       "affiliatedPeople": [
-        "Léopold Infeld"
+        {
+          "name": "Léopold Infeld",
+          "viaf": "68930528"
+        }
       ]
     }
   },
@@ -10096,7 +14120,10 @@ var points = [
       "name": "Kupyn, Ukraine",
       "popupContent": "Kupyn, Ukraine",
       "affiliatedPeople": [
-        "Philip Rahv"
+        {
+          "name": "Philip Rahv",
+          "viaf": "73974415"
+        }
       ]
     }
   },
@@ -10113,7 +14140,10 @@ var points = [
       "name": "Kuršėna, Lithuania",
       "popupContent": "Kuršėna, Lithuania",
       "affiliatedPeople": [
-        "Aryeh Leon Kubovy"
+        {
+          "name": "Aryeh Leon Kubovy",
+          "viaf": "54481676"
+        }
       ]
     }
   },
@@ -10130,7 +14160,10 @@ var points = [
       "name": "Kusnacht, Switzerland",
       "popupContent": "Kusnacht, Switzerland",
       "affiliatedPeople": [
-        "C. G. Jung"
+        {
+          "name": "C. G. Jung",
+          "viaf": "88819182"
+        }
       ]
     }
   },
@@ -10147,7 +14180,10 @@ var points = [
       "name": "La Celle-Saint-Cloud, France",
       "popupContent": "La Celle-Saint-Cloud, France",
       "affiliatedPeople": [
-        "Charles du Bos"
+        {
+          "name": "Charles du Bos",
+          "viaf": "4929230"
+        }
       ]
     }
   },
@@ -10164,7 +14200,10 @@ var points = [
       "name": "La Chapelle-d'Angillon, France",
       "popupContent": "La Chapelle-d'Angillon, France",
       "affiliatedPeople": [
-        "Alain Fournier"
+        {
+          "name": "Alain Fournier",
+          "viaf": "34452139"
+        }
       ]
     }
   },
@@ -10181,7 +14220,10 @@ var points = [
       "name": "La Chaux-de-Fonds, Switzerland",
       "popupContent": "La Chaux-de-Fonds, Switzerland",
       "affiliatedPeople": [
-        "Charles-Édouard Jeanneret (Le Corbusier)"
+        {
+          "name": "Charles-Édouard Jeanneret (Le Corbusier)",
+          "viaf": "56612471"
+        }
       ]
     }
   },
@@ -10198,8 +14240,14 @@ var points = [
       "name": "La Coruña , Spain",
       "popupContent": "La Coruña , Spain",
       "affiliatedPeople": [
-        "José A. Blanco",
-        "Salvador de Madariaga"
+        {
+          "name": "José A. Blanco",
+          "viaf": ""
+        },
+        {
+          "name": "Salvador de Madariaga",
+          "viaf": "27077829"
+        }
       ]
     }
   },
@@ -10216,7 +14264,10 @@ var points = [
       "name": "La Cumbre, Córdoba, Argentina",
       "popupContent": "La Cumbre, Córdoba, Argentina",
       "affiliatedPeople": [
-        "Miguel Ocampo"
+        {
+          "name": "Miguel Ocampo",
+          "viaf": "96554997"
+        }
       ]
     }
   },
@@ -10233,7 +14284,10 @@ var points = [
       "name": "La Libertad, Peru",
       "popupContent": "La Libertad, Peru",
       "affiliatedPeople": [
-        "Círo Alegría"
+        {
+          "name": "Círo Alegría",
+          "viaf": "12321079"
+        }
       ]
     }
   },
@@ -10250,7 +14304,10 @@ var points = [
       "name": "La Lucila, Buenos Aires, Argentina",
       "popupContent": "La Lucila, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Julio Molina y Vedia"
+        {
+          "name": "Julio Molina y Vedia",
+          "viaf": "53604277"
+        }
       ]
     }
   },
@@ -10267,10 +14324,22 @@ var points = [
       "name": "La Paz, Bolivia",
       "popupContent": "La Paz, Bolivia",
       "affiliatedPeople": [
-        "Alcides Arguedas",
-        "Alfonso Crespo Rodas",
-        "Gregorio Reinolds",
-        "Juan Francisco Bedregal"
+        {
+          "name": "Alcides Arguedas",
+          "viaf": "17262962"
+        },
+        {
+          "name": "Alfonso Crespo Rodas",
+          "viaf": "309738838"
+        },
+        {
+          "name": "Gregorio Reinolds",
+          "viaf": ""
+        },
+        {
+          "name": "Juan Francisco Bedregal",
+          "viaf": "26060018"
+        }
       ]
     }
   },
@@ -10287,22 +14356,70 @@ var points = [
       "name": "La Plata, Argentina",
       "popupContent": "La Plata, Argentina",
       "affiliatedPeople": [
-        "Alejandro Denis Krause",
-        "Almafuerte",
-        "Ángel Cabrera",
-        "Arnaldo Orfila Reynal",
-        "Carlos Albarracín Sarmiento",
-        "Carlos Alberto Álvarez",
-        "Carlos Sánchez Viamonte",
-        "Emilio Estiú",
-        "Emilio Pettoruti",
-        "Héctor Ciocchini",
-        "Ignacio B. Anzoátegui",
-        "Marcos Fingerit",
-        "María Paulina Juszko",
-        "Norberto Silvetti Paz",
-        "Ramón Doll",
-        "Romualdo Brugetti (sic) - Brughetti"
+        {
+          "name": "Alejandro Denis Krause",
+          "viaf": ""
+        },
+        {
+          "name": "Almafuerte",
+          "viaf": "61760651"
+        },
+        {
+          "name": "Ángel Cabrera",
+          "viaf": "15014123"
+        },
+        {
+          "name": "Arnaldo Orfila Reynal",
+          "viaf": "41090823"
+        },
+        {
+          "name": "Carlos Albarracín Sarmiento",
+          "viaf": "33369020"
+        },
+        {
+          "name": "Carlos Alberto Álvarez",
+          "viaf": "53911366"
+        },
+        {
+          "name": "Carlos Sánchez Viamonte",
+          "viaf": "24163823"
+        },
+        {
+          "name": "Emilio Estiú",
+          "viaf": "34599176"
+        },
+        {
+          "name": "Emilio Pettoruti",
+          "viaf": "10689075"
+        },
+        {
+          "name": "Héctor Ciocchini",
+          "viaf": "3973256"
+        },
+        {
+          "name": "Ignacio B. Anzoátegui",
+          "viaf": "117703141"
+        },
+        {
+          "name": "Marcos Fingerit",
+          "viaf": ""
+        },
+        {
+          "name": "María Paulina Juszko",
+          "viaf": "16498288"
+        },
+        {
+          "name": "Norberto Silvetti Paz",
+          "viaf": "11369109"
+        },
+        {
+          "name": "Ramón Doll",
+          "viaf": "309676684"
+        },
+        {
+          "name": "Romualdo Brugetti (sic) - Brughetti",
+          "viaf": "7463248"
+        }
       ]
     }
   },
@@ -10319,7 +14436,10 @@ var points = [
       "name": "La Reina, Chile",
       "popupContent": "La Reina, Chile",
       "affiliatedPeople": [
-        "Delia del Carril"
+        {
+          "name": "Delia del Carril",
+          "viaf": "78661413"
+        }
       ]
     }
   },
@@ -10336,7 +14456,10 @@ var points = [
       "name": "La Rioja, Spain",
       "popupContent": "La Rioja, Spain",
       "affiliatedPeople": [
-        "Joaquín Neyra"
+        {
+          "name": "Joaquín Neyra",
+          "viaf": "291122999"
+        }
       ]
     }
   },
@@ -10353,7 +14476,10 @@ var points = [
       "name": "La Roche-sur-Yon, France",
       "popupContent": "La Roche-sur-Yon, France",
       "affiliatedPeople": [
-        "Maurice Edgar Coindreau"
+        {
+          "name": "Maurice Edgar Coindreau",
+          "viaf": "56607570"
+        }
       ]
     }
   },
@@ -10370,7 +14496,10 @@ var points = [
       "name": "La Serena, Chile",
       "popupContent": "La Serena, Chile",
       "affiliatedPeople": [
-        "Ricardo A. Latcham"
+        {
+          "name": "Ricardo A. Latcham",
+          "viaf": "71417540"
+        }
       ]
     }
   },
@@ -10387,7 +14516,10 @@ var points = [
       "name": "La Unión, El Salvador",
       "popupContent": "La Unión, El Salvador",
       "affiliatedPeople": [
-        "Hugo Lindo"
+        {
+          "name": "Hugo Lindo",
+          "viaf": "94458625"
+        }
       ]
     }
   },
@@ -10404,7 +14536,10 @@ var points = [
       "name": "Lahore, Pakistan",
       "popupContent": "Lahore, Pakistan",
       "affiliatedPeople": [
-        "Muhammad Iqbal"
+        {
+          "name": "Muhammad Iqbal",
+          "viaf": "100267743"
+        }
       ]
     }
   },
@@ -10421,7 +14556,10 @@ var points = [
       "name": "Lake Oswego, Oregon",
       "popupContent": "Lake Oswego, Oregon",
       "affiliatedPeople": [
-        "Frederic Wakeman"
+        {
+          "name": "Frederic Wakeman",
+          "viaf": "56654313"
+        }
       ]
     }
   },
@@ -10438,7 +14576,10 @@ var points = [
       "name": "Lambarene, Gabon",
       "popupContent": "Lambarene, Gabon",
       "affiliatedPeople": [
-        "Albert Schweitzer"
+        {
+          "name": "Albert Schweitzer",
+          "viaf": "17367"
+        }
       ]
     }
   },
@@ -10455,7 +14596,10 @@ var points = [
       "name": "Lancashire, England",
       "popupContent": "Lancashire, England",
       "affiliatedPeople": [
-        "William Walton"
+        {
+          "name": "William Walton",
+          "viaf": "104009466"
+        }
       ]
     }
   },
@@ -10472,7 +14616,10 @@ var points = [
       "name": "Landstraße, Vienna, Austria",
       "popupContent": "Landstraße, Vienna, Austria",
       "affiliatedPeople": [
-        "Hugo Hofmann von Hoffmannsthal"
+        {
+          "name": "Hugo Hofmann von Hoffmannsthal",
+          "viaf": "103209512"
+        }
       ]
     }
   },
@@ -10489,7 +14636,10 @@ var points = [
       "name": "Langres, France",
       "popupContent": "Langres, France",
       "affiliatedPeople": [
-        "Denis Diderot"
+        {
+          "name": "Denis Diderot",
+          "viaf": "54146831"
+        }
       ]
     }
   },
@@ -10506,7 +14656,10 @@ var points = [
       "name": "Lauffen am Neckar, Germany",
       "popupContent": "Lauffen am Neckar, Germany",
       "affiliatedPeople": [
-        "Johann Christian Friedrich Hölderlin"
+        {
+          "name": "Johann Christian Friedrich Hölderlin",
+          "viaf": "95147974"
+        }
       ]
     }
   },
@@ -10523,12 +14676,30 @@ var points = [
       "name": "Lausanne, Switzerland",
       "popupContent": "Lausanne, Switzerland",
       "affiliatedPeople": [
-        "Alejo Carpentier",
-        "Alfred Métraux",
-        "Françoise Giroud",
-        "Guy de Pourtalès",
-        "Jean Anouilh",
-        "René Berger"
+        {
+          "name": "Alejo Carpentier",
+          "viaf": "105310694"
+        },
+        {
+          "name": "Alfred Métraux",
+          "viaf": "2474265"
+        },
+        {
+          "name": "Françoise Giroud",
+          "viaf": ""
+        },
+        {
+          "name": "Guy de Pourtalès",
+          "viaf": "95156378"
+        },
+        {
+          "name": "Jean Anouilh",
+          "viaf": "54143634"
+        },
+        {
+          "name": "René Berger",
+          "viaf": "40528305"
+        }
       ]
     }
   },
@@ -10545,7 +14716,10 @@ var points = [
       "name": "Laval, France",
       "popupContent": "Laval, France",
       "affiliatedPeople": [
-        "Alfred Jarry"
+        {
+          "name": "Alfred Jarry",
+          "viaf": "66469054"
+        }
       ]
     }
   },
@@ -10562,7 +14736,10 @@ var points = [
       "name": "Lawrence, Massachusetts",
       "popupContent": "Lawrence, Massachusetts",
       "affiliatedPeople": [
-        "Dudley Fitts"
+        {
+          "name": "Dudley Fitts",
+          "viaf": "111370364"
+        }
       ]
     }
   },
@@ -10579,7 +14756,10 @@ var points = [
       "name": "Le Bar-sur-Loup, France",
       "popupContent": "Le Bar-sur-Loup, France",
       "affiliatedPeople": [
-        "Francis Ponge"
+        {
+          "name": "Francis Ponge",
+          "viaf": "14775322"
+        }
       ]
     }
   },
@@ -10611,7 +14791,10 @@ var points = [
       "name": "Le Mont-Pèlerin, Switzerland",
       "popupContent": "Le Mont-Pèlerin, Switzerland",
       "affiliatedPeople": [
-        "Guglielmo Ferrero"
+        {
+          "name": "Guglielmo Ferrero",
+          "viaf": "79042660"
+        }
       ]
     }
   },
@@ -10628,7 +14811,10 @@ var points = [
       "name": "Le Roy, New York",
       "popupContent": "Le Roy, New York",
       "affiliatedPeople": [
-        "Louis Morton Hacker"
+        {
+          "name": "Louis Morton Hacker",
+          "viaf": "110060466"
+        }
       ]
     }
   },
@@ -10645,9 +14831,18 @@ var points = [
       "name": "Le Vesinet, France",
       "popupContent": "Le Vesinet, France",
       "affiliatedPeople": [
-        "Emmanuel Berl",
-        "Jean-Louis Barrault",
-        "Robert Aron"
+        {
+          "name": "Emmanuel Berl",
+          "viaf": "34452921"
+        },
+        {
+          "name": "Jean-Louis Barrault",
+          "viaf": "7386576"
+        },
+        {
+          "name": "Robert Aron",
+          "viaf": "51685013"
+        }
       ]
     }
   },
@@ -10664,7 +14859,10 @@ var points = [
       "name": "Lecois, Brazil",
       "popupContent": "Lecois, Brazil",
       "affiliatedPeople": [
-        "Afranio Peixoto"
+        {
+          "name": "Afranio Peixoto",
+          "viaf": "51728163"
+        }
       ]
     }
   },
@@ -10681,7 +14879,10 @@ var points = [
       "name": "Ledbury, United Kingdom",
       "popupContent": "Ledbury, United Kingdom",
       "affiliatedPeople": [
-        "John Masefield"
+        {
+          "name": "John Masefield",
+          "viaf": "68945598"
+        }
       ]
     }
   },
@@ -10698,7 +14899,10 @@ var points = [
       "name": "Leeds, United Kingdom",
       "popupContent": "Leeds, United Kingdom",
       "affiliatedPeople": [
-        "Robert Donington"
+        {
+          "name": "Robert Donington",
+          "viaf": "232644942"
+        }
       ]
     }
   },
@@ -10715,7 +14919,10 @@ var points = [
       "name": "Leicester, United Kingdom",
       "popupContent": "Leicester, United Kingdom",
       "affiliatedPeople": [
-        "Charles Percy Snow"
+        {
+          "name": "Charles Percy Snow",
+          "viaf": "108952346"
+        }
       ]
     }
   },
@@ -10732,7 +14939,10 @@ var points = [
       "name": "Leiden, Netherlands",
       "popupContent": "Leiden, Netherlands",
       "affiliatedPeople": [
-        "Gerard van Swieten"
+        {
+          "name": "Gerard van Swieten",
+          "viaf": "98732271"
+        }
       ]
     }
   },
@@ -10749,8 +14959,14 @@ var points = [
       "name": "Leipzig, Germany",
       "popupContent": "Leipzig, Germany",
       "affiliatedPeople": [
-        "Hans Freyer",
-        "Wilhelm Backhaus"
+        {
+          "name": "Hans Freyer",
+          "viaf": "14801416"
+        },
+        {
+          "name": "Wilhelm Backhaus",
+          "viaf": "64190901"
+        }
       ]
     }
   },
@@ -10767,7 +14983,10 @@ var points = [
       "name": "Lemmons, Chipping Barnet, United Kingdom",
       "popupContent": "Lemmons, Chipping Barnet, United Kingdom",
       "affiliatedPeople": [
-        "Cecil Day-Lewis"
+        {
+          "name": "Cecil Day-Lewis",
+          "viaf": "88374638"
+        }
       ]
     }
   },
@@ -10784,7 +15003,10 @@ var points = [
       "name": "León, Nicaragua",
       "popupContent": "León, Nicaragua",
       "affiliatedPeople": [
-        "Rubén Darío (Félix Rubén García Sarmiento)"
+        {
+          "name": "Rubén Darío (Félix Rubén García Sarmiento)",
+          "viaf": "7399994"
+        }
       ]
     }
   },
@@ -10816,7 +15038,10 @@ var points = [
       "name": "Leopoldshall, Germany",
       "popupContent": "Leopoldshall, Germany",
       "affiliatedPeople": [
-        "Gerhard Funke"
+        {
+          "name": "Gerhard Funke",
+          "viaf": "68943879"
+        }
       ]
     }
   },
@@ -10833,7 +15058,10 @@ var points = [
       "name": "Lerida, Spain",
       "popupContent": "Lerida, Spain",
       "affiliatedPeople": [
-        "Juan Guixé"
+        {
+          "name": "Juan Guixé",
+          "viaf": "15147001"
+        }
       ]
     }
   },
@@ -10850,7 +15078,10 @@ var points = [
       "name": "Lerín, Spain",
       "popupContent": "Lerín, Spain",
       "affiliatedPeople": [
-        "Amado Alonso"
+        {
+          "name": "Amado Alonso",
+          "viaf": "32110832"
+        }
       ]
     }
   },
@@ -10867,7 +15098,10 @@ var points = [
       "name": "Leverkusen, Germany",
       "popupContent": "Leverkusen, Germany",
       "affiliatedPeople": [
-        "Walter Erben"
+        {
+          "name": "Walter Erben",
+          "viaf": "64151372"
+        }
       ]
     }
   },
@@ -10884,7 +15118,10 @@ var points = [
       "name": "Libertador General San Martín, Argentina",
       "popupContent": "Libertador General San Martín, Argentina",
       "affiliatedPeople": [
-        "Raúl Galán"
+        {
+          "name": "Raúl Galán",
+          "viaf": "164505117"
+        }
       ]
     }
   },
@@ -10901,7 +15138,10 @@ var points = [
       "name": "Lichfield, United Kingdom",
       "popupContent": "Lichfield, United Kingdom",
       "affiliatedPeople": [
-        "Samuel Johnson"
+        {
+          "name": "Samuel Johnson",
+          "viaf": "7406725"
+        }
       ]
     }
   },
@@ -10918,7 +15158,10 @@ var points = [
       "name": "Lidingö Municipality, Sweden",
       "popupContent": "Lidingö Municipality, Sweden",
       "affiliatedPeople": [
-        "Pär F. Lagerkvist"
+        {
+          "name": "Pär F. Lagerkvist",
+          "viaf": "64007846"
+        }
       ]
     }
   },
@@ -10935,7 +15178,10 @@ var points = [
       "name": "Liege, Belgium",
       "popupContent": "Liege, Belgium",
       "affiliatedPeople": [
-        "Lucien-Paul Thomas"
+        {
+          "name": "Lucien-Paul Thomas",
+          "viaf": "5038838"
+        }
       ]
     }
   },
@@ -10952,7 +15198,10 @@ var points = [
       "name": "Liesing, Vienna, Austria",
       "popupContent": "Liesing, Vienna, Austria",
       "affiliatedPeople": [
-        "Hugo Hofmann von Hoffmannsthal"
+        {
+          "name": "Hugo Hofmann von Hoffmannsthal",
+          "viaf": "103209512"
+        }
       ]
     }
   },
@@ -10969,9 +15218,18 @@ var points = [
       "name": "Lille, France",
       "popupContent": "Lille, France",
       "affiliatedPeople": [
-        "Alain de Lille",
-        "Charles de Gaulle",
-        "Marcelle Meyer"
+        {
+          "name": "Alain de Lille",
+          "viaf": "72187470"
+        },
+        {
+          "name": "Charles de Gaulle",
+          "viaf": "27064969"
+        },
+        {
+          "name": "Marcelle Meyer",
+          "viaf": "44485837"
+        }
       ]
     }
   },
@@ -10988,20 +15246,62 @@ var points = [
       "name": "Lima, Peru",
       "popupContent": "Lima, Peru",
       "affiliatedPeople": [
-        "Alberto Wagner de Reyna",
-        "Arturo Corcuera",
-        "Carlos Germán Belli",
-        "César Calvo",
-        "Corpus Barga",
-        "Diego de León Pinelo",
-        "Estuardo Núñez",
-        "Francisco Bendezú",
-        "Javier Heraud",
-        "Jorge Eduardo Eielson",
-        "Luis Alberto Sánchez",
-        "Sebastián Salazar Bondy",
-        "Washington Delgado",
-        "Xavier Abril"
+        {
+          "name": "Alberto Wagner de Reyna",
+          "viaf": "19690150"
+        },
+        {
+          "name": "Arturo Corcuera",
+          "viaf": "66636616"
+        },
+        {
+          "name": "Carlos Germán Belli",
+          "viaf": "79054602"
+        },
+        {
+          "name": "César Calvo",
+          "viaf": "53033378"
+        },
+        {
+          "name": "Corpus Barga",
+          "viaf": "30350"
+        },
+        {
+          "name": "Diego de León Pinelo",
+          "viaf": "28422901"
+        },
+        {
+          "name": "Estuardo Núñez",
+          "viaf": "102323214"
+        },
+        {
+          "name": "Francisco Bendezú",
+          "viaf": "310570446"
+        },
+        {
+          "name": "Javier Heraud",
+          "viaf": "37080563"
+        },
+        {
+          "name": "Jorge Eduardo Eielson",
+          "viaf": "41839658"
+        },
+        {
+          "name": "Luis Alberto Sánchez",
+          "viaf": "108970947"
+        },
+        {
+          "name": "Sebastián Salazar Bondy",
+          "viaf": "27077903"
+        },
+        {
+          "name": "Washington Delgado",
+          "viaf": "56739043"
+        },
+        {
+          "name": "Xavier Abril",
+          "viaf": "54160403"
+        }
       ]
     }
   },
@@ -11018,9 +15318,18 @@ var points = [
       "name": "Lisbon, Portugal",
       "popupContent": "Lisbon, Portugal",
       "affiliatedPeople": [
-        "Fidelino de Figueiredo",
-        "Joao Cabral Do Nacimiento",
-        "Murilo Mendes"
+        {
+          "name": "Fidelino de Figueiredo",
+          "viaf": "46167"
+        },
+        {
+          "name": "Joao Cabral Do Nacimiento",
+          "viaf": ""
+        },
+        {
+          "name": "Murilo Mendes",
+          "viaf": "66486629"
+        }
       ]
     }
   },
@@ -11037,7 +15346,10 @@ var points = [
       "name": "Little Rock, Arkansas",
       "popupContent": "Little Rock, Arkansas",
       "affiliatedPeople": [
-        "Maximilian Beck"
+        {
+          "name": "Maximilian Beck",
+          "viaf": "116881824"
+        }
       ]
     }
   },
@@ -11054,7 +15366,10 @@ var points = [
       "name": "Livorno, Italy",
       "popupContent": "Livorno, Italy",
       "affiliatedPeople": [
-        "Carlo Còccioli"
+        {
+          "name": "Carlo Còccioli",
+          "viaf": "73851502"
+        }
       ]
     }
   },
@@ -11071,8 +15386,14 @@ var points = [
       "name": "Ljubljana, Slovenia",
       "popupContent": "Ljubljana, Slovenia",
       "affiliatedPeople": [
-        "Emilio Komar (Milan Komar)",
-        "Paul Golia"
+        {
+          "name": "Emilio Komar (Milan Komar)",
+          "viaf": "165550728"
+        },
+        {
+          "name": "Paul Golia",
+          "viaf": "4556432"
+        }
       ]
     }
   },
@@ -11089,7 +15410,10 @@ var points = [
       "name": "Lloret de Mar, Spain",
       "popupContent": "Lloret de Mar, Spain",
       "affiliatedPeople": [
-        "Américo Castro"
+        {
+          "name": "Américo Castro",
+          "viaf": "41855030"
+        }
       ]
     }
   },
@@ -11106,7 +15430,10 @@ var points = [
       "name": "Lobberich, Nettetal, Germany",
       "popupContent": "Lobberich, Nettetal, Germany",
       "affiliatedPeople": [
-        "Werner Wilhelm Jaeger"
+        {
+          "name": "Werner Wilhelm Jaeger",
+          "viaf": "46762703"
+        }
       ]
     }
   },
@@ -11123,7 +15450,10 @@ var points = [
       "name": "Lodz, Poland",
       "popupContent": "Lodz, Poland",
       "affiliatedPeople": [
-        "Boleslao Lewin"
+        {
+          "name": "Boleslao Lewin",
+          "viaf": "22156001"
+        }
       ]
     }
   },
@@ -11140,8 +15470,14 @@ var points = [
       "name": "Logroño, Spain",
       "popupContent": "Logroño, Spain",
       "affiliatedPeople": [
-        "Antonio Marichalar",
-        "María Teresa León"
+        {
+          "name": "Antonio Marichalar",
+          "viaf": "54283837"
+        },
+        {
+          "name": "María Teresa León",
+          "viaf": "66479739"
+        }
       ]
     }
   },
@@ -11158,8 +15494,14 @@ var points = [
       "name": "Loja, Ecuador",
       "popupContent": "Loja, Ecuador",
       "affiliatedPeople": [
-        "Alejandro Carrión",
-        "Benjamín Carrión"
+        {
+          "name": "Alejandro Carrión",
+          "viaf": "54174974"
+        },
+        {
+          "name": "Benjamín Carrión",
+          "viaf": "36950688"
+        }
       ]
     }
   },
@@ -11176,8 +15518,14 @@ var points = [
       "name": "Lomas de Zamora, Argentina",
       "popupContent": "Lomas de Zamora, Argentina",
       "affiliatedPeople": [
-        "Carlos F. Grieben",
-        "Honorio Siccardi"
+        {
+          "name": "Carlos F. Grieben",
+          "viaf": "64768026"
+        },
+        {
+          "name": "Honorio Siccardi",
+          "viaf": "11861619"
+        }
       ]
     }
   },
@@ -11194,7 +15542,10 @@ var points = [
       "name": "Lomonosov, Russia",
       "popupContent": "Lomonosov, Russia",
       "affiliatedPeople": [
-        "Igor Stravinsky"
+        {
+          "name": "Igor Stravinsky",
+          "viaf": "17309155"
+        }
       ]
     }
   },
@@ -11211,68 +15562,254 @@ var points = [
       "name": "London, United Kingdom",
       "popupContent": "London, United Kingdom",
       "affiliatedPeople": [
-        "Adlai Stevenson II",
-        "Alan Payan Pryce-Jones",
-        "Anthony Berkeley",
-        "Anthony Creighton",
-        "Arnold J. Toynbee",
-        "Arthur Koestler",
-        "Baba de Faucigny-Lucinge",
-        "Ben Jonson",
-        "Benjamin Ifor Evans",
-        "Caroline Alice Lejeune",
-        "Cecil Jackson Squire Sprigge",
-        "Charles Langbridge Morgan",
-        "Charles Percy Snow",
-        "Conde de Listowel (William Francis Hare)",
-        "Constant Lambert",
-        "Cyril Connolly",
-        "David Dove Carver",
-        "Edith Sitwell",
-        "Edward Frederik Benson",
-        "Edward Hallett Carr",
-        "Eliza Marian Butler",
-        "Elizabeth Bowen",
-        "Fryniwyd Tennyson Jesse",
-        "Geoffrey Chaucer",
-        "George Hoellering",
-        "George Moore",
-        "George Orwell",
-        "Gerald Heard",
-        "Guido Piovene",
-        "Harry Hodgkinson",
-        "Henry James",
-        "Hermon Ould",
-        "Hugo Manning",
-        "Ivor Brown",
-        "John Donne",
-        "John Dryden",
-        "John Guest",
-        "John Haigh",
-        "John Keats",
-        "John Lehmann",
-        "Julian Huxley",
-        "Kathleen Raine",
-        "Lady Marie Noële Kelly",
-        "Lady Ottoline Morrell",
-        "Louis MacNeice",
-        "Matthew Huxley",
-        "Morris Ginsberg",
-        "Neville Braybrooke",
-        "Osbert Sitwell",
-        "Philip Guedalla",
-        "Quentin Bell",
-        "Roger Godel",
-        "Roger Hinks",
-        "Roy Fuller",
-        "Rudyard Kipling",
-        "Samuel Johnson",
-        "Sir Thomas Browne",
-        "Thomas Carlyle",
-        "V. S. Pritchett",
-        "Víctor Gollancz",
-        "William Blake",
-        "William Sansom"
+        {
+          "name": "Adlai Stevenson II",
+          "viaf": "54944639"
+        },
+        {
+          "name": "Alan Payan Pryce-Jones",
+          "viaf": "98132193"
+        },
+        {
+          "name": "Anthony Berkeley",
+          "viaf": "267374080"
+        },
+        {
+          "name": "Anthony Creighton",
+          "viaf": "44806975"
+        },
+        {
+          "name": "Arnold J. Toynbee",
+          "viaf": "54154945"
+        },
+        {
+          "name": "Arthur Koestler",
+          "viaf": "59084510"
+        },
+        {
+          "name": "Baba de Faucigny-Lucinge",
+          "viaf": "316441599"
+        },
+        {
+          "name": "Ben Jonson",
+          "viaf": "292789691"
+        },
+        {
+          "name": "Benjamin Ifor Evans",
+          "viaf": "87683269"
+        },
+        {
+          "name": "Caroline Alice Lejeune",
+          "viaf": "92045828"
+        },
+        {
+          "name": "Cecil Jackson Squire Sprigge",
+          "viaf": "70055445"
+        },
+        {
+          "name": "Charles Langbridge Morgan",
+          "viaf": "76404437"
+        },
+        {
+          "name": "Charles Percy Snow",
+          "viaf": "108952346"
+        },
+        {
+          "name": "Conde de Listowel (William Francis Hare)",
+          "viaf": "74751354"
+        },
+        {
+          "name": "Constant Lambert",
+          "viaf": "54315013"
+        },
+        {
+          "name": "Cyril Connolly",
+          "viaf": "22140262"
+        },
+        {
+          "name": "David Dove Carver",
+          "viaf": "166165131"
+        },
+        {
+          "name": "Edith Sitwell",
+          "viaf": "29549983"
+        },
+        {
+          "name": "Edward Frederik Benson",
+          "viaf": "49221488"
+        },
+        {
+          "name": "Edward Hallett Carr",
+          "viaf": "24418"
+        },
+        {
+          "name": "Eliza Marian Butler",
+          "viaf": "13325702"
+        },
+        {
+          "name": "Elizabeth Bowen",
+          "viaf": "19674925"
+        },
+        {
+          "name": "Fryniwyd Tennyson Jesse",
+          "viaf": "15771397"
+        },
+        {
+          "name": "Geoffrey Chaucer",
+          "viaf": "100185203"
+        },
+        {
+          "name": "George Hoellering",
+          "viaf": "55983794"
+        },
+        {
+          "name": "George Moore",
+          "viaf": "22160365"
+        },
+        {
+          "name": "George Orwell",
+          "viaf": "95155403"
+        },
+        {
+          "name": "Gerald Heard",
+          "viaf": "45031451"
+        },
+        {
+          "name": "Guido Piovene",
+          "viaf": "59110728"
+        },
+        {
+          "name": "Harry Hodgkinson",
+          "viaf": "16640785"
+        },
+        {
+          "name": "Henry James",
+          "viaf": "36920030"
+        },
+        {
+          "name": "Hermon Ould",
+          "viaf": "25373252"
+        },
+        {
+          "name": "Hugo Manning",
+          "viaf": "8219741"
+        },
+        {
+          "name": "Ivor Brown",
+          "viaf": "19805970"
+        },
+        {
+          "name": "John Donne",
+          "viaf": "73852666"
+        },
+        {
+          "name": "John Dryden",
+          "viaf": "57517466"
+        },
+        {
+          "name": "John Guest",
+          "viaf": "46727750"
+        },
+        {
+          "name": "John Haigh",
+          "viaf": "31676824"
+        },
+        {
+          "name": "John Keats",
+          "viaf": "66508882"
+        },
+        {
+          "name": "John Lehmann",
+          "viaf": "56672392"
+        },
+        {
+          "name": "Julian Huxley",
+          "viaf": "39451154"
+        },
+        {
+          "name": "Kathleen Raine",
+          "viaf": "71396599"
+        },
+        {
+          "name": "Lady Marie Noële Kelly",
+          "viaf": "73483486"
+        },
+        {
+          "name": "Lady Ottoline Morrell",
+          "viaf": "61644557"
+        },
+        {
+          "name": "Louis MacNeice",
+          "viaf": "46802910"
+        },
+        {
+          "name": "Matthew Huxley",
+          "viaf": "33644601"
+        },
+        {
+          "name": "Morris Ginsberg",
+          "viaf": "59147255"
+        },
+        {
+          "name": "Neville Braybrooke",
+          "viaf": "66593713"
+        },
+        {
+          "name": "Osbert Sitwell",
+          "viaf": "29544622"
+        },
+        {
+          "name": "Philip Guedalla",
+          "viaf": "59457732"
+        },
+        {
+          "name": "Quentin Bell",
+          "viaf": "4926523"
+        },
+        {
+          "name": "Roger Godel",
+          "viaf": "27065284"
+        },
+        {
+          "name": "Roger Hinks",
+          "viaf": "55071235"
+        },
+        {
+          "name": "Roy Fuller",
+          "viaf": "110202386"
+        },
+        {
+          "name": "Rudyard Kipling",
+          "viaf": "7524679"
+        },
+        {
+          "name": "Samuel Johnson",
+          "viaf": "7406725"
+        },
+        {
+          "name": "Sir Thomas Browne",
+          "viaf": "41925299"
+        },
+        {
+          "name": "Thomas Carlyle",
+          "viaf": "39390702"
+        },
+        {
+          "name": "V. S. Pritchett",
+          "viaf": "94052985"
+        },
+        {
+          "name": "Víctor Gollancz",
+          "viaf": "64045383"
+        },
+        {
+          "name": "William Blake",
+          "viaf": "54144439"
+        },
+        {
+          "name": "William Sansom",
+          "viaf": "32039249"
+        }
       ]
     }
   },
@@ -11289,7 +15826,10 @@ var points = [
       "name": "Long Branch, New Jersey",
       "popupContent": "Long Branch, New Jersey",
       "affiliatedPeople": [
-        "Norman Mailer"
+        {
+          "name": "Norman Mailer",
+          "viaf": "7393743"
+        }
       ]
     }
   },
@@ -11306,7 +15846,10 @@ var points = [
       "name": "Long Branch, New York",
       "popupContent": "Long Branch, New York",
       "affiliatedPeople": [
-        "Waldo Frank"
+        {
+          "name": "Waldo Frank",
+          "viaf": "39413836"
+        }
       ]
     }
   },
@@ -11323,7 +15866,10 @@ var points = [
       "name": "Loos, France",
       "popupContent": "Loos, France",
       "affiliatedPeople": [
-        "Archibald James Rowan Hamilton"
+        {
+          "name": "Archibald James Rowan Hamilton",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -11340,14 +15886,38 @@ var points = [
       "name": "Los Angeles, California",
       "popupContent": "Los Angeles, California",
       "affiliatedPeople": [
-        "Adlai Stevenson II",
-        "Aldous Huxley",
-        "Hall Bartlett",
-        "Henry Fonda",
-        "Henry Miller",
-        "Ketti Frings",
-        "Marilyn Monroe",
-        "Spruille Braden"
+        {
+          "name": "Adlai Stevenson II",
+          "viaf": "54944639"
+        },
+        {
+          "name": "Aldous Huxley",
+          "viaf": "71392434"
+        },
+        {
+          "name": "Hall Bartlett",
+          "viaf": "19868904"
+        },
+        {
+          "name": "Henry Fonda",
+          "viaf": "112378001"
+        },
+        {
+          "name": "Henry Miller",
+          "viaf": "59086729"
+        },
+        {
+          "name": "Ketti Frings",
+          "viaf": "28385774"
+        },
+        {
+          "name": "Marilyn Monroe",
+          "viaf": "27069077"
+        },
+        {
+          "name": "Spruille Braden",
+          "viaf": "91269805"
+        }
       ]
     }
   },
@@ -11364,7 +15934,10 @@ var points = [
       "name": "Lourmarin, France",
       "popupContent": "Lourmarin, France",
       "affiliatedPeople": [
-        "Francine Faure Camus"
+        {
+          "name": "Francine Faure Camus",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -11381,9 +15954,18 @@ var points = [
       "name": "Louveciennes, France",
       "popupContent": "Louveciennes, France",
       "affiliatedPeople": [
-        "Géo Dorival",
-        "Georges Henri Rivière",
-        "Louis de Broglie"
+        {
+          "name": "Géo Dorival",
+          "viaf": "58425634"
+        },
+        {
+          "name": "Georges Henri Rivière",
+          "viaf": "311981766"
+        },
+        {
+          "name": "Louis de Broglie",
+          "viaf": "4927396"
+        }
       ]
     }
   },
@@ -11400,7 +15982,10 @@ var points = [
       "name": "Lowell, Massachusetts",
       "popupContent": "Lowell, Massachusetts",
       "affiliatedPeople": [
-        "Jack Kerouac"
+        {
+          "name": "Jack Kerouac",
+          "viaf": "27066713"
+        }
       ]
     }
   },
@@ -11417,7 +16002,10 @@ var points = [
       "name": "Lubcha, Belarus",
       "popupContent": "Lubcha, Belarus",
       "affiliatedPeople": [
-        "Nicolas Nabokov"
+        {
+          "name": "Nicolas Nabokov",
+          "viaf": "109534731"
+        }
       ]
     }
   },
@@ -11434,7 +16022,10 @@ var points = [
       "name": "Lübeck, Germany",
       "popupContent": "Lübeck, Germany",
       "affiliatedPeople": [
-        "Gustav Hillard"
+        {
+          "name": "Gustav Hillard",
+          "viaf": "238691993"
+        }
       ]
     }
   },
@@ -11451,7 +16042,10 @@ var points = [
       "name": "Lubriano, Italy",
       "popupContent": "Lubriano, Italy",
       "affiliatedPeople": [
-        "Juan Rodolfo Wilcock"
+        {
+          "name": "Juan Rodolfo Wilcock",
+          "viaf": "111636439"
+        }
       ]
     }
   },
@@ -11468,7 +16062,10 @@ var points = [
       "name": "Lucca, Italy",
       "popupContent": "Lucca, Italy",
       "affiliatedPeople": [
-        "Roberto F. Giusti"
+        {
+          "name": "Roberto F. Giusti",
+          "viaf": "89918"
+        }
       ]
     }
   },
@@ -11485,7 +16082,10 @@ var points = [
       "name": "Luján, Argentina",
       "popupContent": "Luján, Argentina",
       "affiliatedPeople": [
-        "Jorge M. Furt"
+        {
+          "name": "Jorge M. Furt",
+          "viaf": "9969663"
+        }
       ]
     }
   },
@@ -11502,7 +16102,10 @@ var points = [
       "name": "Lumbier, Spain",
       "popupContent": "Lumbier, Spain",
       "affiliatedPeople": [
-        "Marino Ayerra"
+        {
+          "name": "Marino Ayerra",
+          "viaf": "292810950"
+        }
       ]
     }
   },
@@ -11519,7 +16122,10 @@ var points = [
       "name": "Lüneburg, Germany",
       "popupContent": "Lüneburg, Germany",
       "affiliatedPeople": [
-        "Frederick Henry Heinemann"
+        {
+          "name": "Frederick Henry Heinemann",
+          "viaf": "39505653"
+        }
       ]
     }
   },
@@ -11536,7 +16142,10 @@ var points = [
       "name": "Lüneburg, Germany",
       "popupContent": "Lüneburg, Germany",
       "affiliatedPeople": [
-        "Niklas Luhmann"
+        {
+          "name": "Niklas Luhmann",
+          "viaf": "29546145"
+        }
       ]
     }
   },
@@ -11553,7 +16162,10 @@ var points = [
       "name": "Luzern, Switzerland",
       "popupContent": "Luzern, Switzerland",
       "affiliatedPeople": [
-        "Hans Urs Von Balthasar"
+        {
+          "name": "Hans Urs Von Balthasar",
+          "viaf": "120634293"
+        }
       ]
     }
   },
@@ -11570,9 +16182,18 @@ var points = [
       "name": "Lviv, Ukraine",
       "popupContent": "Lviv, Ukraine",
       "affiliatedPeople": [
-        "Antonina Vallentin",
-        "Jan Parandowski",
-        "Raimundo Lida"
+        {
+          "name": "Antonina Vallentin",
+          "viaf": "76379363"
+        },
+        {
+          "name": "Jan Parandowski",
+          "viaf": "9851531"
+        },
+        {
+          "name": "Raimundo Lida",
+          "viaf": "87710562"
+        }
       ]
     }
   },
@@ -11589,8 +16210,14 @@ var points = [
       "name": "Lyon, France",
       "popupContent": "Lyon, France",
       "affiliatedPeople": [
-        "Albert Bayet",
-        "François Vernet"
+        {
+          "name": "Albert Bayet",
+          "viaf": "14810509"
+        },
+        {
+          "name": "François Vernet",
+          "viaf": "71525072"
+        }
       ]
     }
   },
@@ -11607,7 +16234,10 @@ var points = [
       "name": "Madanapalle, India",
       "popupContent": "Madanapalle, India",
       "affiliatedPeople": [
-        "Jiddu Krishnamurti"
+        {
+          "name": "Jiddu Krishnamurti",
+          "viaf": "105950421"
+        }
       ]
     }
   },
@@ -11624,7 +16254,10 @@ var points = [
       "name": "Madelia, Minnesota",
       "popupContent": "Madelia, Minnesota",
       "affiliatedPeople": [
-        "Howard Haycraft"
+        {
+          "name": "Howard Haycraft",
+          "viaf": "108752301"
+        }
       ]
     }
   },
@@ -11641,65 +16274,242 @@ var points = [
       "name": "Madrid, Spain",
       "popupContent": "Madrid, Spain",
       "affiliatedPeople": [
-        "Agustín González",
-        "Alfredo de la Guardia",
-        "Alonso Zamora Vicente",
-        "Álvaro Fernández Suárez",
-        "Ángel Cabrera",
-        "Ángel Ferrant",
-        "Antonio Buero Vallejo",
-        "Antonio Marichalar",
-        "Aurora de Albornoz",
-        "Beatriz Guido",
-        "Benjamín Jarnés",
-        "Camilo José Cela",
-        "Carlos Bousoño",
-        "Carmen Bravo Villasante",
-        "Carmen Conde Abellán",
-        "César A. Comet",
-        "Concha Méndez",
-        "Concha Zardoya",
-        "Consuelo Berges",
-        "Corpus Barga",
-        "Dionisio Ridruejo",
-        "Enrique Azcoaga",
-        "Francisco Ayala",
-        "Fray Bartolomé de las Casas",
-        "Gabriel Celaya",
-        "Gonzalo Fernández de Oviedo",
-        "Gregorio Marañón",
-        "Guillermo de Torre",
-        "Gustavo Pittaluga",
-        "Ignacio Aldecoa",
-        "Jesús Fernández Santos",
-        "Jorge Luzuriaga",
-        "Jorge Santayana",
-        "José Bergamín",
-        "José Hierro",
-        "José López Rey",
-        "José Luis Cano",
-        "José Luis Castillo Puche",
-        "José Ortega y Gasset",
-        "Juan Carlos Onetti",
-        "Julio Gómez de la Serna",
-        "Manuel García Morente",
-        "Manuel Lamana",
-        "María Teresa León",
-        "María Zambrano",
-        "Maruja Mallo",
-        "Melchor de Almagro San Martín",
-        "Miguel Ángel Asturias",
-        "Miguel Pérez Ferrero",
-        "Pedro Laín Entralgo",
-        "Pedro Salinas",
-        "Pío Baroja",
-        "Ramón Gómez de la Serna",
-        "Ricardo Baeza",
-        "Rosa Chacel",
-        "Segundo Serrano Poncela",
-        "Soledad Ortega Spottorno",
-        "Vicente Aleixandre",
-        "Vicente Salas Viú"
+        {
+          "name": "Agustín González",
+          "viaf": "74956458"
+        },
+        {
+          "name": "Alfredo de la Guardia",
+          "viaf": "9788592"
+        },
+        {
+          "name": "Alonso Zamora Vicente",
+          "viaf": "79047512"
+        },
+        {
+          "name": "Álvaro Fernández Suárez",
+          "viaf": "107021087"
+        },
+        {
+          "name": "Ángel Cabrera",
+          "viaf": "15014123"
+        },
+        {
+          "name": "Ángel Ferrant",
+          "viaf": "8290606"
+        },
+        {
+          "name": "Antonio Buero Vallejo",
+          "viaf": "109520156"
+        },
+        {
+          "name": "Antonio Marichalar",
+          "viaf": "54283837"
+        },
+        {
+          "name": "Aurora de Albornoz",
+          "viaf": "14784461"
+        },
+        {
+          "name": "Beatriz Guido",
+          "viaf": "96097463"
+        },
+        {
+          "name": "Benjamín Jarnés",
+          "viaf": "17339452"
+        },
+        {
+          "name": "Camilo José Cela",
+          "viaf": "14767431"
+        },
+        {
+          "name": "Carlos Bousoño",
+          "viaf": "22945913"
+        },
+        {
+          "name": "Carmen Bravo Villasante",
+          "viaf": "29547934"
+        },
+        {
+          "name": "Carmen Conde Abellán",
+          "viaf": "114239041"
+        },
+        {
+          "name": "César A. Comet",
+          "viaf": ""
+        },
+        {
+          "name": "Concha Méndez",
+          "viaf": "9863418"
+        },
+        {
+          "name": "Concha Zardoya",
+          "viaf": "79043238"
+        },
+        {
+          "name": "Consuelo Berges",
+          "viaf": "14938694"
+        },
+        {
+          "name": "Corpus Barga",
+          "viaf": "30350"
+        },
+        {
+          "name": "Dionisio Ridruejo",
+          "viaf": "73868629"
+        },
+        {
+          "name": "Enrique Azcoaga",
+          "viaf": "195982579"
+        },
+        {
+          "name": "Francisco Ayala",
+          "viaf": "110572828"
+        },
+        {
+          "name": "Fray Bartolomé de las Casas",
+          "viaf": "46758461"
+        },
+        {
+          "name": "Gabriel Celaya",
+          "viaf": "79038967"
+        },
+        {
+          "name": "Gonzalo Fernández de Oviedo",
+          "viaf": "7412295"
+        },
+        {
+          "name": "Gregorio Marañón",
+          "viaf": "9857433"
+        },
+        {
+          "name": "Guillermo de Torre",
+          "viaf": "116932494"
+        },
+        {
+          "name": "Gustavo Pittaluga",
+          "viaf": "120719760"
+        },
+        {
+          "name": "Ignacio Aldecoa",
+          "viaf": "4961381"
+        },
+        {
+          "name": "Jesús Fernández Santos",
+          "viaf": "51684077"
+        },
+        {
+          "name": "Jorge Luzuriaga",
+          "viaf": ""
+        },
+        {
+          "name": "Jorge Santayana",
+          "viaf": "59098309"
+        },
+        {
+          "name": "José Bergamín",
+          "viaf": "109502857"
+        },
+        {
+          "name": "José Hierro",
+          "viaf": "114220271"
+        },
+        {
+          "name": "José López Rey",
+          "viaf": "51810697"
+        },
+        {
+          "name": "José Luis Cano",
+          "viaf": "195303424"
+        },
+        {
+          "name": "José Luis Castillo Puche",
+          "viaf": "30571"
+        },
+        {
+          "name": "José Ortega y Gasset",
+          "viaf": "95155380"
+        },
+        {
+          "name": "Juan Carlos Onetti",
+          "viaf": "41844581"
+        },
+        {
+          "name": "Julio Gómez de la Serna",
+          "viaf": "38951263"
+        },
+        {
+          "name": "Manuel García Morente",
+          "viaf": "14770046"
+        },
+        {
+          "name": "Manuel Lamana",
+          "viaf": "29070912"
+        },
+        {
+          "name": "María Teresa León",
+          "viaf": "66479739"
+        },
+        {
+          "name": "María Zambrano",
+          "viaf": "100237745"
+        },
+        {
+          "name": "Maruja Mallo",
+          "viaf": "86916506"
+        },
+        {
+          "name": "Melchor de Almagro San Martín",
+          "viaf": "100233444"
+        },
+        {
+          "name": "Miguel Ángel Asturias",
+          "viaf": "46756659"
+        },
+        {
+          "name": "Miguel Pérez Ferrero",
+          "viaf": "23711569"
+        },
+        {
+          "name": "Pedro Laín Entralgo",
+          "viaf": "108328947"
+        },
+        {
+          "name": "Pedro Salinas",
+          "viaf": "44304992"
+        },
+        {
+          "name": "Pío Baroja",
+          "viaf": "36912891"
+        },
+        {
+          "name": "Ramón Gómez de la Serna",
+          "viaf": "68929740"
+        },
+        {
+          "name": "Ricardo Baeza",
+          "viaf": "13404577"
+        },
+        {
+          "name": "Rosa Chacel",
+          "viaf": "111966111"
+        },
+        {
+          "name": "Segundo Serrano Poncela",
+          "viaf": "30394181"
+        },
+        {
+          "name": "Soledad Ortega Spottorno",
+          "viaf": "91554268"
+        },
+        {
+          "name": "Vicente Aleixandre",
+          "viaf": "109520823"
+        },
+        {
+          "name": "Vicente Salas Viú",
+          "viaf": "87799713"
+        }
       ]
     }
   },
@@ -11716,7 +16526,10 @@ var points = [
       "name": "Maebashi, Japan",
       "popupContent": "Maebashi, Japan",
       "affiliatedPeople": [
-        "Sakutaro Hagiwara"
+        {
+          "name": "Sakutaro Hagiwara",
+          "viaf": "29664195"
+        }
       ]
     }
   },
@@ -11733,7 +16546,10 @@ var points = [
       "name": "Magdalena, Buenos Aires, Argentina",
       "popupContent": "Magdalena, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Mayor Alberto Da Rocha"
+        {
+          "name": "Mayor Alberto Da Rocha",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -11750,7 +16566,10 @@ var points = [
       "name": "Magdeburg, Germany",
       "popupContent": "Magdeburg, Germany",
       "affiliatedPeople": [
-        "René König"
+        {
+          "name": "René König",
+          "viaf": "98481480"
+        }
       ]
     }
   },
@@ -11767,7 +16586,10 @@ var points = [
       "name": "Maharashtra, India",
       "popupContent": "Maharashtra, India",
       "affiliatedPeople": [
-        "Roop Katthak"
+        {
+          "name": "Roop Katthak",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -11784,7 +16606,10 @@ var points = [
       "name": "Maidstone, United Kingdom",
       "popupContent": "Maidstone, United Kingdom",
       "affiliatedPeople": [
-        "William Hazlitt"
+        {
+          "name": "William Hazlitt",
+          "viaf": "87145187"
+        }
       ]
     }
   },
@@ -11801,7 +16626,10 @@ var points = [
       "name": "Maimará, Argentina",
       "popupContent": "Maimará, Argentina",
       "affiliatedPeople": [
-        "Rodolfo Kusch"
+        {
+          "name": "Rodolfo Kusch",
+          "viaf": "37041466"
+        }
       ]
     }
   },
@@ -11818,7 +16646,10 @@ var points = [
       "name": "Maisons-Laffitte, France",
       "popupContent": "Maisons-Laffitte, France",
       "affiliatedPeople": [
-        "Jean Cocteau"
+        {
+          "name": "Jean Cocteau",
+          "viaf": "12306661"
+        }
       ]
     }
   },
@@ -11835,12 +16666,30 @@ var points = [
       "name": "Malaga, Spain",
       "popupContent": "Malaga, Spain",
       "affiliatedPeople": [
-        "Alberto Jiménez Fraud",
-        "Jorge Guillén",
-        "José Moreno Villa",
-        "Manuel Altolaguirre",
-        "Pablo Picasso",
-        "Victoria Kent"
+        {
+          "name": "Alberto Jiménez Fraud",
+          "viaf": "53095287"
+        },
+        {
+          "name": "Jorge Guillén",
+          "viaf": "91629318"
+        },
+        {
+          "name": "José Moreno Villa",
+          "viaf": "47429"
+        },
+        {
+          "name": "Manuel Altolaguirre",
+          "viaf": "2482525"
+        },
+        {
+          "name": "Pablo Picasso",
+          "viaf": "15873"
+        },
+        {
+          "name": "Victoria Kent",
+          "viaf": "79126049"
+        }
       ]
     }
   },
@@ -11857,7 +16706,10 @@ var points = [
       "name": "Mallorca, Spain",
       "popupContent": "Mallorca, Spain",
       "affiliatedPeople": [
-        "Guy Dumur"
+        {
+          "name": "Guy Dumur",
+          "viaf": "113744754"
+        }
       ]
     }
   },
@@ -11874,7 +16726,10 @@ var points = [
       "name": "Malo, Italy",
       "popupContent": "Malo, Italy",
       "affiliatedPeople": [
-        "Renato Ghiotto"
+        {
+          "name": "Renato Ghiotto",
+          "viaf": "79130420"
+        }
       ]
     }
   },
@@ -11891,8 +16746,14 @@ var points = [
       "name": "Managua, Nicaragua",
       "popupContent": "Managua, Nicaragua",
       "affiliatedPeople": [
-        "Claribel Alegría",
-        "Pablo Antonio Cuadra"
+        {
+          "name": "Claribel Alegría",
+          "viaf": "7385942"
+        },
+        {
+          "name": "Pablo Antonio Cuadra",
+          "viaf": "115151710"
+        }
       ]
     }
   },
@@ -11909,7 +16770,10 @@ var points = [
       "name": "Manchester, New Hampshire",
       "popupContent": "Manchester, New Hampshire",
       "affiliatedPeople": [
-        "Robert Choquette"
+        {
+          "name": "Robert Choquette",
+          "viaf": "115706649"
+        }
       ]
     }
   },
@@ -11926,10 +16790,22 @@ var points = [
       "name": "Manchester, United Kingdom",
       "popupContent": "Manchester, United Kingdom",
       "affiliatedPeople": [
-        "Caroline Alice Lejeune",
-        "Louis Golding",
-        "Thomas de Quincey",
-        "Tom Hopkinson"
+        {
+          "name": "Caroline Alice Lejeune",
+          "viaf": "92045828"
+        },
+        {
+          "name": "Louis Golding",
+          "viaf": "9890106"
+        },
+        {
+          "name": "Thomas de Quincey",
+          "viaf": "14768427"
+        },
+        {
+          "name": "Tom Hopkinson",
+          "viaf": "111853684"
+        }
       ]
     }
   },
@@ -11946,18 +16822,54 @@ var points = [
       "name": "Manhattan, New York City, New York",
       "popupContent": "Manhattan, New York City, New York",
       "affiliatedPeople": [
-        "Ava Lowle Willing (Lady Ribblesdale)",
-        "Eric Larrabee",
-        "George Balanchine",
-        "Isaías Lerner",
-        "Jacqueline Kennedy Onassis",
-        "Langston Hughes",
-        "Louis Morton Hacker",
-        "Marianne Moore",
-        "Mary McCarthy",
-        "Ned O'Gorman",
-        "Susanne Katherina Langer",
-        "Vera de Bosset Stravinsky"
+        {
+          "name": "Ava Lowle Willing (Lady Ribblesdale)",
+          "viaf": "40909247"
+        },
+        {
+          "name": "Eric Larrabee",
+          "viaf": "75095859"
+        },
+        {
+          "name": "George Balanchine",
+          "viaf": ""
+        },
+        {
+          "name": "Isaías Lerner",
+          "viaf": "Isaías Lerner"
+        },
+        {
+          "name": "Jacqueline Kennedy Onassis",
+          "viaf": "117604909"
+        },
+        {
+          "name": "Langston Hughes",
+          "viaf": "44315795"
+        },
+        {
+          "name": "Louis Morton Hacker",
+          "viaf": "110060466"
+        },
+        {
+          "name": "Marianne Moore",
+          "viaf": "61562401"
+        },
+        {
+          "name": "Mary McCarthy",
+          "viaf": "94457792"
+        },
+        {
+          "name": "Ned O'Gorman",
+          "viaf": "108719037"
+        },
+        {
+          "name": "Susanne Katherina Langer",
+          "viaf": "64120378"
+        },
+        {
+          "name": "Vera de Bosset Stravinsky",
+          "viaf": "94863068"
+        }
       ]
     }
   },
@@ -11974,7 +16886,10 @@ var points = [
       "name": "Mannheim, Germany",
       "popupContent": "Mannheim, Germany",
       "affiliatedPeople": [
-        "Otto Kahn"
+        {
+          "name": "Otto Kahn",
+          "viaf": "59145857783523020532"
+        }
       ]
     }
   },
@@ -11991,7 +16906,10 @@ var points = [
       "name": "Mañón, La Coruña, Spain",
       "popupContent": "Mañón, La Coruña, Spain",
       "affiliatedPeople": [
-        "Lino Novás Calvo"
+        {
+          "name": "Lino Novás Calvo",
+          "viaf": "71558623"
+        }
       ]
     }
   },
@@ -12008,7 +16926,10 @@ var points = [
       "name": "Manosque, France",
       "popupContent": "Manosque, France",
       "affiliatedPeople": [
-        "Jean Giono"
+        {
+          "name": "Jean Giono",
+          "viaf": "44299388"
+        }
       ]
     }
   },
@@ -12025,7 +16946,10 @@ var points = [
       "name": "Mappowder, United Kingdom",
       "popupContent": "Mappowder, United Kingdom",
       "affiliatedPeople": [
-        "T. F. Powys"
+        {
+          "name": "T. F. Powys",
+          "viaf": "14775442"
+        }
       ]
     }
   },
@@ -12042,9 +16966,18 @@ var points = [
       "name": "Mar del Plata, Argentina",
       "popupContent": "Mar del Plata, Argentina",
       "affiliatedPeople": [
-        "Homero Mario Guglielmini",
-        "Juan José Hernández Arregui",
-        "María de Maeztu"
+        {
+          "name": "Homero Mario Guglielmini",
+          "viaf": "4504460"
+        },
+        {
+          "name": "Juan José Hernández Arregui",
+          "viaf": "51723817"
+        },
+        {
+          "name": "María de Maeztu",
+          "viaf": "86877666"
+        }
       ]
     }
   },
@@ -12061,7 +16994,10 @@ var points = [
       "name": "Maracaibo, Venezuela",
       "popupContent": "Maracaibo, Venezuela",
       "affiliatedPeople": [
-        "Adriano G. Carmona Romay"
+        {
+          "name": "Adriano G. Carmona Romay",
+          "viaf": "18710741"
+        }
       ]
     }
   },
@@ -12078,7 +17014,10 @@ var points = [
       "name": "Marlow, United Kingdom",
       "popupContent": "Marlow, United Kingdom",
       "affiliatedPeople": [
-        "B. H. Lidell Hart"
+        {
+          "name": "B. H. Lidell Hart",
+          "viaf": "39389064"
+        }
       ]
     }
   },
@@ -12095,7 +17034,10 @@ var points = [
       "name": "Marnes-la-Coquette, France",
       "popupContent": "Marnes-la-Coquette, France",
       "affiliatedPeople": [
-        "Thierry Maulnier"
+        {
+          "name": "Thierry Maulnier",
+          "viaf": "111076827"
+        }
       ]
     }
   },
@@ -12112,8 +17054,14 @@ var points = [
       "name": "Marrakesh, Morocco",
       "popupContent": "Marrakesh, Morocco",
       "affiliatedPeople": [
-        "Juan Goytisolo",
-        "Rom Landau"
+        {
+          "name": "Juan Goytisolo",
+          "viaf": "100258886"
+        },
+        {
+          "name": "Rom Landau",
+          "viaf": "111652283"
+        }
       ]
     }
   },
@@ -12130,10 +17078,22 @@ var points = [
       "name": "Marseille, France",
       "popupContent": "Marseille, France",
       "affiliatedPeople": [
-        "André Suarès",
-        "Antonin Artaud",
-        "Marcel Brion",
-        "Roger Garaudy"
+        {
+          "name": "André Suarès",
+          "viaf": "49232044"
+        },
+        {
+          "name": "Antonin Artaud",
+          "viaf": "71386527"
+        },
+        {
+          "name": "Marcel Brion",
+          "viaf": "8241"
+        },
+        {
+          "name": "Roger Garaudy",
+          "viaf": "81966173"
+        }
       ]
     }
   },
@@ -12150,7 +17110,10 @@ var points = [
       "name": "Martínez, Argentina",
       "popupContent": "Martínez, Argentina",
       "affiliatedPeople": [
-        "Roberto F. Giusti"
+        {
+          "name": "Roberto F. Giusti",
+          "viaf": "89918"
+        }
       ]
     }
   },
@@ -12167,7 +17130,10 @@ var points = [
       "name": "Marylebone, United Kingdom",
       "popupContent": "Marylebone, United Kingdom",
       "affiliatedPeople": [
-        "E. M. Forster"
+        {
+          "name": "E. M. Forster",
+          "viaf": "31996364"
+        }
       ]
     }
   },
@@ -12184,7 +17150,10 @@ var points = [
       "name": "Marysville, Washington",
       "popupContent": "Marysville, Washington",
       "affiliatedPeople": [
-        "Robert A. Brady"
+        {
+          "name": "Robert A. Brady",
+          "viaf": "38976632"
+        }
       ]
     }
   },
@@ -12201,7 +17170,10 @@ var points = [
       "name": "Masaya, Nicaragua",
       "popupContent": "Masaya, Nicaragua",
       "affiliatedPeople": [
-        "Ernesto Mejía Sánchez"
+        {
+          "name": "Ernesto Mejía Sánchez",
+          "viaf": "36938634"
+        }
       ]
     }
   },
@@ -12218,7 +17190,10 @@ var points = [
       "name": "Massachusetts",
       "popupContent": "Massachusetts",
       "affiliatedPeople": [
-        "Clarence Crane Brinton"
+        {
+          "name": "Clarence Crane Brinton",
+          "viaf": "66536579"
+        }
       ]
     }
   },
@@ -12235,7 +17210,10 @@ var points = [
       "name": "Matelica, Italy",
       "popupContent": "Matelica, Italy",
       "affiliatedPeople": [
-        "Libero Bigiaretti"
+        {
+          "name": "Libero Bigiaretti",
+          "viaf": "84966724"
+        }
       ]
     }
   },
@@ -12252,7 +17230,10 @@ var points = [
       "name": "Mayenne, France",
       "popupContent": "Mayenne, France",
       "affiliatedPeople": [
-        "René Étiemble"
+        {
+          "name": "René Étiemble",
+          "viaf": "22141482"
+        }
       ]
     }
   },
@@ -12269,7 +17250,10 @@ var points = [
       "name": "Mazatlán, Mexico",
       "popupContent": "Mazatlán, Mexico",
       "affiliatedPeople": [
-        "Genaro Estrada"
+        {
+          "name": "Genaro Estrada",
+          "viaf": "64014519"
+        }
       ]
     }
   },
@@ -12286,7 +17270,10 @@ var points = [
       "name": "Meaford, Canada",
       "popupContent": "Meaford, Canada",
       "affiliatedPeople": [
-        "Claude Thomas Bissell"
+        {
+          "name": "Claude Thomas Bissell",
+          "viaf": "44326760"
+        }
       ]
     }
   },
@@ -12303,7 +17290,10 @@ var points = [
       "name": "Meaux, France",
       "popupContent": "Meaux, France",
       "affiliatedPeople": [
-        "Jacques Feschotte"
+        {
+          "name": "Jacques Feschotte",
+          "viaf": "7652386"
+        }
       ]
     }
   },
@@ -12320,7 +17310,10 @@ var points = [
       "name": "Mecca, Saudi Arabia",
       "popupContent": "Mecca, Saudi Arabia",
       "affiliatedPeople": [
-        "Maulana Abul Kalam Azad"
+        {
+          "name": "Maulana Abul Kalam Azad",
+          "viaf": "77.1025"
+        }
       ]
     }
   },
@@ -12337,7 +17330,10 @@ var points = [
       "name": "Meishar, Israel",
       "popupContent": "Meishar, Israel",
       "affiliatedPeople": [
-        "S. Yizhar"
+        {
+          "name": "S. Yizhar",
+          "viaf": "51736133"
+        }
       ]
     }
   },
@@ -12347,14 +17343,17 @@ var points = [
       "type": "Point",
       "coordinates": [
         144.9631,
-        -37.8136
+        37.8136
       ]
     },
     "properties": {
       "name": "Melbourne, Australia",
       "popupContent": "Melbourne, Australia",
       "affiliatedPeople": [
-        "Jack Lindsay"
+        {
+          "name": "Jack Lindsay",
+          "viaf": "39501136"
+        }
       ]
     }
   },
@@ -12371,9 +17370,18 @@ var points = [
       "name": "Melo, Uruguay",
       "popupContent": "Melo, Uruguay",
       "affiliatedPeople": [
-        "Emilio Oribe",
-        "Emir Rodríguez Monegal",
-        "Juana de Ibarbourou"
+        {
+          "name": "Emilio Oribe",
+          "viaf": "79403413"
+        },
+        {
+          "name": "Emir Rodríguez Monegal",
+          "viaf": "44304596"
+        },
+        {
+          "name": "Juana de Ibarbourou",
+          "viaf": "100257812"
+        }
       ]
     }
   },
@@ -12390,7 +17398,10 @@ var points = [
       "name": "Melrose, Massachusetts",
       "popupContent": "Melrose, Massachusetts",
       "affiliatedPeople": [
-        "Eric Larrabee"
+        {
+          "name": "Eric Larrabee",
+          "viaf": "75095859"
+        }
       ]
     }
   },
@@ -12407,12 +17418,30 @@ var points = [
       "name": "Mendoza, Argentina",
       "popupContent": "Mendoza, Argentina",
       "affiliatedPeople": [
-        "Angélica Mendoza",
-        "Antonio di Benedetto",
-        "Evar Méndez",
-        "Florencio Escardó",
-        "Hugo Acevedo",
-        "Víctor Delhez"
+        {
+          "name": "Angélica Mendoza",
+          "viaf": "245729534"
+        },
+        {
+          "name": "Antonio di Benedetto",
+          "viaf": "90678327"
+        },
+        {
+          "name": "Evar Méndez",
+          "viaf": "308179039"
+        },
+        {
+          "name": "Florencio Escardó",
+          "viaf": "94342428"
+        },
+        {
+          "name": "Hugo Acevedo",
+          "viaf": "63027338"
+        },
+        {
+          "name": "Víctor Delhez",
+          "viaf": "69108176"
+        }
       ]
     }
   },
@@ -12429,7 +17458,10 @@ var points = [
       "name": "Ménil-la-Horgne, France",
       "popupContent": "Ménil-la-Horgne, France",
       "affiliatedPeople": [
-        "Antoine Augustin Calmet"
+        {
+          "name": "Antoine Augustin Calmet",
+          "viaf": "24619702"
+        }
       ]
     }
   },
@@ -12446,7 +17478,10 @@ var points = [
       "name": "Mercedes, Argentina",
       "popupContent": "Mercedes, Argentina",
       "affiliatedPeople": [
-        "Nicolás A. Cócaro"
+        {
+          "name": "Nicolás A. Cócaro",
+          "viaf": "114042808"
+        }
       ]
     }
   },
@@ -12463,8 +17498,14 @@ var points = [
       "name": "Mérida, Mexico",
       "popupContent": "Mérida, Mexico",
       "affiliatedPeople": [
-        "Ernesto Mejía Sánchez",
-        "Silvio Zavala"
+        {
+          "name": "Ernesto Mejía Sánchez",
+          "viaf": "36938634"
+        },
+        {
+          "name": "Silvio Zavala",
+          "viaf": "110707848"
+        }
       ]
     }
   },
@@ -12481,8 +17522,14 @@ var points = [
       "name": "Mérida, Venezuela",
       "popupContent": "Mérida, Venezuela",
       "affiliatedPeople": [
-        "José Nucete Sardi",
-        "Mariano Picón Salas"
+        {
+          "name": "José Nucete Sardi",
+          "viaf": "74971714"
+        },
+        {
+          "name": "Mariano Picón Salas",
+          "viaf": "71408028"
+        }
       ]
     }
   },
@@ -12499,7 +17546,10 @@ var points = [
       "name": "Messkirch, Germany",
       "popupContent": "Messkirch, Germany",
       "affiliatedPeople": [
-        "Martin Heidegger"
+        {
+          "name": "Martin Heidegger",
+          "viaf": "24602613"
+        }
       ]
     }
   },
@@ -12516,8 +17566,14 @@ var points = [
       "name": "Meudon, France",
       "popupContent": "Meudon, France",
       "affiliatedPeople": [
-        "Georges Hourdin",
-        "Louis Ferdinand Celine"
+        {
+          "name": "Georges Hourdin",
+          "viaf": "110857814"
+        },
+        {
+          "name": "Louis Ferdinand Celine",
+          "viaf": "36916020"
+        }
       ]
     }
   },
@@ -12534,10 +17590,22 @@ var points = [
       "name": "Mexico",
       "popupContent": "Mexico",
       "affiliatedPeople": [
-        "Daniel Cosío Villegas",
-        "Enrique Díez-Canedo",
-        "José Moreno Villa",
-        "Juan Vicens de la Llave"
+        {
+          "name": "Daniel Cosío Villegas",
+          "viaf": "56607850"
+        },
+        {
+          "name": "Enrique Díez-Canedo",
+          "viaf": "59091986"
+        },
+        {
+          "name": "José Moreno Villa",
+          "viaf": "47429"
+        },
+        {
+          "name": "Juan Vicens de la Llave",
+          "viaf": "28841999"
+        }
       ]
     }
   },
@@ -12554,35 +17622,122 @@ var points = [
       "name": "Mexico City, Mexico",
       "popupContent": "Mexico City, Mexico",
       "affiliatedPeople": [
-        "Agustín Yañez",
-        "Alfonso Cravioto",
-        "Alfonso Reyes",
-        "Arnaldo Orfila Reynal",
-        "Bernardo Ortiz de Montellano",
-        "Carlo Còccioli",
-        "Celestino Gorostiza",
-        "Daniel Cosío Villegas",
-        "Demetrio Loza (Antonio Gómez Robledo)",
-        "Diego Rivera",
-        "Enrique González Martínez",
-        "Francisco Larroyo",
-        "Gabriel García Márquez",
-        "Genaro Estrada",
-        "Germán Guzmán Campos",
-        "Jaime Mario Torres Bodet",
-        "José Gaos",
-        "Justino Fernández",
-        "León Felipe",
-        "León Roberto García",
-        "Luis Cardoza y Aragón",
-        "Luisa Josefina Hernández",
-        "Mathías Goeritz",
-        "Mauricio Gómez Mayorga",
-        "Octavio Paz",
-        "Raúl Leiva",
-        "Silvio Zavala",
-        "Sor Juana Inés de la Cruz",
-        "Xavier Villaurrutia"
+        {
+          "name": "Agustín Yañez",
+          "viaf": "112551221"
+        },
+        {
+          "name": "Alfonso Cravioto",
+          "viaf": "72798864"
+        },
+        {
+          "name": "Alfonso Reyes",
+          "viaf": "29555218"
+        },
+        {
+          "name": "Arnaldo Orfila Reynal",
+          "viaf": "41090823"
+        },
+        {
+          "name": "Bernardo Ortiz de Montellano",
+          "viaf": "32005643"
+        },
+        {
+          "name": "Carlo Còccioli",
+          "viaf": "73851502"
+        },
+        {
+          "name": "Celestino Gorostiza",
+          "viaf": "56659772"
+        },
+        {
+          "name": "Daniel Cosío Villegas",
+          "viaf": "56607850"
+        },
+        {
+          "name": "Demetrio Loza (Antonio Gómez Robledo)",
+          "viaf": "115438298"
+        },
+        {
+          "name": "Diego Rivera",
+          "viaf": "59099198"
+        },
+        {
+          "name": "Enrique González Martínez",
+          "viaf": "79039358"
+        },
+        {
+          "name": "Francisco Larroyo",
+          "viaf": "111644912"
+        },
+        {
+          "name": "Gabriel García Márquez",
+          "viaf": "54147956"
+        },
+        {
+          "name": "Genaro Estrada",
+          "viaf": "64014519"
+        },
+        {
+          "name": "Germán Guzmán Campos",
+          "viaf": "27585182"
+        },
+        {
+          "name": "Jaime Mario Torres Bodet",
+          "viaf": "59092222"
+        },
+        {
+          "name": "José Gaos",
+          "viaf": "71406518"
+        },
+        {
+          "name": "Justino Fernández",
+          "viaf": "118531453"
+        },
+        {
+          "name": "León Felipe",
+          "viaf": "66475795"
+        },
+        {
+          "name": "León Roberto García",
+          "viaf": "73906783"
+        },
+        {
+          "name": "Luis Cardoza y Aragón",
+          "viaf": "84024245"
+        },
+        {
+          "name": "Luisa Josefina Hernández",
+          "viaf": "24622872"
+        },
+        {
+          "name": "Mathías Goeritz",
+          "viaf": "74077072"
+        },
+        {
+          "name": "Mauricio Gómez Mayorga",
+          "viaf": "242632817"
+        },
+        {
+          "name": "Octavio Paz",
+          "viaf": "41844743"
+        },
+        {
+          "name": "Raúl Leiva",
+          "viaf": "31214658"
+        },
+        {
+          "name": "Silvio Zavala",
+          "viaf": "110707848"
+        },
+        {
+          "name": "Sor Juana Inés de la Cruz",
+          "viaf": "88633360"
+        },
+        {
+          "name": "Xavier Villaurrutia",
+          "viaf": "34468837"
+        }
       ]
     }
   },
@@ -12599,9 +17754,18 @@ var points = [
       "name": "Miami, Florida",
       "popupContent": "Miami, Florida",
       "affiliatedPeople": [
-        "Alberto Baeza Flores",
-        "José Manuel Cortina",
-        "Ramón Ferreira"
+        {
+          "name": "Alberto Baeza Flores",
+          "viaf": "49220015"
+        },
+        {
+          "name": "José Manuel Cortina",
+          "viaf": "26771446"
+        },
+        {
+          "name": "Ramón Ferreira",
+          "viaf": "95562779"
+        }
       ]
     }
   },
@@ -12618,7 +17782,10 @@ var points = [
       "name": "Miami, United States",
       "popupContent": "Miami, United States",
       "affiliatedPeople": [
-        "Gerardo Gallegos"
+        {
+          "name": "Gerardo Gallegos",
+          "viaf": "66348290"
+        }
       ]
     }
   },
@@ -12635,7 +17802,10 @@ var points = [
       "name": "Michoacán, Mexico",
       "popupContent": "Michoacán, Mexico",
       "affiliatedPeople": [
-        "Homero Aridjis"
+        {
+          "name": "Homero Aridjis",
+          "viaf": "27087113"
+        }
       ]
     }
   },
@@ -12652,17 +17822,50 @@ var points = [
       "name": "Milan, Italy",
       "popupContent": "Milan, Italy",
       "affiliatedPeople": [
-        "Attilio Rossi",
-        "Beniamino Dal Fabbro",
-        "Carlo Emilio Gadda",
-        "Dino Buzzatti",
-        "Elio Vittorini",
-        "Enzo Ferrieri",
-        "Florencio Sánchez",
-        "Giansiro Ferrata",
-        "Giuseppe Ungaretti",
-        "Jorge Eduardo Eielson",
-        "Valentino Bompiani"
+        {
+          "name": "Attilio Rossi",
+          "viaf": "79401900"
+        },
+        {
+          "name": "Beniamino Dal Fabbro",
+          "viaf": "59893050"
+        },
+        {
+          "name": "Carlo Emilio Gadda",
+          "viaf": "56610080"
+        },
+        {
+          "name": "Dino Buzzatti",
+          "viaf": "305556424"
+        },
+        {
+          "name": "Elio Vittorini",
+          "viaf": "27072824"
+        },
+        {
+          "name": "Enzo Ferrieri",
+          "viaf": "97811388"
+        },
+        {
+          "name": "Florencio Sánchez",
+          "viaf": "61597628"
+        },
+        {
+          "name": "Giansiro Ferrata",
+          "viaf": "12373454"
+        },
+        {
+          "name": "Giuseppe Ungaretti",
+          "viaf": "89710987"
+        },
+        {
+          "name": "Jorge Eduardo Eielson",
+          "viaf": "41839658"
+        },
+        {
+          "name": "Valentino Bompiani",
+          "viaf": "109376432"
+        }
       ]
     }
   },
@@ -12679,7 +17882,10 @@ var points = [
       "name": "Milly-la-Foret, France",
       "popupContent": "Milly-la-Foret, France",
       "affiliatedPeople": [
-        "Jean Cocteau"
+        {
+          "name": "Jean Cocteau",
+          "viaf": "12306661"
+        }
       ]
     }
   },
@@ -12696,7 +17902,10 @@ var points = [
       "name": "Milwaukee, Wisconsin",
       "popupContent": "Milwaukee, Wisconsin",
       "affiliatedPeople": [
-        "George Frost Kennan"
+        {
+          "name": "George Frost Kennan",
+          "viaf": "66477608"
+        }
       ]
     }
   },
@@ -12713,7 +17922,10 @@ var points = [
       "name": "Minas, Lavalleja, Uruguay",
       "popupContent": "Minas, Lavalleja, Uruguay",
       "affiliatedPeople": [
-        "Juvenal Ortiz Saralegui"
+        {
+          "name": "Juvenal Ortiz Saralegui",
+          "viaf": "55249926"
+        }
       ]
     }
   },
@@ -12730,7 +17942,10 @@ var points = [
       "name": "Mineo, Italy",
       "popupContent": "Mineo, Italy",
       "affiliatedPeople": [
-        "Luigi Capuana"
+        {
+          "name": "Luigi Capuana",
+          "viaf": "24615920"
+        }
       ]
     }
   },
@@ -12747,7 +17962,10 @@ var points = [
       "name": "Minneapolis, Minnesota",
       "popupContent": "Minneapolis, Minnesota",
       "affiliatedPeople": [
-        "Harry Levin"
+        {
+          "name": "Harry Levin",
+          "viaf": "85171640"
+        }
       ]
     }
   },
@@ -12764,7 +17982,10 @@ var points = [
       "name": "Minnesota Lake, Minnesota",
       "popupContent": "Minnesota Lake, Minnesota",
       "affiliatedPeople": [
-        "Morton Dauwen Zabel"
+        {
+          "name": "Morton Dauwen Zabel",
+          "viaf": "65295694"
+        }
       ]
     }
   },
@@ -12781,7 +18002,10 @@ var points = [
       "name": "Minusio, Switzerland",
       "popupContent": "Minusio, Switzerland",
       "affiliatedPeople": [
-        "Stefan George"
+        {
+          "name": "Stefan George",
+          "viaf": "46761592"
+        }
       ]
     }
   },
@@ -12798,7 +18022,10 @@ var points = [
       "name": "Mitaka, Tokyo, Japan",
       "popupContent": "Mitaka, Tokyo, Japan",
       "affiliatedPeople": [
-        "Osamu Dazai"
+        {
+          "name": "Osamu Dazai",
+          "viaf": "4940744"
+        }
       ]
     }
   },
@@ -12815,7 +18042,10 @@ var points = [
       "name": "Modica, Italy",
       "popupContent": "Modica, Italy",
       "affiliatedPeople": [
-        "Salvatore Quasimodo"
+        {
+          "name": "Salvatore Quasimodo",
+          "viaf": "59097336"
+        }
       ]
     }
   },
@@ -12832,7 +18062,10 @@ var points = [
       "name": "Mödling, Austria",
       "popupContent": "Mödling, Austria",
       "affiliatedPeople": [
-        "Gustav A. Wetter"
+        {
+          "name": "Gustav A. Wetter",
+          "viaf": "25550507"
+        }
       ]
     }
   },
@@ -12849,7 +18082,10 @@ var points = [
       "name": "Moguer, Spain",
       "popupContent": "Moguer, Spain",
       "affiliatedPeople": [
-        "Juan Ramón Jiménez"
+        {
+          "name": "Juan Ramón Jiménez",
+          "viaf": "59077345"
+        }
       ]
     }
   },
@@ -12866,7 +18102,10 @@ var points = [
       "name": "Moisés Ville, Argentina",
       "popupContent": "Moisés Ville, Argentina",
       "affiliatedPeople": [
-        "Mika Feldman de Etchebéhère"
+        {
+          "name": "Mika Feldman de Etchebéhère",
+          "viaf": "32787845"
+        }
       ]
     }
   },
@@ -12883,7 +18122,10 @@ var points = [
       "name": "Mojácar, Spain",
       "popupContent": "Mojácar, Spain",
       "affiliatedPeople": [
-        "Matica Goulard"
+        {
+          "name": "Matica Goulard",
+          "viaf": "162947716"
+        }
       ]
     }
   },
@@ -12900,7 +18142,10 @@ var points = [
       "name": "Molins de Rei, Spain",
       "popupContent": "Molins de Rei, Spain",
       "affiliatedPeople": [
-        "Margarita Xirgu"
+        {
+          "name": "Margarita Xirgu",
+          "viaf": "946068"
+        }
       ]
     }
   },
@@ -12917,7 +18162,10 @@ var points = [
       "name": "Monastir, Tunisia",
       "popupContent": "Monastir, Tunisia",
       "affiliatedPeople": [
-        "Gaston Bouthoul"
+        {
+          "name": "Gaston Bouthoul",
+          "viaf": "108252030"
+        }
       ]
     }
   },
@@ -12934,7 +18182,10 @@ var points = [
       "name": "Mondragon, Spain",
       "popupContent": "Mondragon, Spain",
       "affiliatedPeople": [
-        "Juan Goyanarte"
+        {
+          "name": "Juan Goyanarte",
+          "viaf": "91627343"
+        }
       ]
     }
   },
@@ -12951,7 +18202,10 @@ var points = [
       "name": "Mons, Belgium",
       "popupContent": "Mons, Belgium",
       "affiliatedPeople": [
-        "Armand Petitjean"
+        {
+          "name": "Armand Petitjean",
+          "viaf": "90714553"
+        }
       ]
     }
   },
@@ -12968,7 +18222,10 @@ var points = [
       "name": "Mons-en-Barœul, France",
       "popupContent": "Mons-en-Barœul, France",
       "affiliatedPeople": [
-        "Michel Butor"
+        {
+          "name": "Michel Butor",
+          "viaf": "34453964"
+        }
       ]
     }
   },
@@ -12985,7 +18242,10 @@ var points = [
       "name": "Mont-Saint-Père, France",
       "popupContent": "Mont-Saint-Père, France",
       "affiliatedPeople": [
-        "Jacques Jean Lhermitte"
+        {
+          "name": "Jacques Jean Lhermitte",
+          "viaf": "41901727"
+        }
       ]
     }
   },
@@ -13002,7 +18262,10 @@ var points = [
       "name": "Montagnola, Collina d'Oro, Switzerland",
       "popupContent": "Montagnola, Collina d'Oro, Switzerland",
       "affiliatedPeople": [
-        "Hermann Hesse"
+        {
+          "name": "Hermann Hesse",
+          "viaf": "41841418"
+        }
       ]
     }
   },
@@ -13019,7 +18282,10 @@ var points = [
       "name": "Montauban, France",
       "popupContent": "Montauban, France",
       "affiliatedPeople": [
-        "Maurice Leenhart"
+        {
+          "name": "Maurice Leenhart",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -13036,7 +18302,10 @@ var points = [
       "name": "Montblanch, Tarragona, Spain",
       "popupContent": "Montblanch, Tarragona, Spain",
       "affiliatedPeople": [
-        "Luis Farré"
+        {
+          "name": "Luis Farré",
+          "viaf": "26062411"
+        }
       ]
     }
   },
@@ -13053,8 +18322,14 @@ var points = [
       "name": "Montbrison, France",
       "popupContent": "Montbrison, France",
       "affiliatedPeople": [
-        "Marie-Alain Couturier",
-        "Pierre Luis Joseph Boulez"
+        {
+          "name": "Marie-Alain Couturier",
+          "viaf": "68927522"
+        },
+        {
+          "name": "Pierre Luis Joseph Boulez",
+          "viaf": "108239968"
+        }
       ]
     }
   },
@@ -13071,7 +18346,10 @@ var points = [
       "name": "Montcuq, France",
       "popupContent": "Montcuq, France",
       "affiliatedPeople": [
-        "David Garnett"
+        {
+          "name": "David Garnett",
+          "viaf": "7390509"
+        }
       ]
     }
   },
@@ -13088,7 +18366,10 @@ var points = [
       "name": "Montecchio Maggiore, Italy",
       "popupContent": "Montecchio Maggiore, Italy",
       "affiliatedPeople": [
-        "Renato Ghiotto"
+        {
+          "name": "Renato Ghiotto",
+          "viaf": "79130420"
+        }
       ]
     }
   },
@@ -13105,7 +18386,10 @@ var points = [
       "name": "Montepulciano, Italy",
       "popupContent": "Montepulciano, Italy",
       "affiliatedPeople": [
-        "Elémire Zolla"
+        {
+          "name": "Elémire Zolla",
+          "viaf": "14778401"
+        }
       ]
     }
   },
@@ -13122,7 +18406,10 @@ var points = [
       "name": "Monteros, Argentina",
       "popupContent": "Monteros, Argentina",
       "affiliatedPeople": [
-        "Julio Ardiles Gray"
+        {
+          "name": "Julio Ardiles Gray",
+          "viaf": "39410530"
+        }
       ]
     }
   },
@@ -13139,7 +18426,10 @@ var points = [
       "name": "Monterrey, Mexico",
       "popupContent": "Monterrey, Mexico",
       "affiliatedPeople": [
-        "Alfonso Reyes"
+        {
+          "name": "Alfonso Reyes",
+          "viaf": "29555218"
+        }
       ]
     }
   },
@@ -13156,41 +18446,146 @@ var points = [
       "name": "Montevideo, Uruguay",
       "popupContent": "Montevideo, Uruguay",
       "affiliatedPeople": [
-        "Alvaro Guillot Muñoz",
-        "Carlos Reyles",
-        "Carmelo M. Bonet",
-        "Dimas Antuña",
-        "Eduardo Acevedo Díaz",
-        "Elías Castelnuovo",
-        "Emilio Oribe",
-        "Esteban Echevarría",
-        "Esther de Cáceres",
-        "Felisberto Hernández",
-        "Félix Cernuschi",
-        "Fernán Silva Valdés",
-        "Fernando Pereda",
-        "Fernando Silva Valdés",
-        "Florencio Sánchez",
-        "Gervasio Guillot Muñoz",
-        "Gladys Burci",
-        "Homero Alsina Thevenet",
-        "Isidore Lucien Ducasse (Comte de Lautréamont)",
-        "José Gervasio Antuña",
-        "Juan Carlos Onetti",
-        "Juana de Ibarbourou",
-        "Jules Supervielle",
-        "Julio Herrera y Reissig",
-        "Julio J. Casal",
-        "Juvenal Ortiz Saralegui",
-        "Laura Cortinas",
-        "Margarita Xirgu",
-        "Mario Benedetti",
-        "Marta Brunet",
-        "Miguel Cané",
-        "Mme. Jules Supervielle (Pilar Saavedra)",
-        "Sara de Ibáñez",
-        "Susana Soca",
-        "Xavier Abril"
+        {
+          "name": "Alvaro Guillot Muñoz",
+          "viaf": "97873345"
+        },
+        {
+          "name": "Carlos Reyles",
+          "viaf": "54163995"
+        },
+        {
+          "name": "Carmelo M. Bonet",
+          "viaf": "61136663"
+        },
+        {
+          "name": "Dimas Antuña",
+          "viaf": "2587316"
+        },
+        {
+          "name": "Eduardo Acevedo Díaz",
+          "viaf": "24614248"
+        },
+        {
+          "name": "Elías Castelnuovo",
+          "viaf": "27984127"
+        },
+        {
+          "name": "Emilio Oribe",
+          "viaf": "79403413"
+        },
+        {
+          "name": "Esteban Echevarría",
+          "viaf": "32008821"
+        },
+        {
+          "name": "Esther de Cáceres",
+          "viaf": "107015811"
+        },
+        {
+          "name": "Felisberto Hernández",
+          "viaf": "Felisberto Hernández"
+        },
+        {
+          "name": "Félix Cernuschi",
+          "viaf": "97726333"
+        },
+        {
+          "name": "Fernán Silva Valdés",
+          "viaf": "85518887"
+        },
+        {
+          "name": "Fernando Pereda",
+          "viaf": "63593006"
+        },
+        {
+          "name": "Fernando Silva Valdés",
+          "viaf": "85518887"
+        },
+        {
+          "name": "Florencio Sánchez",
+          "viaf": "61597628"
+        },
+        {
+          "name": "Gervasio Guillot Muñoz",
+          "viaf": "97873350"
+        },
+        {
+          "name": "Gladys Burci",
+          "viaf": "52791136"
+        },
+        {
+          "name": "Homero Alsina Thevenet",
+          "viaf": "262387719"
+        },
+        {
+          "name": "Isidore Lucien Ducasse (Comte de Lautréamont)",
+          "viaf": "6065"
+        },
+        {
+          "name": "José Gervasio Antuña",
+          "viaf": "4922740"
+        },
+        {
+          "name": "Juan Carlos Onetti",
+          "viaf": "41844581"
+        },
+        {
+          "name": "Juana de Ibarbourou",
+          "viaf": "100257812"
+        },
+        {
+          "name": "Jules Supervielle",
+          "viaf": "41846928"
+        },
+        {
+          "name": "Julio Herrera y Reissig",
+          "viaf": "49239772"
+        },
+        {
+          "name": "Julio J. Casal",
+          "viaf": "49237800"
+        },
+        {
+          "name": "Juvenal Ortiz Saralegui",
+          "viaf": "55249926"
+        },
+        {
+          "name": "Laura Cortinas",
+          "viaf": "204151368"
+        },
+        {
+          "name": "Margarita Xirgu",
+          "viaf": "946068"
+        },
+        {
+          "name": "Mario Benedetti",
+          "viaf": "56585930"
+        },
+        {
+          "name": "Marta Brunet",
+          "viaf": "44387769"
+        },
+        {
+          "name": "Miguel Cané",
+          "viaf": "39458418"
+        },
+        {
+          "name": "Mme. Jules Supervielle (Pilar Saavedra)",
+          "viaf": ""
+        },
+        {
+          "name": "Sara de Ibáñez",
+          "viaf": "165715395"
+        },
+        {
+          "name": "Susana Soca",
+          "viaf": "29764104"
+        },
+        {
+          "name": "Xavier Abril",
+          "viaf": "54160403"
+        }
       ]
     }
   },
@@ -13207,7 +18602,10 @@ var points = [
       "name": "Montfort-l'Amaury, France",
       "popupContent": "Montfort-l'Amaury, France",
       "affiliatedPeople": [
-        "Robert Merle"
+        {
+          "name": "Robert Merle",
+          "viaf": "12312406"
+        }
       ]
     }
   },
@@ -13224,7 +18622,10 @@ var points = [
       "name": "Montigny-le-Gannelon, France",
       "popupContent": "Montigny-le-Gannelon, France",
       "affiliatedPeople": [
-        "Marie-Thérèse d'Hinnisdael"
+        {
+          "name": "Marie-Thérèse d'Hinnisdael",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -13241,7 +18642,10 @@ var points = [
       "name": "Montmartre, Paris, France",
       "popupContent": "Montmartre, Paris, France",
       "affiliatedPeople": [
-        "Jean Renoir"
+        {
+          "name": "Jean Renoir",
+          "viaf": "104724700"
+        }
       ]
     }
   },
@@ -13258,7 +18662,10 @@ var points = [
       "name": "Montpellier, France",
       "popupContent": "Montpellier, France",
       "affiliatedPeople": [
-        "Francis Ponge"
+        {
+          "name": "Francis Ponge",
+          "viaf": "14775322"
+        }
       ]
     }
   },
@@ -13275,12 +18682,30 @@ var points = [
       "name": "Montreal, Canada",
       "popupContent": "Montreal, Canada",
       "affiliatedPeople": [
-        "Anne Hébert",
-        "Irving Layton",
-        "Robert Choquette",
-        "Saint-Denys Garneau",
-        "Saul Bellow",
-        "Víctor Barbeau"
+        {
+          "name": "Anne Hébert",
+          "viaf": "66468501"
+        },
+        {
+          "name": "Irving Layton",
+          "viaf": "66482092"
+        },
+        {
+          "name": "Robert Choquette",
+          "viaf": "115706649"
+        },
+        {
+          "name": "Saint-Denys Garneau",
+          "viaf": "68938166"
+        },
+        {
+          "name": "Saul Bellow",
+          "viaf": "27060791"
+        },
+        {
+          "name": "Víctor Barbeau",
+          "viaf": "100193815"
+        }
       ]
     }
   },
@@ -13297,8 +18722,14 @@ var points = [
       "name": "Montreux, Switzerland",
       "popupContent": "Montreux, Switzerland",
       "affiliatedPeople": [
-        "Roger Lannes",
-        "Vladimir Nabokov"
+        {
+          "name": "Roger Lannes",
+          "viaf": "54161784"
+        },
+        {
+          "name": "Vladimir Nabokov",
+          "viaf": "27069388"
+        }
       ]
     }
   },
@@ -13315,7 +18746,10 @@ var points = [
       "name": "Monza, Italy",
       "popupContent": "Monza, Italy",
       "affiliatedPeople": [
-        "Riccardo Bacchelli"
+        {
+          "name": "Riccardo Bacchelli",
+          "viaf": "64044782"
+        }
       ]
     }
   },
@@ -13332,7 +18766,10 @@ var points = [
       "name": "Moore Hall, County Mayo, Republic of Ireland",
       "popupContent": "Moore Hall, County Mayo, Republic of Ireland",
       "affiliatedPeople": [
-        "George Moore"
+        {
+          "name": "George Moore",
+          "viaf": "22160365"
+        }
       ]
     }
   },
@@ -13349,7 +18786,10 @@ var points = [
       "name": "Moreland, Georgia",
       "popupContent": "Moreland, Georgia",
       "affiliatedPeople": [
-        "Erskine Caldwell"
+        {
+          "name": "Erskine Caldwell",
+          "viaf": "46758305"
+        }
       ]
     }
   },
@@ -13366,8 +18806,14 @@ var points = [
       "name": "Morón, Buenos Aires, Argentina",
       "popupContent": "Morón, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Fryda Schultz de Mantovani",
-        "Pedro Larralde"
+        {
+          "name": "Fryda Schultz de Mantovani",
+          "viaf": "119506515"
+        },
+        {
+          "name": "Pedro Larralde",
+          "viaf": "98597323"
+        }
       ]
     }
   },
@@ -13384,7 +18830,10 @@ var points = [
       "name": "Morrison, Illinois",
       "popupContent": "Morrison, Illinois",
       "affiliatedPeople": [
-        "Mildred Adams Kenyon"
+        {
+          "name": "Mildred Adams Kenyon",
+          "viaf": "7469644"
+        }
       ]
     }
   },
@@ -13401,11 +18850,26 @@ var points = [
       "name": "Moscow, Russia",
       "popupContent": "Moscow, Russia",
       "affiliatedPeople": [
-        "Aleksandr Afanasiev",
-        "Aleksei Remizov",
-        "Andrei Donatovich Sinyavsky (Abraham Terz)",
-        "Sergei Eisenstein",
-        "Viacheslav Ivanovich Ivánov"
+        {
+          "name": "Aleksandr Afanasiev",
+          "viaf": "64000655"
+        },
+        {
+          "name": "Aleksei Remizov",
+          "viaf": "51953667"
+        },
+        {
+          "name": "Andrei Donatovich Sinyavsky (Abraham Terz)",
+          "viaf": "88373684"
+        },
+        {
+          "name": "Sergei Eisenstein",
+          "viaf": "56609269"
+        },
+        {
+          "name": "Viacheslav Ivanovich Ivánov",
+          "viaf": "68930563"
+        }
       ]
     }
   },
@@ -13422,7 +18886,10 @@ var points = [
       "name": "Mosul, Iraq",
       "popupContent": "Mosul, Iraq",
       "affiliatedPeople": [
-        "Majid Khadduri"
+        {
+          "name": "Majid Khadduri",
+          "viaf": "73862922"
+        }
       ]
     }
   },
@@ -13439,7 +18906,10 @@ var points = [
       "name": "Motihari, India",
       "popupContent": "Motihari, India",
       "affiliatedPeople": [
-        "George Orwell"
+        {
+          "name": "George Orwell",
+          "viaf": "95155403"
+        }
       ]
     }
   },
@@ -13456,7 +18926,10 @@ var points = [
       "name": "Mougins, France",
       "popupContent": "Mougins, France",
       "affiliatedPeople": [
-        "Pablo Picasso"
+        {
+          "name": "Pablo Picasso",
+          "viaf": "15873"
+        }
       ]
     }
   },
@@ -13473,7 +18946,10 @@ var points = [
       "name": "Mount Albert, New Zealand",
       "popupContent": "Mount Albert, New Zealand",
       "affiliatedPeople": [
-        "Johannes C. Andersen"
+        {
+          "name": "Johannes C. Andersen",
+          "viaf": "54246837"
+        }
       ]
     }
   },
@@ -13490,7 +18966,10 @@ var points = [
       "name": "Mount Kisco, New York",
       "popupContent": "Mount Kisco, New York",
       "affiliatedPeople": [
-        "Alexander Gottfried Gode von Aesch"
+        {
+          "name": "Alexander Gottfried Gode von Aesch",
+          "viaf": "74074414"
+        }
       ]
     }
   },
@@ -13507,7 +18986,10 @@ var points = [
       "name": "Mount Vernon, New York",
       "popupContent": "Mount Vernon, New York",
       "affiliatedPeople": [
-        "Lloyd Frankenberg"
+        {
+          "name": "Lloyd Frankenberg",
+          "viaf": "91481073"
+        }
       ]
     }
   },
@@ -13524,7 +19006,10 @@ var points = [
       "name": "Mülheim, Germany",
       "popupContent": "Mülheim, Germany",
       "affiliatedPeople": [
-        "Fritz Thyssen"
+        {
+          "name": "Fritz Thyssen",
+          "viaf": "139027302"
+        }
       ]
     }
   },
@@ -13541,9 +19026,18 @@ var points = [
       "name": "Mumbai, India",
       "popupContent": "Mumbai, India",
       "affiliatedPeople": [
-        "Alexander James Carlyle",
-        "Kishorlal Mashruwala",
-        "Rudyard Kipling"
+        {
+          "name": "Alexander James Carlyle",
+          "viaf": "20432382"
+        },
+        {
+          "name": "Kishorlal Mashruwala",
+          "viaf": "50471672"
+        },
+        {
+          "name": "Rudyard Kipling",
+          "viaf": "7524679"
+        }
       ]
     }
   },
@@ -13560,13 +19054,34 @@ var points = [
       "name": "Munich, Germany",
       "popupContent": "Munich, Germany",
       "affiliatedPeople": [
-        "Alexander Mitscherlich",
-        "Andre Eckardt",
-        "Arthur Kutscher",
-        "Gisela Elsner",
-        "Klaus Mann",
-        "Max Scheler",
-        "Romano Guardini"
+        {
+          "name": "Alexander Mitscherlich",
+          "viaf": "108352434"
+        },
+        {
+          "name": "Andre Eckardt",
+          "viaf": "113423029"
+        },
+        {
+          "name": "Arthur Kutscher",
+          "viaf": "77110847"
+        },
+        {
+          "name": "Gisela Elsner",
+          "viaf": "29533556"
+        },
+        {
+          "name": "Klaus Mann",
+          "viaf": "54151065"
+        },
+        {
+          "name": "Max Scheler",
+          "viaf": "41846336"
+        },
+        {
+          "name": "Romano Guardini",
+          "viaf": "24602326"
+        }
       ]
     }
   },
@@ -13583,7 +19098,10 @@ var points = [
       "name": "Municipal Borough of Wimbledon",
       "popupContent": "Municipal Borough of Wimbledon",
       "affiliatedPeople": [
-        "Robert Graves"
+        {
+          "name": "Robert Graves",
+          "viaf": "68929835"
+        }
       ]
     }
   },
@@ -13600,7 +19118,10 @@ var points = [
       "name": "Munsing, Germany",
       "popupContent": "Munsing, Germany",
       "affiliatedPeople": [
-        "Waldemar Bonsels"
+        {
+          "name": "Waldemar Bonsels",
+          "viaf": "73850380"
+        }
       ]
     }
   },
@@ -13617,9 +19138,18 @@ var points = [
       "name": "Münster, Germany",
       "popupContent": "Münster, Germany",
       "affiliatedPeople": [
-        "Fredrich Kambartel",
-        "Heinrich Scholz",
-        "Helmut Schelsky"
+        {
+          "name": "Fredrich Kambartel",
+          "viaf": "76399563"
+        },
+        {
+          "name": "Heinrich Scholz",
+          "viaf": "56717980"
+        },
+        {
+          "name": "Helmut Schelsky",
+          "viaf": "59158559"
+        }
       ]
     }
   },
@@ -13636,7 +19166,10 @@ var points = [
       "name": "Muralto, Switzerland",
       "popupContent": "Muralto, Switzerland",
       "affiliatedPeople": [
-        "Salvador de Madariaga"
+        {
+          "name": "Salvador de Madariaga",
+          "viaf": "27077829"
+        }
       ]
     }
   },
@@ -13653,7 +19186,10 @@ var points = [
       "name": "Murzzuschlag, Austria",
       "popupContent": "Murzzuschlag, Austria",
       "affiliatedPeople": [
-        "Claudio Arrau"
+        {
+          "name": "Claudio Arrau",
+          "viaf": "61730908"
+        }
       ]
     }
   },
@@ -13670,7 +19206,10 @@ var points = [
       "name": "Muscoates, United Kingdom",
       "popupContent": "Muscoates, United Kingdom",
       "affiliatedPeople": [
-        "Herbert Read"
+        {
+          "name": "Herbert Read",
+          "viaf": "24619891"
+        }
       ]
     }
   },
@@ -13687,7 +19226,10 @@ var points = [
       "name": "Mykhailivka Raion, Ukraine",
       "popupContent": "Mykhailivka Raion, Ukraine",
       "affiliatedPeople": [
-        "Saúl Tchernichowsky"
+        {
+          "name": "Saúl Tchernichowsky",
+          "viaf": "12420180"
+        }
       ]
     }
   },
@@ -13704,7 +19246,10 @@ var points = [
       "name": "Nakatsugawa, Japan",
       "popupContent": "Nakatsugawa, Japan",
       "affiliatedPeople": [
-        "Toson Shimazaki (Shimazaki Haruki)"
+        {
+          "name": "Toson Shimazaki (Shimazaki Haruki)",
+          "viaf": "2480937"
+        }
       ]
     }
   },
@@ -13721,7 +19266,10 @@ var points = [
       "name": "Namur, Belgium",
       "popupContent": "Namur, Belgium",
       "affiliatedPeople": [
-        "Henri Michaux"
+        {
+          "name": "Henri Michaux",
+          "viaf": "54151507"
+        }
       ]
     }
   },
@@ -13738,8 +19286,14 @@ var points = [
       "name": "Nancy, France",
       "popupContent": "Nancy, France",
       "affiliatedPeople": [
-        "Charles Baudouin",
-        "Françoise d'Issembourg d'Happoncourt de Graffigny"
+        {
+          "name": "Charles Baudouin",
+          "viaf": "64001401"
+        },
+        {
+          "name": "Françoise d'Issembourg d'Happoncourt de Graffigny",
+          "viaf": "36919157"
+        }
       ]
     }
   },
@@ -13756,7 +19310,10 @@ var points = [
       "name": "Nankan, Japan",
       "popupContent": "Nankan, Japan",
       "affiliatedPeople": [
-        "Hakushü Kitahara"
+        {
+          "name": "Hakushü Kitahara",
+          "viaf": "17342486"
+        }
       ]
     }
   },
@@ -13773,8 +19330,14 @@ var points = [
       "name": "Nantes, France",
       "popupContent": "Nantes, France",
       "affiliatedPeople": [
-        "Georges Hourdin",
-        "Yvette Billod-Cottier"
+        {
+          "name": "Georges Hourdin",
+          "viaf": "110857814"
+        },
+        {
+          "name": "Yvette Billod-Cottier",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -13791,8 +19354,14 @@ var points = [
       "name": "Naples, Florida",
       "popupContent": "Naples, Florida",
       "affiliatedPeople": [
-        "Doris Dana",
-        "Salvatore Quasimodo"
+        {
+          "name": "Doris Dana",
+          "viaf": "9460013"
+        },
+        {
+          "name": "Salvatore Quasimodo",
+          "viaf": "59097336"
+        }
       ]
     }
   },
@@ -13809,8 +19378,14 @@ var points = [
       "name": "Naples, Italy",
       "popupContent": "Naples, Italy",
       "affiliatedPeople": [
-        "Benedetto Croce",
-        "Gustaw Herling-Grudziński"
+        {
+          "name": "Benedetto Croce",
+          "viaf": "61544292"
+        },
+        {
+          "name": "Gustaw Herling-Grudziński",
+          "viaf": "17223996"
+        }
       ]
     }
   },
@@ -13827,7 +19402,10 @@ var points = [
       "name": "Narbonne, France",
       "popupContent": "Narbonne, France",
       "affiliatedPeople": [
-        "Benjamin Crémieux"
+        {
+          "name": "Benjamin Crémieux",
+          "viaf": "66619225"
+        }
       ]
     }
   },
@@ -13844,7 +19422,10 @@ var points = [
       "name": "Navarrenx, France",
       "popupContent": "Navarrenx, France",
       "affiliatedPeople": [
-        "Henri Lefebvre"
+        {
+          "name": "Henri Lefebvre",
+          "viaf": "14808728"
+        }
       ]
     }
   },
@@ -13861,7 +19442,10 @@ var points = [
       "name": "Nepantla de Sor Juana Inés de la Cruz, Mexico",
       "popupContent": "Nepantla de Sor Juana Inés de la Cruz, Mexico",
       "affiliatedPeople": [
-        "Sor Juana Inés de la Cruz"
+        {
+          "name": "Sor Juana Inés de la Cruz",
+          "viaf": "88633360"
+        }
       ]
     }
   },
@@ -13878,8 +19462,14 @@ var points = [
       "name": "Neuchatel, Switzerland",
       "popupContent": "Neuchatel, Switzerland",
       "affiliatedPeople": [
-        "Friedrich Durrenmatt",
-        "Jean Piaget"
+        {
+          "name": "Friedrich Durrenmatt",
+          "viaf": "64004790"
+        },
+        {
+          "name": "Jean Piaget",
+          "viaf": "39382513"
+        }
       ]
     }
   },
@@ -13896,16 +19486,46 @@ var points = [
       "name": "Neuilly-sur-Seine, France",
       "popupContent": "Neuilly-sur-Seine, France",
       "affiliatedPeople": [
-        "André Coyné",
-        "André Maurois",
-        "Félix Gattégno",
-        "Françoise Giroud",
-        "Georges Bernanos",
-        "Jacques Feschotte",
-        "Jean Daniélou",
-        "Jean Paulhan",
-        "Madeleine Renaud",
-        "Théophile Gautier"
+        {
+          "name": "André Coyné",
+          "viaf": "19711810"
+        },
+        {
+          "name": "André Maurois",
+          "viaf": "64009119"
+        },
+        {
+          "name": "Félix Gattégno",
+          "viaf": "87557898"
+        },
+        {
+          "name": "Françoise Giroud",
+          "viaf": ""
+        },
+        {
+          "name": "Georges Bernanos",
+          "viaf": "44295297"
+        },
+        {
+          "name": "Jacques Feschotte",
+          "viaf": "7652386"
+        },
+        {
+          "name": "Jean Daniélou",
+          "viaf": "4928609"
+        },
+        {
+          "name": "Jean Paulhan",
+          "viaf": "12313345"
+        },
+        {
+          "name": "Madeleine Renaud",
+          "viaf": "51718988"
+        },
+        {
+          "name": "Théophile Gautier",
+          "viaf": "96428598"
+        }
       ]
     }
   },
@@ -13922,7 +19542,10 @@ var points = [
       "name": "New Albany, Mississippi",
       "popupContent": "New Albany, Mississippi",
       "affiliatedPeople": [
-        "William Faulkner"
+        {
+          "name": "William Faulkner",
+          "viaf": "39376770"
+        }
       ]
     }
   },
@@ -13939,8 +19562,14 @@ var points = [
       "name": "New Delhi, India",
       "popupContent": "New Delhi, India",
       "affiliatedPeople": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi"
+        {
+          "name": "Jawaharlal Nehru",
+          "viaf": "49252619"
+        },
+        {
+          "name": "Mahatma Gandhi",
+          "viaf": "71391324"
+        }
       ]
     }
   },
@@ -13957,9 +19586,18 @@ var points = [
       "name": "New Haven, Connecticut",
       "popupContent": "New Haven, Connecticut",
       "affiliatedPeople": [
-        "Emir Rodríguez Monegal",
-        "Henri Focillon",
-        "Hermann Broch"
+        {
+          "name": "Emir Rodríguez Monegal",
+          "viaf": "44304596"
+        },
+        {
+          "name": "Henri Focillon",
+          "viaf": "2470261"
+        },
+        {
+          "name": "Hermann Broch",
+          "viaf": "59079659"
+        }
       ]
     }
   },
@@ -13976,7 +19614,10 @@ var points = [
       "name": "New Jersey",
       "popupContent": "New Jersey",
       "affiliatedPeople": [
-        "Georgy Petrovich Fedotov"
+        {
+          "name": "Georgy Petrovich Fedotov",
+          "viaf": "59082338"
+        }
       ]
     }
   },
@@ -13993,7 +19634,10 @@ var points = [
       "name": "New London, Connecticut",
       "popupContent": "New London, Connecticut",
       "affiliatedPeople": [
-        "Dunstan Thompson"
+        {
+          "name": "Dunstan Thompson",
+          "viaf": "73697212"
+        }
       ]
     }
   },
@@ -14010,7 +19654,10 @@ var points = [
       "name": "New Milford, Connecticut",
       "popupContent": "New Milford, Connecticut",
       "affiliatedPeople": [
-        "Malcolm Cowley"
+        {
+          "name": "Malcolm Cowley",
+          "viaf": "91308069"
+        }
       ]
     }
   },
@@ -14027,7 +19674,10 @@ var points = [
       "name": "New Orleans, Louisiana",
       "popupContent": "New Orleans, Louisiana",
       "affiliatedPeople": [
-        "Truman Capote"
+        {
+          "name": "Truman Capote",
+          "viaf": "51686739"
+        }
       ]
     }
   },
@@ -14044,7 +19694,10 @@ var points = [
       "name": "New Rochelle, New York",
       "popupContent": "New Rochelle, New York",
       "affiliatedPeople": [
-        "Herbert Agar"
+        {
+          "name": "Herbert Agar",
+          "viaf": "109069838"
+        }
       ]
     }
   },
@@ -14061,58 +19714,214 @@ var points = [
       "name": "New York City, New York",
       "popupContent": "New York City, New York",
       "affiliatedPeople": [
-        "Anita Loos",
-        "Budd Schulberg",
-        "Delmore Schwartz",
-        "Donald Keene",
-        "Doris Dana",
-        "Dwight Macdonald",
-        "Dylan Thomas",
-        "Edward Kasner",
-        "Ernst Cassirer",
-        "Ernst Toller",
-        "Frederic Dannay",
-        "Gerald Sykes",
-        "Gilbert Seldes",
-        "Gregory Corso",
-        "H. Leivick (Leivick Halpern)",
-        "Hamilton Fish Armstrong",
-        "Harriet de Onís",
-        "Henry Allen Moe",
-        "Henry James",
-        "Henry Miller",
-        "Herbert Matthews",
-        "Igor Stravinsky",
-        "Jacob Epstein",
-        "James Donald Adams",
-        "James Thurber",
-        "John Steinbeck",
-        "Karl J. Shapiro",
-        "Leo Lerman",
-        "Lino Novás Calvo",
-        "Lionel Trilling",
-        "Lloyd Frankenberg",
-        "Marjorie Barkentin",
-        "Michael Gold",
-        "Mildred Adams Kenyon",
-        "Mildred Barnes Bliss",
-        "Monroe Wheeler",
-        "Morroe Berger",
-        "Nelson Rockefeller",
-        "Nicolas Nabokov",
-        "Norman Mailer",
-        "Oscar Lewis",
-        "Otto Kahn",
-        "Ralph L. Rusk",
-        "Robert Brustein",
-        "Ruth Benedict",
-        "Stephen Vincent Benét",
-        "Susan Sontag",
-        "Sylvia Marlowe",
-        "Tennessee Williams",
-        "Theodor Reik",
-        "Victoria Kent",
-        "William James"
+        {
+          "name": "Anita Loos",
+          "viaf": "56711909"
+        },
+        {
+          "name": "Budd Schulberg",
+          "viaf": "2481031"
+        },
+        {
+          "name": "Delmore Schwartz",
+          "viaf": "36934167"
+        },
+        {
+          "name": "Donald Keene",
+          "viaf": "108222247"
+        },
+        {
+          "name": "Doris Dana",
+          "viaf": "9460013"
+        },
+        {
+          "name": "Dwight Macdonald",
+          "viaf": "25408243"
+        },
+        {
+          "name": "Dylan Thomas",
+          "viaf": "73860698"
+        },
+        {
+          "name": "Edward Kasner",
+          "viaf": "19760482"
+        },
+        {
+          "name": "Ernst Cassirer",
+          "viaf": "106965171"
+        },
+        {
+          "name": "Ernst Toller",
+          "viaf": "32003575"
+        },
+        {
+          "name": "Frederic Dannay",
+          "viaf": "107639550"
+        },
+        {
+          "name": "Gerald Sykes",
+          "viaf": "49745492"
+        },
+        {
+          "name": "Gilbert Seldes",
+          "viaf": "109372554"
+        },
+        {
+          "name": "Gregory Corso",
+          "viaf": "19676049"
+        },
+        {
+          "name": "H. Leivick (Leivick Halpern)",
+          "viaf": "47562232"
+        },
+        {
+          "name": "Hamilton Fish Armstrong",
+          "viaf": "111094366"
+        },
+        {
+          "name": "Harriet de Onís",
+          "viaf": "46823286"
+        },
+        {
+          "name": "Henry Allen Moe",
+          "viaf": ""
+        },
+        {
+          "name": "Henry James",
+          "viaf": "36920030"
+        },
+        {
+          "name": "Henry Miller",
+          "viaf": "59086729"
+        },
+        {
+          "name": "Herbert Matthews",
+          "viaf": "18384596"
+        },
+        {
+          "name": "Igor Stravinsky",
+          "viaf": "17309155"
+        },
+        {
+          "name": "Jacob Epstein",
+          "viaf": "61779838"
+        },
+        {
+          "name": "James Donald Adams",
+          "viaf": "67708961"
+        },
+        {
+          "name": "James Thurber",
+          "viaf": "22149445"
+        },
+        {
+          "name": "John Steinbeck",
+          "viaf": "96992551"
+        },
+        {
+          "name": "Karl J. Shapiro",
+          "viaf": "109257053"
+        },
+        {
+          "name": "Leo Lerman",
+          "viaf": "75048727"
+        },
+        {
+          "name": "Lino Novás Calvo",
+          "viaf": "71558623"
+        },
+        {
+          "name": "Lionel Trilling",
+          "viaf": "7458867"
+        },
+        {
+          "name": "Lloyd Frankenberg",
+          "viaf": "91481073"
+        },
+        {
+          "name": "Marjorie Barkentin",
+          "viaf": "24863354"
+        },
+        {
+          "name": "Michael Gold",
+          "viaf": "100338915"
+        },
+        {
+          "name": "Mildred Adams Kenyon",
+          "viaf": "7469644"
+        },
+        {
+          "name": "Mildred Barnes Bliss",
+          "viaf": "69198540"
+        },
+        {
+          "name": "Monroe Wheeler",
+          "viaf": "40395988"
+        },
+        {
+          "name": "Morroe Berger",
+          "viaf": "107595718"
+        },
+        {
+          "name": "Nelson Rockefeller",
+          "viaf": "9919239"
+        },
+        {
+          "name": "Nicolas Nabokov",
+          "viaf": "109534731"
+        },
+        {
+          "name": "Norman Mailer",
+          "viaf": "7393743"
+        },
+        {
+          "name": "Oscar Lewis",
+          "viaf": "108316448"
+        },
+        {
+          "name": "Otto Kahn",
+          "viaf": "59145857783523020532"
+        },
+        {
+          "name": "Ralph L. Rusk",
+          "viaf": "110836743"
+        },
+        {
+          "name": "Robert Brustein",
+          "viaf": "5057821"
+        },
+        {
+          "name": "Ruth Benedict",
+          "viaf": "100168390"
+        },
+        {
+          "name": "Stephen Vincent Benét",
+          "viaf": "100260717"
+        },
+        {
+          "name": "Susan Sontag",
+          "viaf": ""
+        },
+        {
+          "name": "Sylvia Marlowe",
+          "viaf": "255300055"
+        },
+        {
+          "name": "Tennessee Williams",
+          "viaf": "51697407"
+        },
+        {
+          "name": "Theodor Reik",
+          "viaf": "76395675"
+        },
+        {
+          "name": "Victoria Kent",
+          "viaf": "79126049"
+        },
+        {
+          "name": "William James",
+          "viaf": "56625773"
+        }
       ]
     }
   },
@@ -14129,7 +19938,10 @@ var points = [
       "name": "Newtown Square, Pennsylvania",
       "popupContent": "Newtown Square, Pennsylvania",
       "affiliatedPeople": [
-        "Peter G. Earle"
+        {
+          "name": "Peter G. Earle",
+          "viaf": "41972210"
+        }
       ]
     }
   },
@@ -14146,8 +19958,14 @@ var points = [
       "name": "Nice, France",
       "popupContent": "Nice, France",
       "affiliatedPeople": [
-        "Frank Harris",
-        "Thomas Narcejac (Pierre Ayraud)"
+        {
+          "name": "Frank Harris",
+          "viaf": "120702927"
+        },
+        {
+          "name": "Thomas Narcejac (Pierre Ayraud)",
+          "viaf": "95203021"
+        }
       ]
     }
   },
@@ -14164,8 +19982,14 @@ var points = [
       "name": "Nimes, France",
       "popupContent": "Nimes, France",
       "affiliatedPeople": [
-        "François Pierre Guillaume Guizot",
-        "Jean Paulhan"
+        {
+          "name": "François Pierre Guillaume Guizot",
+          "viaf": "29600143"
+        },
+        {
+          "name": "Jean Paulhan",
+          "viaf": "12313345"
+        }
       ]
     }
   },
@@ -14182,7 +20006,10 @@ var points = [
       "name": "Nogoyá, Entre Ríos, Argentina",
       "popupContent": "Nogoyá, Entre Ríos, Argentina",
       "affiliatedPeople": [
-        "Juan Carlos Ghiano"
+        {
+          "name": "Juan Carlos Ghiano",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -14199,7 +20026,10 @@ var points = [
       "name": "North Conway, New Hampshire",
       "popupContent": "North Conway, New Hampshire",
       "affiliatedPeople": [
-        "Edward Estlin Cummings"
+        {
+          "name": "Edward Estlin Cummings",
+          "viaf": "12306931"
+        }
       ]
     }
   },
@@ -14216,7 +20046,10 @@ var points = [
       "name": "Northampton, Massachusetts",
       "popupContent": "Northampton, Massachusetts",
       "affiliatedPeople": [
-        "Harold Underwood Faulkner"
+        {
+          "name": "Harold Underwood Faulkner",
+          "viaf": "13360880"
+        }
       ]
     }
   },
@@ -14233,7 +20066,10 @@ var points = [
       "name": "Northeast Harbor, Maine",
       "popupContent": "Northeast Harbor, Maine",
       "affiliatedPeople": [
-        "Marguerite Yourcenar"
+        {
+          "name": "Marguerite Yourcenar",
+          "viaf": "105154898"
+        }
       ]
     }
   },
@@ -14250,7 +20086,10 @@ var points = [
       "name": "Norwalk, Connecticut",
       "popupContent": "Norwalk, Connecticut",
       "affiliatedPeople": [
-        "Henri Peyre"
+        {
+          "name": "Henri Peyre",
+          "viaf": "89333327"
+        }
       ]
     }
   },
@@ -14267,7 +20106,10 @@ var points = [
       "name": "Norwich, Connecticut",
       "popupContent": "Norwich, Connecticut",
       "affiliatedPeople": [
-        "Elisha Jay Edwards"
+        {
+          "name": "Elisha Jay Edwards",
+          "viaf": "50567189"
+        }
       ]
     }
   },
@@ -14284,8 +20126,14 @@ var points = [
       "name": "Norwich, United Kingdom",
       "popupContent": "Norwich, United Kingdom",
       "affiliatedPeople": [
-        "R. H. Mottram",
-        "Sir Thomas Browne"
+        {
+          "name": "R. H. Mottram",
+          "viaf": "111564164"
+        },
+        {
+          "name": "Sir Thomas Browne",
+          "viaf": "41925299"
+        }
       ]
     }
   },
@@ -14302,7 +20150,10 @@ var points = [
       "name": "Nueva Imperial, Chile",
       "popupContent": "Nueva Imperial, Chile",
       "affiliatedPeople": [
-        "Miguel Arteche"
+        {
+          "name": "Miguel Arteche",
+          "viaf": "24643240"
+        }
       ]
     }
   },
@@ -14319,9 +20170,18 @@ var points = [
       "name": "Nuremberg, Germany",
       "popupContent": "Nuremberg, Germany",
       "affiliatedPeople": [
-        "Eduardo Enrique Krapf",
-        "Gisela Elsner",
-        "Max Horkheimer"
+        {
+          "name": "Eduardo Enrique Krapf",
+          "viaf": "310715699"
+        },
+        {
+          "name": "Gisela Elsner",
+          "viaf": "29533556"
+        },
+        {
+          "name": "Max Horkheimer",
+          "viaf": "14771315"
+        }
       ]
     }
   },
@@ -14338,7 +20198,10 @@ var points = [
       "name": "Oak Park, California",
       "popupContent": "Oak Park, California",
       "affiliatedPeople": [
-        "Ernest Hemingway"
+        {
+          "name": "Ernest Hemingway",
+          "viaf": "97006051"
+        }
       ]
     }
   },
@@ -14355,8 +20218,14 @@ var points = [
       "name": "Oakland, California",
       "popupContent": "Oakland, California",
       "affiliatedPeople": [
-        "María Rosa Lida de Malkiel",
-        "Raoul Auernheimer"
+        {
+          "name": "María Rosa Lida de Malkiel",
+          "viaf": "29619575"
+        },
+        {
+          "name": "Raoul Auernheimer",
+          "viaf": "44319718"
+        }
       ]
     }
   },
@@ -14373,7 +20242,10 @@ var points = [
       "name": "Obukhiv, Ukraine",
       "popupContent": "Obukhiv, Ukraine",
       "affiliatedPeople": [
-        "Nicolás Berdiaeff"
+        {
+          "name": "Nicolás Berdiaeff",
+          "viaf": "36926249"
+        }
       ]
     }
   },
@@ -14390,8 +20262,14 @@ var points = [
       "name": "Odessa, Ukraine",
       "popupContent": "Odessa, Ukraine",
       "affiliatedPeople": [
-        "George Gamow",
-        "Wladimiro Acosta"
+        {
+          "name": "George Gamow",
+          "viaf": "76443377"
+        },
+        {
+          "name": "Wladimiro Acosta",
+          "viaf": "61192352"
+        }
       ]
     }
   },
@@ -14408,7 +20286,10 @@ var points = [
       "name": "Oerlinghausen, Germany",
       "popupContent": "Oerlinghausen, Germany",
       "affiliatedPeople": [
-        "Niklas Luhmann"
+        {
+          "name": "Niklas Luhmann",
+          "viaf": "29546145"
+        }
       ]
     }
   },
@@ -14425,8 +20306,14 @@ var points = [
       "name": "Ojai, California",
       "popupContent": "Ojai, California",
       "affiliatedPeople": [
-        "Jiddu Krishnamurti",
-        "Rosalind Edith Rajagopal"
+        {
+          "name": "Jiddu Krishnamurti",
+          "viaf": "105950421"
+        },
+        {
+          "name": "Rosalind Edith Rajagopal",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -14443,7 +20330,10 @@ var points = [
       "name": "Old Lyme, Connecticut",
       "popupContent": "Old Lyme, Connecticut",
       "affiliatedPeople": [
-        "Susanne Katherina Langer"
+        {
+          "name": "Susanne Katherina Langer",
+          "viaf": "64120378"
+        }
       ]
     }
   },
@@ -14460,7 +20350,10 @@ var points = [
       "name": "Oldenburg, Germany",
       "popupContent": "Oldenburg, Germany",
       "affiliatedPeople": [
-        "Karl Jaspers"
+        {
+          "name": "Karl Jaspers",
+          "viaf": "31998030"
+        }
       ]
     }
   },
@@ -14477,7 +20370,10 @@ var points = [
       "name": "Onehunga, Auckland, New Zealand",
       "popupContent": "Onehunga, Auckland, New Zealand",
       "affiliatedPeople": [
-        "Catherine Ann Andersen (McHaffie)"
+        {
+          "name": "Catherine Ann Andersen (McHaffie)",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -14494,7 +20390,10 @@ var points = [
       "name": "Oran, Algeria",
       "popupContent": "Oran, Algeria",
       "affiliatedPeople": [
-        "Francine Faure Camus"
+        {
+          "name": "Francine Faure Camus",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -14511,7 +20410,10 @@ var points = [
       "name": "Orbetello, Italy",
       "popupContent": "Orbetello, Italy",
       "affiliatedPeople": [
-        "Alfonso Gatto"
+        {
+          "name": "Alfonso Gatto",
+          "viaf": "32036388"
+        }
       ]
     }
   },
@@ -14528,7 +20430,10 @@ var points = [
       "name": "Oregon City, Oregon",
       "popupContent": "Oregon City, Oregon",
       "affiliatedPeople": [
-        "Lewis Hanke"
+        {
+          "name": "Lewis Hanke",
+          "viaf": "108256647"
+        }
       ]
     }
   },
@@ -14545,7 +20450,10 @@ var points = [
       "name": "Orense, Spain",
       "popupContent": "Orense, Spain",
       "affiliatedPeople": [
-        "Eduardo Blanco"
+        {
+          "name": "Eduardo Blanco",
+          "viaf": "54184970"
+        }
       ]
     }
   },
@@ -14562,7 +20470,10 @@ var points = [
       "name": "Orhei, Moldova",
       "popupContent": "Orhei, Moldova",
       "affiliatedPeople": [
-        "Jacob Fijman"
+        {
+          "name": "Jacob Fijman",
+          "viaf": "34615650"
+        }
       ]
     }
   },
@@ -14579,7 +20490,10 @@ var points = [
       "name": "Orihuela, Spain",
       "popupContent": "Orihuela, Spain",
       "affiliatedPeople": [
-        "Miguel Hernández"
+        {
+          "name": "Miguel Hernández",
+          "viaf": "64032485"
+        }
       ]
     }
   },
@@ -14596,7 +20510,10 @@ var points = [
       "name": "Orléans, France",
       "popupContent": "Orléans, France",
       "affiliatedPeople": [
-        "René Marill Albérès"
+        {
+          "name": "René Marill Albérès",
+          "viaf": "108446032"
+        }
       ]
     }
   },
@@ -14613,7 +20530,10 @@ var points = [
       "name": "Ormesson-sur-Marne, France",
       "popupContent": "Ormesson-sur-Marne, France",
       "affiliatedPeople": [
-        "Wladimir d'Ormesson"
+        {
+          "name": "Wladimir d'Ormesson",
+          "viaf": "22277844"
+        }
       ]
     }
   },
@@ -14630,7 +20550,10 @@ var points = [
       "name": "Ortigueira, Spain",
       "popupContent": "Ortigueira, Spain",
       "affiliatedPeople": [
-        "Leandro Pita Moreno"
+        {
+          "name": "Leandro Pita Moreno",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -14647,8 +20570,14 @@ var points = [
       "name": "Oslo, Norway",
       "popupContent": "Oslo, Norway",
       "affiliatedPeople": [
-        "C. J. Hambro",
-        "Charles Kent"
+        {
+          "name": "C. J. Hambro",
+          "viaf": "52497376"
+        },
+        {
+          "name": "Charles Kent",
+          "viaf": "12211572"
+        }
       ]
     }
   },
@@ -14665,7 +20594,10 @@ var points = [
       "name": "Osnabrück, Germany",
       "popupContent": "Osnabrück, Germany",
       "affiliatedPeople": [
-        "Jürgen von Kempski"
+        {
+          "name": "Jürgen von Kempski",
+          "viaf": "66483843"
+        }
       ]
     }
   },
@@ -14682,7 +20614,10 @@ var points = [
       "name": "Otsu, Japan",
       "popupContent": "Otsu, Japan",
       "affiliatedPeople": [
-        "Fuyuhiko Kitagawa"
+        {
+          "name": "Fuyuhiko Kitagawa",
+          "viaf": "96945339"
+        }
       ]
     }
   },
@@ -14699,8 +20634,14 @@ var points = [
       "name": "Oviedo, Spain",
       "popupContent": "Oviedo, Spain",
       "affiliatedPeople": [
-        "Fernando Vela",
-        "Sirio Alejandro (Nicanor Álvarez Díaz)"
+        {
+          "name": "Fernando Vela",
+          "viaf": "121641134"
+        },
+        {
+          "name": "Sirio Alejandro (Nicanor Álvarez Díaz)",
+          "viaf": "46567982"
+        }
       ]
     }
   },
@@ -14717,17 +20658,50 @@ var points = [
       "name": "Oxford, United Kingdom",
       "popupContent": "Oxford, United Kingdom",
       "affiliatedPeople": [
-        "Alexander James Carlyle",
-        "Arnold Walter Lawrence",
-        "Clive Staples Lewis",
-        "Enid Starkie",
-        "Frederick Henry Heinemann",
-        "Iris Murdoch",
-        "Isaiah Berlin",
-        "Joyce Cary",
-        "Max Muller",
-        "Tom Hopkinson",
-        "William James Entwistle"
+        {
+          "name": "Alexander James Carlyle",
+          "viaf": "20432382"
+        },
+        {
+          "name": "Arnold Walter Lawrence",
+          "viaf": "97991219"
+        },
+        {
+          "name": "Clive Staples Lewis",
+          "viaf": "22144877"
+        },
+        {
+          "name": "Enid Starkie",
+          "viaf": "61657177"
+        },
+        {
+          "name": "Frederick Henry Heinemann",
+          "viaf": "39505653"
+        },
+        {
+          "name": "Iris Murdoch",
+          "viaf": "89499452"
+        },
+        {
+          "name": "Isaiah Berlin",
+          "viaf": "27076924"
+        },
+        {
+          "name": "Joyce Cary",
+          "viaf": "46778083"
+        },
+        {
+          "name": "Max Muller",
+          "viaf": "9893606"
+        },
+        {
+          "name": "Tom Hopkinson",
+          "viaf": "111853684"
+        },
+        {
+          "name": "William James Entwistle",
+          "viaf": "69056978"
+        }
       ]
     }
   },
@@ -14744,7 +20718,10 @@ var points = [
       "name": "Pachino, Italy",
       "popupContent": "Pachino, Italy",
       "affiliatedPeople": [
-        "Vitaliano Brancati"
+        {
+          "name": "Vitaliano Brancati",
+          "viaf": "15.0940"
+        }
       ]
     }
   },
@@ -14761,7 +20738,10 @@ var points = [
       "name": "Pachuca, Mexico",
       "popupContent": "Pachuca, Mexico",
       "affiliatedPeople": [
-        "Alfonso Cravioto"
+        {
+          "name": "Alfonso Cravioto",
+          "viaf": "72798864"
+        }
       ]
     }
   },
@@ -14778,7 +20758,10 @@ var points = [
       "name": "Paddington, Australia",
       "popupContent": "Paddington, Australia",
       "affiliatedPeople": [
-        "Ruth Bedford"
+        {
+          "name": "Ruth Bedford",
+          "viaf": "91538437"
+        }
       ]
     }
   },
@@ -14795,8 +20778,14 @@ var points = [
       "name": "Palermo, Italy",
       "popupContent": "Palermo, Italy",
       "affiliatedPeople": [
-        "Gian Gaspare Napolitano",
-        "Giuseppe Tomasi de Lampedusa"
+        {
+          "name": "Gian Gaspare Napolitano",
+          "viaf": "64135710"
+        },
+        {
+          "name": "Giuseppe Tomasi de Lampedusa",
+          "viaf": "88710059"
+        }
       ]
     }
   },
@@ -14813,7 +20802,10 @@ var points = [
       "name": "Palma de Majorca, Spain",
       "popupContent": "Palma de Majorca, Spain",
       "affiliatedPeople": [
-        "Gabriel Alomar"
+        {
+          "name": "Gabriel Alomar",
+          "viaf": "72844503"
+        }
       ]
     }
   },
@@ -14830,7 +20822,10 @@ var points = [
       "name": "Pamplona, Colombia",
       "popupContent": "Pamplona, Colombia",
       "affiliatedPeople": [
-        "Jorge Gaitán Durán"
+        {
+          "name": "Jorge Gaitán Durán",
+          "viaf": "10681097"
+        }
       ]
     }
   },
@@ -14847,7 +20842,10 @@ var points = [
       "name": "Pamplona, Spain",
       "popupContent": "Pamplona, Spain",
       "affiliatedPeople": [
-        "Juan David García Bacca"
+        {
+          "name": "Juan David García Bacca",
+          "viaf": "112824971"
+        }
       ]
     }
   },
@@ -14864,7 +20862,10 @@ var points = [
       "name": "Paraćin, Serbia",
       "popupContent": "Paraćin, Serbia",
       "affiliatedPeople": [
-        "Vladeta Popvić"
+        {
+          "name": "Vladeta Popvić",
+          "viaf": "24175804"
+        }
       ]
     }
   },
@@ -14881,7 +20882,10 @@ var points = [
       "name": "Paradise Valley, Arizona",
       "popupContent": "Paradise Valley, Arizona",
       "affiliatedPeople": [
-        "Erskine Caldwell"
+        {
+          "name": "Erskine Caldwell",
+          "viaf": "46758305"
+        }
       ]
     }
   },
@@ -14898,7 +20902,10 @@ var points = [
       "name": "Parana, Argentina",
       "popupContent": "Parana, Argentina",
       "affiliatedPeople": [
-        "Manuel Gálvez"
+        {
+          "name": "Manuel Gálvez",
+          "viaf": "22213019"
+        }
       ]
     }
   },
@@ -14915,194 +20922,758 @@ var points = [
       "name": "Paris, France",
       "popupContent": "Paris, France",
       "affiliatedPeople": [
-        "Adrienne Monnier",
-        "Albert Bayet",
-        "Alberto Junyent",
-        "Alberto Ollivier",
-        "Alberto Wagner de Reyna",
-        "Alejo Carpentier",
-        "Aleksei Remizov",
-        "Alexandre Arnoux",
-        "Alexandre Astruc",
-        "Alfred Fabre-Luce",
-        "Alfred Jarry",
-        "André Bretón",
-        "André Coyné",
-        "André Gide",
-        "André Lhote",
-        "André Malraux",
-        "André Pieyre de Mandiargues",
-        "André Rolland de Renéville",
-        "Andrei Donatovich Sinyavsky (Abraham Terz)",
-        "Anna de Noailles",
-        "Antoine Laurent Lavoisier",
-        "Antonina Vallentin",
-        "Armand-Augustin-Louis de Caulaincourt",
-        "Arnaldo Calveyra",
-        "Aurora Bernárdez",
-        "B. H. Lidell Hart",
-        "Benoite Groult",
-        "Blanche Albane (Mme. Georges Duhamel) ",
-        "César Fernández Moreno",
-        "Charles du Bos",
-        "Charles Nodier",
-        "Charles Pierre Baudelaire",
-        "Costantín Virgil Gheorghiu",
-        "Damián Carlos Bayón",
-        "Daniel Halévy",
-        "David Rousset",
-        "Denis Diderot",
-        "Dominique Braga",
-        "Elena Vacarescu",
-        "Elisabeth Goguel de Labrousse",
-        "Emil M. Cioran",
-        "Émile Borel",
-        "Émile Bréhier",
-        "Émile Durkheim",
-        "Emilio Pettoruti",
-        "Emmanuel Berl",
-        "Emmanuel Lévinas",
-        "Étienne Balazs",
-        "Etienne Gilson",
-        "Eugen Millington Drake",
-        "Eugène Ionesco",
-        "Eugène Jolas",
-        "Francis Poulenc",
-        "François Bourricaud",
-        "François Mauriac",
-        "François-Marie Arouet (Voltaire)",
-        "Françoise d'Issembourg d'Happoncourt de Graffigny",
-        "Frédéric Grover",
-        "Gabriel Marcel",
-        "Gaëton Picon",
-        "Gastón Bachelard",
-        "Gaston Bouthoul",
-        "Géo Dorival",
-        "George Bataille",
-        "George Blin",
-        "Georges Balandier",
-        "Georges Bernanos",
-        "Georges Duhamel",
-        "Georges Friedmann",
-        "Georges Henri Rivière",
-        "Georges Izard",
-        "Gérard de Nerval (Gérard Labrunie)",
-        "Germaine Sanderson",
-        "Gisèle Freund",
-        "Guillaume Apollinaire",
-        "Gustave Doré",
-        "Guy de Maupassant",
-        "Guy des Cars",
-        "Heine Heinrich",
-        "Hélène Jourdan-Morhange",
-        "Henri Bergson",
-        "Henri Massis",
-        "Henri Michaux",
-        "Henri Peyre",
-        "Henry de Montherlant",
-        "Isidore Lucien Ducasse (Comte de Lautréamont)",
-        "Jacques Heurgon",
-        "Jacques Jean Lhermitte",
-        "Jacques Lacan",
-        "Jacques Maritain",
-        "Jacques Ménétrier (André Giraud-Boura)",
-        "Jacques Rigaud",
-        "Jean Bataillon",
-        "Jean Cassou",
-        "Jean Daniélou",
-        "Jean Desbordes",
-        "Jean François Orcel",
-        "Jean Genet",
-        "Jean Giraudoux",
-        "Jean Grenier",
-        "Jean Guéhenno",
-        "Jean Guitton",
-        "Jean Hyppolite",
-        "Jean Rostand",
-        "Jean-Louis Barrault",
-        "Jean-Paul Sartre",
-        "Jean-Pierre Vigier",
-        "Johannes Semper",
-        "Jorge Bemberg",
-        "Jouri Mandelstamm",
-        "Jules Romains (Louis Farigoule)",
-        "Jules Supervielle",
-        "Julien Benda",
-        "Julien Green",
-        "Julio Cortázar",
-        "Kostas Axelos",
-        "León Brunschvicg",
-        "León Chestov",
-        "Léon-Paul Fargue",
-        "Louis Antoine de Caraccioli",
-        "Louis Aragon",
-        "Louis Gillet",
-        "Louis Pasteur Vallery-Radot",
-        "Louis Piérard",
-        "Luc Durtain",
-        "Lucien Daudet",
-        "Lucien Lévy-Bruhl",
-        "Madame Marthe Letellier",
-        "Madeleine Renaud",
-        "Manès Sperber",
-        "Manuel Ángeles Ortiz",
-        "Marcel Aymé",
-        "Marcel Brion",
-        "Marcelle Meyer",
-        "Marcellin Berthélot",
-        "María Rosa González",
-        "Marie-Alain Couturier",
-        "Marie-Louise Bousquet",
-        "Marie-Madeleine Lioux (Malraux)",
-        "Marie-Thérèse d'Hinnisdael",
-        "Maurice Le Roux",
-        "Maurice Leenhart",
-        "Maurice Merleau-Ponty",
-        "Maurice Ravel",
-        "Maurice Rostand",
-        "Michel Leiris",
-        "Mika Feldman de Etchebéhère",
-        "Mme. Jules Supervielle (Pilar Saavedra)",
-        "Mme. Raissa Maritain",
-        "Nathalie Sarraute",
-        "Paul Bénichou",
-        "Paul Cesar Helleu",
-        "Paul Chadourne",
-        "Paul Claudel",
-        "Paul Gauguin",
-        "Paul Valéry",
-        "Philippe Hériat",
-        "Pierre de Boisdeffre",
-        "Pierre Drieu la Rochelle",
-        "Pierre Emmanuel",
-        "Pierre Francastel",
-        "Pierre Souvtchinsky",
-        "Prosper Mérimée",
-        "Ramón Fernández",
-        "Raymond Aron",
-        "René Huyghe",
-        "René Maheu",
-        "Ricardo Güiraldes",
-        "Robert Aron",
-        "Robert Desnos",
-        "Robert Guillain",
-        "Roger Breuil",
-        "Roger Caillois",
-        "Roger Garaudy",
-        "Roger Hinks",
-        "Roger Lannes",
-        "Roger Packman Hinks",
-        "Samuel Beckett",
-        "Sidonie-Gabrielle Colette",
-        "Simone de Beauvoir",
-        "Stuart Gilbert",
-        "Sylvia Beach",
-        "Valentine Hugo",
-        "Victor Charles Louis Brochard",
-        "Victor-Marie Hugo",
-        "Wladimir Weidlé",
-        "Yves Bonnefoy",
-        "Yvonne de Gaulle"
+        {
+          "name": "Adrienne Monnier",
+          "viaf": "22281109"
+        },
+        {
+          "name": "Albert Bayet",
+          "viaf": "14810509"
+        },
+        {
+          "name": "Alberto Junyent",
+          "viaf": "6593275"
+        },
+        {
+          "name": "Alberto Ollivier",
+          "viaf": "68615816"
+        },
+        {
+          "name": "Alberto Wagner de Reyna",
+          "viaf": "19690150"
+        },
+        {
+          "name": "Alejo Carpentier",
+          "viaf": "105310694"
+        },
+        {
+          "name": "Aleksei Remizov",
+          "viaf": "51953667"
+        },
+        {
+          "name": "Alexandre Arnoux",
+          "viaf": "6650"
+        },
+        {
+          "name": "Alexandre Astruc",
+          "viaf": "84961176"
+        },
+        {
+          "name": "Alfred Fabre-Luce",
+          "viaf": "14764619"
+        },
+        {
+          "name": "Alfred Jarry",
+          "viaf": "66469054"
+        },
+        {
+          "name": "André Bretón",
+          "viaf": "49222341"
+        },
+        {
+          "name": "André Coyné",
+          "viaf": "19711810"
+        },
+        {
+          "name": "André Gide",
+          "viaf": "96973963"
+        },
+        {
+          "name": "André Lhote",
+          "viaf": "71528345"
+        },
+        {
+          "name": "André Malraux",
+          "viaf": "51692748"
+        },
+        {
+          "name": "André Pieyre de Mandiargues",
+          "viaf": "108228000"
+        },
+        {
+          "name": "André Rolland de Renéville",
+          "viaf": "44316558"
+        },
+        {
+          "name": "Andrei Donatovich Sinyavsky (Abraham Terz)",
+          "viaf": "88373684"
+        },
+        {
+          "name": "Anna de Noailles",
+          "viaf": "95303465"
+        },
+        {
+          "name": "Antoine Laurent Lavoisier",
+          "viaf": "2495579"
+        },
+        {
+          "name": "Antonina Vallentin",
+          "viaf": "76379363"
+        },
+        {
+          "name": "Armand-Augustin-Louis de Caulaincourt",
+          "viaf": "68948049"
+        },
+        {
+          "name": "Arnaldo Calveyra",
+          "viaf": "28253623"
+        },
+        {
+          "name": "Aurora Bernárdez",
+          "viaf": "59213158"
+        },
+        {
+          "name": "B. H. Lidell Hart",
+          "viaf": "39389064"
+        },
+        {
+          "name": "Benoite Groult",
+          "viaf": ""
+        },
+        {
+          "name": "Blanche Albane (Mme. Georges Duhamel) ",
+          "viaf": "56620305"
+        },
+        {
+          "name": "César Fernández Moreno",
+          "viaf": "19686009"
+        },
+        {
+          "name": "Charles du Bos",
+          "viaf": "4929230"
+        },
+        {
+          "name": "Charles Nodier",
+          "viaf": "64009895"
+        },
+        {
+          "name": "Charles Pierre Baudelaire",
+          "viaf": "17218730"
+        },
+        {
+          "name": "Costantín Virgil Gheorghiu",
+          "viaf": ""
+        },
+        {
+          "name": "Damián Carlos Bayón",
+          "viaf": "76311854"
+        },
+        {
+          "name": "Daniel Halévy",
+          "viaf": "14771013"
+        },
+        {
+          "name": "David Rousset",
+          "viaf": "22148210"
+        },
+        {
+          "name": "Denis Diderot",
+          "viaf": "54146831"
+        },
+        {
+          "name": "Dominique Braga",
+          "viaf": "61258264"
+        },
+        {
+          "name": "Elena Vacarescu",
+          "viaf": "89520833"
+        },
+        {
+          "name": "Elisabeth Goguel de Labrousse",
+          "viaf": "537145858113923022249"
+        },
+        {
+          "name": "Emil M. Cioran",
+          "viaf": "56607493"
+        },
+        {
+          "name": "Émile Borel",
+          "viaf": "19704425"
+        },
+        {
+          "name": "Émile Bréhier",
+          "viaf": "8202"
+        },
+        {
+          "name": "Émile Durkheim",
+          "viaf": "56609141"
+        },
+        {
+          "name": "Emilio Pettoruti",
+          "viaf": "10689075"
+        },
+        {
+          "name": "Emmanuel Berl",
+          "viaf": "34452921"
+        },
+        {
+          "name": "Emmanuel Lévinas",
+          "viaf": "108203818"
+        },
+        {
+          "name": "Étienne Balazs",
+          "viaf": "4960398"
+        },
+        {
+          "name": "Etienne Gilson",
+          "viaf": "9846775"
+        },
+        {
+          "name": "Eugen Millington Drake",
+          "viaf": "48223228"
+        },
+        {
+          "name": "Eugène Ionesco",
+          "viaf": "17224288"
+        },
+        {
+          "name": "Eugène Jolas",
+          "viaf": "9863425"
+        },
+        {
+          "name": "Francis Poulenc",
+          "viaf": "71579067"
+        },
+        {
+          "name": "François Bourricaud",
+          "viaf": "46757889"
+        },
+        {
+          "name": "François Mauriac",
+          "viaf": "9850407"
+        },
+        {
+          "name": "François-Marie Arouet (Voltaire)",
+          "viaf": "36925746"
+        },
+        {
+          "name": "Françoise d'Issembourg d'Happoncourt de Graffigny",
+          "viaf": "36919157"
+        },
+        {
+          "name": "Frédéric Grover",
+          "viaf": "49226424"
+        },
+        {
+          "name": "Gabriel Marcel",
+          "viaf": "14773302"
+        },
+        {
+          "name": "Gaëton Picon",
+          "viaf": "14775139"
+        },
+        {
+          "name": "Gastón Bachelard",
+          "viaf": "4926151"
+        },
+        {
+          "name": "Gaston Bouthoul",
+          "viaf": "108252030"
+        },
+        {
+          "name": "Géo Dorival",
+          "viaf": "58425634"
+        },
+        {
+          "name": "George Bataille",
+          "viaf": "41834843"
+        },
+        {
+          "name": "George Blin",
+          "viaf": "108233573"
+        },
+        {
+          "name": "Georges Balandier",
+          "viaf": "9813819"
+        },
+        {
+          "name": "Georges Bernanos",
+          "viaf": "44295297"
+        },
+        {
+          "name": "Georges Duhamel",
+          "viaf": "66466573"
+        },
+        {
+          "name": "Georges Friedmann",
+          "viaf": "108453501"
+        },
+        {
+          "name": "Georges Henri Rivière",
+          "viaf": "311981766"
+        },
+        {
+          "name": "Georges Izard",
+          "viaf": "5062395"
+        },
+        {
+          "name": "Gérard de Nerval (Gérard Labrunie)",
+          "viaf": "24596532"
+        },
+        {
+          "name": "Germaine Sanderson",
+          "viaf": ""
+        },
+        {
+          "name": "Gisèle Freund",
+          "viaf": "56609984"
+        },
+        {
+          "name": "Guillaume Apollinaire",
+          "viaf": "66462795"
+        },
+        {
+          "name": "Gustave Doré",
+          "viaf": "41839207"
+        },
+        {
+          "name": "Guy de Maupassant",
+          "viaf": "29537765"
+        },
+        {
+          "name": "Guy des Cars",
+          "viaf": "72188006"
+        },
+        {
+          "name": "Heine Heinrich",
+          "viaf": "34457918"
+        },
+        {
+          "name": "Hélène Jourdan-Morhange",
+          "viaf": "100219751"
+        },
+        {
+          "name": "Henri Bergson",
+          "viaf": "61541730"
+        },
+        {
+          "name": "Henri Massis",
+          "viaf": "99361721"
+        },
+        {
+          "name": "Henri Michaux",
+          "viaf": "54151507"
+        },
+        {
+          "name": "Henri Peyre",
+          "viaf": "89333327"
+        },
+        {
+          "name": "Henry de Montherlant",
+          "viaf": "76320420"
+        },
+        {
+          "name": "Isidore Lucien Ducasse (Comte de Lautréamont)",
+          "viaf": "6065"
+        },
+        {
+          "name": "Jacques Heurgon",
+          "viaf": "89671575"
+        },
+        {
+          "name": "Jacques Jean Lhermitte",
+          "viaf": "41901727"
+        },
+        {
+          "name": "Jacques Lacan",
+          "viaf": "36920510"
+        },
+        {
+          "name": "Jacques Maritain",
+          "viaf": "7393855"
+        },
+        {
+          "name": "Jacques Ménétrier (André Giraud-Boura)",
+          "viaf": "229026215"
+        },
+        {
+          "name": "Jacques Rigaud",
+          "viaf": "15574858"
+        },
+        {
+          "name": "Jean Bataillon",
+          "viaf": ""
+        },
+        {
+          "name": "Jean Cassou",
+          "viaf": "121657958"
+        },
+        {
+          "name": "Jean Daniélou",
+          "viaf": "4928609"
+        },
+        {
+          "name": "Jean Desbordes",
+          "viaf": "24643915"
+        },
+        {
+          "name": "Jean François Orcel",
+          "viaf": "99824934"
+        },
+        {
+          "name": "Jean Genet",
+          "viaf": "Jean Genet"
+        },
+        {
+          "name": "Jean Giraudoux",
+          "viaf": "2470938"
+        },
+        {
+          "name": "Jean Grenier",
+          "viaf": ""
+        },
+        {
+          "name": "Jean Guéhenno",
+          "viaf": "49226476"
+        },
+        {
+          "name": "Jean Guitton",
+          "viaf": "54148637"
+        },
+        {
+          "name": "Jean Hyppolite",
+          "viaf": "66526493"
+        },
+        {
+          "name": "Jean Rostand",
+          "viaf": "7396528"
+        },
+        {
+          "name": "Jean-Louis Barrault",
+          "viaf": "7386576"
+        },
+        {
+          "name": "Jean-Paul Sartre",
+          "viaf": "76322562"
+        },
+        {
+          "name": "Jean-Pierre Vigier",
+          "viaf": "91782181"
+        },
+        {
+          "name": "Johannes Semper",
+          "viaf": "86378"
+        },
+        {
+          "name": "Jorge Bemberg",
+          "viaf": "7383351"
+        },
+        {
+          "name": "Jouri Mandelstamm",
+          "viaf": ""
+        },
+        {
+          "name": "Jules Romains (Louis Farigoule)",
+          "viaf": "37053052"
+        },
+        {
+          "name": "Jules Supervielle",
+          "viaf": "41846928"
+        },
+        {
+          "name": "Julien Benda",
+          "viaf": "13100935"
+        },
+        {
+          "name": "Julien Green",
+          "viaf": "68929857"
+        },
+        {
+          "name": "Julio Cortázar",
+          "viaf": "12306822"
+        },
+        {
+          "name": "Kostas Axelos",
+          "viaf": "108466921"
+        },
+        {
+          "name": "León Brunschvicg",
+          "viaf": "29668791"
+        },
+        {
+          "name": "León Chestov",
+          "viaf": "36916319"
+        },
+        {
+          "name": "Léon-Paul Fargue",
+          "viaf": "88706377"
+        },
+        {
+          "name": "Louis Antoine de Caraccioli",
+          "viaf": "88874605"
+        },
+        {
+          "name": "Louis Aragon",
+          "viaf": "8178518"
+        },
+        {
+          "name": "Louis Gillet",
+          "viaf": "66467917"
+        },
+        {
+          "name": "Louis Pasteur Vallery-Radot",
+          "viaf": "2548154"
+        },
+        {
+          "name": "Louis Piérard",
+          "viaf": "41882487"
+        },
+        {
+          "name": "Luc Durtain",
+          "viaf": "7453684"
+        },
+        {
+          "name": "Lucien Daudet",
+          "viaf": "8416712"
+        },
+        {
+          "name": "Lucien Lévy-Bruhl",
+          "viaf": "64000278"
+        },
+        {
+          "name": "Madame Marthe Letellier",
+          "viaf": ""
+        },
+        {
+          "name": "Madeleine Renaud",
+          "viaf": "51718988"
+        },
+        {
+          "name": "Manès Sperber",
+          "viaf": "107026409"
+        },
+        {
+          "name": "Manuel Ángeles Ortiz",
+          "viaf": "49403783"
+        },
+        {
+          "name": "Marcel Aymé",
+          "viaf": "9842427"
+        },
+        {
+          "name": "Marcel Brion",
+          "viaf": "8241"
+        },
+        {
+          "name": "Marcelle Meyer",
+          "viaf": "44485837"
+        },
+        {
+          "name": "Marcellin Berthélot",
+          "viaf": "54207651"
+        },
+        {
+          "name": "María Rosa González",
+          "viaf": ""
+        },
+        {
+          "name": "Marie-Alain Couturier",
+          "viaf": "68927522"
+        },
+        {
+          "name": "Marie-Louise Bousquet",
+          "viaf": "42105783"
+        },
+        {
+          "name": "Marie-Madeleine Lioux (Malraux)",
+          "viaf": "63063719"
+        },
+        {
+          "name": "Marie-Thérèse d'Hinnisdael",
+          "viaf": ""
+        },
+        {
+          "name": "Maurice Le Roux",
+          "viaf": "210469"
+        },
+        {
+          "name": "Maurice Leenhart",
+          "viaf": ""
+        },
+        {
+          "name": "Maurice Merleau-Ponty",
+          "viaf": "31991436"
+        },
+        {
+          "name": "Maurice Ravel",
+          "viaf": "2657495"
+        },
+        {
+          "name": "Maurice Rostand",
+          "viaf": "56696044"
+        },
+        {
+          "name": "Michel Leiris",
+          "viaf": "219192187"
+        },
+        {
+          "name": "Mika Feldman de Etchebéhère",
+          "viaf": "32787845"
+        },
+        {
+          "name": "Mme. Jules Supervielle (Pilar Saavedra)",
+          "viaf": ""
+        },
+        {
+          "name": "Mme. Raissa Maritain",
+          "viaf": "39380883"
+        },
+        {
+          "name": "Nathalie Sarraute",
+          "viaf": "100261678"
+        },
+        {
+          "name": "Paul Bénichou",
+          "viaf": "269156869"
+        },
+        {
+          "name": "Paul Cesar Helleu",
+          "viaf": "14851547"
+        },
+        {
+          "name": "Paul Chadourne",
+          "viaf": "7605783"
+        },
+        {
+          "name": "Paul Claudel",
+          "viaf": "100163516"
+        },
+        {
+          "name": "Paul Gauguin",
+          "viaf": "27064953"
+        },
+        {
+          "name": "Paul Valéry",
+          "viaf": "61553403"
+        },
+        {
+          "name": "Philippe Hériat",
+          "viaf": "14803062"
+        },
+        {
+          "name": "Pierre de Boisdeffre",
+          "viaf": "108450056"
+        },
+        {
+          "name": "Pierre Drieu la Rochelle",
+          "viaf": "27063717"
+        },
+        {
+          "name": "Pierre Emmanuel",
+          "viaf": "36913028"
+        },
+        {
+          "name": "Pierre Francastel",
+          "viaf": "22141794"
+        },
+        {
+          "name": "Pierre Souvtchinsky",
+          "viaf": "7428699"
+        },
+        {
+          "name": "Prosper Mérimée",
+          "viaf": "44302582"
+        },
+        {
+          "name": "Ramón Fernández",
+          "viaf": "39376886"
+        },
+        {
+          "name": "Raymond Aron",
+          "viaf": "51685009"
+        },
+        {
+          "name": "René Huyghe",
+          "viaf": "7391755"
+        },
+        {
+          "name": "René Maheu",
+          "viaf": "202339013"
+        },
+        {
+          "name": "Ricardo Güiraldes",
+          "viaf": "34457726"
+        },
+        {
+          "name": "Robert Aron",
+          "viaf": "51685013"
+        },
+        {
+          "name": "Robert Desnos",
+          "viaf": "9895"
+        },
+        {
+          "name": "Robert Guillain",
+          "viaf": "101850036"
+        },
+        {
+          "name": "Roger Breuil",
+          "viaf": "41968536"
+        },
+        {
+          "name": "Roger Caillois",
+          "viaf": "92201126"
+        },
+        {
+          "name": "Roger Garaudy",
+          "viaf": "81966173"
+        },
+        {
+          "name": "Roger Hinks",
+          "viaf": "55071235"
+        },
+        {
+          "name": "Roger Lannes",
+          "viaf": "54161784"
+        },
+        {
+          "name": "Roger Packman Hinks",
+          "viaf": "55071235"
+        },
+        {
+          "name": "Samuel Beckett",
+          "viaf": "7386737"
+        },
+        {
+          "name": "Sidonie-Gabrielle Colette",
+          "viaf": "68937443"
+        },
+        {
+          "name": "Simone de Beauvoir",
+          "viaf": "2466221"
+        },
+        {
+          "name": "Stuart Gilbert",
+          "viaf": "24832693"
+        },
+        {
+          "name": "Sylvia Beach",
+          "viaf": "35247539"
+        },
+        {
+          "name": "Valentine Hugo",
+          "viaf": "68930456"
+        },
+        {
+          "name": "Victor Charles Louis Brochard",
+          "viaf": "19766544"
+        },
+        {
+          "name": "Victor-Marie Hugo",
+          "viaf": "9847974"
+        },
+        {
+          "name": "Wladimir Weidlé",
+          "viaf": "61553442"
+        },
+        {
+          "name": "Yves Bonnefoy",
+          "viaf": "108225542"
+        },
+        {
+          "name": "Yvonne de Gaulle",
+          "viaf": "8194049"
+        }
       ]
     }
   },
@@ -15134,7 +21705,10 @@ var points = [
       "name": "Parral, Chile",
       "popupContent": "Parral, Chile",
       "affiliatedPeople": [
-        "Pablo Neruda"
+        {
+          "name": "Pablo Neruda",
+          "viaf": "95126958"
+        }
       ]
     }
   },
@@ -15151,7 +21725,10 @@ var points = [
       "name": "Parranquet, France",
       "popupContent": "Parranquet, France",
       "affiliatedPeople": [
-        "Louis Lavelle"
+        {
+          "name": "Louis Lavelle",
+          "viaf": "9849112"
+        }
       ]
     }
   },
@@ -15168,7 +21745,10 @@ var points = [
       "name": "Paso de los Toros, Uruguay",
       "popupContent": "Paso de los Toros, Uruguay",
       "affiliatedPeople": [
-        "Mario Benedetti"
+        {
+          "name": "Mario Benedetti",
+          "viaf": "56585930"
+        }
       ]
     }
   },
@@ -15185,7 +21765,10 @@ var points = [
       "name": "Pavia, Italy",
       "popupContent": "Pavia, Italy",
       "affiliatedPeople": [
-        "Gina Lombroso"
+        {
+          "name": "Gina Lombroso",
+          "viaf": "24666842"
+        }
       ]
     }
   },
@@ -15202,7 +21785,10 @@ var points = [
       "name": "Paysandu, Uruguay",
       "popupContent": "Paysandu, Uruguay",
       "affiliatedPeople": [
-        "Fernando Pereda"
+        {
+          "name": "Fernando Pereda",
+          "viaf": "63593006"
+        }
       ]
     }
   },
@@ -15219,7 +21805,10 @@ var points = [
       "name": "Peckham, London, United Kingdom",
       "popupContent": "Peckham, London, United Kingdom",
       "affiliatedPeople": [
-        "John Middleton Murry"
+        {
+          "name": "John Middleton Murry",
+          "viaf": "15229"
+        }
       ]
     }
   },
@@ -15236,7 +21825,10 @@ var points = [
       "name": "Pedreguer, Spain",
       "popupContent": "Pedreguer, Spain",
       "affiliatedPeople": [
-        "Antonio Gilabert"
+        {
+          "name": "Antonio Gilabert",
+          "viaf": "902878"
+        }
       ]
     }
   },
@@ -15253,7 +21845,10 @@ var points = [
       "name": "Pehuajó, Argentina",
       "popupContent": "Pehuajó, Argentina",
       "affiliatedPeople": [
-        "Héctor Oscar Ciarlo"
+        {
+          "name": "Héctor Oscar Ciarlo",
+          "viaf": "8726291"
+        }
       ]
     }
   },
@@ -15270,7 +21865,10 @@ var points = [
       "name": "Penang, Malaysia",
       "popupContent": "Penang, Malaysia",
       "affiliatedPeople": [
-        "Ivor Brown"
+        {
+          "name": "Ivor Brown",
+          "viaf": "19805970"
+        }
       ]
     }
   },
@@ -15287,7 +21885,10 @@ var points = [
       "name": "Perelle, Guernsey, Channel Islands, United Kingdom",
       "popupContent": "Perelle, Guernsey, Channel Islands, United Kingdom",
       "affiliatedPeople": [
-        "Maurice Dale Colbourne"
+        {
+          "name": "Maurice Dale Colbourne",
+          "viaf": "9440334"
+        }
       ]
     }
   },
@@ -15304,9 +21905,18 @@ var points = [
       "name": "Pergamino, Buenos Aires, Argentina",
       "popupContent": "Pergamino, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Héctor Basaldúa",
-        "Juan José Hernández Arregui",
-        "Noemí Vergara de Bietti"
+        {
+          "name": "Héctor Basaldúa",
+          "viaf": "32228358"
+        },
+        {
+          "name": "Juan José Hernández Arregui",
+          "viaf": "51723817"
+        },
+        {
+          "name": "Noemí Vergara de Bietti",
+          "viaf": "3794000"
+        }
       ]
     }
   },
@@ -15323,7 +21933,10 @@ var points = [
       "name": "Pernambuco, Brazil",
       "popupContent": "Pernambuco, Brazil",
       "affiliatedPeople": [
-        "Mario Pedrosa"
+        {
+          "name": "Mario Pedrosa",
+          "viaf": "40434793"
+        }
       ]
     }
   },
@@ -15340,8 +21953,14 @@ var points = [
       "name": "Perpignan, France",
       "popupContent": "Perpignan, France",
       "affiliatedPeople": [
-        "René Marill Albérès",
-        "Victor Crastre"
+        {
+          "name": "René Marill Albérès",
+          "viaf": "108446032"
+        },
+        {
+          "name": "Victor Crastre",
+          "viaf": "41882345"
+        }
       ]
     }
   },
@@ -15358,7 +21977,10 @@ var points = [
       "name": "Pertuis, France",
       "popupContent": "Pertuis, France",
       "affiliatedPeople": [
-        "George Blin"
+        {
+          "name": "George Blin",
+          "viaf": "108233573"
+        }
       ]
     }
   },
@@ -15375,7 +21997,10 @@ var points = [
       "name": "Pescara, Italy",
       "popupContent": "Pescara, Italy",
       "affiliatedPeople": [
-        "Ennio Flaiano"
+        {
+          "name": "Ennio Flaiano",
+          "viaf": "99835198"
+        }
       ]
     }
   },
@@ -15392,7 +22017,10 @@ var points = [
       "name": "Pescasseroli, Italy",
       "popupContent": "Pescasseroli, Italy",
       "affiliatedPeople": [
-        "Benedetto Croce"
+        {
+          "name": "Benedetto Croce",
+          "viaf": "61544292"
+        }
       ]
     }
   },
@@ -15409,7 +22037,10 @@ var points = [
       "name": "Pescina, Italy",
       "popupContent": "Pescina, Italy",
       "affiliatedPeople": [
-        "Ignazio Silone"
+        {
+          "name": "Ignazio Silone",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -15426,7 +22057,10 @@ var points = [
       "name": "Peterborough, Ontario, Canada",
       "popupContent": "Peterborough, Ontario, Canada",
       "affiliatedPeople": [
-        "Gerald Sykes"
+        {
+          "name": "Gerald Sykes",
+          "viaf": "49745492"
+        }
       ]
     }
   },
@@ -15443,7 +22077,10 @@ var points = [
       "name": "Petersham, Australia",
       "popupContent": "Petersham, Australia",
       "affiliatedPeople": [
-        "Ruth Bedford"
+        {
+          "name": "Ruth Bedford",
+          "viaf": "91538437"
+        }
       ]
     }
   },
@@ -15460,7 +22097,10 @@ var points = [
       "name": "Petrograd (Leningrad), Russia",
       "popupContent": "Petrograd (Leningrad), Russia",
       "affiliatedPeople": [
-        "Elvine Georglevna Simeon (Adams)"
+        {
+          "name": "Elvine Georglevna Simeon (Adams)",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -15477,7 +22117,10 @@ var points = [
       "name": "Petropolis, Brazil",
       "popupContent": "Petropolis, Brazil",
       "affiliatedPeople": [
-        "Stefan Zweig"
+        {
+          "name": "Stefan Zweig",
+          "viaf": "19685936"
+        }
       ]
     }
   },
@@ -15494,7 +22137,10 @@ var points = [
       "name": "Phibsborough, Ireland",
       "popupContent": "Phibsborough, Ireland",
       "affiliatedPeople": [
-        "Iris Murdoch"
+        {
+          "name": "Iris Murdoch",
+          "viaf": "89499452"
+        }
       ]
     }
   },
@@ -15511,9 +22157,18 @@ var points = [
       "name": "Philadelphia, Pennsylvania",
       "popupContent": "Philadelphia, Pennsylvania",
       "affiliatedPeople": [
-        "Ava Lowle Willing (Lady Ribblesdale)",
-        "Dorothy Norman",
-        "Whittaker Chambers"
+        {
+          "name": "Ava Lowle Willing (Lady Ribblesdale)",
+          "viaf": "40909247"
+        },
+        {
+          "name": "Dorothy Norman",
+          "viaf": "109835051"
+        },
+        {
+          "name": "Whittaker Chambers",
+          "viaf": "10658133"
+        }
       ]
     }
   },
@@ -15530,7 +22185,10 @@ var points = [
       "name": "Phoenix, Arizona",
       "popupContent": "Phoenix, Arizona",
       "affiliatedPeople": [
-        "Harold Lavine"
+        {
+          "name": "Harold Lavine",
+          "viaf": "113781310"
+        }
       ]
     }
   },
@@ -15562,7 +22220,10 @@ var points = [
       "name": "Pico, Italy",
       "popupContent": "Pico, Italy",
       "affiliatedPeople": [
-        "Tommaso Landolfi"
+        {
+          "name": "Tommaso Landolfi",
+          "viaf": "61548079"
+        }
       ]
     }
   },
@@ -15579,7 +22240,10 @@ var points = [
       "name": "Pieve Tesino, Italy",
       "popupContent": "Pieve Tesino, Italy",
       "affiliatedPeople": [
-        "Alcides de Gasperi"
+        {
+          "name": "Alcides de Gasperi",
+          "viaf": "32011324"
+        }
       ]
     }
   },
@@ -15596,7 +22260,10 @@ var points = [
       "name": "Pigüé, Argentina",
       "popupContent": "Pigüé, Argentina",
       "affiliatedPeople": [
-        "Herminia Catalina Brumana"
+        {
+          "name": "Herminia Catalina Brumana",
+          "viaf": "293122863"
+        }
       ]
     }
   },
@@ -15613,7 +22280,10 @@ var points = [
       "name": "Pilsen, Czech Republic",
       "popupContent": "Pilsen, Czech Republic",
       "affiliatedPeople": [
-        "Maximilian Beck"
+        {
+          "name": "Maximilian Beck",
+          "viaf": "116881824"
+        }
       ]
     }
   },
@@ -15630,7 +22300,10 @@ var points = [
       "name": "Pinar del Rio, Cuba",
       "popupContent": "Pinar del Rio, Cuba",
       "affiliatedPeople": [
-        "José Manuel Cortina"
+        {
+          "name": "José Manuel Cortina",
+          "viaf": "26771446"
+        }
       ]
     }
   },
@@ -15647,7 +22320,10 @@ var points = [
       "name": "Pipian, Havana, Cuba",
       "popupContent": "Pipian, Havana, Cuba",
       "affiliatedPeople": [
-        "Félix Lizaso"
+        {
+          "name": "Félix Lizaso",
+          "viaf": "1589960"
+        }
       ]
     }
   },
@@ -15664,7 +22340,10 @@ var points = [
       "name": "Pisa, Italy",
       "popupContent": "Pisa, Italy",
       "affiliatedPeople": [
-        "Galileo Galilei"
+        {
+          "name": "Galileo Galilei",
+          "viaf": "2470550"
+        }
       ]
     }
   },
@@ -15681,10 +22360,22 @@ var points = [
       "name": "Pittsburgh, Pennsylvania",
       "popupContent": "Pittsburgh, Pennsylvania",
       "affiliatedPeople": [
-        "Eduardo Lozano",
-        "Henry Steele Commager",
-        "Kenneth Burke",
-        "Robinson Jeffers"
+        {
+          "name": "Eduardo Lozano",
+          "viaf": "57814801"
+        },
+        {
+          "name": "Henry Steele Commager",
+          "viaf": "91303057"
+        },
+        {
+          "name": "Kenneth Burke",
+          "viaf": "100257278"
+        },
+        {
+          "name": "Robinson Jeffers",
+          "viaf": "68956184"
+        }
       ]
     }
   },
@@ -15701,7 +22392,10 @@ var points = [
       "name": "Plainfield, New Jersey",
       "popupContent": "Plainfield, New Jersey",
       "affiliatedPeople": [
-        "Van Wyck Brooks"
+        {
+          "name": "Van Wyck Brooks",
+          "viaf": "32080684"
+        }
       ]
     }
   },
@@ -15718,8 +22412,14 @@ var points = [
       "name": "Plymouth, New Hampshire",
       "popupContent": "Plymouth, New Hampshire",
       "affiliatedPeople": [
-        "Nathaniel Hawthorne",
-        "Richard Volney Chase"
+        {
+          "name": "Nathaniel Hawthorne",
+          "viaf": "44435463"
+        },
+        {
+          "name": "Richard Volney Chase",
+          "viaf": "54218651"
+        }
       ]
     }
   },
@@ -15736,7 +22436,10 @@ var points = [
       "name": "Plymouth, United Kingdom",
       "popupContent": "Plymouth, United Kingdom",
       "affiliatedPeople": [
-        "Wrey Gardiner"
+        {
+          "name": "Wrey Gardiner",
+          "viaf": "43338762"
+        }
       ]
     }
   },
@@ -15753,7 +22456,10 @@ var points = [
       "name": "Pocking, Germany",
       "popupContent": "Pocking, Germany",
       "affiliatedPeople": [
-        "Leni Riefenstahl"
+        {
+          "name": "Leni Riefenstahl",
+          "viaf": "44304468"
+        }
       ]
     }
   },
@@ -15770,7 +22476,10 @@ var points = [
       "name": "Point-a-Pitre, Guadeloupe",
       "popupContent": "Point-a-Pitre, Guadeloupe",
       "affiliatedPeople": [
-        "Saint-John Perse (Alexis Léger)"
+        {
+          "name": "Saint-John Perse (Alexis Léger)",
+          "viaf": "88804613"
+        }
       ]
     }
   },
@@ -15787,7 +22496,10 @@ var points = [
       "name": "Pointe-à-Pitre, Guadeloupe",
       "popupContent": "Pointe-à-Pitre, Guadeloupe",
       "affiliatedPeople": [
-        "Jorge Gaitán Durán"
+        {
+          "name": "Jorge Gaitán Durán",
+          "viaf": "10681097"
+        }
       ]
     }
   },
@@ -15804,7 +22516,10 @@ var points = [
       "name": "Poland",
       "popupContent": "Poland",
       "affiliatedPeople": [
-        "Rom Landau"
+        {
+          "name": "Rom Landau",
+          "viaf": "111652283"
+        }
       ]
     }
   },
@@ -15821,7 +22536,10 @@ var points = [
       "name": "Polessk, Russia",
       "popupContent": "Polessk, Russia",
       "affiliatedPeople": [
-        "Noël-Pierre Lenoir"
+        {
+          "name": "Noël-Pierre Lenoir",
+          "viaf": "268106192"
+        }
       ]
     }
   },
@@ -15838,7 +22556,10 @@ var points = [
       "name": "Polizzi Generosa, Italy",
       "popupContent": "Polizzi Generosa, Italy",
       "affiliatedPeople": [
-        "Giuseppe Antonio Borgese"
+        {
+          "name": "Giuseppe Antonio Borgese",
+          "viaf": "17234853"
+        }
       ]
     }
   },
@@ -15855,7 +22576,10 @@ var points = [
       "name": "Poltava, Ukraine",
       "popupContent": "Poltava, Ukraine",
       "affiliatedPeople": [
-        "Moura Budberg"
+        {
+          "name": "Moura Budberg",
+          "viaf": "73989566"
+        }
       ]
     }
   },
@@ -15872,7 +22596,10 @@ var points = [
       "name": "Polvaredas, Argentina",
       "popupContent": "Polvaredas, Argentina",
       "affiliatedPeople": [
-        "Delia del Carril"
+        {
+          "name": "Delia del Carril",
+          "viaf": "78661413"
+        }
       ]
     }
   },
@@ -15889,7 +22616,10 @@ var points = [
       "name": "Pompaples, Switzerland",
       "popupContent": "Pompaples, Switzerland",
       "affiliatedPeople": [
-        "Alberto Sartoris"
+        {
+          "name": "Alberto Sartoris",
+          "viaf": "117576649"
+        }
       ]
     }
   },
@@ -15906,7 +22636,10 @@ var points = [
       "name": "Ponce, Puerto Rico",
       "popupContent": "Ponce, Puerto Rico",
       "affiliatedPeople": [
-        "María Teresa Babín Cortés"
+        {
+          "name": "María Teresa Babín Cortés",
+          "viaf": "113964092"
+        }
       ]
     }
   },
@@ -15923,7 +22656,10 @@ var points = [
       "name": "Pontrieux, France",
       "popupContent": "Pontrieux, France",
       "affiliatedPeople": [
-        "Yvonne Cloetta"
+        {
+          "name": "Yvonne Cloetta",
+          "viaf": "20759097"
+        }
       ]
     }
   },
@@ -15940,7 +22676,10 @@ var points = [
       "name": "Porbandar, India",
       "popupContent": "Porbandar, India",
       "affiliatedPeople": [
-        "Mahatma Gandhi"
+        {
+          "name": "Mahatma Gandhi",
+          "viaf": "71391324"
+        }
       ]
     }
   },
@@ -15957,7 +22696,10 @@ var points = [
       "name": "Portbou, Spain",
       "popupContent": "Portbou, Spain",
       "affiliatedPeople": [
-        "Walter Benjamin"
+        {
+          "name": "Walter Benjamin",
+          "viaf": "46757196"
+        }
       ]
     }
   },
@@ -15974,7 +22716,10 @@ var points = [
       "name": "Portici, Italy",
       "popupContent": "Portici, Italy",
       "affiliatedPeople": [
-        "Guglielmo Ferrero"
+        {
+          "name": "Guglielmo Ferrero",
+          "viaf": "79042660"
+        }
       ]
     }
   },
@@ -15991,7 +22736,10 @@ var points = [
       "name": "Porto, Portugal",
       "popupContent": "Porto, Portugal",
       "affiliatedPeople": [
-        "Fernando Guimarães"
+        {
+          "name": "Fernando Guimarães",
+          "viaf": "59096731"
+        }
       ]
     }
   },
@@ -16008,7 +22756,10 @@ var points = [
       "name": "Portsmouth, United Kingdom",
       "popupContent": "Portsmouth, United Kingdom",
       "affiliatedPeople": [
-        "Richard Aldington"
+        {
+          "name": "Richard Aldington",
+          "viaf": "7402360"
+        }
       ]
     }
   },
@@ -16025,8 +22776,14 @@ var points = [
       "name": "Posadas, Argentina",
       "popupContent": "Posadas, Argentina",
       "affiliatedPeople": [
-        "Alfredo J. Weiss",
-        "Leopoldo Hurtado"
+        {
+          "name": "Alfredo J. Weiss",
+          "viaf": "38342344"
+        },
+        {
+          "name": "Leopoldo Hurtado",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -16043,7 +22800,10 @@ var points = [
       "name": "Potomac, Maryland",
       "popupContent": "Potomac, Maryland",
       "affiliatedPeople": [
-        "Majid Khadduri"
+        {
+          "name": "Majid Khadduri",
+          "viaf": "73862922"
+        }
       ]
     }
   },
@@ -16060,7 +22820,10 @@ var points = [
       "name": "Potsdam, Germany",
       "popupContent": "Potsdam, Germany",
       "affiliatedPeople": [
-        "Herman Kasack"
+        {
+          "name": "Herman Kasack",
+          "viaf": "59112868"
+        }
       ]
     }
   },
@@ -16077,7 +22840,10 @@ var points = [
       "name": "Potterne, United Kingdom",
       "popupContent": "Potterne, United Kingdom",
       "affiliatedPeople": [
-        "Nigel Balchin"
+        {
+          "name": "Nigel Balchin",
+          "viaf": "37113465"
+        }
       ]
     }
   },
@@ -16094,9 +22860,18 @@ var points = [
       "name": "Prague, Czech Republic",
       "popupContent": "Prague, Czech Republic",
       "affiliatedPeople": [
-        "Franz Kafka",
-        "Franz Werfel",
-        "Max Brod"
+        {
+          "name": "Franz Kafka",
+          "viaf": "56611857"
+        },
+        {
+          "name": "Franz Werfel",
+          "viaf": "34464361"
+        },
+        {
+          "name": "Max Brod",
+          "viaf": "56606649"
+        }
       ]
     }
   },
@@ -16113,10 +22888,22 @@ var points = [
       "name": "Princeton, New Jersey",
       "popupContent": "Princeton, New Jersey",
       "affiliatedPeople": [
-        "Albert Einstein",
-        "Arthur-Vincent Lourié",
-        "Carlos Baker",
-        "George Frost Kennan"
+        {
+          "name": "Albert Einstein",
+          "viaf": "75121530"
+        },
+        {
+          "name": "Arthur-Vincent Lourié",
+          "viaf": "47025937"
+        },
+        {
+          "name": "Carlos Baker",
+          "viaf": "107027003"
+        },
+        {
+          "name": "George Frost Kennan",
+          "viaf": "66477608"
+        }
       ]
     }
   },
@@ -16133,7 +22920,10 @@ var points = [
       "name": "Provence, France",
       "popupContent": "Provence, France",
       "affiliatedPeople": [
-        "Emile Gouirán"
+        {
+          "name": "Emile Gouirán",
+          "viaf": "162567261"
+        }
       ]
     }
   },
@@ -16150,7 +22940,10 @@ var points = [
       "name": "Puebla, Mexico",
       "popupContent": "Puebla, Mexico",
       "affiliatedPeople": [
-        "Elena Garro (Paz)"
+        {
+          "name": "Elena Garro (Paz)",
+          "viaf": "22171519"
+        }
       ]
     }
   },
@@ -16167,7 +22960,10 @@ var points = [
       "name": "Puerto Cabello, Venezuela",
       "popupContent": "Puerto Cabello, Venezuela",
       "affiliatedPeople": [
-        "Ramón Díaz Sánchez"
+        {
+          "name": "Ramón Díaz Sánchez",
+          "viaf": "27883260"
+        }
       ]
     }
   },
@@ -16184,7 +22980,10 @@ var points = [
       "name": "Puerto Maldonado, Peru",
       "popupContent": "Puerto Maldonado, Peru",
       "affiliatedPeople": [
-        "Javier Heraud"
+        {
+          "name": "Javier Heraud",
+          "viaf": "37080563"
+        }
       ]
     }
   },
@@ -16216,7 +23015,10 @@ var points = [
       "name": "Putlitz, Germany",
       "popupContent": "Putlitz, Germany",
       "affiliatedPeople": [
-        "Gottfried Benn"
+        {
+          "name": "Gottfried Benn",
+          "viaf": "49221461"
+        }
       ]
     }
   },
@@ -16233,7 +23035,10 @@ var points = [
       "name": "Quebec City, Canada",
       "popupContent": "Quebec City, Canada",
       "affiliatedPeople": [
-        "Alain Grandbois"
+        {
+          "name": "Alain Grandbois",
+          "viaf": "39402318"
+        }
       ]
     }
   },
@@ -16250,7 +23055,10 @@ var points = [
       "name": "Queens, New York City, New York",
       "popupContent": "Queens, New York City, New York",
       "affiliatedPeople": [
-        "Lionel Trilling"
+        {
+          "name": "Lionel Trilling",
+          "viaf": "7458867"
+        }
       ]
     }
   },
@@ -16267,7 +23075,10 @@ var points = [
       "name": "Quesnoy-sur-Deûle, France",
       "popupContent": "Quesnoy-sur-Deûle, France",
       "affiliatedPeople": [
-        "Victor Charles Louis Brochard"
+        {
+          "name": "Victor Charles Louis Brochard",
+          "viaf": "19766544"
+        }
       ]
     }
   },
@@ -16284,7 +23095,10 @@ var points = [
       "name": "Quillota, Chile",
       "popupContent": "Quillota, Chile",
       "affiliatedPeople": [
-        "Iverna Codina"
+        {
+          "name": "Iverna Codina",
+          "viaf": "36496896"
+        }
       ]
     }
   },
@@ -16301,7 +23115,10 @@ var points = [
       "name": "Quilmes, Buenos Aires, Argentina",
       "popupContent": "Quilmes, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Miguel Eduardo Dolan"
+        {
+          "name": "Miguel Eduardo Dolan",
+          "viaf": "9436108"
+        }
       ]
     }
   },
@@ -16318,12 +23135,30 @@ var points = [
       "name": "Quito, Ecuador",
       "popupContent": "Quito, Ecuador",
       "affiliatedPeople": [
-        "Alejandro Carrión",
-        "Alfredo Pareja Díez-Canseco",
-        "Benjamín Carrión",
-        "Jorge Carrera Andrade",
-        "Jorge Icaza",
-        "Juan David García Bacca"
+        {
+          "name": "Alejandro Carrión",
+          "viaf": "54174974"
+        },
+        {
+          "name": "Alfredo Pareja Díez-Canseco",
+          "viaf": "79061805"
+        },
+        {
+          "name": "Benjamín Carrión",
+          "viaf": "36950688"
+        },
+        {
+          "name": "Jorge Carrera Andrade",
+          "viaf": "44870683"
+        },
+        {
+          "name": "Jorge Icaza",
+          "viaf": "39417291"
+        },
+        {
+          "name": "Juan David García Bacca",
+          "viaf": "112824971"
+        }
       ]
     }
   },
@@ -16340,7 +23175,10 @@ var points = [
       "name": "Quogue, New York",
       "popupContent": "Quogue, New York",
       "affiliatedPeople": [
-        "Budd Schulberg"
+        {
+          "name": "Budd Schulberg",
+          "viaf": "2481031"
+        }
       ]
     }
   },
@@ -16357,7 +23195,10 @@ var points = [
       "name": "Radomno, Poland",
       "popupContent": "Radomno, Poland",
       "affiliatedPeople": [
-        "Frederick Philip Grove"
+        {
+          "name": "Frederick Philip Grove",
+          "viaf": "56628484"
+        }
       ]
     }
   },
@@ -16374,7 +23215,10 @@ var points = [
       "name": "Ramales de la Victoria, Spain",
       "popupContent": "Ramales de la Victoria, Spain",
       "affiliatedPeople": [
-        "Cecilio Benítez de Castro"
+        {
+          "name": "Cecilio Benítez de Castro",
+          "viaf": "19302953"
+        }
       ]
     }
   },
@@ -16391,7 +23235,10 @@ var points = [
       "name": "Ramos Mejía, Argentina",
       "popupContent": "Ramos Mejía, Argentina",
       "affiliatedPeople": [
-        "María Elena Walsh"
+        {
+          "name": "María Elena Walsh",
+          "viaf": "79093736"
+        }
       ]
     }
   },
@@ -16408,7 +23255,10 @@ var points = [
       "name": "Ranchuelo, Cuba",
       "popupContent": "Ranchuelo, Cuba",
       "affiliatedPeople": [
-        "Juan Marinello Vidaurreta"
+        {
+          "name": "Juan Marinello Vidaurreta",
+          "viaf": "32020236"
+        }
       ]
     }
   },
@@ -16425,7 +23275,10 @@ var points = [
       "name": "Rantoul, Illinois",
       "popupContent": "Rantoul, Illinois",
       "affiliatedPeople": [
-        "Ralph L. Rusk"
+        {
+          "name": "Ralph L. Rusk",
+          "viaf": "110836743"
+        }
       ]
     }
   },
@@ -16442,7 +23295,10 @@ var points = [
       "name": "Rășinari, Romania",
       "popupContent": "Rășinari, Romania",
       "affiliatedPeople": [
-        "Emil M. Cioran"
+        {
+          "name": "Emil M. Cioran",
+          "viaf": "56607493"
+        }
       ]
     }
   },
@@ -16459,7 +23315,10 @@ var points = [
       "name": "Rathgar, Republic of Ireland",
       "popupContent": "Rathgar, Republic of Ireland",
       "affiliatedPeople": [
-        "James Joyce"
+        {
+          "name": "James Joyce",
+          "viaf": "44300643"
+        }
       ]
     }
   },
@@ -16476,7 +23335,10 @@ var points = [
       "name": "Ravenna, Italy",
       "popupContent": "Ravenna, Italy",
       "affiliatedPeople": [
-        "Dante Alighieri"
+        {
+          "name": "Dante Alighieri",
+          "viaf": "97105654"
+        }
       ]
     }
   },
@@ -16493,7 +23355,10 @@ var points = [
       "name": "Războieni, Neamț",
       "popupContent": "Războieni, Neamț",
       "affiliatedPeople": [
-        "Costantín Virgil Gheorghiu"
+        {
+          "name": "Costantín Virgil Gheorghiu",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -16510,8 +23375,14 @@ var points = [
       "name": "Reading, Pennsylvania",
       "popupContent": "Reading, Pennsylvania",
       "affiliatedPeople": [
-        "Matthew Huxley",
-        "Wallace Stevens"
+        {
+          "name": "Matthew Huxley",
+          "viaf": "33644601"
+        },
+        {
+          "name": "Wallace Stevens",
+          "viaf": "61562486"
+        }
       ]
     }
   },
@@ -16528,8 +23399,14 @@ var points = [
       "name": "Recife, Pernambuco, Brazil",
       "popupContent": "Recife, Pernambuco, Brazil",
       "affiliatedPeople": [
-        "Gilberto Freyre",
-        "Manuel Bandeira"
+        {
+          "name": "Gilberto Freyre",
+          "viaf": "97825667"
+        },
+        {
+          "name": "Manuel Bandeira",
+          "viaf": "14765752"
+        }
       ]
     }
   },
@@ -16546,7 +23423,10 @@ var points = [
       "name": "Reconquista, Argentina",
       "popupContent": "Reconquista, Argentina",
       "affiliatedPeople": [
-        "Leonardo Castellani"
+        {
+          "name": "Leonardo Castellani",
+          "viaf": "25850489"
+        }
       ]
     }
   },
@@ -16563,7 +23443,10 @@ var points = [
       "name": "Recreo, Argentina",
       "popupContent": "Recreo, Argentina",
       "affiliatedPeople": [
-        "Alba Omil"
+        {
+          "name": "Alba Omil",
+          "viaf": "32029665"
+        }
       ]
     }
   },
@@ -16580,7 +23463,10 @@ var points = [
       "name": "Red Bank, New Jersey",
       "popupContent": "Red Bank, New Jersey",
       "affiliatedPeople": [
-        "Edmund Wilson"
+        {
+          "name": "Edmund Wilson",
+          "viaf": "61553881"
+        }
       ]
     }
   },
@@ -16597,7 +23483,10 @@ var points = [
       "name": "Regent's Park, London, United Kingdom",
       "popupContent": "Regent's Park, London, United Kingdom",
       "affiliatedPeople": [
-        "Herbert George Wells"
+        {
+          "name": "Herbert George Wells",
+          "viaf": "97006424"
+        }
       ]
     }
   },
@@ -16614,7 +23503,10 @@ var points = [
       "name": "Rehovot, Israel",
       "popupContent": "Rehovot, Israel",
       "affiliatedPeople": [
-        "S. Yizhar"
+        {
+          "name": "S. Yizhar",
+          "viaf": "51736133"
+        }
       ]
     }
   },
@@ -16631,7 +23523,10 @@ var points = [
       "name": "Reims, France",
       "popupContent": "Reims, France",
       "affiliatedPeople": [
-        "Roger Caillois"
+        {
+          "name": "Roger Caillois",
+          "viaf": "92201126"
+        }
       ]
     }
   },
@@ -16648,7 +23543,10 @@ var points = [
       "name": "Rennes, France",
       "popupContent": "Rennes, France",
       "affiliatedPeople": [
-        "Paul Féval"
+        {
+          "name": "Paul Féval",
+          "viaf": "17222447"
+        }
       ]
     }
   },
@@ -16665,7 +23563,10 @@ var points = [
       "name": "Reykjavik, Iceland",
       "popupContent": "Reykjavik, Iceland",
       "affiliatedPeople": [
-        "Halldór Kilian Laxness"
+        {
+          "name": "Halldór Kilian Laxness",
+          "viaf": "17225412"
+        }
       ]
     }
   },
@@ -16682,7 +23583,10 @@ var points = [
       "name": "Rhode Island",
       "popupContent": "Rhode Island",
       "affiliatedPeople": [
-        "Félix Lizaso"
+        {
+          "name": "Félix Lizaso",
+          "viaf": "1589960"
+        }
       ]
     }
   },
@@ -16699,7 +23603,10 @@ var points = [
       "name": "Rianxo, Spain",
       "popupContent": "Rianxo, Spain",
       "affiliatedPeople": [
-        "Rafael Dieste"
+        {
+          "name": "Rafael Dieste",
+          "viaf": "94753204"
+        }
       ]
     }
   },
@@ -16716,7 +23623,10 @@ var points = [
       "name": "Ribadeo, Spain",
       "popupContent": "Ribadeo, Spain",
       "affiliatedPeople": [
-        "Álvaro Fernández Suárez"
+        {
+          "name": "Álvaro Fernández Suárez",
+          "viaf": "107021087"
+        }
       ]
     }
   },
@@ -16733,7 +23643,10 @@ var points = [
       "name": "Riedlingen, Germany",
       "popupContent": "Riedlingen, Germany",
       "affiliatedPeople": [
-        "Ernst Jünger"
+        {
+          "name": "Ernst Jünger",
+          "viaf": "12310323"
+        }
       ]
     }
   },
@@ -16750,8 +23663,14 @@ var points = [
       "name": "Riga, Governorate of Livonia, Russian Empire",
       "popupContent": "Riga, Governorate of Livonia, Russian Empire",
       "affiliatedPeople": [
-        "Isaiah Berlin",
-        "Sergei Eisenstein"
+        {
+          "name": "Isaiah Berlin",
+          "viaf": "27076924"
+        },
+        {
+          "name": "Sergei Eisenstein",
+          "viaf": "56609269"
+        }
       ]
     }
   },
@@ -16768,8 +23687,14 @@ var points = [
       "name": "Río Cuarto, Córdoba, Argentina",
       "popupContent": "Río Cuarto, Córdoba, Argentina",
       "affiliatedPeople": [
-        "Alfredo Terzaga",
-        "Horacio Cabral Magnasco"
+        {
+          "name": "Alfredo Terzaga",
+          "viaf": "93181268"
+        },
+        {
+          "name": "Horacio Cabral Magnasco",
+          "viaf": "92070994"
+        }
       ]
     }
   },
@@ -16786,19 +23711,58 @@ var points = [
       "name": "Rio de Janeiro, Brazil",
       "popupContent": "Rio de Janeiro, Brazil",
       "affiliatedPeople": [
-        "Afranio Peixoto",
-        "Augusto Frederico Schmidt",
-        "Carlos Drummond de Andrade",
-        "Cecilia Meireles",
-        "Claudio de Souza",
-        "Jorge de Lima",
-        "Manuel Bandeira",
-        "Mario Pedrosa",
-        "Otto Maria Carpeaux",
-        "Rebêlo Marques (Eddy Dias da Cruz)",
-        "Rubem Braga",
-        "Susana Soca",
-        "Vinicius de Moraes"
+        {
+          "name": "Afranio Peixoto",
+          "viaf": "51728163"
+        },
+        {
+          "name": "Augusto Frederico Schmidt",
+          "viaf": "52933179"
+        },
+        {
+          "name": "Carlos Drummond de Andrade",
+          "viaf": "111376689"
+        },
+        {
+          "name": "Cecilia Meireles",
+          "viaf": "7405447"
+        },
+        {
+          "name": "Claudio de Souza",
+          "viaf": "70039875"
+        },
+        {
+          "name": "Jorge de Lima",
+          "viaf": "99412444"
+        },
+        {
+          "name": "Manuel Bandeira",
+          "viaf": "14765752"
+        },
+        {
+          "name": "Mario Pedrosa",
+          "viaf": "40434793"
+        },
+        {
+          "name": "Otto Maria Carpeaux",
+          "viaf": "111457775"
+        },
+        {
+          "name": "Rebêlo Marques (Eddy Dias da Cruz)",
+          "viaf": "12408983"
+        },
+        {
+          "name": "Rubem Braga",
+          "viaf": "54162569"
+        },
+        {
+          "name": "Susana Soca",
+          "viaf": "29764104"
+        },
+        {
+          "name": "Vinicius de Moraes",
+          "viaf": "7574761"
+        }
       ]
     }
   },
@@ -16815,7 +23779,10 @@ var points = [
       "name": "Riobamba, Ecuador",
       "popupContent": "Riobamba, Ecuador",
       "affiliatedPeople": [
-        "Gerardo Gallegos"
+        {
+          "name": "Gerardo Gallegos",
+          "viaf": "66348290"
+        }
       ]
     }
   },
@@ -16832,7 +23799,10 @@ var points = [
       "name": "Riom, France",
       "popupContent": "Riom, France",
       "affiliatedPeople": [
-        "Adam Charles Ernest"
+        {
+          "name": "Adam Charles Ernest",
+          "viaf": "108271755"
+        }
       ]
     }
   },
@@ -16849,7 +23819,10 @@ var points = [
       "name": "Rionegro, Colombia",
       "popupContent": "Rionegro, Colombia",
       "affiliatedPeople": [
-        "Baldomero Sanín Cano"
+        {
+          "name": "Baldomero Sanín Cano",
+          "viaf": "44331409"
+        }
       ]
     }
   },
@@ -16866,7 +23839,10 @@ var points = [
       "name": "Roanne, France",
       "popupContent": "Roanne, France",
       "affiliatedPeople": [
-        "David Rousset"
+        {
+          "name": "David Rousset",
+          "viaf": "22148210"
+        }
       ]
     }
   },
@@ -16883,7 +23859,10 @@ var points = [
       "name": "Robbinsdale, Minnesota",
       "popupContent": "Robbinsdale, Minnesota",
       "affiliatedPeople": [
-        "Gregory Corso"
+        {
+          "name": "Gregory Corso",
+          "viaf": "19676049"
+        }
       ]
     }
   },
@@ -16900,7 +23879,10 @@ var points = [
       "name": "Roccabianca, Italy",
       "popupContent": "Roccabianca, Italy",
       "affiliatedPeople": [
-        "Giovanni Guareschi"
+        {
+          "name": "Giovanni Guareschi",
+          "viaf": "9847198"
+        }
       ]
     }
   },
@@ -16917,8 +23899,14 @@ var points = [
       "name": "Rochefort, France",
       "popupContent": "Rochefort, France",
       "affiliatedPeople": [
-        "Maurice Merleau-Ponty",
-        "Thomas Narcejac (Pierre Ayraud)"
+        {
+          "name": "Maurice Merleau-Ponty",
+          "viaf": "31991436"
+        },
+        {
+          "name": "Thomas Narcejac (Pierre Ayraud)",
+          "viaf": "95203021"
+        }
       ]
     }
   },
@@ -16935,7 +23923,10 @@ var points = [
       "name": "Rockport, Massachusetts",
       "popupContent": "Rockport, Massachusetts",
       "affiliatedPeople": [
-        "Edith F. Helman"
+        {
+          "name": "Edith F. Helman",
+          "viaf": "591764"
+        }
       ]
     }
   },
@@ -16967,37 +23958,130 @@ var points = [
       "name": "Rome, Italy",
       "popupContent": "Rome, Italy",
       "affiliatedPeople": [
-        "Alberto Moravia",
-        "Antonio Gramsci",
-        "Benedetta Marinetti (née Cappa)",
-        "Carlo Belli",
-        "Carlo Emilio Gadda",
-        "Carlo Levi",
-        "Corrado Alvaro",
-        "Cristina Campo",
-        "Emilio Cecchi",
-        "Ennio Flaiano",
-        "Ernst Robert Curtius",
-        "Ezio D'Errico",
-        "Gian Gaspare Napolitano",
-        "Giorgio Bassani",
-        "Giorgio de Chirico",
-        "Giulio Carlo Argan",
-        "Giuseppe Tomasi de Lampedusa",
-        "Guillaume Apollinaire",
-        "Gustav A. Wetter",
-        "Ingeborg Bachmann",
-        "John Keats",
-        "Jorge Santayana",
-        "Libero Bigiaretti",
-        "Luigi Pirandello",
-        "Mario Puccini",
-        "Massimo Bontempelli",
-        "Próspero Lambertini (Pope Benedict XIV)",
-        "Roy Bartholomew",
-        "Umberto Cianciolo",
-        "Viacheslav Ivanovich Ivánov",
-        "Vicenzo Cardarelli"
+        {
+          "name": "Alberto Moravia",
+          "viaf": "7394594"
+        },
+        {
+          "name": "Antonio Gramsci",
+          "viaf": "44299576"
+        },
+        {
+          "name": "Benedetta Marinetti (née Cappa)",
+          "viaf": "232907944"
+        },
+        {
+          "name": "Carlo Belli",
+          "viaf": "93643108"
+        },
+        {
+          "name": "Carlo Emilio Gadda",
+          "viaf": "56610080"
+        },
+        {
+          "name": "Carlo Levi",
+          "viaf": "76318991"
+        },
+        {
+          "name": "Corrado Alvaro",
+          "viaf": "29573259"
+        },
+        {
+          "name": "Cristina Campo",
+          "viaf": "22197621"
+        },
+        {
+          "name": "Emilio Cecchi",
+          "viaf": "17242426"
+        },
+        {
+          "name": "Ennio Flaiano",
+          "viaf": "99835198"
+        },
+        {
+          "name": "Ernst Robert Curtius",
+          "viaf": "49241741"
+        },
+        {
+          "name": "Ezio D'Errico",
+          "viaf": "25411547"
+        },
+        {
+          "name": "Gian Gaspare Napolitano",
+          "viaf": "64135710"
+        },
+        {
+          "name": "Giorgio Bassani",
+          "viaf": "108729325"
+        },
+        {
+          "name": "Giorgio de Chirico",
+          "viaf": "104172730"
+        },
+        {
+          "name": "Giulio Carlo Argan",
+          "viaf": "56605075"
+        },
+        {
+          "name": "Giuseppe Tomasi de Lampedusa",
+          "viaf": "88710059"
+        },
+        {
+          "name": "Guillaume Apollinaire",
+          "viaf": "66462795"
+        },
+        {
+          "name": "Gustav A. Wetter",
+          "viaf": "25550507"
+        },
+        {
+          "name": "Ingeborg Bachmann",
+          "viaf": "6839"
+        },
+        {
+          "name": "John Keats",
+          "viaf": "66508882"
+        },
+        {
+          "name": "Jorge Santayana",
+          "viaf": "59098309"
+        },
+        {
+          "name": "Libero Bigiaretti",
+          "viaf": "84966724"
+        },
+        {
+          "name": "Luigi Pirandello",
+          "viaf": "64010465"
+        },
+        {
+          "name": "Mario Puccini",
+          "viaf": "59215391"
+        },
+        {
+          "name": "Massimo Bontempelli",
+          "viaf": "59113424"
+        },
+        {
+          "name": "Próspero Lambertini (Pope Benedict XIV)",
+          "viaf": "76327169"
+        },
+        {
+          "name": "Roy Bartholomew",
+          "viaf": "51842041"
+        },
+        {
+          "name": "Umberto Cianciolo",
+          "viaf": "88910410"
+        },
+        {
+          "name": "Viacheslav Ivanovich Ivánov",
+          "viaf": "68930563"
+        },
+        {
+          "name": "Vicenzo Cardarelli",
+          "viaf": "46755526"
+        }
       ]
     }
   },
@@ -17014,7 +24098,10 @@ var points = [
       "name": "Ronciglione, Italy",
       "popupContent": "Ronciglione, Italy",
       "affiliatedPeople": [
-        "Tommaso Landolfi"
+        {
+          "name": "Tommaso Landolfi",
+          "viaf": "61548079"
+        }
       ]
     }
   },
@@ -17031,7 +24118,10 @@ var points = [
       "name": "Roquebrune-Cap-Martin, France",
       "popupContent": "Roquebrune-Cap-Martin, France",
       "affiliatedPeople": [
-        "Charles-Édouard Jeanneret (Le Corbusier)"
+        {
+          "name": "Charles-Édouard Jeanneret (Le Corbusier)",
+          "viaf": "56612471"
+        }
       ]
     }
   },
@@ -17048,16 +24138,46 @@ var points = [
       "name": "Rosario, Argentina",
       "popupContent": "Rosario, Argentina",
       "affiliatedPeople": [
-        "Ángel Guido",
-        "Beatriz Guido",
-        "Beppo Levi",
-        "José Juan Bruera",
-        "Juan Lazarte",
-        "Luis Saslavsky",
-        "Marcos Fingerit",
-        "Mario Albano",
-        "Martín Aldao",
-        "Roger Pla"
+        {
+          "name": "Ángel Guido",
+          "viaf": "96097463"
+        },
+        {
+          "name": "Beatriz Guido",
+          "viaf": "96097463"
+        },
+        {
+          "name": "Beppo Levi",
+          "viaf": "27301162"
+        },
+        {
+          "name": "José Juan Bruera",
+          "viaf": "285869878"
+        },
+        {
+          "name": "Juan Lazarte",
+          "viaf": "14482230"
+        },
+        {
+          "name": "Luis Saslavsky",
+          "viaf": "160851139"
+        },
+        {
+          "name": "Marcos Fingerit",
+          "viaf": ""
+        },
+        {
+          "name": "Mario Albano",
+          "viaf": "243991716"
+        },
+        {
+          "name": "Martín Aldao",
+          "viaf": "44207537"
+        },
+        {
+          "name": "Roger Pla",
+          "viaf": "21192731"
+        }
       ]
     }
   },
@@ -17074,7 +24194,10 @@ var points = [
       "name": "Rosario-Santa Fe, Argentina",
       "popupContent": "Rosario-Santa Fe, Argentina",
       "affiliatedPeople": [
-        "Lisardo Zía"
+        {
+          "name": "Lisardo Zía",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -17091,7 +24214,10 @@ var points = [
       "name": "Rostov-on-Don, Russia",
       "popupContent": "Rostov-on-Don, Russia",
       "affiliatedPeople": [
-        "Mme. Raissa Maritain"
+        {
+          "name": "Mme. Raissa Maritain",
+          "viaf": "39380883"
+        }
       ]
     }
   },
@@ -17108,9 +24234,18 @@ var points = [
       "name": "Rotterdam, Netherlands",
       "popupContent": "Rotterdam, Netherlands",
       "affiliatedPeople": [
-        "Gustav Hillard",
-        "N. A. Donkersloot (Anthonie Donker)",
-        "Piet Bakker"
+        {
+          "name": "Gustav Hillard",
+          "viaf": "238691993"
+        },
+        {
+          "name": "N. A. Donkersloot (Anthonie Donker)",
+          "viaf": "36025931"
+        },
+        {
+          "name": "Piet Bakker",
+          "viaf": "215885948"
+        }
       ]
     }
   },
@@ -17127,7 +24262,10 @@ var points = [
       "name": "Rovereto, Italy",
       "popupContent": "Rovereto, Italy",
       "affiliatedPeople": [
-        "Carlo Belli"
+        {
+          "name": "Carlo Belli",
+          "viaf": "93643108"
+        }
       ]
     }
   },
@@ -17144,7 +24282,10 @@ var points = [
       "name": "Roxbury, Connecticut",
       "popupContent": "Roxbury, Connecticut",
       "affiliatedPeople": [
-        "Manfred Bennington Lee"
+        {
+          "name": "Manfred Bennington Lee",
+          "viaf": "101145067241066631196"
+        }
       ]
     }
   },
@@ -17161,8 +24302,14 @@ var points = [
       "name": "Royal Tunbridge Wells, United Kingdom",
       "popupContent": "Royal Tunbridge Wells, United Kingdom",
       "affiliatedPeople": [
-        "Benjamin Ifor Evans",
-        "Lady Ottoline Morrell"
+        {
+          "name": "Benjamin Ifor Evans",
+          "viaf": "87683269"
+        },
+        {
+          "name": "Lady Ottoline Morrell",
+          "viaf": "61644557"
+        }
       ]
     }
   },
@@ -17179,7 +24326,10 @@ var points = [
       "name": "Rueil-Malmaison, France",
       "popupContent": "Rueil-Malmaison, France",
       "affiliatedPeople": [
-        "Marcel Jouhandeau"
+        {
+          "name": "Marcel Jouhandeau",
+          "viaf": "34458491"
+        }
       ]
     }
   },
@@ -17196,7 +24346,10 @@ var points = [
       "name": "Rupt-sur-Moselle, France",
       "popupContent": "Rupt-sur-Moselle, France",
       "affiliatedPeople": [
-        "Jean Desbordes"
+        {
+          "name": "Jean Desbordes",
+          "viaf": "24643915"
+        }
       ]
     }
   },
@@ -17213,7 +24366,10 @@ var points = [
       "name": "Rushden, United Kingdom",
       "popupContent": "Rushden, United Kingdom",
       "affiliatedPeople": [
-        "Herbert Ernest Bates"
+        {
+          "name": "Herbert Ernest Bates",
+          "viaf": "32045124"
+        }
       ]
     }
   },
@@ -17230,7 +24386,10 @@ var points = [
       "name": "Russel County, Kentucky",
       "popupContent": "Russel County, Kentucky",
       "affiliatedPeople": [
-        "Luther Lee Bernard"
+        {
+          "name": "Luther Lee Bernard",
+          "viaf": "49295398"
+        }
       ]
     }
   },
@@ -17247,10 +24406,22 @@ var points = [
       "name": "Russia",
       "popupContent": "Russia",
       "affiliatedPeople": [
-        "Janis Karklins",
-        "Sergio Grigórieff",
-        "Vera de Bosset Stravinsky",
-        "Vera Makarow"
+        {
+          "name": "Janis Karklins",
+          "viaf": "50033063"
+        },
+        {
+          "name": "Sergio Grigórieff",
+          "viaf": "2589970"
+        },
+        {
+          "name": "Vera de Bosset Stravinsky",
+          "viaf": "94863068"
+        },
+        {
+          "name": "Vera Makarow",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -17267,7 +24438,10 @@ var points = [
       "name": "Rutherford, New Jersey",
       "popupContent": "Rutherford, New Jersey",
       "affiliatedPeople": [
-        "John Marin"
+        {
+          "name": "John Marin",
+          "viaf": "74649315"
+        }
       ]
     }
   },
@@ -17284,7 +24458,10 @@ var points = [
       "name": "Rye, New York",
       "popupContent": "Rye, New York",
       "affiliatedPeople": [
-        "Elizabeth Janeway"
+        {
+          "name": "Elizabeth Janeway",
+          "viaf": "30005917"
+        }
       ]
     }
   },
@@ -17301,7 +24478,10 @@ var points = [
       "name": "Sachsenhausen Concentration Camp, Germany",
       "popupContent": "Sachsenhausen Concentration Camp, Germany",
       "affiliatedPeople": [
-        "Paul Ludwig Landsberg"
+        {
+          "name": "Paul Ludwig Landsberg",
+          "viaf": "7709588"
+        }
       ]
     }
   },
@@ -17318,7 +24498,10 @@ var points = [
       "name": "Sacramento, California",
       "popupContent": "Sacramento, California",
       "affiliatedPeople": [
-        "Germaine Sanderson"
+        {
+          "name": "Germaine Sanderson",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -17335,7 +24518,10 @@ var points = [
       "name": "Sáenz Peña, Buenos Aires, Argentina",
       "popupContent": "Sáenz Peña, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Marco Denevi"
+        {
+          "name": "Marco Denevi",
+          "viaf": "110832410"
+        }
       ]
     }
   },
@@ -17352,7 +24538,10 @@ var points = [
       "name": "Safed, Israel",
       "popupContent": "Safed, Israel",
       "affiliatedPeople": [
-        "Yehoshua Bar-Yosef"
+        {
+          "name": "Yehoshua Bar-Yosef",
+          "viaf": "107042765"
+        }
       ]
     }
   },
@@ -17369,12 +24558,30 @@ var points = [
       "name": "Saint Petersburg, Russia",
       "popupContent": "Saint Petersburg, Russia",
       "affiliatedPeople": [
-        "Arthur-Vincent Lourié",
-        "George Balanchine",
-        "Irina Aleksander",
-        "Vladimir Nabokov",
-        "Wladimir d'Ormesson",
-        "Wladimir Weidlé"
+        {
+          "name": "Arthur-Vincent Lourié",
+          "viaf": "47025937"
+        },
+        {
+          "name": "George Balanchine",
+          "viaf": ""
+        },
+        {
+          "name": "Irina Aleksander",
+          "viaf": "88540269"
+        },
+        {
+          "name": "Vladimir Nabokov",
+          "viaf": "27069388"
+        },
+        {
+          "name": "Wladimir d'Ormesson",
+          "viaf": "22277844"
+        },
+        {
+          "name": "Wladimir Weidlé",
+          "viaf": "61553442"
+        }
       ]
     }
   },
@@ -17391,7 +24598,10 @@ var points = [
       "name": "Saint-Affrique, France",
       "popupContent": "Saint-Affrique, France",
       "affiliatedPeople": [
-        "Émile Borel"
+        {
+          "name": "Émile Borel",
+          "viaf": "19704425"
+        }
       ]
     }
   },
@@ -17408,7 +24618,10 @@ var points = [
       "name": "Saint-Casimir, Quebec, Canada",
       "popupContent": "Saint-Casimir, Quebec, Canada",
       "affiliatedPeople": [
-        "Alain Grandbois"
+        {
+          "name": "Alain Grandbois",
+          "viaf": "39402318"
+        }
       ]
     }
   },
@@ -17425,7 +24638,10 @@ var points = [
       "name": "Saint-Clémentin, France",
       "popupContent": "Saint-Clémentin, France",
       "affiliatedPeople": [
-        "Marie-Madeleine Davy"
+        {
+          "name": "Marie-Madeleine Davy",
+          "viaf": "34455214"
+        }
       ]
     }
   },
@@ -17442,7 +24658,10 @@ var points = [
       "name": "Saint-Étienne, France",
       "popupContent": "Saint-Étienne, France",
       "affiliatedPeople": [
-        "Jean Guitton"
+        {
+          "name": "Jean Guitton",
+          "viaf": "54148637"
+        }
       ]
     }
   },
@@ -17459,7 +24678,10 @@ var points = [
       "name": "Saint-Florent-le-Vieil, France",
       "popupContent": "Saint-Florent-le-Vieil, France",
       "affiliatedPeople": [
-        "Julien Gracq"
+        {
+          "name": "Julien Gracq",
+          "viaf": "91584356"
+        }
       ]
     }
   },
@@ -17476,7 +24698,10 @@ var points = [
       "name": "Saint-Fort-sur-Gironde, France",
       "popupContent": "Saint-Fort-sur-Gironde, France",
       "affiliatedPeople": [
-        "Pierre-Henri Simon"
+        {
+          "name": "Pierre-Henri Simon",
+          "viaf": "29540777"
+        }
       ]
     }
   },
@@ -17493,7 +24718,10 @@ var points = [
       "name": "Saint-Gaudens, Haute-Garonne, France",
       "popupContent": "Saint-Gaudens, Haute-Garonne, France",
       "affiliatedPeople": [
-        "René Maheu"
+        {
+          "name": "René Maheu",
+          "viaf": "202339013"
+        }
       ]
     }
   },
@@ -17525,7 +24753,10 @@ var points = [
       "name": "Saint-Hilaire, France",
       "popupContent": "Saint-Hilaire, France",
       "affiliatedPeople": [
-        "Michel Leiris"
+        {
+          "name": "Michel Leiris",
+          "viaf": "219192187"
+        }
       ]
     }
   },
@@ -17542,7 +24773,10 @@ var points = [
       "name": "Saint-Hippolyte-du-Fort, France",
       "popupContent": "Saint-Hippolyte-du-Fort, France",
       "affiliatedPeople": [
-        "Armand Petitjean"
+        {
+          "name": "Armand Petitjean",
+          "viaf": "90714553"
+        }
       ]
     }
   },
@@ -17559,7 +24793,10 @@ var points = [
       "name": "Saint-Julien-Chapteuil",
       "popupContent": "Saint-Julien-Chapteuil",
       "affiliatedPeople": [
-        "Jules Romains (Louis Farigoule)"
+        {
+          "name": "Jules Romains (Louis Farigoule)",
+          "viaf": "37053052"
+        }
       ]
     }
   },
@@ -17591,7 +24828,10 @@ var points = [
       "name": "Saint-Mandé, France",
       "popupContent": "Saint-Mandé, France",
       "affiliatedPeople": [
-        "Marie-Madeleine Davy"
+        {
+          "name": "Marie-Madeleine Davy",
+          "viaf": "34455214"
+        }
       ]
     }
   },
@@ -17608,7 +24848,10 @@ var points = [
       "name": "Saint-Martin-de-Villeréal, France",
       "popupContent": "Saint-Martin-de-Villeréal, France",
       "affiliatedPeople": [
-        "Louis Lavelle"
+        {
+          "name": "Louis Lavelle",
+          "viaf": "9849112"
+        }
       ]
     }
   },
@@ -17625,7 +24868,10 @@ var points = [
       "name": "Saint-Martin-du-Bois, France",
       "popupContent": "Saint-Martin-du-Bois, France",
       "affiliatedPeople": [
-        "François Bourricaud"
+        {
+          "name": "François Bourricaud",
+          "viaf": "46757889"
+        }
       ]
     }
   },
@@ -17642,7 +24888,10 @@ var points = [
       "name": "Saint-Maur-des-Fossés, France",
       "popupContent": "Saint-Maur-des-Fossés, France",
       "affiliatedPeople": [
-        "André Suarès"
+        {
+          "name": "André Suarès",
+          "viaf": "49232044"
+        }
       ]
     }
   },
@@ -17659,7 +24908,10 @@ var points = [
       "name": "Saint-Ouen-le-Pin, France",
       "popupContent": "Saint-Ouen-le-Pin, France",
       "affiliatedPeople": [
-        "François Pierre Guillaume Guizot"
+        {
+          "name": "François Pierre Guillaume Guizot",
+          "viaf": "29600143"
+        }
       ]
     }
   },
@@ -17676,7 +24928,10 @@ var points = [
       "name": "Saint-Remy-la-Calonne, France",
       "popupContent": "Saint-Remy-la-Calonne, France",
       "affiliatedPeople": [
-        "Alain Fournier"
+        {
+          "name": "Alain Fournier",
+          "viaf": "34452139"
+        }
       ]
     }
   },
@@ -17693,7 +24948,10 @@ var points = [
       "name": "Saint-Romain-de-Lerps, France",
       "popupContent": "Saint-Romain-de-Lerps, France",
       "affiliatedPeople": [
-        "Noël Devaulx"
+        {
+          "name": "Noël Devaulx",
+          "viaf": "24600615"
+        }
       ]
     }
   },
@@ -17710,7 +24968,10 @@ var points = [
       "name": "Saint-Romain-en-Gal, France",
       "popupContent": "Saint-Romain-en-Gal, France",
       "affiliatedPeople": [
-        "François Perroux"
+        {
+          "name": "François Perroux",
+          "viaf": "99952938"
+        }
       ]
     }
   },
@@ -17727,7 +24988,10 @@ var points = [
       "name": "Saint-Sauveur-en-Puisaye, Yonne, France",
       "popupContent": "Saint-Sauveur-en-Puisaye, Yonne, France",
       "affiliatedPeople": [
-        "Sidonie-Gabrielle Colette"
+        {
+          "name": "Sidonie-Gabrielle Colette",
+          "viaf": "68937443"
+        }
       ]
     }
   },
@@ -17744,8 +25008,14 @@ var points = [
       "name": "Sainte-Catherine-de-la-Jacques-Cartier, Canada",
       "popupContent": "Sainte-Catherine-de-la-Jacques-Cartier, Canada",
       "affiliatedPeople": [
-        "Anne Hébert",
-        "Saint-Denys Garneau"
+        {
+          "name": "Anne Hébert",
+          "viaf": "66468501"
+        },
+        {
+          "name": "Saint-Denys Garneau",
+          "viaf": "68938166"
+        }
       ]
     }
   },
@@ -17762,9 +25032,18 @@ var points = [
       "name": "Salamanca, Spain",
       "popupContent": "Salamanca, Spain",
       "affiliatedPeople": [
-        "Federico de Onís",
-        "Germán García",
-        "Miguel de Unamuno"
+        {
+          "name": "Federico de Onís",
+          "viaf": "73865544"
+        },
+        {
+          "name": "Germán García",
+          "viaf": ""
+        },
+        {
+          "name": "Miguel de Unamuno",
+          "viaf": "88844103"
+        }
       ]
     }
   },
@@ -17781,7 +25060,10 @@ var points = [
       "name": "Salem, Massachusetts",
       "popupContent": "Salem, Massachusetts",
       "affiliatedPeople": [
-        "Nathaniel Hawthorne"
+        {
+          "name": "Nathaniel Hawthorne",
+          "viaf": "44435463"
+        }
       ]
     }
   },
@@ -17798,7 +25080,10 @@ var points = [
       "name": "Salerno, Italy",
       "popupContent": "Salerno, Italy",
       "affiliatedPeople": [
-        "Alfonso Gatto"
+        {
+          "name": "Alfonso Gatto",
+          "viaf": "32036388"
+        }
       ]
     }
   },
@@ -17815,7 +25100,10 @@ var points = [
       "name": "Salinas, California",
       "popupContent": "Salinas, California",
       "affiliatedPeople": [
-        "John Steinbeck"
+        {
+          "name": "John Steinbeck",
+          "viaf": "96992551"
+        }
       ]
     }
   },
@@ -17832,7 +25120,10 @@ var points = [
       "name": "Salisbury, Connecticut",
       "popupContent": "Salisbury, Connecticut",
       "affiliatedPeople": [
-        "Alfred Hamilton Barr, Jr."
+        {
+          "name": "Alfred Hamilton Barr, Jr.",
+          "viaf": "109252853"
+        }
       ]
     }
   },
@@ -17849,12 +25140,30 @@ var points = [
       "name": "Salta, Argentina",
       "popupContent": "Salta, Argentina",
       "affiliatedPeople": [
-        "Augusto Raúl Cortázar",
-        "Baica Dávalos",
-        "Carlos Ibarguren",
-        "Jaime Dávalos",
-        "Manuel José Castilla",
-        "Roberto García Pinto"
+        {
+          "name": "Augusto Raúl Cortázar",
+          "viaf": "100170642"
+        },
+        {
+          "name": "Baica Dávalos",
+          "viaf": "6963709"
+        },
+        {
+          "name": "Carlos Ibarguren",
+          "viaf": "34829990"
+        },
+        {
+          "name": "Jaime Dávalos",
+          "viaf": "19389787"
+        },
+        {
+          "name": "Manuel José Castilla",
+          "viaf": "30587218"
+        },
+        {
+          "name": "Roberto García Pinto",
+          "viaf": "1421698"
+        }
       ]
     }
   },
@@ -17871,7 +25180,10 @@ var points = [
       "name": "Salto, Argentina",
       "popupContent": "Salto, Argentina",
       "affiliatedPeople": [
-        "Carlos S. Fayt"
+        {
+          "name": "Carlos S. Fayt",
+          "viaf": "77720426"
+        }
       ]
     }
   },
@@ -17888,8 +25200,14 @@ var points = [
       "name": "Salto, Uruguay",
       "popupContent": "Salto, Uruguay",
       "affiliatedPeople": [
-        "Enrique Amorim",
-        "Horacio Quiroga"
+        {
+          "name": "Enrique Amorim",
+          "viaf": "41856621"
+        },
+        {
+          "name": "Horacio Quiroga",
+          "viaf": "19689428"
+        }
       ]
     }
   },
@@ -17906,7 +25224,10 @@ var points = [
       "name": "Salvador, Bahia, Brazil",
       "popupContent": "Salvador, Bahia, Brazil",
       "affiliatedPeople": [
-        "Jorge Amado"
+        {
+          "name": "Jorge Amado",
+          "viaf": "108732513"
+        }
       ]
     }
   },
@@ -17923,7 +25244,10 @@ var points = [
       "name": "Samobor, Croatia",
       "popupContent": "Samobor, Croatia",
       "affiliatedPeople": [
-        "Branimir Livadić"
+        {
+          "name": "Branimir Livadić",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -17940,7 +25264,10 @@ var points = [
       "name": "San Antonio, Texas",
       "popupContent": "San Antonio, Texas",
       "affiliatedPeople": [
-        "Jacques Barzun"
+        {
+          "name": "Jacques Barzun",
+          "viaf": "51703034"
+        }
       ]
     }
   },
@@ -17957,7 +25284,10 @@ var points = [
       "name": "San Antonio, Tolima, Colombia",
       "popupContent": "San Antonio, Tolima, Colombia",
       "affiliatedPeople": [
-        "Germán Guzmán Campos"
+        {
+          "name": "Germán Guzmán Campos",
+          "viaf": "27585182"
+        }
       ]
     }
   },
@@ -17974,7 +25304,10 @@ var points = [
       "name": "San Carlos de Bolívar, Argentina",
       "popupContent": "San Carlos de Bolívar, Argentina",
       "affiliatedPeople": [
-        "Adolfo Luis Pérez Zelaschi"
+        {
+          "name": "Adolfo Luis Pérez Zelaschi",
+          "viaf": "50561560"
+        }
       ]
     }
   },
@@ -17991,7 +25324,10 @@ var points = [
       "name": "San Carlos, Uruguay",
       "popupContent": "San Carlos, Uruguay",
       "affiliatedPeople": [
-        "Jorge Oscar Pickenhayn"
+        {
+          "name": "Jorge Oscar Pickenhayn",
+          "viaf": "39410582"
+        }
       ]
     }
   },
@@ -18008,7 +25344,10 @@ var points = [
       "name": "San Cristobal de las Casas, Mexico",
       "popupContent": "San Cristobal de las Casas, Mexico",
       "affiliatedPeople": [
-        "Caroline Gordon"
+        {
+          "name": "Caroline Gordon",
+          "viaf": "111626048"
+        }
       ]
     }
   },
@@ -18025,7 +25364,10 @@ var points = [
       "name": "San Diego, California",
       "popupContent": "San Diego, California",
       "affiliatedPeople": [
-        "George Russell Harrison"
+        {
+          "name": "George Russell Harrison",
+          "viaf": "32729158"
+        }
       ]
     }
   },
@@ -18042,8 +25384,14 @@ var points = [
       "name": "San Francisco, California",
       "popupContent": "San Francisco, California",
       "affiliatedPeople": [
-        "Robert A. Brady",
-        "Rodolfo Godino"
+        {
+          "name": "Robert A. Brady",
+          "viaf": "38976632"
+        },
+        {
+          "name": "Rodolfo Godino",
+          "viaf": "53781979"
+        }
       ]
     }
   },
@@ -18060,7 +25408,10 @@ var points = [
       "name": "San Genaro, Argentina",
       "popupContent": "San Genaro, Argentina",
       "affiliatedPeople": [
-        "Juan Lazarte"
+        {
+          "name": "Juan Lazarte",
+          "viaf": "14482230"
+        }
       ]
     }
   },
@@ -18077,8 +25428,14 @@ var points = [
       "name": "San Isidro, Argentina",
       "popupContent": "San Isidro, Argentina",
       "affiliatedPeople": [
-        "Emilio Komar (Milan Komar)",
-        "José Luis Busaniche"
+        {
+          "name": "Emilio Komar (Milan Komar)",
+          "viaf": "165550728"
+        },
+        {
+          "name": "José Luis Busaniche",
+          "viaf": "69003416"
+        }
       ]
     }
   },
@@ -18095,7 +25452,10 @@ var points = [
       "name": "San Jose de la Esquina, Argentina",
       "popupContent": "San Jose de la Esquina, Argentina",
       "affiliatedPeople": [
-        "Ezequiel Martínez Estrada"
+        {
+          "name": "Ezequiel Martínez Estrada",
+          "viaf": "46755849"
+        }
       ]
     }
   },
@@ -18112,7 +25472,10 @@ var points = [
       "name": "San Jose de Mayo, Uruguay",
       "popupContent": "San Jose de Mayo, Uruguay",
       "affiliatedPeople": [
-        "Laura Cortinas"
+        {
+          "name": "Laura Cortinas",
+          "viaf": "204151368"
+        }
       ]
     }
   },
@@ -18129,7 +25492,10 @@ var points = [
       "name": "San Jose, Costa Rica",
       "popupContent": "San Jose, Costa Rica",
       "affiliatedPeople": [
-        "Víctor Guardia Quirós"
+        {
+          "name": "Víctor Guardia Quirós",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -18146,7 +25512,10 @@ var points = [
       "name": "San Juan, Argentina",
       "popupContent": "San Juan, Argentina",
       "affiliatedPeople": [
-        "Eduardo Keller Sarmiento"
+        {
+          "name": "Eduardo Keller Sarmiento",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -18163,11 +25532,26 @@ var points = [
       "name": "San Juan, Puerto Rico",
       "popupContent": "San Juan, Puerto Rico",
       "affiliatedPeople": [
-        "Domingo F. Sarmiento",
-        "Federico de Onís",
-        "Jaime Benítez Rexach",
-        "Juan Pablo Echagüe",
-        "Juan Ramón Jiménez"
+        {
+          "name": "Domingo F. Sarmiento",
+          "viaf": "12340366"
+        },
+        {
+          "name": "Federico de Onís",
+          "viaf": "73865544"
+        },
+        {
+          "name": "Jaime Benítez Rexach",
+          "viaf": "113604334"
+        },
+        {
+          "name": "Juan Pablo Echagüe",
+          "viaf": "1128553"
+        },
+        {
+          "name": "Juan Ramón Jiménez",
+          "viaf": "59077345"
+        }
       ]
     }
   },
@@ -18184,7 +25568,10 @@ var points = [
       "name": "San Justo, Argentina",
       "popupContent": "San Justo, Argentina",
       "affiliatedPeople": [
-        "Almafuerte"
+        {
+          "name": "Almafuerte",
+          "viaf": "61760651"
+        }
       ]
     }
   },
@@ -18201,7 +25588,10 @@ var points = [
       "name": "San Lorenzo de El Escorial, Spain",
       "popupContent": "San Lorenzo de El Escorial, Spain",
       "affiliatedPeople": [
-        "Arturo Serrano Plaja"
+        {
+          "name": "Arturo Serrano Plaja",
+          "viaf": "29552167"
+        }
       ]
     }
   },
@@ -18218,7 +25608,10 @@ var points = [
       "name": "San Luca, Italy",
       "popupContent": "San Luca, Italy",
       "affiliatedPeople": [
-        "Corrado Alvaro"
+        {
+          "name": "Corrado Alvaro",
+          "viaf": "29573259"
+        }
       ]
     }
   },
@@ -18235,7 +25628,10 @@ var points = [
       "name": "San Luis Potosi, Mexico",
       "popupContent": "San Luis Potosi, Mexico",
       "affiliatedPeople": [
-        "Antonio Castro Leal"
+        {
+          "name": "Antonio Castro Leal",
+          "viaf": "56622388"
+        }
       ]
     }
   },
@@ -18252,7 +25648,10 @@ var points = [
       "name": "San Luis, Argentina",
       "popupContent": "San Luis, Argentina",
       "affiliatedPeople": [
-        "Berta Elena Vidal de Battini"
+        {
+          "name": "Berta Elena Vidal de Battini",
+          "viaf": "112027220"
+        }
       ]
     }
   },
@@ -18269,7 +25668,10 @@ var points = [
       "name": "San Martin, Argentina",
       "popupContent": "San Martin, Argentina",
       "affiliatedPeople": [
-        "Ernesto Palacio"
+        {
+          "name": "Ernesto Palacio",
+          "viaf": "94908879"
+        }
       ]
     }
   },
@@ -18286,11 +25688,26 @@ var points = [
       "name": "San Miguel de Tucumán, Argentina",
       "popupContent": "San Miguel de Tucumán, Argentina",
       "affiliatedPeople": [
-        "Carlos Cossio",
-        "Eduardo Joubin Colombres",
-        "Guido Parpagnoli",
-        "Raúl Prebisch",
-        "Rodolfo Aráoz Alfaro"
+        {
+          "name": "Carlos Cossio",
+          "viaf": "93230574"
+        },
+        {
+          "name": "Eduardo Joubin Colombres",
+          "viaf": "286453406"
+        },
+        {
+          "name": "Guido Parpagnoli",
+          "viaf": "305883393"
+        },
+        {
+          "name": "Raúl Prebisch",
+          "viaf": "34543132"
+        },
+        {
+          "name": "Rodolfo Aráoz Alfaro",
+          "viaf": "7858150567633406370009"
+        }
       ]
     }
   },
@@ -18307,7 +25724,10 @@ var points = [
       "name": "San Millan de la Cogolla, Spain",
       "popupContent": "San Millan de la Cogolla, Spain",
       "affiliatedPeople": [
-        "María Lejárraga (María Martínez Sierra)"
+        {
+          "name": "María Lejárraga (María Martínez Sierra)",
+          "viaf": "93150576"
+        }
       ]
     }
   },
@@ -18324,10 +25744,22 @@ var points = [
       "name": "San Nicolas de los Arroyos, Argentina",
       "popupContent": "San Nicolas de los Arroyos, Argentina",
       "affiliatedPeople": [
-        "Emma Rosa Mosto",
-        "Juan Antonio Ballester Peña",
-        "Manuel Peyrou",
-        "Mary Rega Molina"
+        {
+          "name": "Emma Rosa Mosto",
+          "viaf": ""
+        },
+        {
+          "name": "Juan Antonio Ballester Peña",
+          "viaf": "199188171"
+        },
+        {
+          "name": "Manuel Peyrou",
+          "viaf": "66759591"
+        },
+        {
+          "name": "Mary Rega Molina",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -18344,7 +25776,10 @@ var points = [
       "name": "San Pablo, Argentina",
       "popupContent": "San Pablo, Argentina",
       "affiliatedPeople": [
-        "Delfina Varela Domínguez de Ghioldi"
+        {
+          "name": "Delfina Varela Domínguez de Ghioldi",
+          "viaf": "170677081"
+        }
       ]
     }
   },
@@ -18361,7 +25796,10 @@ var points = [
       "name": "San Pedro, Argentina",
       "popupContent": "San Pedro, Argentina",
       "affiliatedPeople": [
-        "Abelardo Castillo"
+        {
+          "name": "Abelardo Castillo",
+          "viaf": "84194925"
+        }
       ]
     }
   },
@@ -18378,8 +25816,14 @@ var points = [
       "name": "San Rafael, Argentina",
       "popupContent": "San Rafael, Argentina",
       "affiliatedPeople": [
-        "Alfredo R. Bufano",
-        "Michael Gold"
+        {
+          "name": "Alfredo R. Bufano",
+          "viaf": "3861448"
+        },
+        {
+          "name": "Michael Gold",
+          "viaf": "100338915"
+        }
       ]
     }
   },
@@ -18396,8 +25840,14 @@ var points = [
       "name": "San Salvador de Jujuy, Argentina",
       "popupContent": "San Salvador de Jujuy, Argentina",
       "affiliatedPeople": [
-        "Andrés Fidalgo",
-        "Jorge Calvetti"
+        {
+          "name": "Andrés Fidalgo",
+          "viaf": "309781735"
+        },
+        {
+          "name": "Jorge Calvetti",
+          "viaf": "19761680"
+        }
       ]
     }
   },
@@ -18414,7 +25864,10 @@ var points = [
       "name": "San Salvador, El Salvador",
       "popupContent": "San Salvador, El Salvador",
       "affiliatedPeople": [
-        "Hugo Lindo"
+        {
+          "name": "Hugo Lindo",
+          "viaf": "94458625"
+        }
       ]
     }
   },
@@ -18431,9 +25884,18 @@ var points = [
       "name": "San Sebastián, Spain",
       "popupContent": "San Sebastián, Spain",
       "affiliatedPeople": [
-        "Alonso Zamora Vicente",
-        "José Bergamín",
-        "Pío Baroja"
+        {
+          "name": "Alonso Zamora Vicente",
+          "viaf": "79047512"
+        },
+        {
+          "name": "José Bergamín",
+          "viaf": "109502857"
+        },
+        {
+          "name": "Pío Baroja",
+          "viaf": "36912891"
+        }
       ]
     }
   },
@@ -18450,7 +25912,10 @@ var points = [
       "name": "San Tammaro, Argentina",
       "popupContent": "San Tammaro, Argentina",
       "affiliatedPeople": [
-        "Angel Vassallo"
+        {
+          "name": "Angel Vassallo",
+          "viaf": "46907736"
+        }
       ]
     }
   },
@@ -18467,7 +25932,10 @@ var points = [
       "name": "San Vito dei Normanni, Italy",
       "popupContent": "San Vito dei Normanni, Italy",
       "affiliatedPeople": [
-        "Joseph Jean Lanza del Vasto"
+        {
+          "name": "Joseph Jean Lanza del Vasto",
+          "viaf": "2472923"
+        }
       ]
     }
   },
@@ -18484,7 +25952,10 @@ var points = [
       "name": "Sandgate, United Kingdom",
       "popupContent": "Sandgate, United Kingdom",
       "affiliatedPeople": [
-        "Jocelyn Brooke"
+        {
+          "name": "Jocelyn Brooke",
+          "viaf": "267567381"
+        }
       ]
     }
   },
@@ -18501,7 +25972,10 @@ var points = [
       "name": "Sant Pere de Ribes, Spain",
       "popupContent": "Sant Pere de Ribes, Spain",
       "affiliatedPeople": [
-        "Víctor Alba"
+        {
+          "name": "Víctor Alba",
+          "viaf": "108893961"
+        }
       ]
     }
   },
@@ -18518,9 +25992,18 @@ var points = [
       "name": "Santa Barbara, California",
       "popupContent": "Santa Barbara, California",
       "affiliatedPeople": [
-        "Arturo Serrano Plaja",
-        "Jay Monaghan",
-        "Robert Maynard Hutchins"
+        {
+          "name": "Arturo Serrano Plaja",
+          "viaf": "29552167"
+        },
+        {
+          "name": "Jay Monaghan",
+          "viaf": "98064319"
+        },
+        {
+          "name": "Robert Maynard Hutchins",
+          "viaf": "74154730"
+        }
       ]
     }
   },
@@ -18537,11 +26020,26 @@ var points = [
       "name": "Santa Fe, Argentina",
       "popupContent": "Santa Fe, Argentina",
       "affiliatedPeople": [
-        "Gastón Gori",
-        "José Luis Busaniche",
-        "Leo Ferrero",
-        "Miguel Ángel Virasoro",
-        "Rafael Virasoro"
+        {
+          "name": "Gastón Gori",
+          "viaf": "107539254"
+        },
+        {
+          "name": "José Luis Busaniche",
+          "viaf": "69003416"
+        },
+        {
+          "name": "Leo Ferrero",
+          "viaf": "2510852"
+        },
+        {
+          "name": "Miguel Ángel Virasoro",
+          "viaf": "77964401"
+        },
+        {
+          "name": "Rafael Virasoro",
+          "viaf": "17060338"
+        }
       ]
     }
   },
@@ -18558,7 +26056,10 @@ var points = [
       "name": "Santa Fe, New Mexico",
       "popupContent": "Santa Fe, New Mexico",
       "affiliatedPeople": [
-        "Georgia O'Keeffe"
+        {
+          "name": "Georgia O'Keeffe",
+          "viaf": "32021794"
+        }
       ]
     }
   },
@@ -18575,7 +26076,10 @@ var points = [
       "name": "Santa Maria del Rosario, Cuba",
       "popupContent": "Santa Maria del Rosario, Cuba",
       "affiliatedPeople": [
-        "José María Chacón y Calvo"
+        {
+          "name": "José María Chacón y Calvo",
+          "viaf": "17241599"
+        }
       ]
     }
   },
@@ -18592,8 +26096,14 @@ var points = [
       "name": "Santa Monica, California",
       "popupContent": "Santa Monica, California",
       "affiliatedPeople": [
-        "Christopher Isherwood",
-        "Gerald Heard"
+        {
+          "name": "Christopher Isherwood",
+          "viaf": "76317308"
+        },
+        {
+          "name": "Gerald Heard",
+          "viaf": "45031451"
+        }
       ]
     }
   },
@@ -18610,7 +26120,10 @@ var points = [
       "name": "Santander, Spain",
       "popupContent": "Santander, Spain",
       "affiliatedPeople": [
-        "Eduardo González Lanuza"
+        {
+          "name": "Eduardo González Lanuza",
+          "viaf": "114082531"
+        }
       ]
     }
   },
@@ -18627,7 +26140,10 @@ var points = [
       "name": "Santiago de Compostela, Spain",
       "popupContent": "Santiago de Compostela, Spain",
       "affiliatedPeople": [
-        "Rafael Dieste"
+        {
+          "name": "Rafael Dieste",
+          "viaf": "94753204"
+        }
       ]
     }
   },
@@ -18644,7 +26160,10 @@ var points = [
       "name": "Santiago del Estero, Argentina",
       "popupContent": "Santiago del Estero, Argentina",
       "affiliatedPeople": [
-        "Bernardo Canal Feijóo"
+        {
+          "name": "Bernardo Canal Feijóo",
+          "viaf": "117182921"
+        }
       ]
     }
   },
@@ -18661,26 +26180,86 @@ var points = [
       "name": "Santiago, Chile",
       "popupContent": "Santiago, Chile",
       "affiliatedPeople": [
-        "Alberto Baeza Flores",
-        "Alberto Corvalán",
-        "Alejandro Lora Risco",
-        "Alfonso Bulnes",
-        "Andrés Bello",
-        "Arturo Aldunate Phillips",
-        "Clarence Finlayson",
-        "Eduardo Frei Montalva",
-        "Eugenia Huici de Errázuriz",
-        "José Donoso",
-        "Juan Guixé",
-        "María Flora Yáñez de Echeverría",
-        "María Luisa Bombal",
-        "Mariano Latorre",
-        "Miguel Arteche",
-        "Pablo Neruda",
-        "Raúl Prebisch",
-        "Ricardo E. Latcham",
-        "Vicente Huidobro",
-        "Vicente Salas Viú"
+        {
+          "name": "Alberto Baeza Flores",
+          "viaf": "49220015"
+        },
+        {
+          "name": "Alberto Corvalán",
+          "viaf": "110433448"
+        },
+        {
+          "name": "Alejandro Lora Risco",
+          "viaf": "2609460"
+        },
+        {
+          "name": "Alfonso Bulnes",
+          "viaf": "224120616"
+        },
+        {
+          "name": "Andrés Bello",
+          "viaf": "22152206"
+        },
+        {
+          "name": "Arturo Aldunate Phillips",
+          "viaf": "16124358"
+        },
+        {
+          "name": "Clarence Finlayson",
+          "viaf": "11489645"
+        },
+        {
+          "name": "Eduardo Frei Montalva",
+          "viaf": "110697349"
+        },
+        {
+          "name": "Eugenia Huici de Errázuriz",
+          "viaf": "66649364"
+        },
+        {
+          "name": "José Donoso",
+          "viaf": "29601775"
+        },
+        {
+          "name": "Juan Guixé",
+          "viaf": "15147001"
+        },
+        {
+          "name": "María Flora Yáñez de Echeverría",
+          "viaf": "11176452"
+        },
+        {
+          "name": "María Luisa Bombal",
+          "viaf": "112427097"
+        },
+        {
+          "name": "Mariano Latorre",
+          "viaf": "39399454"
+        },
+        {
+          "name": "Miguel Arteche",
+          "viaf": "24643240"
+        },
+        {
+          "name": "Pablo Neruda",
+          "viaf": "95126958"
+        },
+        {
+          "name": "Raúl Prebisch",
+          "viaf": "34543132"
+        },
+        {
+          "name": "Ricardo E. Latcham",
+          "viaf": "55913494"
+        },
+        {
+          "name": "Vicente Huidobro",
+          "viaf": "12329"
+        },
+        {
+          "name": "Vicente Salas Viú",
+          "viaf": "87799713"
+        }
       ]
     }
   },
@@ -18697,7 +26276,10 @@ var points = [
       "name": "Santo Domingo, Dominican Republic",
       "popupContent": "Santo Domingo, Dominican Republic",
       "affiliatedPeople": [
-        "Pedro Henríquez Ureña"
+        {
+          "name": "Pedro Henríquez Ureña",
+          "viaf": "61558646"
+        }
       ]
     }
   },
@@ -18714,7 +26296,10 @@ var points = [
       "name": "Santo Stefano Belbo, Italy",
       "popupContent": "Santo Stefano Belbo, Italy",
       "affiliatedPeople": [
-        "Cesare Pavese"
+        {
+          "name": "Cesare Pavese",
+          "viaf": "36922880"
+        }
       ]
     }
   },
@@ -18746,7 +26331,10 @@ var points = [
       "name": "Santo Tomé",
       "popupContent": "Santo Tomé",
       "affiliatedPeople": [
-        "Julia Elena Acuña"
+        {
+          "name": "Julia Elena Acuña",
+          "viaf": "60648080"
+        }
       ]
     }
   },
@@ -18763,7 +26351,10 @@ var points = [
       "name": "Santos Lugares, Argentina",
       "popupContent": "Santos Lugares, Argentina",
       "affiliatedPeople": [
-        "Ernesto Sabato"
+        {
+          "name": "Ernesto Sabato",
+          "viaf": "108131182"
+        }
       ]
     }
   },
@@ -18780,8 +26371,14 @@ var points = [
       "name": "Sao Paulo, Brazil",
       "popupContent": "Sao Paulo, Brazil",
       "affiliatedPeople": [
-        "Christovam de Camargo",
-        "Mario de Andrade"
+        {
+          "name": "Christovam de Camargo",
+          "viaf": "60631655"
+        },
+        {
+          "name": "Mario de Andrade",
+          "viaf": "19688448"
+        }
       ]
     }
   },
@@ -18798,7 +26395,10 @@ var points = [
       "name": "Sao Roque, Brazil",
       "popupContent": "Sao Roque, Brazil",
       "affiliatedPeople": [
-        "Claudio de Souza"
+        {
+          "name": "Claudio de Souza",
+          "viaf": "70039875"
+        }
       ]
     }
   },
@@ -18815,8 +26415,14 @@ var points = [
       "name": "Saratov, Russia",
       "popupContent": "Saratov, Russia",
       "affiliatedPeople": [
-        "Georgy Petrovich Fedotov",
-        "Rachel Bluwstein (Rajel)"
+        {
+          "name": "Georgy Petrovich Fedotov",
+          "viaf": "59082338"
+        },
+        {
+          "name": "Rachel Bluwstein (Rajel)",
+          "viaf": "19791688"
+        }
       ]
     }
   },
@@ -18833,7 +26439,10 @@ var points = [
       "name": "Sardinia, Italy",
       "popupContent": "Sardinia, Italy",
       "affiliatedPeople": [
-        "Antonio Gramsci"
+        {
+          "name": "Antonio Gramsci",
+          "viaf": "44299576"
+        }
       ]
     }
   },
@@ -18850,7 +26459,10 @@ var points = [
       "name": "Savannah, Georgia",
       "popupContent": "Savannah, Georgia",
       "affiliatedPeople": [
-        "Doris V. Falk"
+        {
+          "name": "Doris V. Falk",
+          "viaf": "197090915"
+        }
       ]
     }
   },
@@ -18867,7 +26479,10 @@ var points = [
       "name": "Savoy",
       "popupContent": "Savoy",
       "affiliatedPeople": [
-        "Joseph de Maistre"
+        {
+          "name": "Joseph de Maistre",
+          "viaf": "46764421"
+        }
       ]
     }
   },
@@ -18884,8 +26499,14 @@ var points = [
       "name": "Scarborough, North Yorkshire, United Kingdom",
       "popupContent": "Scarborough, North Yorkshire, United Kingdom",
       "affiliatedPeople": [
-        "Edith Sitwell",
-        "Sacheverell Sitwell"
+        {
+          "name": "Edith Sitwell",
+          "viaf": "29549983"
+        },
+        {
+          "name": "Sacheverell Sitwell",
+          "viaf": "109354570"
+        }
       ]
     }
   },
@@ -18902,7 +26523,10 @@ var points = [
       "name": "Scarsdale, New York",
       "popupContent": "Scarsdale, New York",
       "affiliatedPeople": [
-        "Joan Bennett"
+        {
+          "name": "Joan Bennett",
+          "viaf": "32186172"
+        }
       ]
     }
   },
@@ -18919,7 +26543,10 @@ var points = [
       "name": "Schaerbeek, Belgium",
       "popupContent": "Schaerbeek, Belgium",
       "affiliatedPeople": [
-        "Paul Aloïse de Bock"
+        {
+          "name": "Paul Aloïse de Bock",
+          "viaf": "76314196"
+        }
       ]
     }
   },
@@ -18936,7 +26563,10 @@ var points = [
       "name": "Schoneberg, Germany",
       "popupContent": "Schoneberg, Germany",
       "affiliatedPeople": [
-        "Gisèle Freund"
+        {
+          "name": "Gisèle Freund",
+          "viaf": "56609984"
+        }
       ]
     }
   },
@@ -18953,7 +26583,10 @@ var points = [
       "name": "Seaforth, United Kingdom",
       "popupContent": "Seaforth, United Kingdom",
       "affiliatedPeople": [
-        "Doming Bevan Wyndham Lewis"
+        {
+          "name": "Doming Bevan Wyndham Lewis",
+          "viaf": "74067752"
+        }
       ]
     }
   },
@@ -18970,7 +26603,10 @@ var points = [
       "name": "Seattle, Washington",
       "popupContent": "Seattle, Washington",
       "affiliatedPeople": [
-        "Mary McCarthy"
+        {
+          "name": "Mary McCarthy",
+          "viaf": "94457792"
+        }
       ]
     }
   },
@@ -18987,7 +26623,10 @@ var points = [
       "name": "Seine-Maritime, France",
       "popupContent": "Seine-Maritime, France",
       "affiliatedPeople": [
-        "Alexandre Dumas"
+        {
+          "name": "Alexandre Dumas",
+          "viaf": "51688902"
+        }
       ]
     }
   },
@@ -19004,8 +26643,14 @@ var points = [
       "name": "Seine-Saint-Denis, France",
       "popupContent": "Seine-Saint-Denis, France",
       "affiliatedPeople": [
-        "François Perroux",
-        "Paul Éluard"
+        {
+          "name": "François Perroux",
+          "viaf": "99952938"
+        },
+        {
+          "name": "Paul Éluard",
+          "viaf": "73848255"
+        }
       ]
     }
   },
@@ -19022,7 +26667,10 @@ var points = [
       "name": "Seis am Schlern, Italy",
       "popupContent": "Seis am Schlern, Italy",
       "affiliatedPeople": [
-        "Wilhelm Dilthey"
+        {
+          "name": "Wilhelm Dilthey",
+          "viaf": "68943563"
+        }
       ]
     }
   },
@@ -19039,7 +26687,10 @@ var points = [
       "name": "Senatobia, Mississippi",
       "popupContent": "Senatobia, Mississippi",
       "affiliatedPeople": [
-        "Herschel Brickell"
+        {
+          "name": "Herschel Brickell",
+          "viaf": "75223922"
+        }
       ]
     }
   },
@@ -19056,8 +26707,14 @@ var points = [
       "name": "Senigallia, Italy",
       "popupContent": "Senigallia, Italy",
       "affiliatedPeople": [
-        "Mario Puccini",
-        "Rodolfo Mondolfo"
+        {
+          "name": "Mario Puccini",
+          "viaf": "59215391"
+        },
+        {
+          "name": "Rodolfo Mondolfo",
+          "viaf": "17300457"
+        }
       ]
     }
   },
@@ -19074,7 +26731,10 @@ var points = [
       "name": "Senones, Vosges, France",
       "popupContent": "Senones, Vosges, France",
       "affiliatedPeople": [
-        "Antoine Augustin Calmet"
+        {
+          "name": "Antoine Augustin Calmet",
+          "viaf": "24619702"
+        }
       ]
     }
   },
@@ -19091,7 +26751,10 @@ var points = [
       "name": "Sete, France",
       "popupContent": "Sete, France",
       "affiliatedPeople": [
-        "Paul Valéry"
+        {
+          "name": "Paul Valéry",
+          "viaf": "61553403"
+        }
       ]
     }
   },
@@ -19108,11 +26771,26 @@ var points = [
       "name": "Sevilla, Spain",
       "popupContent": "Sevilla, Spain",
       "affiliatedPeople": [
-        "Fernando Colón",
-        "Francisco Romero",
-        "Fray Bartolomé de las Casas",
-        "Juan Collantes de Terán",
-        "Vicente Aleixandre"
+        {
+          "name": "Fernando Colón",
+          "viaf": "14786515"
+        },
+        {
+          "name": "Francisco Romero",
+          "viaf": "9865505"
+        },
+        {
+          "name": "Fray Bartolomé de las Casas",
+          "viaf": "46758461"
+        },
+        {
+          "name": "Juan Collantes de Terán",
+          "viaf": "306155663"
+        },
+        {
+          "name": "Vicente Aleixandre",
+          "viaf": "109520823"
+        }
       ]
     }
   },
@@ -19129,7 +26807,10 @@ var points = [
       "name": "Sevran, France",
       "popupContent": "Sevran, France",
       "affiliatedPeople": [
-        "Dominique Braga"
+        {
+          "name": "Dominique Braga",
+          "viaf": "61258264"
+        }
       ]
     }
   },
@@ -19146,7 +26827,10 @@ var points = [
       "name": "Shantiniketan, India",
       "popupContent": "Shantiniketan, India",
       "affiliatedPeople": [
-        "Krishna Kripalani"
+        {
+          "name": "Krishna Kripalani",
+          "viaf": "108284966"
+        }
       ]
     }
   },
@@ -19163,7 +26847,10 @@ var points = [
       "name": "Sherbrooke, Canada",
       "popupContent": "Sherbrooke, Canada",
       "affiliatedPeople": [
-        "Northrop Frye"
+        {
+          "name": "Northrop Frye",
+          "viaf": "49236705"
+        }
       ]
     }
   },
@@ -19180,7 +26867,10 @@ var points = [
       "name": "Sheridan, Indiana",
       "popupContent": "Sheridan, Indiana",
       "affiliatedPeople": [
-        "Clifford Cook Furnas"
+        {
+          "name": "Clifford Cook Furnas",
+          "viaf": "18143685"
+        }
       ]
     }
   },
@@ -19197,7 +26887,10 @@ var points = [
       "name": "Shimonoseki, Japan",
       "popupContent": "Shimonoseki, Japan",
       "affiliatedPeople": [
-        "Fumiko Hayashi"
+        {
+          "name": "Fumiko Hayashi",
+          "viaf": "49372649"
+        }
       ]
     }
   },
@@ -19214,7 +26907,10 @@ var points = [
       "name": "Shirley, United Kingdom",
       "popupContent": "Shirley, United Kingdom",
       "affiliatedPeople": [
-        "T. F. Powys"
+        {
+          "name": "T. F. Powys",
+          "viaf": "14775442"
+        }
       ]
     }
   },
@@ -19231,7 +26927,10 @@ var points = [
       "name": "Showa, Japan",
       "popupContent": "Showa, Japan",
       "affiliatedPeople": [
-        "Shinpei Kusano"
+        {
+          "name": "Shinpei Kusano",
+          "viaf": "12454839"
+        }
       ]
     }
   },
@@ -19248,8 +26947,14 @@ var points = [
       "name": "Sialkot, Pakistan",
       "popupContent": "Sialkot, Pakistan",
       "affiliatedPeople": [
-        "Muhammad Iqbal",
-        "Tara Chand"
+        {
+          "name": "Muhammad Iqbal",
+          "viaf": "100267743"
+        },
+        {
+          "name": "Tara Chand",
+          "viaf": "112681865"
+        }
       ]
     }
   },
@@ -19266,7 +26971,10 @@ var points = [
       "name": "Sierre, Switzerland",
       "popupContent": "Sierre, Switzerland",
       "affiliatedPeople": [
-        "Rudolf Kassner"
+        {
+          "name": "Rudolf Kassner",
+          "viaf": "73865954"
+        }
       ]
     }
   },
@@ -19283,7 +26991,10 @@ var points = [
       "name": "Silver Spring, Maryland",
       "popupContent": "Silver Spring, Maryland",
       "affiliatedPeople": [
-        "Katherine Anne Porter"
+        {
+          "name": "Katherine Anne Porter",
+          "viaf": "56620604"
+        }
       ]
     }
   },
@@ -19300,7 +27011,10 @@ var points = [
       "name": "Simcoe, Ontario, Canada",
       "popupContent": "Simcoe, Ontario, Canada",
       "affiliatedPeople": [
-        "Frederick Philip Grove"
+        {
+          "name": "Frederick Philip Grove",
+          "viaf": "56628484"
+        }
       ]
     }
   },
@@ -19317,7 +27031,10 @@ var points = [
       "name": "Sissinghurst Castle Garden, United Kingdom",
       "popupContent": "Sissinghurst Castle Garden, United Kingdom",
       "affiliatedPeople": [
-        "Vita (Victoria) Sackville-West"
+        {
+          "name": "Vita (Victoria) Sackville-West",
+          "viaf": "22148366"
+        }
       ]
     }
   },
@@ -19334,7 +27051,10 @@ var points = [
       "name": "Sisson, California",
       "popupContent": "Sisson, California",
       "affiliatedPeople": [
-        "Anita Loos"
+        {
+          "name": "Anita Loos",
+          "viaf": "56711909"
+        }
       ]
     }
   },
@@ -19351,7 +27071,10 @@ var points = [
       "name": "Sittwe, Myanmar",
       "popupContent": "Sittwe, Myanmar",
       "affiliatedPeople": [
-        "Hector Hugh Munro (\"Saki\")"
+        {
+          "name": "Hector Hugh Munro (\"Saki\")",
+          "viaf": "7396805"
+        }
       ]
     }
   },
@@ -19368,7 +27091,10 @@ var points = [
       "name": "Slad, United Kingdom",
       "popupContent": "Slad, United Kingdom",
       "affiliatedPeople": [
-        "Laurie Lee"
+        {
+          "name": "Laurie Lee",
+          "viaf": "183476640"
+        }
       ]
     }
   },
@@ -19385,7 +27111,10 @@ var points = [
       "name": "Slatina, Romania",
       "popupContent": "Slatina, Romania",
       "affiliatedPeople": [
-        "Eugène Ionesco"
+        {
+          "name": "Eugène Ionesco",
+          "viaf": "17224288"
+        }
       ]
     }
   },
@@ -19402,7 +27131,10 @@ var points = [
       "name": "Sliema, Malta",
       "popupContent": "Sliema, Malta",
       "affiliatedPeople": [
-        "Gerald Brenan"
+        {
+          "name": "Gerald Brenan",
+          "viaf": "7515708"
+        }
       ]
     }
   },
@@ -19419,7 +27151,10 @@ var points = [
       "name": "Slutsk, Belarus",
       "popupContent": "Slutsk, Belarus",
       "affiliatedPeople": [
-        "Jacob Kahan"
+        {
+          "name": "Jacob Kahan",
+          "viaf": "28188208"
+        }
       ]
     }
   },
@@ -19436,7 +27171,10 @@ var points = [
       "name": "Sogamoso, Colombia",
       "popupContent": "Sogamoso, Colombia",
       "affiliatedPeople": [
-        "Rafael Gutiérrez Girardot"
+        {
+          "name": "Rafael Gutiérrez Girardot",
+          "viaf": "108934932"
+        }
       ]
     }
   },
@@ -19453,7 +27191,10 @@ var points = [
       "name": "Soho, London, United Kingdom",
       "popupContent": "Soho, London, United Kingdom",
       "affiliatedPeople": [
-        "William Hazlitt"
+        {
+          "name": "William Hazlitt",
+          "viaf": "87145187"
+        }
       ]
     }
   },
@@ -19470,7 +27211,10 @@ var points = [
       "name": "Solothurn, Switzerland",
       "popupContent": "Solothurn, Switzerland",
       "affiliatedPeople": [
-        "Hans Kunz"
+        {
+          "name": "Hans Kunz",
+          "viaf": "79214903"
+        }
       ]
     }
   },
@@ -19487,7 +27231,10 @@ var points = [
       "name": "Somerville, Massachusetts",
       "popupContent": "Somerville, Massachusetts",
       "affiliatedPeople": [
-        "Maír José Benardete"
+        {
+          "name": "Maír José Benardete",
+          "viaf": "97666114"
+        }
       ]
     }
   },
@@ -19504,7 +27251,10 @@ var points = [
       "name": "Sommedieue, France",
       "popupContent": "Sommedieue, France",
       "affiliatedPeople": [
-        "Michel Berveiller"
+        {
+          "name": "Michel Berveiller",
+          "viaf": "71387394"
+        }
       ]
     }
   },
@@ -19521,7 +27271,10 @@ var points = [
       "name": "Sommières, France",
       "popupContent": "Sommières, France",
       "affiliatedPeople": [
-        "Lawrence Durrell"
+        {
+          "name": "Lawrence Durrell",
+          "viaf": "68928525"
+        }
       ]
     }
   },
@@ -19538,7 +27291,10 @@ var points = [
       "name": "Sorrento, Italy",
       "popupContent": "Sorrento, Italy",
       "affiliatedPeople": [
-        "Francis Marion Crawford"
+        {
+          "name": "Francis Marion Crawford",
+          "viaf": "4958780"
+        }
       ]
     }
   },
@@ -19555,7 +27311,10 @@ var points = [
       "name": "Southhampton, New York",
       "popupContent": "Southhampton, New York",
       "affiliatedPeople": [
-        "Jacqueline Kennedy Onassis"
+        {
+          "name": "Jacqueline Kennedy Onassis",
+          "viaf": "117604909"
+        }
       ]
     }
   },
@@ -19572,10 +27331,22 @@ var points = [
       "name": "Spain",
       "popupContent": "Spain",
       "affiliatedPeople": [
-        "Enrique Azcoaga",
-        "José López Rey",
-        "José Martínez Orozco",
-        "Tomás Garcés"
+        {
+          "name": "Enrique Azcoaga",
+          "viaf": "195982579"
+        },
+        {
+          "name": "José López Rey",
+          "viaf": "51810697"
+        },
+        {
+          "name": "José Martínez Orozco",
+          "viaf": "43501449"
+        },
+        {
+          "name": "Tomás Garcés",
+          "viaf": "68951895"
+        }
       ]
     }
   },
@@ -19592,7 +27363,10 @@ var points = [
       "name": "Speldhurst, United Kingdom",
       "popupContent": "Speldhurst, United Kingdom",
       "affiliatedPeople": [
-        "Robert Smythe Hichens"
+        {
+          "name": "Robert Smythe Hichens",
+          "viaf": "27093504"
+        }
       ]
     }
   },
@@ -19609,7 +27383,10 @@ var points = [
       "name": "St Paul Malmesbury Without, United Kingdom",
       "popupContent": "St Paul Malmesbury Without, United Kingdom",
       "affiliatedPeople": [
-        "Thomas Hobbes"
+        {
+          "name": "Thomas Hobbes",
+          "viaf": "59083895"
+        }
       ]
     }
   },
@@ -19626,7 +27403,10 @@ var points = [
       "name": "St. Gallen, Switzerland",
       "popupContent": "St. Gallen, Switzerland",
       "affiliatedPeople": [
-        "Emmanuel Stickelberger"
+        {
+          "name": "Emmanuel Stickelberger",
+          "viaf": "112500342"
+        }
       ]
     }
   },
@@ -19643,7 +27423,10 @@ var points = [
       "name": "St. Louis, Missouri",
       "popupContent": "St. Louis, Missouri",
       "affiliatedPeople": [
-        "T. S. Eliot"
+        {
+          "name": "T. S. Eliot",
+          "viaf": "56609282"
+        }
       ]
     }
   },
@@ -19660,7 +27443,10 @@ var points = [
       "name": "St. Petersburg, Florida",
       "popupContent": "St. Petersburg, Florida",
       "affiliatedPeople": [
-        "Jack Kerouac"
+        {
+          "name": "Jack Kerouac",
+          "viaf": "27066713"
+        }
       ]
     }
   },
@@ -19677,7 +27463,10 @@ var points = [
       "name": "St. Petersburg, Russia",
       "popupContent": "St. Petersburg, Russia",
       "affiliatedPeople": [
-        "Pierre Souvtchinsky"
+        {
+          "name": "Pierre Souvtchinsky",
+          "viaf": "7428699"
+        }
       ]
     }
   },
@@ -19694,7 +27483,10 @@ var points = [
       "name": "Stamford, United Kingdom",
       "popupContent": "Stamford, United Kingdom",
       "affiliatedPeople": [
-        "John Haigh"
+        {
+          "name": "John Haigh",
+          "viaf": "31676824"
+        }
       ]
     }
   },
@@ -19711,7 +27503,10 @@ var points = [
       "name": "Starnberg, Germany",
       "popupContent": "Starnberg, Germany",
       "affiliatedPeople": [
-        "Herbert Marcuse"
+        {
+          "name": "Herbert Marcuse",
+          "viaf": "36921579"
+        }
       ]
     }
   },
@@ -19728,7 +27523,10 @@ var points = [
       "name": "State College, Pennsylvania",
       "popupContent": "State College, Pennsylvania",
       "affiliatedPeople": [
-        "Luther Lee Bernard"
+        {
+          "name": "Luther Lee Bernard",
+          "viaf": "49295398"
+        }
       ]
     }
   },
@@ -19745,7 +27543,10 @@ var points = [
       "name": "Stevenage, United Kingdom",
       "popupContent": "Stevenage, United Kingdom",
       "affiliatedPeople": [
-        "Edward Gordon Craig"
+        {
+          "name": "Edward Gordon Craig",
+          "viaf": "100201551"
+        }
       ]
     }
   },
@@ -19762,9 +27563,18 @@ var points = [
       "name": "Stockholm, Sweden",
       "popupContent": "Stockholm, Sweden",
       "affiliatedPeople": [
-        "Hans Ruin",
-        "Janis Karklins",
-        "René Descartes"
+        {
+          "name": "Hans Ruin",
+          "viaf": "55208341"
+        },
+        {
+          "name": "Janis Karklins",
+          "viaf": "50033063"
+        },
+        {
+          "name": "René Descartes",
+          "viaf": "41838958"
+        }
       ]
     }
   },
@@ -19781,7 +27591,10 @@ var points = [
       "name": "Stonegrave, United Kingdom",
       "popupContent": "Stonegrave, United Kingdom",
       "affiliatedPeople": [
-        "Herbert Read"
+        {
+          "name": "Herbert Read",
+          "viaf": "24619891"
+        }
       ]
     }
   },
@@ -19798,7 +27611,10 @@ var points = [
       "name": "Stratton, Vermont",
       "popupContent": "Stratton, Vermont",
       "affiliatedPeople": [
-        "Robert Penn Warren"
+        {
+          "name": "Robert Penn Warren",
+          "viaf": "61553765"
+        }
       ]
     }
   },
@@ -19815,7 +27631,10 @@ var points = [
       "name": "Stroud, United Kingdom",
       "popupContent": "Stroud, United Kingdom",
       "affiliatedPeople": [
-        "Laurie Lee"
+        {
+          "name": "Laurie Lee",
+          "viaf": "183476640"
+        }
       ]
     }
   },
@@ -19832,8 +27651,14 @@ var points = [
       "name": "Stuttgart, Germany",
       "popupContent": "Stuttgart, Germany",
       "affiliatedPeople": [
-        "Herman Kasack",
-        "Max Horkheimer"
+        {
+          "name": "Herman Kasack",
+          "viaf": "59112868"
+        },
+        {
+          "name": "Max Horkheimer",
+          "viaf": "14771315"
+        }
       ]
     }
   },
@@ -19850,7 +27675,10 @@ var points = [
       "name": "Sucre, Bolivia",
       "popupContent": "Sucre, Bolivia",
       "affiliatedPeople": [
-        "Gregorio Reinolds"
+        {
+          "name": "Gregorio Reinolds",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -19867,7 +27695,10 @@ var points = [
       "name": "Sucy-en-Brie, France",
       "popupContent": "Sucy-en-Brie, France",
       "affiliatedPeople": [
-        "Élie Halévy"
+        {
+          "name": "Élie Halévy",
+          "viaf": "66532548"
+        }
       ]
     }
   },
@@ -19884,7 +27715,10 @@ var points = [
       "name": "Sun Prairie, Wisconsin",
       "popupContent": "Sun Prairie, Wisconsin",
       "affiliatedPeople": [
-        "Georgia O'Keeffe"
+        {
+          "name": "Georgia O'Keeffe",
+          "viaf": "32021794"
+        }
       ]
     }
   },
@@ -19901,7 +27735,10 @@ var points = [
       "name": "Sunderland, United Kingdom",
       "popupContent": "Sunderland, United Kingdom",
       "affiliatedPeople": [
-        "David Daiches"
+        {
+          "name": "David Daiches",
+          "viaf": "44311326"
+        }
       ]
     }
   },
@@ -19918,7 +27755,10 @@ var points = [
       "name": "Suresnes, France",
       "popupContent": "Suresnes, France",
       "affiliatedPeople": [
-        "Louis Pauwels"
+        {
+          "name": "Louis Pauwels",
+          "viaf": "68934008"
+        }
       ]
     }
   },
@@ -19935,7 +27775,10 @@ var points = [
       "name": "Sury-en-Vaux, France",
       "popupContent": "Sury-en-Vaux, France",
       "affiliatedPeople": [
-        "Richard Aldington"
+        {
+          "name": "Richard Aldington",
+          "viaf": "7402360"
+        }
       ]
     }
   },
@@ -19952,9 +27795,18 @@ var points = [
       "name": "Sussex, United Kingdom",
       "popupContent": "Sussex, United Kingdom",
       "affiliatedPeople": [
-        "Herbert Agar",
-        "Quentin Bell",
-        "Virginia Woolf"
+        {
+          "name": "Herbert Agar",
+          "viaf": "109069838"
+        },
+        {
+          "name": "Quentin Bell",
+          "viaf": "4926523"
+        },
+        {
+          "name": "Virginia Woolf",
+          "viaf": "39385478"
+        }
       ]
     }
   },
@@ -19971,7 +27823,10 @@ var points = [
       "name": "Swaffham Prior, United Kingdom",
       "popupContent": "Swaffham Prior, United Kingdom",
       "affiliatedPeople": [
-        "Edwin Muir"
+        {
+          "name": "Edwin Muir",
+          "viaf": "41875982"
+        }
       ]
     }
   },
@@ -19988,7 +27843,10 @@ var points = [
       "name": "Swanage, United Kingdom",
       "popupContent": "Swanage, United Kingdom",
       "affiliatedPeople": [
-        "Anthony Creighton"
+        {
+          "name": "Anthony Creighton",
+          "viaf": "44806975"
+        }
       ]
     }
   },
@@ -20005,8 +27863,14 @@ var points = [
       "name": "Sweden",
       "popupContent": "Sweden",
       "affiliatedPeople": [
-        "Carl August Bolander",
-        "Mme. Carl August Bolander"
+        {
+          "name": "Carl August Bolander",
+          "viaf": "73824275"
+        },
+        {
+          "name": "Mme. Carl August Bolander",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -20023,8 +27887,14 @@ var points = [
       "name": "Switzerland",
       "popupContent": "Switzerland",
       "affiliatedPeople": [
-        "Édith Boissonnas",
-        "Elisabeth Ehrlich"
+        {
+          "name": "Édith Boissonnas",
+          "viaf": "19797627"
+        },
+        {
+          "name": "Elisabeth Ehrlich",
+          "viaf": "7755037"
+        }
       ]
     }
   },
@@ -20041,8 +27911,14 @@ var points = [
       "name": "Sydney, Australia",
       "popupContent": "Sydney, Australia",
       "affiliatedPeople": [
-        "Philip Lindsay",
-        "Vere Gordon Childe"
+        {
+          "name": "Philip Lindsay",
+          "viaf": "98010929"
+        },
+        {
+          "name": "Vere Gordon Childe",
+          "viaf": "76388231"
+        }
       ]
     }
   },
@@ -20059,8 +27935,14 @@ var points = [
       "name": "Syracuse, Italy",
       "popupContent": "Syracuse, Italy",
       "affiliatedPeople": [
-        "Elio Vittorini",
-        "Theocritus"
+        {
+          "name": "Elio Vittorini",
+          "viaf": "27072824"
+        },
+        {
+          "name": "Theocritus",
+          "viaf": "95161348"
+        }
       ]
     }
   },
@@ -20077,7 +27959,10 @@ var points = [
       "name": "Szamocin, Poland",
       "popupContent": "Szamocin, Poland",
       "affiliatedPeople": [
-        "Ernst Toller"
+        {
+          "name": "Ernst Toller",
+          "viaf": "32003575"
+        }
       ]
     }
   },
@@ -20094,9 +27979,18 @@ var points = [
       "name": "Szczecin, Poland",
       "popupContent": "Szczecin, Poland",
       "affiliatedPeople": [
-        "Alfred Döblin",
-        "Otto Friedrich Bollnow",
-        "Peter Christian Ludz"
+        {
+          "name": "Alfred Döblin",
+          "viaf": "51688166"
+        },
+        {
+          "name": "Otto Friedrich Bollnow",
+          "viaf": "100184362"
+        },
+        {
+          "name": "Peter Christian Ludz",
+          "viaf": "80858"
+        }
       ]
     }
   },
@@ -20113,7 +28007,10 @@ var points = [
       "name": "Tábara, Spain",
       "popupContent": "Tábara, Spain",
       "affiliatedPeople": [
-        "León Felipe"
+        {
+          "name": "León Felipe",
+          "viaf": "66475795"
+        }
       ]
     }
   },
@@ -20130,7 +28027,10 @@ var points = [
       "name": "Taganrog, Russia",
       "popupContent": "Taganrog, Russia",
       "affiliatedPeople": [
-        "Anton Pavlovich Chekhov"
+        {
+          "name": "Anton Pavlovich Chekhov",
+          "viaf": "95216565"
+        }
       ]
     }
   },
@@ -20147,7 +28047,10 @@ var points = [
       "name": "Talcottville, New York",
       "popupContent": "Talcottville, New York",
       "affiliatedPeople": [
-        "Edmund Wilson"
+        {
+          "name": "Edmund Wilson",
+          "viaf": "61553881"
+        }
       ]
     }
   },
@@ -20164,7 +28067,10 @@ var points = [
       "name": "Tallinn, Estonia",
       "popupContent": "Tallinn, Estonia",
       "affiliatedPeople": [
-        "Johannes Semper"
+        {
+          "name": "Johannes Semper",
+          "viaf": "86378"
+        }
       ]
     }
   },
@@ -20181,7 +28087,10 @@ var points = [
       "name": "Tandil, Buenos Aires, Argentina",
       "popupContent": "Tandil, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Héctor Ignacio Eandi"
+        {
+          "name": "Héctor Ignacio Eandi",
+          "viaf": "11163205"
+        }
       ]
     }
   },
@@ -20198,7 +28107,10 @@ var points = [
       "name": "Tarbes, France",
       "popupContent": "Tarbes, France",
       "affiliatedPeople": [
-        "Théophile Gautier"
+        {
+          "name": "Théophile Gautier",
+          "viaf": "96428598"
+        }
       ]
     }
   },
@@ -20215,7 +28127,10 @@ var points = [
       "name": "Târgu Neamț, Romania",
       "popupContent": "Târgu Neamț, Romania",
       "affiliatedPeople": [
-        "Irving Layton"
+        {
+          "name": "Irving Layton",
+          "viaf": "66482092"
+        }
       ]
     }
   },
@@ -20232,7 +28147,10 @@ var points = [
       "name": "Tarquinia, Italy",
       "popupContent": "Tarquinia, Italy",
       "affiliatedPeople": [
-        "Vicenzo Cardarelli"
+        {
+          "name": "Vicenzo Cardarelli",
+          "viaf": "46755526"
+        }
       ]
     }
   },
@@ -20249,7 +28167,10 @@ var points = [
       "name": "Tarragona, Spain",
       "popupContent": "Tarragona, Spain",
       "affiliatedPeople": [
-        "Luis Monguió"
+        {
+          "name": "Luis Monguió",
+          "viaf": "14257798"
+        }
       ]
     }
   },
@@ -20266,7 +28187,10 @@ var points = [
       "name": "Tébessa, Algeria",
       "popupContent": "Tébessa, Algeria",
       "affiliatedPeople": [
-        "Robert Merle"
+        {
+          "name": "Robert Merle",
+          "viaf": "12312406"
+        }
       ]
     }
   },
@@ -20283,9 +28207,18 @@ var points = [
       "name": "Tel Aviv, Israel",
       "popupContent": "Tel Aviv, Israel",
       "affiliatedPeople": [
-        "Max Brod",
-        "Peter Gradenwitz",
-        "Rachel Bluwstein (Rajel)"
+        {
+          "name": "Max Brod",
+          "viaf": "56606649"
+        },
+        {
+          "name": "Peter Gradenwitz",
+          "viaf": "108626335"
+        },
+        {
+          "name": "Rachel Bluwstein (Rajel)",
+          "viaf": "19791688"
+        }
       ]
     }
   },
@@ -20302,7 +28235,10 @@ var points = [
       "name": "Temperley, Argentina",
       "popupContent": "Temperley, Argentina",
       "affiliatedPeople": [
-        "Roberto Juarroz"
+        {
+          "name": "Roberto Juarroz",
+          "viaf": "49227249"
+        }
       ]
     }
   },
@@ -20319,7 +28255,10 @@ var points = [
       "name": "Temuco, Chile",
       "popupContent": "Temuco, Chile",
       "affiliatedPeople": [
-        "Edmundo Concha"
+        {
+          "name": "Edmundo Concha",
+          "viaf": "23718250"
+        }
       ]
     }
   },
@@ -20336,7 +28275,10 @@ var points = [
       "name": "Tenjinbashi, Japan",
       "popupContent": "Tenjinbashi, Japan",
       "affiliatedPeople": [
-        "Yasunari Kawabata"
+        {
+          "name": "Yasunari Kawabata",
+          "viaf": "97450170"
+        }
       ]
     }
   },
@@ -20353,7 +28295,10 @@ var points = [
       "name": "Thanh Hóa, Vietnam",
       "popupContent": "Thanh Hóa, Vietnam",
       "affiliatedPeople": [
-        "Hoang Van Chi"
+        {
+          "name": "Hoang Van Chi",
+          "viaf": "49252528"
+        }
       ]
     }
   },
@@ -20370,7 +28315,10 @@ var points = [
       "name": "Thann, France",
       "popupContent": "Thann, France",
       "affiliatedPeople": [
-        "Ernst Robert Curtius"
+        {
+          "name": "Ernst Robert Curtius",
+          "viaf": "49241741"
+        }
       ]
     }
   },
@@ -20387,7 +28335,10 @@ var points = [
       "name": "Theresienstadt Concentration Camp, Czech Republic",
       "popupContent": "Theresienstadt Concentration Camp, Czech Republic",
       "affiliatedPeople": [
-        "Robert Desnos"
+        {
+          "name": "Robert Desnos",
+          "viaf": "9895"
+        }
       ]
     }
   },
@@ -20404,7 +28355,10 @@ var points = [
       "name": "Thessaloniki, Greece",
       "popupContent": "Thessaloniki, Greece",
       "affiliatedPeople": [
-        "Félix Gattégno"
+        {
+          "name": "Félix Gattégno",
+          "viaf": "87557898"
+        }
       ]
     }
   },
@@ -20421,7 +28375,10 @@ var points = [
       "name": "Thônes, France",
       "popupContent": "Thônes, France",
       "affiliatedPeople": [
-        "Joseph François Angelloz"
+        {
+          "name": "Joseph François Angelloz",
+          "viaf": "59078009"
+        }
       ]
     }
   },
@@ -20438,7 +28395,10 @@ var points = [
       "name": "Thornton, United Kingdom",
       "popupContent": "Thornton, United Kingdom",
       "affiliatedPeople": [
-        "Emily Brontë"
+        {
+          "name": "Emily Brontë",
+          "viaf": "97097302"
+        }
       ]
     }
   },
@@ -20455,7 +28415,10 @@ var points = [
       "name": "Thumeries, France",
       "popupContent": "Thumeries, France",
       "affiliatedPeople": [
-        "Louis Malle"
+        {
+          "name": "Louis Malle",
+          "viaf": "109999709"
+        }
       ]
     }
   },
@@ -20472,8 +28435,14 @@ var points = [
       "name": "Tigre, Buenos Aires, Argentina",
       "popupContent": "Tigre, Buenos Aires, Argentina",
       "affiliatedPeople": [
-        "Delfín Leocadio Garasa",
-        "Miguel de Etchebarne"
+        {
+          "name": "Delfín Leocadio Garasa",
+          "viaf": "24613844"
+        },
+        {
+          "name": "Miguel de Etchebarne",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -20490,8 +28459,14 @@ var points = [
       "name": "Timișoara, Romania",
       "popupContent": "Timișoara, Romania",
       "affiliatedPeople": [
-        "Arnold Hauser",
-        "Zoltán Szankay"
+        {
+          "name": "Arnold Hauser",
+          "viaf": "39378414"
+        },
+        {
+          "name": "Zoltán Szankay",
+          "viaf": "42364790"
+        }
       ]
     }
   },
@@ -20508,7 +28483,10 @@ var points = [
       "name": "Tinchebray, France",
       "popupContent": "Tinchebray, France",
       "affiliatedPeople": [
-        "André Bretón"
+        {
+          "name": "André Bretón",
+          "viaf": "49222341"
+        }
       ]
     }
   },
@@ -20525,7 +28503,10 @@ var points = [
       "name": "Tlemcen, Algeria",
       "popupContent": "Tlemcen, Algeria",
       "affiliatedPeople": [
-        "Paul Bénichou"
+        {
+          "name": "Paul Bénichou",
+          "viaf": "269156869"
+        }
       ]
     }
   },
@@ -20542,7 +28523,10 @@ var points = [
       "name": "Todd County, Kentucky",
       "popupContent": "Todd County, Kentucky",
       "affiliatedPeople": [
-        "Caroline Gordon"
+        {
+          "name": "Caroline Gordon",
+          "viaf": "111626048"
+        }
       ]
     }
   },
@@ -20559,7 +28543,10 @@ var points = [
       "name": "Todi, Italy",
       "popupContent": "Todi, Italy",
       "affiliatedPeople": [
-        "Nicolás de Cusa"
+        {
+          "name": "Nicolás de Cusa",
+          "viaf": "89623095"
+        }
       ]
     }
   },
@@ -20576,14 +28563,38 @@ var points = [
       "name": "Tokyo, Japan",
       "popupContent": "Tokyo, Japan",
       "affiliatedPeople": [
-        "Fumiko Hayashi",
-        "José Luis Romero",
-        "Ryunosuke Akutagawa",
-        "Sakutaro Hagiwara",
-        "Shohei Ooka",
-        "Takuboku Ishikawa",
-        "Toson Shimazaki (Shimazaki Haruki)",
-        "Yukio Mishima (Kimitake Hiraoka)"
+        {
+          "name": "Fumiko Hayashi",
+          "viaf": "49372649"
+        },
+        {
+          "name": "José Luis Romero",
+          "viaf": "68961451"
+        },
+        {
+          "name": "Ryunosuke Akutagawa",
+          "viaf": "28807"
+        },
+        {
+          "name": "Sakutaro Hagiwara",
+          "viaf": "29664195"
+        },
+        {
+          "name": "Shohei Ooka",
+          "viaf": "36965205"
+        },
+        {
+          "name": "Takuboku Ishikawa",
+          "viaf": "51691113"
+        },
+        {
+          "name": "Toson Shimazaki (Shimazaki Haruki)",
+          "viaf": "2480937"
+        },
+        {
+          "name": "Yukio Mishima (Kimitake Hiraoka)",
+          "viaf": "122035954"
+        }
       ]
     }
   },
@@ -20600,7 +28611,10 @@ var points = [
       "name": "Toledo, Ohio",
       "popupContent": "Toledo, Ohio",
       "affiliatedPeople": [
-        "Jean Boley"
+        {
+          "name": "Jean Boley",
+          "viaf": "48795839"
+        }
       ]
     }
   },
@@ -20617,7 +28631,10 @@ var points = [
       "name": "Toledo, Spain",
       "popupContent": "Toledo, Spain",
       "affiliatedPeople": [
-        "Yehuda Haleví"
+        {
+          "name": "Yehuda Haleví",
+          "viaf": "56620997"
+        }
       ]
     }
   },
@@ -20634,7 +28651,10 @@ var points = [
       "name": "Tomé, Chile",
       "popupContent": "Tomé, Chile",
       "affiliatedPeople": [
-        "Alberto Corvalán"
+        {
+          "name": "Alberto Corvalán",
+          "viaf": "110433448"
+        }
       ]
     }
   },
@@ -20651,8 +28671,14 @@ var points = [
       "name": "Torino, Italy",
       "popupContent": "Torino, Italy",
       "affiliatedPeople": [
-        "Alberto Sartoris",
-        "Leo Ferrero"
+        {
+          "name": "Alberto Sartoris",
+          "viaf": "117576649"
+        },
+        {
+          "name": "Leo Ferrero",
+          "viaf": "2510852"
+        }
       ]
     }
   },
@@ -20669,11 +28695,26 @@ var points = [
       "name": "Toronto, Canada",
       "popupContent": "Toronto, Canada",
       "affiliatedPeople": [
-        "Claude Thomas Bissell",
-        "Donald Grant Creighton",
-        "Douglas LePan",
-        "Northrop Frye",
-        "Robert Finch"
+        {
+          "name": "Claude Thomas Bissell",
+          "viaf": "44326760"
+        },
+        {
+          "name": "Donald Grant Creighton",
+          "viaf": "5008458"
+        },
+        {
+          "name": "Douglas LePan",
+          "viaf": "4940650"
+        },
+        {
+          "name": "Northrop Frye",
+          "viaf": "49236705"
+        },
+        {
+          "name": "Robert Finch",
+          "viaf": "116867349"
+        }
       ]
     }
   },
@@ -20690,7 +28731,10 @@ var points = [
       "name": "Torquay, United Kingdom",
       "popupContent": "Torquay, United Kingdom",
       "affiliatedPeople": [
-        "Seán O'Casey"
+        {
+          "name": "Seán O'Casey",
+          "viaf": "12319997"
+        }
       ]
     }
   },
@@ -20707,7 +28751,10 @@ var points = [
       "name": "Toulouse, France",
       "popupContent": "Toulouse, France",
       "affiliatedPeople": [
-        "Marie-Madeleine Lioux (Malraux)"
+        {
+          "name": "Marie-Madeleine Lioux (Malraux)",
+          "viaf": "63063719"
+        }
       ]
     }
   },
@@ -20724,7 +28771,10 @@ var points = [
       "name": "Toulouse, Italy",
       "popupContent": "Toulouse, Italy",
       "affiliatedPeople": [
-        "Jacques Maritain"
+        {
+          "name": "Jacques Maritain",
+          "viaf": "7393855"
+        }
       ]
     }
   },
@@ -20741,8 +28791,14 @@ var points = [
       "name": "Tours, France",
       "popupContent": "Tours, France",
       "affiliatedPeople": [
-        "André Rolland de Renéville",
-        "Yves Bonnefoy"
+        {
+          "name": "André Rolland de Renéville",
+          "viaf": "44316558"
+        },
+        {
+          "name": "Yves Bonnefoy",
+          "viaf": "108225542"
+        }
       ]
     }
   },
@@ -20759,7 +28815,10 @@ var points = [
       "name": "Tourville-sur-Arques, France",
       "popupContent": "Tourville-sur-Arques, France",
       "affiliatedPeople": [
-        "Guy de Maupassant"
+        {
+          "name": "Guy de Maupassant",
+          "viaf": "29537765"
+        }
       ]
     }
   },
@@ -20776,7 +28835,10 @@ var points = [
       "name": "Towcester, United Kingdom",
       "popupContent": "Towcester, United Kingdom",
       "affiliatedPeople": [
-        "Sacheverell Sitwell"
+        {
+          "name": "Sacheverell Sitwell",
+          "viaf": "109354570"
+        }
       ]
     }
   },
@@ -20793,7 +28855,10 @@ var points = [
       "name": "Tower Hill, Dalkey, Co. Dublin",
       "popupContent": "Tower Hill, Dalkey, Co. Dublin",
       "affiliatedPeople": [
-        "Seamus MacCall"
+        {
+          "name": "Seamus MacCall",
+          "viaf": "114012712"
+        }
       ]
     }
   },
@@ -20810,7 +28875,10 @@ var points = [
       "name": "Traubing, Germany",
       "popupContent": "Traubing, Germany",
       "affiliatedPeople": [
-        "Peter Christian Ludz"
+        {
+          "name": "Peter Christian Ludz",
+          "viaf": "80858"
+        }
       ]
     }
   },
@@ -20827,7 +28895,10 @@ var points = [
       "name": "Trebnje, Slovenia",
       "popupContent": "Trebnje, Slovenia",
       "affiliatedPeople": [
-        "Paul Golia"
+        {
+          "name": "Paul Golia",
+          "viaf": "4556432"
+        }
       ]
     }
   },
@@ -20844,7 +28915,10 @@ var points = [
       "name": "Tremadog, United Kingdom",
       "popupContent": "Tremadog, United Kingdom",
       "affiliatedPeople": [
-        "Thomas Edward Lawrence"
+        {
+          "name": "Thomas Edward Lawrence",
+          "viaf": "100164858"
+        }
       ]
     }
   },
@@ -20861,7 +28935,10 @@ var points = [
       "name": "Trenel, Argentina",
       "popupContent": "Trenel, Argentina",
       "affiliatedPeople": [
-        "Horacio Armani"
+        {
+          "name": "Horacio Armani",
+          "viaf": "36930320"
+        }
       ]
     }
   },
@@ -20878,7 +28955,10 @@ var points = [
       "name": "Treviso, Italy",
       "popupContent": "Treviso, Italy",
       "affiliatedPeople": [
-        "Giovanni Comisso"
+        {
+          "name": "Giovanni Comisso",
+          "viaf": "54169350"
+        }
       ]
     }
   },
@@ -20895,7 +28975,10 @@ var points = [
       "name": "Trowbridge, Wiltshire, United Kingdom",
       "popupContent": "Trowbridge, Wiltshire, United Kingdom",
       "affiliatedPeople": [
-        "Ida Hayward"
+        {
+          "name": "Ida Hayward",
+          "viaf": "283928081"
+        }
       ]
     }
   },
@@ -20912,7 +28995,10 @@ var points = [
       "name": "Trujillo, Peru",
       "popupContent": "Trujillo, Peru",
       "affiliatedPeople": [
-        "Arturo Corcuera"
+        {
+          "name": "Arturo Corcuera",
+          "viaf": "66636616"
+        }
       ]
     }
   },
@@ -20929,7 +29015,10 @@ var points = [
       "name": "Tübingen, Germany",
       "popupContent": "Tübingen, Germany",
       "affiliatedPeople": [
-        "Johann Christian Friedrich Hölderlin"
+        {
+          "name": "Johann Christian Friedrich Hölderlin",
+          "viaf": "95147974"
+        }
       ]
     }
   },
@@ -20946,7 +29035,10 @@ var points = [
       "name": "Tübingen, Germany",
       "popupContent": "Tübingen, Germany",
       "affiliatedPeople": [
-        "Otto Friedrich Bollnow"
+        {
+          "name": "Otto Friedrich Bollnow",
+          "viaf": "100184362"
+        }
       ]
     }
   },
@@ -20963,8 +29055,14 @@ var points = [
       "name": "Tucson, Arizona",
       "popupContent": "Tucson, Arizona",
       "affiliatedPeople": [
-        "Bart Bok",
-        "Joseph Wood Krutch"
+        {
+          "name": "Bart Bok",
+          "viaf": "15574196"
+        },
+        {
+          "name": "Joseph Wood Krutch",
+          "viaf": "49274843"
+        }
       ]
     }
   },
@@ -20981,7 +29079,10 @@ var points = [
       "name": "Tucumán, Argentina",
       "popupContent": "Tucumán, Argentina",
       "affiliatedPeople": [
-        "David Lagmanovich"
+        {
+          "name": "David Lagmanovich",
+          "viaf": "112439967"
+        }
       ]
     }
   },
@@ -20998,7 +29099,10 @@ var points = [
       "name": "Tunisia",
       "popupContent": "Tunisia",
       "affiliatedPeople": [
-        "Sidney Keyes"
+        {
+          "name": "Sidney Keyes",
+          "viaf": "39645826"
+        }
       ]
     }
   },
@@ -21015,14 +29119,38 @@ var points = [
       "name": "Turin, Italy",
       "popupContent": "Turin, Italy",
       "affiliatedPeople": [
-        "Beppo Levi",
-        "Carlo Levi",
-        "Cesare Pavese",
-        "Elémire Zolla",
-        "Giulio Carlo Argan",
-        "Joseph de Maistre",
-        "Vitaliano Brancati",
-        "Vittorio Foa"
+        {
+          "name": "Beppo Levi",
+          "viaf": "27301162"
+        },
+        {
+          "name": "Carlo Levi",
+          "viaf": "76318991"
+        },
+        {
+          "name": "Cesare Pavese",
+          "viaf": "36922880"
+        },
+        {
+          "name": "Elémire Zolla",
+          "viaf": "14778401"
+        },
+        {
+          "name": "Giulio Carlo Argan",
+          "viaf": "56605075"
+        },
+        {
+          "name": "Joseph de Maistre",
+          "viaf": "46764421"
+        },
+        {
+          "name": "Vitaliano Brancati",
+          "viaf": "15.0940"
+        },
+        {
+          "name": "Vittorio Foa",
+          "viaf": "97818232"
+        }
       ]
     }
   },
@@ -21039,7 +29167,10 @@ var points = [
       "name": "Tutzing, Germany",
       "popupContent": "Tutzing, Germany",
       "affiliatedPeople": [
-        "Andre Eckardt"
+        {
+          "name": "Andre Eckardt",
+          "viaf": "113423029"
+        }
       ]
     }
   },
@@ -21056,8 +29187,14 @@ var points = [
       "name": "Twickenham, United Kingdom",
       "popupContent": "Twickenham, United Kingdom",
       "affiliatedPeople": [
-        "Walter de la Mare",
-        "William G. Beasley"
+        {
+          "name": "Walter de la Mare",
+          "viaf": "2502254"
+        },
+        {
+          "name": "William G. Beasley",
+          "viaf": "12336480"
+        }
       ]
     }
   },
@@ -21074,7 +29211,10 @@ var points = [
       "name": "Überlingen, Germany",
       "popupContent": "Überlingen, Germany",
       "affiliatedPeople": [
-        "Friedrich Georg Jünger"
+        {
+          "name": "Friedrich Georg Jünger",
+          "viaf": "93096780"
+        }
       ]
     }
   },
@@ -21091,8 +29231,14 @@ var points = [
       "name": "Uccle, Belgium",
       "popupContent": "Uccle, Belgium",
       "affiliatedPeople": [
-        "Auguste Vermeylen",
-        "Lucien-Paul Thomas"
+        {
+          "name": "Auguste Vermeylen",
+          "viaf": "22946210"
+        },
+        {
+          "name": "Lucien-Paul Thomas",
+          "viaf": "5038838"
+        }
       ]
     }
   },
@@ -21109,7 +29255,10 @@ var points = [
       "name": "Ucieda, Spain",
       "popupContent": "Ucieda, Spain",
       "affiliatedPeople": [
-        "Consuelo Berges"
+        {
+          "name": "Consuelo Berges",
+          "viaf": "14938694"
+        }
       ]
     }
   },
@@ -21126,9 +29275,18 @@ var points = [
       "name": "Ukraine",
       "popupContent": "Ukraine",
       "affiliatedPeople": [
-        "Eugenio Bulygin",
-        "Haim Hazaz",
-        "León Dujovne"
+        {
+          "name": "Eugenio Bulygin",
+          "viaf": "4999229"
+        },
+        {
+          "name": "Haim Hazaz",
+          "viaf": "102389039"
+        },
+        {
+          "name": "León Dujovne",
+          "viaf": "115297031"
+        }
       ]
     }
   },
@@ -21145,7 +29303,10 @@ var points = [
       "name": "Ulm, Germany",
       "popupContent": "Ulm, Germany",
       "affiliatedPeople": [
-        "Albert Einstein"
+        {
+          "name": "Albert Einstein",
+          "viaf": "75121530"
+        }
       ]
     }
   },
@@ -21162,7 +29323,10 @@ var points = [
       "name": "União dos Palmares, Alagoas, Brazil",
       "popupContent": "União dos Palmares, Alagoas, Brazil",
       "affiliatedPeople": [
-        "Jorge de Lima"
+        {
+          "name": "Jorge de Lima",
+          "viaf": "99412444"
+        }
       ]
     }
   },
@@ -21179,7 +29343,10 @@ var points = [
       "name": "Union Hill, New Jersey",
       "popupContent": "Union Hill, New Jersey",
       "affiliatedPeople": [
-        "Eugène Jolas"
+        {
+          "name": "Eugène Jolas",
+          "viaf": "9863425"
+        }
       ]
     }
   },
@@ -21196,7 +29363,10 @@ var points = [
       "name": "Uniontown, Pennsylvania",
       "popupContent": "Uniontown, Pennsylvania",
       "affiliatedPeople": [
-        "John Dickson Carr"
+        {
+          "name": "John Dickson Carr",
+          "viaf": "64003044"
+        }
       ]
     }
   },
@@ -21213,10 +29383,22 @@ var points = [
       "name": "United Kingdom",
       "popupContent": "United Kingdom",
       "affiliatedPeople": [
-        "Arthur Woods Haslett",
-        "Dorothy Bussy",
-        "Joan Huelin",
-        "Philip Guedalla"
+        {
+          "name": "Arthur Woods Haslett",
+          "viaf": "313776359"
+        },
+        {
+          "name": "Dorothy Bussy",
+          "viaf": "232775152"
+        },
+        {
+          "name": "Joan Huelin",
+          "viaf": ""
+        },
+        {
+          "name": "Philip Guedalla",
+          "viaf": "59457732"
+        }
       ]
     }
   },
@@ -21233,7 +29415,10 @@ var points = [
       "name": "United States",
       "popupContent": "United States",
       "affiliatedPeople": [
-        "Roberto Guevara"
+        {
+          "name": "Roberto Guevara",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -21250,7 +29435,10 @@ var points = [
       "name": "Unquillo, Argentina",
       "popupContent": "Unquillo, Argentina",
       "affiliatedPeople": [
-        "Lino Enea Spilimbergo"
+        {
+          "name": "Lino Enea Spilimbergo",
+          "viaf": "13362903"
+        }
       ]
     }
   },
@@ -21267,7 +29455,10 @@ var points = [
       "name": "Uplands, Swansea, United Kingdom",
       "popupContent": "Uplands, Swansea, United Kingdom",
       "affiliatedPeople": [
-        "Dylan Thomas"
+        {
+          "name": "Dylan Thomas",
+          "viaf": "73860698"
+        }
       ]
     }
   },
@@ -21284,7 +29475,10 @@ var points = [
       "name": "Upper West Side, New York City, New York",
       "popupContent": "Upper West Side, New York City, New York",
       "affiliatedPeople": [
-        "Alfred Kazin"
+        {
+          "name": "Alfred Kazin",
+          "viaf": "108771008"
+        }
       ]
     }
   },
@@ -21301,7 +29495,10 @@ var points = [
       "name": "Uppsala, Sweden",
       "popupContent": "Uppsala, Sweden",
       "affiliatedPeople": [
-        "Ingmar Bergman"
+        {
+          "name": "Ingmar Bergman",
+          "viaf": "110097018"
+        }
       ]
     }
   },
@@ -21318,7 +29515,10 @@ var points = [
       "name": "Urrea de Gaen, Spain",
       "popupContent": "Urrea de Gaen, Spain",
       "affiliatedPeople": [
-        "Pedro Laín Entralgo"
+        {
+          "name": "Pedro Laín Entralgo",
+          "viaf": "108328947"
+        }
       ]
     }
   },
@@ -21335,9 +29535,18 @@ var points = [
       "name": "Uruguay",
       "popupContent": "Uruguay",
       "affiliatedPeople": [
-        "Dimas Antuña",
-        "Julio Herrera y Reissig",
-        "Roberto Bula Piríz"
+        {
+          "name": "Dimas Antuña",
+          "viaf": "2587316"
+        },
+        {
+          "name": "Julio Herrera y Reissig",
+          "viaf": "49239772"
+        },
+        {
+          "name": "Roberto Bula Piríz",
+          "viaf": "118785271"
+        }
       ]
     }
   },
@@ -21354,7 +29563,10 @@ var points = [
       "name": "Val-de-Marne, France",
       "popupContent": "Val-de-Marne, France",
       "affiliatedPeople": [
-        "Maurice Edgar Coindreau"
+        {
+          "name": "Maurice Edgar Coindreau",
+          "viaf": "56607570"
+        }
       ]
     }
   },
@@ -21371,7 +29583,10 @@ var points = [
       "name": "Valdepeñas, Spain",
       "popupContent": "Valdepeñas, Spain",
       "affiliatedPeople": [
-        "Lorenzo Luzuriaga"
+        {
+          "name": "Lorenzo Luzuriaga",
+          "viaf": "13106980"
+        }
       ]
     }
   },
@@ -21388,9 +29603,18 @@ var points = [
       "name": "Valencia, Spain",
       "popupContent": "Valencia, Spain",
       "affiliatedPeople": [
-        "Antonio Gilabert",
-        "Juan Gil-Albert",
-        "Miguel Enguídanos"
+        {
+          "name": "Antonio Gilabert",
+          "viaf": "902878"
+        },
+        {
+          "name": "Juan Gil-Albert",
+          "viaf": "59095594"
+        },
+        {
+          "name": "Miguel Enguídanos",
+          "viaf": "220032652"
+        }
       ]
     }
   },
@@ -21407,10 +29631,22 @@ var points = [
       "name": "Valladolid, Spain",
       "popupContent": "Valladolid, Spain",
       "affiliatedPeople": [
-        "Diego Gracián",
-        "Gonzalo Fernández de Oviedo",
-        "Jorge Guillén",
-        "Rosa Chacel"
+        {
+          "name": "Diego Gracián",
+          "viaf": "268959245"
+        },
+        {
+          "name": "Gonzalo Fernández de Oviedo",
+          "viaf": "7412295"
+        },
+        {
+          "name": "Jorge Guillén",
+          "viaf": "91629318"
+        },
+        {
+          "name": "Rosa Chacel",
+          "viaf": "111966111"
+        }
       ]
     }
   },
@@ -21442,7 +29678,10 @@ var points = [
       "name": "Vallee de Chevreuse, France",
       "popupContent": "Vallee de Chevreuse, France",
       "affiliatedPeople": [
-        "Alfred Métraux"
+        {
+          "name": "Alfred Métraux",
+          "viaf": "2474265"
+        }
       ]
     }
   },
@@ -21459,7 +29698,10 @@ var points = [
       "name": "Valmondois, France",
       "popupContent": "Valmondois, France",
       "affiliatedPeople": [
-        "Georges Duhamel"
+        {
+          "name": "Georges Duhamel",
+          "viaf": "66466573"
+        }
       ]
     }
   },
@@ -21476,9 +29718,18 @@ var points = [
       "name": "Valparaiso, Chile",
       "popupContent": "Valparaiso, Chile",
       "affiliatedPeople": [
-        "Clarence Finlayson",
-        "Concha Zardoya",
-        "Eugenia Huici de Errázuriz"
+        {
+          "name": "Clarence Finlayson",
+          "viaf": "11489645"
+        },
+        {
+          "name": "Concha Zardoya",
+          "viaf": "79043238"
+        },
+        {
+          "name": "Eugenia Huici de Errázuriz",
+          "viaf": "66649364"
+        }
       ]
     }
   },
@@ -21495,7 +29746,10 @@ var points = [
       "name": "Vancouver, Canada",
       "popupContent": "Vancouver, Canada",
       "affiliatedPeople": [
-        "Frédéric Grover"
+        {
+          "name": "Frédéric Grover",
+          "viaf": "49226424"
+        }
       ]
     }
   },
@@ -21512,7 +29766,10 @@ var points = [
       "name": "Vannes, Brittany",
       "popupContent": "Vannes, Brittany",
       "affiliatedPeople": [
-        "Paul Cesar Helleu"
+        {
+          "name": "Paul Cesar Helleu",
+          "viaf": "14851547"
+        }
       ]
     }
   },
@@ -21529,7 +29786,10 @@ var points = [
       "name": "Vasto, Italy",
       "popupContent": "Vasto, Italy",
       "affiliatedPeople": [
-        "Juan del Prete"
+        {
+          "name": "Juan del Prete",
+          "viaf": "70010517"
+        }
       ]
     }
   },
@@ -21546,7 +29806,10 @@ var points = [
       "name": "Växjö, Sweden",
       "popupContent": "Växjö, Sweden",
       "affiliatedPeople": [
-        "Pär F. Lagerkvist"
+        {
+          "name": "Pär F. Lagerkvist",
+          "viaf": "64007846"
+        }
       ]
     }
   },
@@ -21563,7 +29826,10 @@ var points = [
       "name": "Vedado, Havana, Cuba",
       "popupContent": "Vedado, Havana, Cuba",
       "affiliatedPeople": [
-        "José María Chacón y Calvo"
+        {
+          "name": "José María Chacón y Calvo",
+          "viaf": "17241599"
+        }
       ]
     }
   },
@@ -21580,7 +29846,10 @@ var points = [
       "name": "Velez-Malaga, Spain",
       "popupContent": "Velez-Malaga, Spain",
       "affiliatedPeople": [
-        "María Zambrano"
+        {
+          "name": "María Zambrano",
+          "viaf": "100237745"
+        }
       ]
     }
   },
@@ -21597,7 +29866,10 @@ var points = [
       "name": "Velké Pavlovice, Czech Republic",
       "popupContent": "Velké Pavlovice, Czech Republic",
       "affiliatedPeople": [
-        "Rudolf Kassner"
+        {
+          "name": "Rudolf Kassner",
+          "viaf": "73865954"
+        }
       ]
     }
   },
@@ -21614,8 +29886,14 @@ var points = [
       "name": "Vence, France",
       "popupContent": "Vence, France",
       "affiliatedPeople": [
-        "D. H. Lawrence",
-        "Edward Gordon Craig"
+        {
+          "name": "D. H. Lawrence",
+          "viaf": "95150359"
+        },
+        {
+          "name": "Edward Gordon Craig",
+          "viaf": "100201551"
+        }
       ]
     }
   },
@@ -21632,9 +29910,18 @@ var points = [
       "name": "Venice, Italy",
       "popupContent": "Venice, Italy",
       "affiliatedPeople": [
-        "Benedetta Marinetti (née Cappa)",
-        "Ezra Pound",
-        "Margarita Sarfatti"
+        {
+          "name": "Benedetta Marinetti (née Cappa)",
+          "viaf": "232907944"
+        },
+        {
+          "name": "Ezra Pound",
+          "viaf": "24606774"
+        },
+        {
+          "name": "Margarita Sarfatti",
+          "viaf": "102330009"
+        }
       ]
     }
   },
@@ -21651,7 +29938,10 @@ var points = [
       "name": "Vergiate, Italy",
       "popupContent": "Vergiate, Italy",
       "affiliatedPeople": [
-        "Attilio Dabini"
+        {
+          "name": "Attilio Dabini",
+          "viaf": "9701677"
+        }
       ]
     }
   },
@@ -21668,7 +29958,10 @@ var points = [
       "name": "Verona, Italy",
       "popupContent": "Verona, Italy",
       "affiliatedPeople": [
-        "Romano Guardini"
+        {
+          "name": "Romano Guardini",
+          "viaf": "24602326"
+        }
       ]
     }
   },
@@ -21685,7 +29978,10 @@ var points = [
       "name": "Versailles, France",
       "popupContent": "Versailles, France",
       "affiliatedPeople": [
-        "Albert Ducrocq"
+        {
+          "name": "Albert Ducrocq",
+          "viaf": "56609059"
+        }
       ]
     }
   },
@@ -21702,8 +29998,14 @@ var points = [
       "name": "Vevey, Switzerland",
       "popupContent": "Vevey, Switzerland",
       "affiliatedPeople": [
-        "Ernest Ansermet",
-        "Graham Greene"
+        {
+          "name": "Ernest Ansermet",
+          "viaf": "14957421"
+        },
+        {
+          "name": "Graham Greene",
+          "viaf": "59083415"
+        }
       ]
     }
   },
@@ -21720,7 +30022,10 @@ var points = [
       "name": "Vézelay, France",
       "popupContent": "Vézelay, France",
       "affiliatedPeople": [
-        "Romain Rolland"
+        {
+          "name": "Romain Rolland",
+          "viaf": "71397100"
+        }
       ]
     }
   },
@@ -21767,7 +30072,10 @@ var points = [
       "name": "Viana do Castelo, Portugal",
       "popupContent": "Viana do Castelo, Portugal",
       "affiliatedPeople": [
-        "Wilson Figueiredo"
+        {
+          "name": "Wilson Figueiredo",
+          "viaf": "297914036"
+        }
       ]
     }
   },
@@ -21784,7 +30092,10 @@ var points = [
       "name": "Vicenza, Italy",
       "popupContent": "Vicenza, Italy",
       "affiliatedPeople": [
-        "Guido Piovene"
+        {
+          "name": "Guido Piovene",
+          "viaf": "59110728"
+        }
       ]
     }
   },
@@ -21801,7 +30112,10 @@ var points = [
       "name": "Vichy, France",
       "popupContent": "Vichy, France",
       "affiliatedPeople": [
-        "Valery Larbaud"
+        {
+          "name": "Valery Larbaud",
+          "viaf": "13334"
+        }
       ]
     }
   },
@@ -21818,7 +30132,10 @@ var points = [
       "name": "Vicuna, Chile",
       "popupContent": "Vicuna, Chile",
       "affiliatedPeople": [
-        "Gabriela Mistral"
+        {
+          "name": "Gabriela Mistral",
+          "viaf": "44311414"
+        }
       ]
     }
   },
@@ -21835,18 +30152,54 @@ var points = [
       "name": "Vienna, Austria",
       "popupContent": "Vienna, Austria",
       "affiliatedPeople": [
-        "Alexander Lernet-Holenia",
-        "Gerard van Swieten",
-        "Heimito von Doderer",
-        "Hermann Broch",
-        "Martín Buber",
-        "Otto Maria Carpeaux",
-        "Philipp Frank",
-        "Raoul Auernheimer",
-        "Richard Neutra",
-        "Stefan Zweig",
-        "Theodor Reik",
-        "Wystan Hugh Auden"
+        {
+          "name": "Alexander Lernet-Holenia",
+          "viaf": "31999281"
+        },
+        {
+          "name": "Gerard van Swieten",
+          "viaf": "98732271"
+        },
+        {
+          "name": "Heimito von Doderer",
+          "viaf": "66484234"
+        },
+        {
+          "name": "Hermann Broch",
+          "viaf": "59079659"
+        },
+        {
+          "name": "Martín Buber",
+          "viaf": "68926330"
+        },
+        {
+          "name": "Otto Maria Carpeaux",
+          "viaf": "111457775"
+        },
+        {
+          "name": "Philipp Frank",
+          "viaf": "56677234"
+        },
+        {
+          "name": "Raoul Auernheimer",
+          "viaf": "44319718"
+        },
+        {
+          "name": "Richard Neutra",
+          "viaf": "66513638"
+        },
+        {
+          "name": "Stefan Zweig",
+          "viaf": "19685936"
+        },
+        {
+          "name": "Theodor Reik",
+          "viaf": "76395675"
+        },
+        {
+          "name": "Wystan Hugh Auden",
+          "viaf": "2465832"
+        }
       ]
     }
   },
@@ -21863,7 +30216,10 @@ var points = [
       "name": "Vieques, Puerto Rico",
       "popupContent": "Vieques, Puerto Rico",
       "affiliatedPeople": [
-        "Jaime Benítez Rexach"
+        {
+          "name": "Jaime Benítez Rexach",
+          "viaf": "113604334"
+        }
       ]
     }
   },
@@ -21880,7 +30236,10 @@ var points = [
       "name": "Vigny, Val-d'Oise, France",
       "popupContent": "Vigny, Val-d'Oise, France",
       "affiliatedPeople": [
-        "René Étiemble"
+        {
+          "name": "René Étiemble",
+          "viaf": "22141482"
+        }
       ]
     }
   },
@@ -21897,8 +30256,14 @@ var points = [
       "name": "Vigo, Spain",
       "popupContent": "Vigo, Spain",
       "affiliatedPeople": [
-        "Carlos Antonio Aréan",
-        "Eduardo Blanco"
+        {
+          "name": "Carlos Antonio Aréan",
+          "viaf": "80600137"
+        },
+        {
+          "name": "Eduardo Blanco",
+          "viaf": "54184970"
+        }
       ]
     }
   },
@@ -21915,7 +30280,10 @@ var points = [
       "name": "Vilanova i la Geltru, Spain",
       "popupContent": "Vilanova i la Geltru, Spain",
       "affiliatedPeople": [
-        "Eugenio d'Ors"
+        {
+          "name": "Eugenio d'Ors",
+          "viaf": "59077528"
+        }
       ]
     }
   },
@@ -21932,7 +30300,10 @@ var points = [
       "name": "Villa Concepción, Argentina",
       "popupContent": "Villa Concepción, Argentina",
       "affiliatedPeople": [
-        "Adelmo Montenegro"
+        {
+          "name": "Adelmo Montenegro",
+          "viaf": "53097587"
+        }
       ]
     }
   },
@@ -21949,7 +30320,10 @@ var points = [
       "name": "Villa del Rosario, Argentina",
       "popupContent": "Villa del Rosario, Argentina",
       "affiliatedPeople": [
-        "Horacio Sueldo"
+        {
+          "name": "Horacio Sueldo",
+          "viaf": "33483939"
+        }
       ]
     }
   },
@@ -21966,7 +30340,10 @@ var points = [
       "name": "Villa Dominguez, Argentina",
       "popupContent": "Villa Dominguez, Argentina",
       "affiliatedPeople": [
-        "Samuel Eichelbaum"
+        {
+          "name": "Samuel Eichelbaum",
+          "viaf": "97791518"
+        }
       ]
     }
   },
@@ -21983,7 +30360,10 @@ var points = [
       "name": "Villa Mercedes, Argentina",
       "popupContent": "Villa Mercedes, Argentina",
       "affiliatedPeople": [
-        "León Benarós"
+        {
+          "name": "León Benarós",
+          "viaf": "71470496"
+        }
       ]
     }
   },
@@ -22015,7 +30395,10 @@ var points = [
       "name": "Villach, Austria",
       "popupContent": "Villach, Austria",
       "affiliatedPeople": [
-        "Wilhelm Backhaus"
+        {
+          "name": "Wilhelm Backhaus",
+          "viaf": "64190901"
+        }
       ]
     }
   },
@@ -22032,7 +30415,10 @@ var points = [
       "name": "Villahermosa, Mexico",
       "popupContent": "Villahermosa, Mexico",
       "affiliatedPeople": [
-        "Celestino Gorostiza"
+        {
+          "name": "Celestino Gorostiza",
+          "viaf": "56659772"
+        }
       ]
     }
   },
@@ -22064,9 +30450,18 @@ var points = [
       "name": "Ville-d'Avray, France",
       "popupContent": "Ville-d'Avray, France",
       "affiliatedPeople": [
-        "Jean Rostand",
-        "Maurice Rostand",
-        "Pierre-Henri Simon"
+        {
+          "name": "Jean Rostand",
+          "viaf": "7396528"
+        },
+        {
+          "name": "Maurice Rostand",
+          "viaf": "56696044"
+        },
+        {
+          "name": "Pierre-Henri Simon",
+          "viaf": "29540777"
+        }
       ]
     }
   },
@@ -22083,7 +30478,10 @@ var points = [
       "name": "Villeblevin, France",
       "popupContent": "Villeblevin, France",
       "affiliatedPeople": [
-        "Albert Camus"
+        {
+          "name": "Albert Camus",
+          "viaf": "97000332"
+        }
       ]
     }
   },
@@ -22100,7 +30498,10 @@ var points = [
       "name": "Villeneuve-sur-Fere, France",
       "popupContent": "Villeneuve-sur-Fere, France",
       "affiliatedPeople": [
-        "Paul Claudel"
+        {
+          "name": "Paul Claudel",
+          "viaf": "100163516"
+        }
       ]
     }
   },
@@ -22117,7 +30518,10 @@ var points = [
       "name": "Villers-Cotterêts, France",
       "popupContent": "Villers-Cotterêts, France",
       "affiliatedPeople": [
-        "Alexandre Dumas"
+        {
+          "name": "Alexandre Dumas",
+          "viaf": "51688902"
+        }
       ]
     }
   },
@@ -22134,8 +30538,14 @@ var points = [
       "name": "Viña del Mar, Chile",
       "popupContent": "Viña del Mar, Chile",
       "affiliatedPeople": [
-        "María Luisa Bombal",
-        "Nora Grégor"
+        {
+          "name": "María Luisa Bombal",
+          "viaf": "112427097"
+        },
+        {
+          "name": "Nora Grégor",
+          "viaf": "29732362"
+        }
       ]
     }
   },
@@ -22152,7 +30562,10 @@ var points = [
       "name": "Vinzel, Switzerland",
       "popupContent": "Vinzel, Switzerland",
       "affiliatedPeople": [
-        "Carl Jacob Burckhardt"
+        {
+          "name": "Carl Jacob Burckhardt",
+          "viaf": "59079766"
+        }
       ]
     }
   },
@@ -22169,7 +30582,10 @@ var points = [
       "name": "Visp, Switzerland",
       "popupContent": "Visp, Switzerland",
       "affiliatedPeople": [
-        "Theodor W. Adorno"
+        {
+          "name": "Theodor W. Adorno",
+          "viaf": "95247377"
+        }
       ]
     }
   },
@@ -22186,8 +30602,14 @@ var points = [
       "name": "Vitoria-Gasteiz, Spain",
       "popupContent": "Vitoria-Gasteiz, Spain",
       "affiliatedPeople": [
-        "Ignacio Aldecoa",
-        "María de Maeztu"
+        {
+          "name": "Ignacio Aldecoa",
+          "viaf": "4961381"
+        },
+        {
+          "name": "María de Maeztu",
+          "viaf": "86877666"
+        }
       ]
     }
   },
@@ -22204,7 +30626,10 @@ var points = [
       "name": "Viveiro, Spain",
       "popupContent": "Viveiro, Spain",
       "affiliatedPeople": [
-        "Maruja Mallo"
+        {
+          "name": "Maruja Mallo",
+          "viaf": "86916506"
+        }
       ]
     }
   },
@@ -22221,7 +30646,10 @@ var points = [
       "name": "Volos, Greece",
       "popupContent": "Volos, Greece",
       "affiliatedPeople": [
-        "Giorgio de Chirico"
+        {
+          "name": "Giorgio de Chirico",
+          "viaf": "104172730"
+        }
       ]
     }
   },
@@ -22253,7 +30681,10 @@ var points = [
       "name": "Wallingford, Oxfordshire, United Kingdom",
       "popupContent": "Wallingford, Oxfordshire, United Kingdom",
       "affiliatedPeople": [
-        "Rex Warner"
+        {
+          "name": "Rex Warner",
+          "viaf": "100912192"
+        }
       ]
     }
   },
@@ -22270,7 +30701,10 @@ var points = [
       "name": "Warburg, Germany",
       "popupContent": "Warburg, Germany",
       "affiliatedPeople": [
-        "Eva H. Krapf"
+        {
+          "name": "Eva H. Krapf",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -22287,7 +30721,10 @@ var points = [
       "name": "Warrington, Cheshire, United Kingdom",
       "popupContent": "Warrington, Cheshire, United Kingdom",
       "affiliatedPeople": [
-        "John Guest"
+        {
+          "name": "John Guest",
+          "viaf": "46727750"
+        }
       ]
     }
   },
@@ -22304,10 +30741,22 @@ var points = [
       "name": "Warsaw, Poland",
       "popupContent": "Warsaw, Poland",
       "affiliatedPeople": [
-        "Jan Parandowski",
-        "Jean Paul Malaquais",
-        "Joseph Lichtenbaum",
-        "Léopold Infeld"
+        {
+          "name": "Jan Parandowski",
+          "viaf": "9851531"
+        },
+        {
+          "name": "Jean Paul Malaquais",
+          "viaf": "12369507"
+        },
+        {
+          "name": "Joseph Lichtenbaum",
+          "viaf": "34018614"
+        },
+        {
+          "name": "Léopold Infeld",
+          "viaf": "68930528"
+        }
       ]
     }
   },
@@ -22324,10 +30773,22 @@ var points = [
       "name": "Washington, D.C.",
       "popupContent": "Washington, D.C.",
       "affiliatedPeople": [
-        "Augusto José Durelli",
-        "Helen Hill Miller",
-        "Joseph Edward Davies",
-        "Mildred Barnes Bliss"
+        {
+          "name": "Augusto José Durelli",
+          "viaf": "113939641"
+        },
+        {
+          "name": "Helen Hill Miller",
+          "viaf": "112170138"
+        },
+        {
+          "name": "Joseph Edward Davies",
+          "viaf": "35365931"
+        },
+        {
+          "name": "Mildred Barnes Bliss",
+          "viaf": "69198540"
+        }
       ]
     }
   },
@@ -22344,7 +30805,10 @@ var points = [
       "name": "Wasserburg am Bodensee, Germany",
       "popupContent": "Wasserburg am Bodensee, Germany",
       "affiliatedPeople": [
-        "Martin Walser"
+        {
+          "name": "Martin Walser",
+          "viaf": "51697261"
+        }
       ]
     }
   },
@@ -22361,7 +30825,10 @@ var points = [
       "name": "Waterford, Connecticut",
       "popupContent": "Waterford, Connecticut",
       "affiliatedPeople": [
-        "Katherine Garrison Chapin Biddle"
+        {
+          "name": "Katherine Garrison Chapin Biddle",
+          "viaf": "45634544"
+        }
       ]
     }
   },
@@ -22378,7 +30845,10 @@ var points = [
       "name": "Watermael-Boitsfort, Belgium",
       "popupContent": "Watermael-Boitsfort, Belgium",
       "affiliatedPeople": [
-        "Paul Aloïse de Bock"
+        {
+          "name": "Paul Aloïse de Bock",
+          "viaf": "76314196"
+        }
       ]
     }
   },
@@ -22395,7 +30865,10 @@ var points = [
       "name": "Watertown, Wisconsin",
       "popupContent": "Watertown, Wisconsin",
       "affiliatedPeople": [
-        "Joseph Edward Davies"
+        {
+          "name": "Joseph Edward Davies",
+          "viaf": "35365931"
+        }
       ]
     }
   },
@@ -22412,7 +30885,10 @@ var points = [
       "name": "Watford, United Kingdom",
       "popupContent": "Watford, United Kingdom",
       "affiliatedPeople": [
-        "Anthony Berkeley"
+        {
+          "name": "Anthony Berkeley",
+          "viaf": "267374080"
+        }
       ]
     }
   },
@@ -22429,7 +30905,10 @@ var points = [
       "name": "Wednesbury, United Kingdom",
       "popupContent": "Wednesbury, United Kingdom",
       "affiliatedPeople": [
-        "Henry Treece"
+        {
+          "name": "Henry Treece",
+          "viaf": "7759774"
+        }
       ]
     }
   },
@@ -22446,7 +30925,10 @@ var points = [
       "name": "Węgrów, Poland",
       "popupContent": "Węgrów, Poland",
       "affiliatedPeople": [
-        "Ángel Rosemblat"
+        {
+          "name": "Ángel Rosemblat",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -22463,8 +30945,14 @@ var points = [
       "name": "Weimar, Germany",
       "popupContent": "Weimar, Germany",
       "affiliatedPeople": [
-        "Benjamin Crémieux",
-        "Johann Wolfgang von Goethe"
+        {
+          "name": "Benjamin Crémieux",
+          "viaf": "66619225"
+        },
+        {
+          "name": "Johann Wolfgang von Goethe",
+          "viaf": "24602065"
+        }
       ]
     }
   },
@@ -22481,7 +30969,10 @@ var points = [
       "name": "Weißenfels, Germany",
       "popupContent": "Weißenfels, Germany",
       "affiliatedPeople": [
-        "Friedrich Leopold von Hardenberg (Novalis)"
+        {
+          "name": "Friedrich Leopold von Hardenberg (Novalis)",
+          "viaf": "95155102"
+        }
       ]
     }
   },
@@ -22498,7 +30989,10 @@ var points = [
       "name": "Welbeck Abbey, United Kingdom",
       "popupContent": "Welbeck Abbey, United Kingdom",
       "affiliatedPeople": [
-        "Margaret Cavendish"
+        {
+          "name": "Margaret Cavendish",
+          "viaf": "29597878"
+        }
       ]
     }
   },
@@ -22515,7 +31009,10 @@ var points = [
       "name": "Wellington College, Berkshire, United Kingdom",
       "popupContent": "Wellington College, Berkshire, United Kingdom",
       "affiliatedPeople": [
-        "Edward Frederik Benson"
+        {
+          "name": "Edward Frederik Benson",
+          "viaf": "49221488"
+        }
       ]
     }
   },
@@ -22532,7 +31029,10 @@ var points = [
       "name": "Wernsdorf, Königs Wusterhausen, Germany",
       "popupContent": "Wernsdorf, Königs Wusterhausen, Germany",
       "affiliatedPeople": [
-        "Ludwig Beutin"
+        {
+          "name": "Ludwig Beutin",
+          "viaf": "5834479"
+        }
       ]
     }
   },
@@ -22549,8 +31049,14 @@ var points = [
       "name": "West Bromwich, United Kingdom",
       "popupContent": "West Bromwich, United Kingdom",
       "affiliatedPeople": [
-        "Charles Edmund Carrington",
-        "Raymond Bernard Cattell"
+        {
+          "name": "Charles Edmund Carrington",
+          "viaf": "111541212"
+        },
+        {
+          "name": "Raymond Bernard Cattell",
+          "viaf": "97724780"
+        }
       ]
     }
   },
@@ -22567,7 +31073,10 @@ var points = [
       "name": "West Chester, Pennsylvania",
       "popupContent": "West Chester, Pennsylvania",
       "affiliatedPeople": [
-        "Jay Monaghan"
+        {
+          "name": "Jay Monaghan",
+          "viaf": "98064319"
+        }
       ]
     }
   },
@@ -22584,7 +31093,10 @@ var points = [
       "name": "West Hampstead, London, United Kingdom",
       "popupContent": "West Hampstead, London, United Kingdom",
       "affiliatedPeople": [
-        "Evelyn Waugh"
+        {
+          "name": "Evelyn Waugh",
+          "viaf": "68937142"
+        }
       ]
     }
   },
@@ -22601,7 +31113,10 @@ var points = [
       "name": "West Hills, New York",
       "popupContent": "West Hills, New York",
       "affiliatedPeople": [
-        "Walt Whitman"
+        {
+          "name": "Walt Whitman",
+          "viaf": "2478331"
+        }
       ]
     }
   },
@@ -22618,7 +31133,10 @@ var points = [
       "name": "Westminster, Maryland",
       "popupContent": "Westminster, Maryland",
       "affiliatedPeople": [
-        "Whittaker Chambers"
+        {
+          "name": "Whittaker Chambers",
+          "viaf": "10658133"
+        }
       ]
     }
   },
@@ -22635,11 +31153,26 @@ var points = [
       "name": "Westminster, United Kingdom",
       "popupContent": "Westminster, United Kingdom",
       "affiliatedPeople": [
-        "Ben Jonson",
-        "Geoffrey Chaucer",
-        "Hugh Greene",
-        "Stephen Spender",
-        "William Blake"
+        {
+          "name": "Ben Jonson",
+          "viaf": "292789691"
+        },
+        {
+          "name": "Geoffrey Chaucer",
+          "viaf": "100185203"
+        },
+        {
+          "name": "Hugh Greene",
+          "viaf": "64799041"
+        },
+        {
+          "name": "Stephen Spender",
+          "viaf": "39398656"
+        },
+        {
+          "name": "William Blake",
+          "viaf": "54144439"
+        }
       ]
     }
   },
@@ -22656,9 +31189,18 @@ var points = [
       "name": "White Plains, New York",
       "popupContent": "White Plains, New York",
       "affiliatedPeople": [
-        "Frederic Dannay",
-        "Joseph Campbell",
-        "Waldo Frank"
+        {
+          "name": "Frederic Dannay",
+          "viaf": "107639550"
+        },
+        {
+          "name": "Joseph Campbell",
+          "viaf": "9844141"
+        },
+        {
+          "name": "Waldo Frank",
+          "viaf": "39413836"
+        }
       ]
     }
   },
@@ -22675,7 +31217,10 @@ var points = [
       "name": "White Sulphur Springs, Montana",
       "popupContent": "White Sulphur Springs, Montana",
       "affiliatedPeople": [
-        "Taylor Emmanuel Gordon"
+        {
+          "name": "Taylor Emmanuel Gordon",
+          "viaf": "73103341"
+        }
       ]
     }
   },
@@ -22692,7 +31237,10 @@ var points = [
       "name": "Wiederstedt, Germany",
       "popupContent": "Wiederstedt, Germany",
       "affiliatedPeople": [
-        "Friedrich Leopold von Hardenberg (Novalis)"
+        {
+          "name": "Friedrich Leopold von Hardenberg (Novalis)",
+          "viaf": "95155102"
+        }
       ]
     }
   },
@@ -22709,7 +31257,10 @@ var points = [
       "name": "Wiesbaden, Germany",
       "popupContent": "Wiesbaden, Germany",
       "affiliatedPeople": [
-        "Dolf Sternberger"
+        {
+          "name": "Dolf Sternberger",
+          "viaf": "108933329"
+        }
       ]
     }
   },
@@ -22726,7 +31277,10 @@ var points = [
       "name": "Wilmington, Delaware",
       "popupContent": "Wilmington, Delaware",
       "affiliatedPeople": [
-        "Robert Hillyer"
+        {
+          "name": "Robert Hillyer",
+          "viaf": "59464846"
+        }
       ]
     }
   },
@@ -22743,7 +31297,10 @@ var points = [
       "name": "Winsted, Winchester, Connecticut",
       "popupContent": "Winsted, Winchester, Connecticut",
       "affiliatedPeople": [
-        "Clarence Crane Brinton"
+        {
+          "name": "Clarence Crane Brinton",
+          "viaf": "66536579"
+        }
       ]
     }
   },
@@ -22760,7 +31317,10 @@ var points = [
       "name": "Worsbrough, United Kingdom",
       "popupContent": "Worsbrough, United Kingdom",
       "affiliatedPeople": [
-        "Leonard Elmhirst"
+        {
+          "name": "Leonard Elmhirst",
+          "viaf": "59920590"
+        }
       ]
     }
   },
@@ -22777,7 +31337,10 @@ var points = [
       "name": "Wrington, United Kingdom",
       "popupContent": "Wrington, United Kingdom",
       "affiliatedPeople": [
-        "John Locke"
+        {
+          "name": "John Locke",
+          "viaf": "34459614"
+        }
       ]
     }
   },
@@ -22794,8 +31357,14 @@ var points = [
       "name": "Wroclaw, Poland",
       "popupContent": "Wroclaw, Poland",
       "affiliatedPeople": [
-        "Emil Ludwig",
-        "Ernst Cassirer"
+        {
+          "name": "Emil Ludwig",
+          "viaf": "44454588"
+        },
+        {
+          "name": "Ernst Cassirer",
+          "viaf": "106965171"
+        }
       ]
     }
   },
@@ -22812,7 +31381,10 @@ var points = [
       "name": "Wuppertal, Germany",
       "popupContent": "Wuppertal, Germany",
       "affiliatedPeople": [
-        "Richard Neutra"
+        {
+          "name": "Richard Neutra",
+          "viaf": "66513638"
+        }
       ]
     }
   },
@@ -22829,7 +31401,10 @@ var points = [
       "name": "Würzburg, Germany",
       "popupContent": "Würzburg, Germany",
       "affiliatedPeople": [
-        "Yehuda Amijai"
+        {
+          "name": "Yehuda Amijai",
+          "viaf": "29529096"
+        }
       ]
     }
   },
@@ -22846,7 +31421,10 @@ var points = [
       "name": "Wyberslegh Hall, United Kingdom",
       "popupContent": "Wyberslegh Hall, United Kingdom",
       "affiliatedPeople": [
-        "Christopher Isherwood"
+        {
+          "name": "Christopher Isherwood",
+          "viaf": "76317308"
+        }
       ]
     }
   },
@@ -22863,7 +31441,10 @@ var points = [
       "name": "Yecla, Spain",
       "popupContent": "Yecla, Spain",
       "affiliatedPeople": [
-        "José Luis Castillo Puche"
+        {
+          "name": "José Luis Castillo Puche",
+          "viaf": "30571"
+        }
       ]
     }
   },
@@ -22880,7 +31461,10 @@ var points = [
       "name": "Yokohama, Japan",
       "popupContent": "Yokohama, Japan",
       "affiliatedPeople": [
-        "Ikuma Arishima (Arishima Mibuma)"
+        {
+          "name": "Ikuma Arishima (Arishima Mibuma)",
+          "viaf": "96588579"
+        }
       ]
     }
   },
@@ -22897,8 +31481,14 @@ var points = [
       "name": "York, United Kingdom",
       "popupContent": "York, United Kingdom",
       "affiliatedPeople": [
-        "Arnold J. Toynbee",
-        "Wystan Hugh Auden"
+        {
+          "name": "Arnold J. Toynbee",
+          "viaf": "54154945"
+        },
+        {
+          "name": "Wystan Hugh Auden",
+          "viaf": "2465832"
+        }
       ]
     }
   },
@@ -22915,7 +31505,10 @@ var points = [
       "name": "Zabolotiv, Ukraine",
       "popupContent": "Zabolotiv, Ukraine",
       "affiliatedPeople": [
-        "Manès Sperber"
+        {
+          "name": "Manès Sperber",
+          "viaf": "107026409"
+        }
       ]
     }
   },
@@ -22932,7 +31525,10 @@ var points = [
       "name": "Zagreb, Croatia",
       "popupContent": "Zagreb, Croatia",
       "affiliatedPeople": [
-        "Branimir Livadić"
+        {
+          "name": "Branimir Livadić",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -22949,7 +31545,10 @@ var points = [
       "name": "Zapotlán el Grande, México",
       "popupContent": "Zapotlán el Grande, México",
       "affiliatedPeople": [
-        "Guillermo Jiménez"
+        {
+          "name": "Guillermo Jiménez",
+          "viaf": ""
+        }
       ]
     }
   },
@@ -22966,9 +31565,18 @@ var points = [
       "name": "Zaragoza, Spain",
       "popupContent": "Zaragoza, Spain",
       "affiliatedPeople": [
-        "Antonio Fernández Molina",
-        "Juan Vicens de la Llave",
-        "Luis Aznar"
+        {
+          "name": "Antonio Fernández Molina",
+          "viaf": "79243247"
+        },
+        {
+          "name": "Juan Vicens de la Llave",
+          "viaf": "28841999"
+        },
+        {
+          "name": "Luis Aznar",
+          "viaf": "11208688"
+        }
       ]
     }
   },
@@ -22985,7 +31593,10 @@ var points = [
       "name": "Zichem, Belgium",
       "popupContent": "Zichem, Belgium",
       "affiliatedPeople": [
-        "Ernest Claes"
+        {
+          "name": "Ernest Claes",
+          "viaf": "71399529"
+        }
       ]
     }
   },
@@ -23002,14 +31613,38 @@ var points = [
       "name": "Zurich, Switzerland",
       "popupContent": "Zurich, Switzerland",
       "affiliatedPeople": [
-        "Alfredo Cahn",
-        "James Joyce",
-        "José (Pepe) Weissberger",
-        "Max Frisch",
-        "Robert Smythe Hichens",
-        "Thomas Mann",
-        "Walter Mehring",
-        "Werner Bock"
+        {
+          "name": "Alfredo Cahn",
+          "viaf": "72405782"
+        },
+        {
+          "name": "James Joyce",
+          "viaf": "44300643"
+        },
+        {
+          "name": "José (Pepe) Weissberger",
+          "viaf": ""
+        },
+        {
+          "name": "Max Frisch",
+          "viaf": "7390328"
+        },
+        {
+          "name": "Robert Smythe Hichens",
+          "viaf": "27093504"
+        },
+        {
+          "name": "Thomas Mann",
+          "viaf": "54151065"
+        },
+        {
+          "name": "Walter Mehring",
+          "viaf": "27068501"
+        },
+        {
+          "name": "Werner Bock",
+          "viaf": "27865142"
+        }
       ]
     }
   },
@@ -23026,7 +31661,10 @@ var points = [
       "name": "Zushi, Japan",
       "popupContent": "Zushi, Japan",
       "affiliatedPeople": [
-        "Yasunari Kawabata"
+        {
+          "name": "Yasunari Kawabata",
+          "viaf": "97450170"
+        }
       ]
     }
   }

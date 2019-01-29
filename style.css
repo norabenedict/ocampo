@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding:0;
-  font-family: Quicksand;
+  font-family: Garamond;
 }
 
 h1 {
@@ -27,8 +27,9 @@ h2 {
 
 #sidebar {
     height: 100%;
-    font-family: Quicksand;
+    font-family: Garamond;
     font-size: 40;
+    background: #eeeeef;
   }
 
 
@@ -260,7 +261,7 @@ p.bibliography {
   margin-right: 7vh;
   padding-top: 5px;
   font-size: 18px;
-  font-family: Quicksand;
+  font-family: Garamond;
 }
 
 .me {
@@ -281,7 +282,7 @@ p.bio {
   padding-top: 5px;
   font-size: 20px;
   text-align: right;
-  font-family: Quicksand;
+  font-family: Garamond;
 }
 
 .site-footer {
