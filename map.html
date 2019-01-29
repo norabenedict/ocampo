@@ -110,6 +110,8 @@ body {
                sidebarContent += ('<b>' + person.name + '</b><br/>')
                sidebarContent += ('<li>Birth date: ' + person.birthdate + '</li>')
                sidebarContent += ('<li>Death date: ' + person.deathdate + '</li>')
+               sidebarContent += ('<li>Occupation: ' + person.occupation.join(', ') + '</li>')
+               sidebarContent += ('<li>Sex: ' + person.sex + '</li>')
                sidebarContent += ('</ul>')
              })
              sidebar.setContent(sidebarContent)
