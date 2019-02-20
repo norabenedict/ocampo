@@ -43,19 +43,24 @@ body {
       <div class="logo" href="index.html">GLOBAL NETWORKS OF CULTURAL PRODUCTION &#8595;</div>
       <ul>
         <li><a class="nav-item" href="index.html">Home</a></li>
-        <li><a class="nav-item" href="map.html">Map</a></li>
+        <li><a class="nav-item" href="#">Maps</a>
+          <ul>
+            <li><a href="map.html">People Map</a></li>
+            <li><a href="map2.html">Choropleth Map</a></li>
+            </li></ul>
         <li><a class="nav-item" href="database_essay.html">Visual Essays</a>
             <ul>
               <li><a href="database_essay.html">Database Design</a></li>
               <li><a href="gendered_network_essay.html">Gendered Networks</a></li>
                 <li><a href="genre_distribution_essay.html">Genre Distribution</a></li>
       </ul>
-        <li><a class="nav-item" href="ocampos_sur_networks.html">About</a>
-          <ul>
-            <li><a href="ocampos_sur_networks.html"><i>Sur</i> and the Editorial Sur</a></li>
-            <li><a href="bibliography.html">Further Reading</a></li>
-            <li><a href="about.html">About Me</a></li>
-          </ul>
+      <li><a class="nav-item" href="#">About</a>
+        <ul>
+          <li><a href="ocampos_sur_networks.html"><i>Sur</i> and the Editorial Sur</a></li>
+          <li><a href="bibliography.html">Further Reading</a></li>
+          <li><a href="about.html">About Me</a></li>
+        </ul>
+      </ul>
     </nav>
   </div>
 
@@ -111,7 +116,7 @@ body {
                sidebarContent += ('<li>Birth date: ' + person.birthdate + '</li>')
                sidebarContent += ('<li>Death date: ' + person.deathdate + '</li>')
                sidebarContent += ('<li>Occupation: ' + person.occupation.join(', ') + '</li>')
-               sidebarContent += ('<li>Sex: ' + person.sex + '</li>')
+               sidebarContent += ('<li>' + person.sex + '</li>')
                sidebarContent += ('</ul>')
              })
              sidebar.setContent(sidebarContent)
@@ -128,6 +133,13 @@ body {
 
     map.on('click', function () {
       sidebar.hide()
+
+      map.on('zoomend', function() {
+        var currentZoom = map.getZoom();
+        var myRadius = currentZoom*(1/2); //or whatever ratio you prefer
+        var myWeight = currentZoom*(1/3); //or whatever ratio you prefer
+            //layername.setStyle({radius: myRadius, weight: setWeight});
+    });
 
     })
 

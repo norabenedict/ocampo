@@ -3139,7 +3139,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        35.5951,
+        -82.5515,
         35.5951
       ]
     },
