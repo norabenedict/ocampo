@@ -1,4 +1,4 @@
-var points = [
+var points =[
   {
     "type": "Feature",
     "geometry": {
@@ -52976,7 +52976,7 @@ var points = [
     "geometry": {
       "type": "Point",
       "coordinates": [
-        -03.4647,
+        -103.4647,
         19.7036
       ]
     },
