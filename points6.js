@@ -1,4 +1,4 @@
-var points =[
+var points = [
   {
     "type": "Feature",
     "geometry": {
@@ -1106,6 +1106,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -58.3889,
+        -34.8012
+      ]
+    },
+    "properties": {
+      "name": "Adrogué, Argentina",
+      "popupContent": "Adrogué, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "José María Monner Sans",
+          "birthdate": "1896-08-21",
+          "deathdate": "1987-03-31",
+          "occupation": [
+            "Professor",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         13.586,
         37.3094
       ]
@@ -1510,6 +1536,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        20.6421,
+        45.6201
+      ]
+    },
+    "properties": {
+      "name": "Aleksandrovo, Serbia",
+      "popupContent": "Aleksandrovo, Serbia",
+      "affiliatedPeople": [
+        {
+          "name": "Töhötöm Nagy",
+          "birthdate": "1908-06-23",
+          "deathdate": "1979-02-21",
+          "occupation": [
+            "Activist",
+            "Monk"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         4.0834,
         44.1272
       ]
@@ -1614,7 +1666,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        5.4562,
+        -5.4562,
         36.1408
       ]
     },
@@ -1684,6 +1736,15 @@ var points =[
           "occupation": [
             "Poet",
             "Playwright"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Gabriel Miró",
+          "birthdate": "1879-07-28",
+          "deathdate": "1930-05-27",
+          "occupation": [
+            "Writer"
           ],
           "sex": "Male"
         }
@@ -1827,6 +1888,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -78.6229,
+        -1.2543
+      ]
+    },
+    "properties": {
+      "name": "Ambato, Ecuador",
+      "popupContent": "Ambato, Ecuador",
+      "affiliatedPeople": [
+        {
+          "name": "Juan Montalvo",
+          "birthdate": "1882-04-13",
+          "deathdate": "1889-01-17",
+          "occupation": [
+            "Essayist",
+            "Author"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -73.5567918,
         41.8492599
       ]
@@ -1904,7 +1991,7 @@ var points =[
       "popupContent": "Amityville, New York",
       "affiliatedPeople": [
         {
-          "name": "Gorham Munson",
+          "name": "Gorham Bockhaven Munson",
           "birthdate": "1896-05-26",
           "deathdate": "1969-08-15",
           "occupation": [
@@ -2073,6 +2160,32 @@ var points =[
           "occupation": [
             "Professor",
             "Hispanist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.1251,
+        43.5804
+      ]
+    },
+    "properties": {
+      "name": "Antibes (Alpes-Maritimes), France",
+      "popupContent": "Antibes (Alpes-Maritimes), France",
+      "affiliatedPeople": [
+        {
+          "name": "Pierre Moreau",
+          "birthdate": "1895-08-22",
+          "deathdate": "1972-01-01",
+          "occupation": [
+            "Literary Critic",
+            "Professor"
           ],
           "sex": "Male"
         }
@@ -2943,6 +3056,98 @@ var points =[
             "Poet"
           ],
           "sex": ""
+        },
+        {
+          "name": "Jorge Masciangioli",
+          "birthdate": "1929-01-01",
+          "deathdate": "2003-12-06",
+          "occupation": [
+            "Director",
+            "Writer",
+            "Musician",
+            "Painter",
+            "Novelist",
+            "Short Story Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ángel Mazzei",
+          "birthdate": "1920-01-09",
+          "deathdate": "1997-07-03",
+          "occupation": [
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan Bautista Mihura",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "León Mirlas",
+          "birthdate": "1907-01-01",
+          "deathdate": "1990-01-01",
+          "occupation": [
+            "Writer",
+            "Translator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Adolfo Mitre",
+          "birthdate": "1910-01-01",
+          "deathdate": "1964-01-01",
+          "occupation": [
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ismael Moya",
+          "birthdate": "1900-01-01",
+          "deathdate": "1981-07-20",
+          "occupation": [
+            "Literary Critic",
+            "Professor",
+            "Literary Scholar"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Helena Muñoz Larreta",
+          "birthdate": "1904-05-05",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Simón Marcelo Neuschlosz",
+          "birthdate": "1893-01-01",
+          "deathdate": "1950-01-01",
+          "occupation": [
+            "Professor",
+            "Biologist",
+            "Physicist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Novión de los Ríos",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -3277,7 +3482,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        139.0426,
+        -139.0426,
         -9.8033
       ]
     },
@@ -3407,6 +3612,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        133.7751,
+        -25.2744
+      ]
+    },
+    "properties": {
+      "name": "Australia",
+      "popupContent": "Australia",
+      "affiliatedPeople": [
+        {
+          "name": "Deborah Newton",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Literary Critic",
+            "Professor",
+            "Literary Scholar"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         3.5738,
         47.7982
       ]
@@ -3514,6 +3746,17 @@ var points =[
             "Polemicist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Carola Oman",
+          "birthdate": "1897-05-11",
+          "deathdate": "1978-06-11",
+          "occupation": [
+            "Writer",
+            "Novelist",
+            "Biographer"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -3565,6 +3808,34 @@ var points =[
             "Professor",
             "Historian",
             "Art Historian"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.7199,
+        47.7167
+      ]
+    },
+    "properties": {
+      "name": "Bad Wiessee, Germany",
+      "popupContent": "Bad Wiessee, Germany",
+      "affiliatedPeople": [
+        {
+          "name": "Ludwig Marcuse",
+          "birthdate": "1894-02-08",
+          "deathdate": "1971-08-02",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Philosopher",
+            "Theatre Critic"
           ],
           "sex": "Male"
         }
@@ -3745,6 +4016,31 @@ var points =[
           "occupation": [
             "Playwright",
             "Short Story Writer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.8945,
+        48.4977
+      ]
+    },
+    "properties": {
+      "name": "Badonviller, France",
+      "popupContent": "Badonviller, France",
+      "affiliatedPeople": [
+        {
+          "name": "León Marchal",
+          "birthdate": "1900-06-08",
+          "deathdate": "1956-09-24",
+          "occupation": [
+            "Diplomat"
           ],
           "sex": "Male"
         }
@@ -4311,6 +4607,30 @@ var points =[
             "Sculptor"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Joan Maragall",
+          "birthdate": "1860-10-10",
+          "deathdate": "1911-12-20",
+          "occupation": [
+            "Poet",
+            "Translator",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Joan Merli y Pahissa",
+          "birthdate": "1901-05-22",
+          "deathdate": "1995-11-11",
+          "occupation": [
+            "Writer",
+            "Art Critic",
+            "Editor",
+            "Collector",
+            "Art Dealer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -4320,7 +4640,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        66.5384,
+        -66.5384,
         18.4547
       ]
     },
@@ -4350,8 +4670,8 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.0555,
-        3.1276
+        -4.0555,
+        43.1276
       ]
     },
     "properties": {
@@ -4564,6 +4884,32 @@ var points =[
             "Philosopher",
             "Psychologist",
             "Botanist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.359,
+        51.3811
+      ]
+    },
+    "properties": {
+      "name": "Bath, United Kingdom",
+      "popupContent": "Bath, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "Vernon Henry Mottram",
+          "birthdate": "1882-03-14",
+          "deathdate": "1976-03-11",
+          "occupation": [
+            "Physiologist",
+            "Nutritionist"
           ],
           "sex": "Male"
         }
@@ -4820,6 +5166,31 @@ var points =[
             "Translator",
             "Journalist",
             "Editor"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.5018,
+        33.8938
+      ]
+    },
+    "properties": {
+      "name": "Beirut, Lebanon",
+      "popupContent": "Beirut, Lebanon",
+      "affiliatedPeople": [
+        {
+          "name": "Fouad-Gabriel Naffah",
+          "birthdate": "1925-07-14",
+          "deathdate": "1983-05-19",
+          "occupation": [
+            "Poet"
           ],
           "sex": "Male"
         }
@@ -5569,6 +5940,29 @@ var points =[
             "Musicologist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Ludwig Marcuse",
+          "birthdate": "1894-02-08",
+          "deathdate": "1971-08-02",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Philosopher",
+            "Theatre Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Erich Neumann",
+          "birthdate": "1905-01-23",
+          "deathdate": "1960-11-05",
+          "occupation": [
+            "Writer",
+            "Philosopher",
+            "Psychologist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -6102,6 +6496,31 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        1.2911,
+        51.7156
+      ]
+    },
+    "properties": {
+      "name": "Boars Hill, United Kingdom",
+      "popupContent": "Boars Hill, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "Gilbert Murray",
+          "birthdate": "1866-01-02",
+          "deathdate": "1957-05-20",
+          "occupation": [
+            "Scholar"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -74.072092,
         4.7109886
       ]
@@ -6208,6 +6627,33 @@ var points =[
             "Historian",
             "Folklorist",
             "Ethnographer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4227,
+        54.9432
+      ]
+    },
+    "properties": {
+      "name": "Boldon, United Kingdom",
+      "popupContent": "Boldon, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "John Lynch",
+          "birthdate": "1927-01-11",
+          "deathdate": "2018-04-04",
+          "occupation": [
+            "Professor",
+            "Historian",
+            "Academic"
           ],
           "sex": "Male"
         }
@@ -6500,6 +6946,15 @@ var points =[
             "Critic"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Eugene O'Neill",
+          "birthdate": "1888-10-16",
+          "deathdate": "1953-11-27",
+          "occupation": [
+            "Playwright"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -6712,6 +7167,31 @@ var points =[
           "occupation": [
             "Politician",
             "Demagogue"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -51.9253,
+        -14.235
+      ]
+    },
+    "properties": {
+      "name": "Brazil",
+      "popupContent": "Brazil",
+      "affiliatedPeople": [
+        {
+          "name": "Rubén Navarra",
+          "birthdate": "1917-01-01",
+          "deathdate": "1955-01-01",
+          "occupation": [
+            "Art Critic"
           ],
           "sex": "Male"
         }
@@ -7343,21 +7823,6 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        26.1025,
-        44.4268
-      ]
-    },
-    "properties": {
-      "name": "Bucharest, Romania",
-      "popupContent": "Bucharest, Romania",
-      "affiliatedPeople": []
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
         26.1025384,
         44.4267674
       ]
@@ -7462,6 +7927,39 @@ var points =[
             "Art Critic",
             "Critic",
             "Art Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Karl Mannheim",
+          "birthdate": "1893-03-27",
+          "deathdate": "1947-01-09",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Sociologist",
+            "Academic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Töhötöm Nagy",
+          "birthdate": "1908-06-23",
+          "deathdate": "1979-02-21",
+          "occupation": [
+            "Activist",
+            "Monk"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Simón Marcelo Neuschlosz",
+          "birthdate": "1893-01-01",
+          "deathdate": "1950-01-01",
+          "occupation": [
+            "Professor",
+            "Biologist",
+            "Physicist"
           ],
           "sex": "Male"
         }
@@ -11011,6 +11509,290 @@ var points =[
             "Art Critic"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Jacques A. Mahieu",
+          "birthdate": "1915-10-31",
+          "deathdate": "1990-10-04",
+          "occupation": [
+            "Writer",
+            "Anthropologist",
+            "Academic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "María Teresa Maiorana",
+          "birthdate": "1913-12-07",
+          "deathdate": "1983-07-12",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Literary Scholar"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Tomás Maldonado",
+          "birthdate": "1922-04-25",
+          "deathdate": "2018-11-26",
+          "occupation": [
+            "Painter",
+            "Philosopher",
+            "Designer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Inés Malinow",
+          "birthdate": "1922-04-17",
+          "deathdate": "2016-12-19",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Ballet Critic"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Juan José Manauta",
+          "birthdate": "1919-12-14",
+          "deathdate": "2013-04-23",
+          "occupation": [
+            "Writer",
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Carlos Enrique Marchi",
+          "birthdate": "1930-09-30",
+          "deathdate": "2004-12-23",
+          "occupation": [
+            "Actor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jorge Masciangioli",
+          "birthdate": "1929-01-01",
+          "deathdate": "2003-12-06",
+          "occupation": [
+            "Director",
+            "Writer",
+            "Musician",
+            "Painter",
+            "Novelist",
+            "Short Story Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Víctor Massuh",
+          "birthdate": "1924-02-25",
+          "deathdate": "2008-11-18",
+          "occupation": [
+            "Philosopher",
+            "Professor",
+            "Ambassador"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Abel Mateo",
+          "birthdate": "1913-01-01",
+          "deathdate": "",
+          "occupation": [
+            "Novelist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jorge Mejía",
+          "birthdate": "1923-01-31",
+          "deathdate": "2014-12-09",
+          "occupation": [
+            "Priest",
+            "Cardinal"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "María Esther de Miguel",
+          "birthdate": "1929-11-01",
+          "deathdate": "2003-07-27",
+          "occupation": [
+            "Writer",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "José María Miró",
+          "birthdate": "1867-01-01",
+          "deathdate": "1896-01-01",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jorge A. Mitre",
+          "birthdate": "1884-07-03",
+          "deathdate": "1966-06-03",
+          "occupation": [
+            "Editor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jorge Enrique Móbili",
+          "birthdate": "1927-03-02",
+          "deathdate": "1994-01-01",
+          "occupation": [
+            "Poet",
+            "Literary Journal Director"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Rodolfo E. Modern",
+          "birthdate": "1922-07-22",
+          "deathdate": "2016-03-22",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José María Monner Sans",
+          "birthdate": "1896-08-21",
+          "deathdate": "1987-03-31",
+          "occupation": [
+            "Professor",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Raúl Monsegur",
+          "birthdate": "1913-07-30",
+          "deathdate": "1963-12-30",
+          "occupation": [
+            "Poet",
+            "Musician",
+            "Painter",
+            "Artist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Luis Miguel Morea",
+          "birthdate": "1921-04-23",
+          "deathdate": "2003-11-08",
+          "occupation": [
+            "Architect"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Manuel Mujica Láinez",
+          "birthdate": "1910-09-11",
+          "deathdate": "1984-04-21",
+          "occupation": [
+            "Essayist",
+            "Novelist",
+            "Art Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Laura Mulhall Girondo",
+          "birthdate": "1912-01-01",
+          "deathdate": "1975-01-01",
+          "occupation": [
+            "Painter",
+            "Artist"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Luis Alberto Murray",
+          "birthdate": "1923-01-01",
+          "deathdate": "2002-08-08",
+          "occupation": [
+            "Poet",
+            "Journalist",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Luis Felipe Noé",
+          "birthdate": "1933-05-26",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Intellectual",
+            "Teacher",
+            "Artist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Martín Alberto Noel",
+          "birthdate": "1919-03-28",
+          "deathdate": "2001-02-19",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Adolfo de Obieta",
+          "birthdate": "1912-01-01",
+          "deathdate": "2002-02-26",
+          "occupation": [
+            "Writer",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Guillermo Orce Remis",
+          "birthdate": "1917-01-01",
+          "deathdate": "1998-10-05",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Olga Orozco",
+          "birthdate": "1920-03-17",
+          "deathdate": "1999-08-15",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Elvira Orphée",
+          "birthdate": "1930-05-29",
+          "deathdate": "2018-04-26",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -12252,6 +13034,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        1.9533,
+        43.3171
+      ]
+    },
+    "properties": {
+      "name": "Castelnaudary, France",
+      "popupContent": "Castelnaudary, France",
+      "affiliatedPeople": [
+        {
+          "name": "Jacques Madaule",
+          "birthdate": "1898-10-11",
+          "deathdate": "1993-03-19",
+          "occupation": [
+            "Writer",
+            "Intellectual",
+            "Politician"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         15.083,
         37.5079
       ]
@@ -12513,6 +13322,32 @@ var points =[
             "Translator",
             "Scholar",
             "Linguist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.155,
+        50.8715
+      ]
+    },
+    "properties": {
+      "name": "Chalvington with Ripe, United Kingdom",
+      "popupContent": "Chalvington with Ripe, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "Malcom Lowry",
+          "birthdate": "1909-07-28",
+          "deathdate": "1957-06-26",
+          "occupation": [
+            "Poet",
+            "Novelist"
           ],
           "sex": "Male"
         }
@@ -13104,6 +13939,18 @@ var points =[
             "Priest"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Raúl Monsegur",
+          "birthdate": "1913-07-30",
+          "deathdate": "1963-12-30",
+          "occupation": [
+            "Poet",
+            "Musician",
+            "Painter",
+            "Artist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -13563,6 +14410,17 @@ var points =[
             "Board Member"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Robert G. Mead, Jr.",
+          "birthdate": "1913-12-30",
+          "deathdate": "1995-10-21",
+          "occupation": [
+            "Professor",
+            "Scholar",
+            "Hispanist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -14456,6 +15314,25 @@ var points =[
             "Lawyer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Alfredo Martínez Howard",
+          "birthdate": "1910-09-23",
+          "deathdate": "1968-08-26",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Raúl A. Orgaz",
+          "birthdate": "1888-11-30",
+          "deathdate": "1948-01-01",
+          "occupation": [
+            "Writer",
+            "Professor"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -14919,7 +15796,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        78.7625,
+        -78.7625,
         39.6529
       ]
     },
@@ -15223,7 +16100,7 @@ var points =[
       "type": "Point",
       "coordinates": [
         33.6972,
-        33.6972
+        35.5606
       ]
     },
     "properties": {
@@ -15388,7 +16265,7 @@ var points =[
       "popupContent": "Dessau, Germany",
       "affiliatedPeople": [
         {
-          "name": "Max Muller",
+          "name": "Max Müller",
           "birthdate": "1823-12-06",
           "deathdate": "1900-10-28",
           "occupation": [
@@ -15500,6 +16377,35 @@ var points =[
             "Poet"
           ],
           "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.3705,
+        44.751
+      ]
+    },
+    "properties": {
+      "name": "Die, France",
+      "popupContent": "Die, France",
+      "affiliatedPeople": [
+        {
+          "name": "Georges Navel",
+          "birthdate": "1904-10-30",
+          "deathdate": "1993-11-01",
+          "occupation": [
+            "Writer",
+            "Farm Worker",
+            "Printer",
+            "Socialist",
+            "Beekeeper"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -15622,6 +16528,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -57.6753,
+        -36.3152
+      ]
+    },
+    "properties": {
+      "name": "Dolores, Buenos Aires, Argentina",
+      "popupContent": "Dolores, Buenos Aires, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "Ismael Moya",
+          "birthdate": "1900-01-01",
+          "deathdate": "1981-07-20",
+          "occupation": [
+            "Literary Critic",
+            "Professor",
+            "Literary Scholar"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         1.217048,
         44.801305
       ]
@@ -15661,6 +16594,31 @@ var points =[
           "deathdate": "1942-03-23",
           "occupation": [
             "President"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.5507,
+        33.8938
+      ]
+    },
+    "properties": {
+      "name": "Dora, Lebanon",
+      "popupContent": "Dora, Lebanon",
+      "affiliatedPeople": [
+        {
+          "name": "Fouad-Gabriel Naffah",
+          "birthdate": "1925-07-14",
+          "deathdate": "1983-05-19",
+          "occupation": [
+            "Poet"
           ],
           "sex": "Male"
         }
@@ -17029,6 +17987,16 @@ var points =[
             "Playwright"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Katherine Mansfield",
+          "birthdate": "1888-10-14",
+          "deathdate": "1923-01-09",
+          "occupation": [
+            "Writer",
+            "Short Story Writer"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -17440,6 +18408,17 @@ var points =[
           "deathdate": "2017-01-01",
           "occupation": [
             "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jacques A. Mahieu",
+          "birthdate": "1915-10-31",
+          "deathdate": "1990-10-04",
+          "occupation": [
+            "Writer",
+            "Anthropologist",
+            "Academic"
           ],
           "sex": "Male"
         }
@@ -18223,6 +19202,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        8.9463,
+        44.4056
+      ]
+    },
+    "properties": {
+      "name": "Genoa, Italy",
+      "popupContent": "Genoa, Italy",
+      "affiliatedPeople": [
+        {
+          "name": "Eugenio Montale",
+          "birthdate": "1896-10-12",
+          "deathdate": "1981-09-12",
+          "occupation": [
+            "Poet",
+            "Translator",
+            "Editor"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         10.4515,
         51.1657
       ]
@@ -18256,6 +19262,16 @@ var points =[
           "deathdate": "1974-01-01",
           "occupation": [
             "Playwright"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan Mantovani",
+          "birthdate": "1898-10-14",
+          "deathdate": "1961-12-05",
+          "occupation": [
+            "Professor",
+            "Academic"
           ],
           "sex": "Male"
         }
@@ -18371,6 +19387,34 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        9.2043,
+        45.9813
+      ]
+    },
+    "properties": {
+      "name": "Giulino, Azzano, Italy",
+      "popupContent": "Giulino, Azzano, Italy",
+      "affiliatedPeople": [
+        {
+          "name": "Benito Mussolini",
+          "birthdate": "1883-07-29",
+          "deathdate": "1945-04-28",
+          "occupation": [
+            "Politician",
+            "Journalist",
+            "Prime Minister",
+            "Dictator"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -4.2518,
         55.8642
       ]
@@ -18400,6 +19444,26 @@ var points =[
           "occupation": [
             "Anthropologist",
             "Folklorist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Edwin Morgan",
+          "birthdate": "1920-04-27",
+          "deathdate": "2010-08-17",
+          "occupation": [
+            "Poet",
+            "Translator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "John Ramsay Allardyce Nicoll",
+          "birthdate": "1894-06-28",
+          "deathdate": "1976-04-17",
+          "occupation": [
+            "Professor",
+            "Literary Scholar"
           ],
           "sex": "Male"
         }
@@ -18757,6 +19821,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        77.504,
+        28.4744
+      ]
+    },
+    "properties": {
+      "name": "Greater Noida, India",
+      "popupContent": "Greater Noida, India",
+      "affiliatedPeople": [
+        {
+          "name": "Amita Malik",
+          "birthdate": "1921-01-01",
+          "deathdate": "2009-02-20",
+          "occupation": [
+            "Film Critic",
+            "Television Critic"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -82.394,
         34.8526
       ]
@@ -19009,6 +20099,16 @@ var points =[
             "Essayist",
             "Poet",
             "Author"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan José Manauta",
+          "birthdate": "1919-12-14",
+          "deathdate": "2013-04-23",
+          "occupation": [
+            "Writer",
+            "Poet"
           ],
           "sex": "Male"
         }
@@ -19302,6 +20402,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        91.7362,
+        26.1445
+      ]
+    },
+    "properties": {
+      "name": "Guwahati, India",
+      "popupContent": "Guwahati, India",
+      "affiliatedPeople": [
+        {
+          "name": "Amita Malik",
+          "birthdate": "1921-01-01",
+          "deathdate": "2009-02-20",
+          "occupation": [
+            "Film Critic",
+            "Television Critic"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -0.591,
         43.6571
       ]
@@ -19344,6 +20470,31 @@ var points =[
           "occupation": [
             "Poet",
             "Critic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        9.9937,
+        53.5511
+      ]
+    },
+    "properties": {
+      "name": "Hamburg, Germany",
+      "popupContent": "Hamburg, Germany",
+      "affiliatedPeople": [
+        {
+          "name": "Hans Erich Nossack",
+          "birthdate": "1901-01-30",
+          "deathdate": "1977-11-02",
+          "occupation": [
+            "Writer"
           ],
           "sex": "Male"
         }
@@ -19529,20 +20680,31 @@ var points =[
       "popupContent": "Hartford, Connecticut",
       "affiliatedPeople": [
         {
-          "name": "Gorham Munson",
-          "birthdate": "1896-05-26",
-          "deathdate": "1969-08-15",
-          "occupation": [
-            "Literary Critic"
-          ],
-          "sex": "Male"
-        },
-        {
           "name": "Wallace Stevens",
           "birthdate": "1879-10-02",
           "deathdate": "1955-08-02",
           "occupation": [
             "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Robert G. Mead, Jr.",
+          "birthdate": "1913-12-30",
+          "deathdate": "1995-10-21",
+          "occupation": [
+            "Professor",
+            "Scholar",
+            "Hispanist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Gorham Bockhaven Munson",
+          "birthdate": "1896-05-26",
+          "deathdate": "1969-08-15",
+          "occupation": [
+            "Literary Critic"
           ],
           "sex": "Male"
         }
@@ -19670,6 +20832,17 @@ var points =[
           "deathdate": "1965-01-25",
           "occupation": [
             "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Joaquín Nin y Castellanos",
+          "birthdate": "1879-09-29",
+          "deathdate": "1949-10-24",
+          "occupation": [
+            "Musician",
+            "Composer",
+            "Pianist"
           ],
           "sex": "Male"
         }
@@ -20167,6 +21340,16 @@ var points =[
             "Psychologist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Prithwish Neogy",
+          "birthdate": "1918-01-15",
+          "deathdate": "1991-03-21",
+          "occupation": [
+            "Professor",
+            "Art Historian"
+          ],
+          "sex": ""
         }
       ]
     }
@@ -20875,6 +22058,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        2.2743,
+        48.8245
+      ]
+    },
+    "properties": {
+      "name": "Issy-les-Moulineaux, France",
+      "popupContent": "Issy-les-Moulineaux, France",
+      "affiliatedPeople": [
+        {
+          "name": "Jacques Madaule",
+          "birthdate": "1898-10-11",
+          "deathdate": "1993-03-19",
+          "occupation": [
+            "Writer",
+            "Intellectual",
+            "Politician"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -43.2316,
         -19.6244
       ]
@@ -21067,6 +22277,16 @@ var points =[
           "deathdate": "1912-04-13",
           "occupation": [
             "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Kenji Miyazawa",
+          "birthdate": "1896-08-27",
+          "deathdate": "1933-09-21",
+          "occupation": [
+            "Poet",
+            "Author"
           ],
           "sex": "Male"
         }
@@ -21965,6 +23185,37 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        76.2711,
+        10.8505
+      ]
+    },
+    "properties": {
+      "name": "Kerala, India",
+      "popupContent": "Kerala, India",
+      "affiliatedPeople": [
+        {
+          "name": "V. K. Narayana Menon",
+          "birthdate": "1911-01-01",
+          "deathdate": "1997-08-11",
+          "occupation": [
+            "Writer",
+            "Composer",
+            "Art Critic",
+            "Scholar",
+            "Broadcaster",
+            "Music Critic",
+            "Dance Critic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         9.3177304,
         47.5935362
       ]
@@ -22647,6 +23898,16 @@ var points =[
             "Politician"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Prithwish Neogy",
+          "birthdate": "1918-01-15",
+          "deathdate": "1991-03-21",
+          "occupation": [
+            "Professor",
+            "Art Historian"
+          ],
+          "sex": ""
         }
       ]
     }
@@ -22777,6 +24038,18 @@ var points =[
           "deathdate": "1968-01-15",
           "occupation": [
             "Physicist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Czeslaw Milosz",
+          "birthdate": "1911-06-30",
+          "deathdate": "2004-08-14",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Translator",
+            "Diplomat"
           ],
           "sex": "Male"
         }
@@ -22976,6 +24249,17 @@ var points =[
             "President"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Ramón Menéndez Pidal",
+          "birthdate": "1869-03-13",
+          "deathdate": "1968-11-14",
+          "occupation": [
+            "Professor",
+            "Philologist",
+            "Historian"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -22999,6 +24283,17 @@ var points =[
           "deathdate": "2015-11-24",
           "occupation": [
             "Painter"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Manuel Mujica Láinez",
+          "birthdate": "1910-09-11",
+          "deathdate": "1984-04-21",
+          "occupation": [
+            "Essayist",
+            "Novelist",
+            "Art Critic"
           ],
           "sex": "Male"
         }
@@ -23598,6 +24893,60 @@ var points =[
             "Art Critic",
             "Editor",
             "Editorial Director"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -58.9978,
+        -33.0351
+      ]
+    },
+    "properties": {
+      "name": "Larroque, Entre Ríos Province, Argentina",
+      "popupContent": "Larroque, Entre Ríos Province, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "María Esther de Miguel",
+          "birthdate": "1929-11-01",
+          "deathdate": "2003-07-27",
+          "occupation": [
+            "Writer",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.0119,
+        43.3255
+      ]
+    },
+    "properties": {
+      "name": "Las Arenas, Bilbao, Spain",
+      "popupContent": "Las Arenas, Bilbao, Spain",
+      "affiliatedPeople": [
+        {
+          "name": "Antón Menchaca Careaga",
+          "birthdate": "1921-07-15",
+          "deathdate": "2002-07-01",
+          "occupation": [
+            "Writer",
+            "Military Officer",
+            "Salon hostess",
+            "Sailor"
           ],
           "sex": "Male"
         }
@@ -24276,7 +25625,36 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        1.8317,
+        17.2283,
+        26.3351
+      ]
+    },
+    "properties": {
+      "name": "Libya",
+      "popupContent": "Libya",
+      "affiliatedPeople": [
+        {
+          "name": "Antoine Mechawar",
+          "birthdate": "1936-01-01",
+          "deathdate": "1975-01-01",
+          "occupation": [
+            "Poet",
+            "Painter",
+            "Film Director",
+            "Filmmaker",
+            "Film Producer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.8317,
         52.6816
       ]
     },
@@ -25653,6 +27031,60 @@ var points =[
             "Novelist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "John Mander",
+          "birthdate": "1932-05-28",
+          "deathdate": "1978-09-02",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Translator",
+            "Political Commentator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Karl Mannheim",
+          "birthdate": "1893-03-27",
+          "deathdate": "1947-01-09",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Sociologist",
+            "Academic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "John Milton",
+          "birthdate": "1608-12-09",
+          "deathdate": "1674-11-08",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Nancy Mitford",
+          "birthdate": "1904-11-28",
+          "deathdate": "1973-06-30",
+          "occupation": [
+            "Novelist",
+            "Journalist",
+            "Biographer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Nigel Nicolson",
+          "birthdate": "1917-01-19",
+          "deathdate": "2004-09-23",
+          "occupation": [
+            "Publisher",
+            "Politician"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -25837,6 +27269,16 @@ var points =[
             "Screenwriter",
             "Film Director",
             "Film Producer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Robert Nathan",
+          "birthdate": "1894-01-02",
+          "deathdate": "1985-05-25",
+          "occupation": [
+            "Poet",
+            "Novelist"
           ],
           "sex": "Male"
         }
@@ -26967,6 +28409,46 @@ var points =[
             "Editor"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Julián Marías",
+          "birthdate": "1914-06-17",
+          "deathdate": "2005-12-15",
+          "occupation": [
+            "Writer",
+            "Philosopher",
+            "Academic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ramón Menéndez Pidal",
+          "birthdate": "1869-03-13",
+          "deathdate": "1968-11-14",
+          "occupation": [
+            "Professor",
+            "Philologist",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Gabriel Miró",
+          "birthdate": "1879-07-28",
+          "deathdate": "1930-05-27",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Eugenio de Nora",
+          "birthdate": "1923-11-13",
+          "deathdate": "2018-05-02",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -26990,6 +28472,31 @@ var points =[
           "deathdate": "1942-05-11",
           "occupation": [
             "Writer",
+            "Poet"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -6.0739,
+        42.5402
+      ]
+    },
+    "properties": {
+      "name": "Magaz de Cepeda, Spain",
+      "popupContent": "Magaz de Cepeda, Spain",
+      "affiliatedPeople": [
+        {
+          "name": "Eugenio de Nora",
+          "birthdate": "1923-11-13",
+          "deathdate": "2018-05-02",
+          "occupation": [
             "Poet"
           ],
           "sex": "Male"
@@ -27579,6 +29086,19 @@ var points =[
             "Hispanist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Leonard B. Meyer",
+          "birthdate": "1918-01-12",
+          "deathdate": "2007-12-30",
+          "occupation": [
+            "Author",
+            "Philosopher",
+            "Composer",
+            "Professor",
+            "Musicologist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -27818,7 +29338,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        7.9811,
+        -7.9811,
         31.6295
       ]
     },
@@ -27936,6 +29456,32 @@ var points =[
           "occupation": [
             "Writer",
             "Literary Critic",
+            "Politician"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        136.2721,
+        36.1524
+      ]
+    },
+    "properties": {
+      "name": "Maruoka, Japan",
+      "popupContent": "Maruoka, Japan",
+      "affiliatedPeople": [
+        {
+          "name": "Shigeharu Nakano",
+          "birthdate": "1902-01-25",
+          "deathdate": "1979-08-24",
+          "occupation": [
+            "Author",
             "Politician"
           ],
           "sex": "Male"
@@ -28238,7 +29784,7 @@ var points =[
       "type": "Point",
       "coordinates": [
         144.9631,
-        37.8136
+        -37.8136
       ]
     },
     "properties": {
@@ -28439,6 +29985,33 @@ var points =[
           "occupation": [
             "Writer",
             "Monk"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.4975,
+        43.7745
+      ]
+    },
+    "properties": {
+      "name": "Menton, France",
+      "popupContent": "Menton, France",
+      "affiliatedPeople": [
+        {
+          "name": "Charles Morice",
+          "birthdate": "1860-05-15",
+          "deathdate": "1919-03-18",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet"
           ],
           "sex": "Male"
         }
@@ -28999,6 +30572,16 @@ var points =[
             "Poet"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Marco Antonio Montes de Oca",
+          "birthdate": "1932-08-03",
+          "deathdate": "2009-02-07",
+          "occupation": [
+            "Poet",
+            "Painter"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -29235,6 +30818,17 @@ var points =[
           "occupation": [
             "Writer",
             "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Eugenio Montale",
+          "birthdate": "1896-10-12",
+          "deathdate": "1981-09-12",
+          "occupation": [
+            "Poet",
+            "Translator",
+            "Editor"
           ],
           "sex": "Male"
         }
@@ -29504,6 +31098,34 @@ var points =[
           "occupation": [
             "Philosopher",
             "Professor"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        30.3314,
+        53.9007
+      ]
+    },
+    "properties": {
+      "name": "Mogilev, Belarus",
+      "popupContent": "Mogilev, Belarus",
+      "affiliatedPeople": [
+        {
+          "name": "Oscar Vladislas de Lubicz Milosz",
+          "birthdate": "1877-05-28",
+          "deathdate": "1939-03-02",
+          "occupation": [
+            "Essayist",
+            "Poet",
+            "Novelist",
+            "Playwright"
           ],
           "sex": "Male"
         }
@@ -30364,6 +31986,39 @@ var points =[
             "Playwright"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Isidro Más de Ayala",
+          "birthdate": "1899-05-15",
+          "deathdate": "1960-01-01",
+          "occupation": [
+            "Writer",
+            "Psychiatrist",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Paulina Medeiros",
+          "birthdate": "1905-01-01",
+          "deathdate": "1992-01-01",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Novelist",
+            "Playwright",
+            "Short Story Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Arsinoe Moratorio",
+          "birthdate": "1910-01-01",
+          "deathdate": "1994-01-01",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -30542,6 +32197,15 @@ var points =[
           "name": "Irving Layton",
           "birthdate": "1912-03-12",
           "deathdate": "2006-01-04",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Émile Nelligan",
+          "birthdate": "1879-12-24",
+          "deathdate": "1941-11-18",
           "occupation": [
             "Poet"
           ],
@@ -31835,6 +33499,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -3.0508,
+        53.4355
+      ]
+    },
+    "properties": {
+      "name": "New Brighton, Wallasey, United Kingdom",
+      "popupContent": "New Brighton, Wallasey, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "Malcom Lowry",
+          "birthdate": "1909-07-28",
+          "deathdate": "1957-06-26",
+          "occupation": [
+            "Poet",
+            "Novelist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         77.208889,
         28.613889
       ]
@@ -31859,6 +33549,21 @@ var points =[
           "deathdate": "1948-01-30",
           "occupation": [
             "Civil Rights Leader"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "V. K. Narayana Menon",
+          "birthdate": "1911-01-01",
+          "deathdate": "1997-08-11",
+          "occupation": [
+            "Writer",
+            "Composer",
+            "Art Critic",
+            "Scholar",
+            "Broadcaster",
+            "Music Critic",
+            "Dance Critic"
           ],
           "sex": "Male"
         }
@@ -32634,6 +34339,71 @@ var points =[
             "Writer",
             "Journalist",
             "Biographer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Herman Melville",
+          "birthdate": "1819-08-01",
+          "deathdate": "1891-09-28",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Novelist",
+            "Short Story Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Leonard B. Meyer",
+          "birthdate": "1918-01-12",
+          "deathdate": "2007-12-30",
+          "occupation": [
+            "Author",
+            "Philosopher",
+            "Composer",
+            "Professor",
+            "Musicologist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arthur Miller",
+          "birthdate": "1915-10-17",
+          "deathdate": "2005-02-10",
+          "occupation": [
+            "Essayist",
+            "Playwright"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Robert Nathan",
+          "birthdate": "1894-01-02",
+          "deathdate": "1985-05-25",
+          "occupation": [
+            "Poet",
+            "Novelist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "James Newman",
+          "birthdate": "1907-01-01",
+          "deathdate": "1966-01-01",
+          "occupation": [
+            "Lawyer",
+            "Historian",
+            "Mathematician"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Eugene O'Neill",
+          "birthdate": "1888-10-16",
+          "deathdate": "1953-11-27",
+          "occupation": [
+            "Playwright"
           ],
           "sex": "Male"
         }
@@ -33674,7 +35444,7 @@ var points =[
           "sex": "Male"
         },
         {
-          "name": "Max Muller",
+          "name": "Max Müller",
           "birthdate": "1823-12-06",
           "deathdate": "1900-10-28",
           "occupation": [
@@ -33777,6 +35547,17 @@ var points =[
             "Theologian"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Carola Oman",
+          "birthdate": "1897-05-11",
+          "deathdate": "1978-06-11",
+          "occupation": [
+            "Writer",
+            "Novelist",
+            "Biographer"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -34055,6 +35836,15 @@ var points =[
             "Novelist",
             "Biographer",
             "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alfredo Martínez Howard",
+          "birthdate": "1910-09-23",
+          "deathdate": "1968-08-26",
+          "occupation": [
+            "Poet"
           ],
           "sex": "Male"
         }
@@ -36033,6 +37823,59 @@ var points =[
             "Philosopher"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Alexis Roland-Manuel",
+          "birthdate": "1891-03-22",
+          "deathdate": "1966-11-01",
+          "occupation": [
+            "Composer",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jean Massin",
+          "birthdate": "1917-11-05",
+          "deathdate": "1986-07-03",
+          "occupation": [
+            "Historian",
+            "Musicologist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Nancy Mitford",
+          "birthdate": "1904-11-28",
+          "deathdate": "1973-06-30",
+          "occupation": [
+            "Novelist",
+            "Journalist",
+            "Biographer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Juan Montalvo",
+          "birthdate": "1882-04-13",
+          "deathdate": "1889-01-17",
+          "occupation": [
+            "Essayist",
+            "Author"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Maurice Nadeau",
+          "birthdate": "1911-05-21",
+          "deathdate": "2013-06-16",
+          "occupation": [
+            "Writer",
+            "Literary Critic",
+            "Teacher",
+            "Editor"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -36169,8 +38012,8 @@ var points =[
       ]
     },
     "properties": {
-      "name": "Paysandu, Uruguay",
-      "popupContent": "Paysandu, Uruguay",
+      "name": "Paysandú, Uruguay",
+      "popupContent": "Paysandú, Uruguay",
       "affiliatedPeople": [
         {
           "name": "Fernando Pereda",
@@ -37391,6 +39234,35 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        6.0549,
+        48.9033
+      ]
+    },
+    "properties": {
+      "name": "Pont-à-Mousson, France",
+      "popupContent": "Pont-à-Mousson, France",
+      "affiliatedPeople": [
+        {
+          "name": "Georges Navel",
+          "birthdate": "1904-10-30",
+          "deathdate": "1993-11-01",
+          "occupation": [
+            "Writer",
+            "Farm Worker",
+            "Printer",
+            "Socialist",
+            "Beekeeper"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -3.162961,
         48.6972499
       ]
@@ -37497,7 +39369,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        8.6291,
+        -8.6291,
         41.1579
       ]
     },
@@ -37663,6 +39535,37 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        2.4232,
+        42.6177
+      ]
+    },
+    "properties": {
+      "name": "Prades, France",
+      "popupContent": "Prades, France",
+      "affiliatedPeople": [
+        {
+          "name": "Thomas Merton",
+          "birthdate": "1915-01-31",
+          "deathdate": "1968-12-10",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Scholar",
+            "Theologian",
+            "Activist",
+            "Monk",
+            "Mystic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         14.4378005,
         50.0755381
       ]
@@ -37701,6 +39604,61 @@ var points =[
             "Writer",
             "Novelist",
             "Short Story Writer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.1022,
+        43.8777
+      ]
+    },
+    "properties": {
+      "name": "Prato, Italy",
+      "popupContent": "Prato, Italy",
+      "affiliatedPeople": [
+        {
+          "name": "Curzio Malaparte",
+          "birthdate": "1898-06-09",
+          "deathdate": "1957-07-19",
+          "occupation": [
+            "Writer",
+            "Diplomat",
+            "Filmmaker"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.9816,
+        44.1067
+      ]
+    },
+    "properties": {
+      "name": "Predappio, Italy",
+      "popupContent": "Predappio, Italy",
+      "affiliatedPeople": [
+        {
+          "name": "Benito Mussolini",
+          "birthdate": "1883-07-29",
+          "deathdate": "1945-04-28",
+          "occupation": [
+            "Politician",
+            "Journalist",
+            "Prime Minister",
+            "Dictator"
           ],
           "sex": "Male"
         }
@@ -38661,6 +40619,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -58.9856,
+        -27.4519
+      ]
+    },
+    "properties": {
+      "name": "Resistencia, Argentina",
+      "popupContent": "Resistencia, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "María Teresa Maiorana",
+          "birthdate": "1913-12-07",
+          "deathdate": "1983-07-12",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Literary Scholar"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -21.8174392,
         64.1265206
       ]
@@ -38747,7 +40732,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        7.1144,
+        -7.1144,
         43.5122
       ]
     },
@@ -39037,6 +41022,17 @@ var points =[
             "Writer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Adalgisa Nery",
+          "birthdate": "1905-10-29",
+          "deathdate": "1980-06-07",
+          "occupation": [
+            "Poet",
+            "Politician",
+            "Journalist"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -39644,6 +41640,27 @@ var points =[
             "Activist"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Curzio Malaparte",
+          "birthdate": "1898-06-09",
+          "deathdate": "1957-07-19",
+          "occupation": [
+            "Writer",
+            "Diplomat",
+            "Filmmaker"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jorge Mejía",
+          "birthdate": "1923-01-31",
+          "deathdate": "2014-12-09",
+          "occupation": [
+            "Priest",
+            "Cardinal"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -39974,6 +41991,16 @@ var points =[
             "Editor"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Arthur Miller",
+          "birthdate": "1915-10-17",
+          "deathdate": "2005-02-10",
+          "occupation": [
+            "Essayist",
+            "Playwright"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -40220,6 +42247,31 @@ var points =[
             "Critic"
           ],
           "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -43.8534,
+        -19.8838
+      ]
+    },
+    "properties": {
+      "name": "Sabará, Minas Gerais, Brazil",
+      "popupContent": "Sabará, Minas Gerais, Brazil",
+      "affiliatedPeople": [
+        {
+          "name": "Aníbal Machado",
+          "birthdate": "1894-12-09",
+          "deathdate": "1964-01-20",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -40501,6 +42553,17 @@ var points =[
           "occupation": [
             "Philosopher",
             "Theologian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Charles Morice",
+          "birthdate": "1860-05-15",
+          "deathdate": "1919-03-18",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet"
           ],
           "sex": "Male"
         }
@@ -41792,6 +43855,16 @@ var points =[
             "Poet"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Juan Mantovani",
+          "birthdate": "1898-10-14",
+          "deathdate": "1961-12-05",
+          "occupation": [
+            "Professor",
+            "Academic"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -41999,6 +44072,38 @@ var points =[
             "Professor"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Víctor Massuh",
+          "birthdate": "1924-02-25",
+          "deathdate": "2008-11-18",
+          "occupation": [
+            "Philosopher",
+            "Professor",
+            "Ambassador"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Guillermo Orce Remis",
+          "birthdate": "1917-01-01",
+          "deathdate": "1998-10-05",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Elvira Orphée",
+          "birthdate": "1930-05-29",
+          "deathdate": "2018-04-26",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -42691,6 +44796,16 @@ var points =[
             "Lawyer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Raúl A. Orgaz",
+          "birthdate": "1888-11-30",
+          "deathdate": "1948-01-01",
+          "occupation": [
+            "Writer",
+            "Professor"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -42975,28 +45090,13 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        6.733343,
-        0.3301924
+        -56.0452,
+        -28.5524
       ]
     },
     "properties": {
-      "name": "Santo Tomas",
-      "popupContent": "Santo Tomas",
-      "affiliatedPeople": []
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "",
-        ""
-      ]
-    },
-    "properties": {
-      "name": "Santo Tomé",
-      "popupContent": "Santo Tomé",
+      "name": "Santo Tomé, Argentina",
+      "popupContent": "Santo Tomé, Argentina",
       "affiliatedPeople": [
         {
           "name": "Julia Elena Acuña",
@@ -43598,6 +45698,34 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        24.0342,
+        55.395
+      ]
+    },
+    "properties": {
+      "name": "Šeteniai, Lithuania",
+      "popupContent": "Šeteniai, Lithuania",
+      "affiliatedPeople": [
+        {
+          "name": "Czeslaw Milosz",
+          "birthdate": "1911-06-30",
+          "deathdate": "2004-08-14",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Translator",
+            "Diplomat"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -5.9844589,
         37.3890924
       ]
@@ -43999,6 +46127,16 @@ var points =[
             "Garden Designer"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Nigel Nicolson",
+          "birthdate": "1917-01-19",
+          "deathdate": "2004-09-23",
+          "occupation": [
+            "Publisher",
+            "Politician"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -44432,6 +46570,18 @@ var points =[
             "Art Historian"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Antón Menchaca Careaga",
+          "birthdate": "1921-07-15",
+          "deathdate": "2002-07-01",
+          "occupation": [
+            "Writer",
+            "Military Officer",
+            "Salon hostess",
+            "Sailor"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -44774,6 +46924,31 @@ var points =[
             "Literary Critic",
             "Philosopher",
             "Art Historian"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        7.7521,
+        48.5734
+      ]
+    },
+    "properties": {
+      "name": "Strasbourg, France",
+      "popupContent": "Strasbourg, France",
+      "affiliatedPeople": [
+        {
+          "name": "León Marchal",
+          "birthdate": "1900-06-08",
+          "deathdate": "1956-09-24",
+          "occupation": [
+            "Diplomat"
           ],
           "sex": "Male"
         }
@@ -45235,6 +47410,15 @@ var points =[
             "Archaeologist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Gilbert Murray",
+          "birthdate": "1866-01-02",
+          "deathdate": "1957-05-20",
+          "occupation": [
+            "Scholar"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -45369,6 +47553,35 @@ var points =[
             "Poet"
           ],
           "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -55.986,
+        -31.7207
+      ]
+    },
+    "properties": {
+      "name": "Tacuarembó, Uruguay",
+      "popupContent": "Tacuarembó, Uruguay",
+      "affiliatedPeople": [
+        {
+          "name": "Paulina Medeiros",
+          "birthdate": "1905-01-01",
+          "deathdate": "1992-01-01",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Novelist",
+            "Playwright",
+            "Short Story Writer"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -45652,6 +47865,17 @@ var points =[
             "Musicologist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Erich Neumann",
+          "birthdate": "1905-01-23",
+          "deathdate": "1960-11-05",
+          "occupation": [
+            "Writer",
+            "Philosopher",
+            "Psychologist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -45729,6 +47953,63 @@ var points =[
           "occupation": [
             "Novelist",
             "Short Story Writer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.1665,
+        51.9381
+      ]
+    },
+    "properties": {
+      "name": "Tewkesbury, England",
+      "popupContent": "Tewkesbury, England",
+      "affiliatedPeople": [
+        {
+          "name": "Vernon Henry Mottram",
+          "birthdate": "1882-03-14",
+          "deathdate": "1976-03-11",
+          "occupation": [
+            "Physiologist",
+            "Nutritionist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        100.9925,
+        15.87
+      ]
+    },
+    "properties": {
+      "name": "Thailand",
+      "popupContent": "Thailand",
+      "affiliatedPeople": [
+        {
+          "name": "Thomas Merton",
+          "birthdate": "1915-01-31",
+          "deathdate": "1968-12-10",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Scholar",
+            "Theologian",
+            "Activist",
+            "Monk",
+            "Mystic"
           ],
           "sex": "Male"
         }
@@ -46071,6 +48352,31 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -58.381592,
+        -34.603722
+      ]
+    },
+    "properties": {
+      "name": "Toay, Argentina",
+      "popupContent": "Toay, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "Olga Orozco",
+          "birthdate": "1920-03-17",
+          "deathdate": "1999-08-15",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -87.1422895,
         36.8338638
       ]
@@ -46254,7 +48560,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        4.0273,
+        -4.0273,
         39.8628
       ]
     },
@@ -47438,6 +49744,15 @@ var points =[
             "Lawyer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Catharine Oglesby",
+          "birthdate": "1895-01-01",
+          "deathdate": "",
+          "occupation": [
+            "Art Historian"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -47628,6 +49943,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        27.715,
+        53.6235
+      ]
+    },
+    "properties": {
+      "name": "Uzlyany, Belarus",
+      "popupContent": "Uzlyany, Belarus",
+      "affiliatedPeople": [
+        {
+          "name": "Eugene Lyons",
+          "birthdate": "1898-07-01",
+          "deathdate": "1985-01-07",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Biographer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         2.4740337,
         48.7931426
       ]
@@ -47770,6 +50112,17 @@ var points =[
           "deathdate": "1600-01-01",
           "occupation": [
             "Translator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Julián Marías",
+          "birthdate": "1914-06-17",
+          "deathdate": "2005-12-15",
+          "occupation": [
+            "Writer",
+            "Philosopher",
+            "Academic"
           ],
           "sex": "Male"
         }
@@ -48673,7 +51026,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        8.7207,
+        -8.7207,
         42.2406
       ]
     },
@@ -48754,6 +51107,57 @@ var points =[
           "occupation": [
             "Writer",
             "Professor"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -60.3072,
+        -32.0309
+      ]
+    },
+    "properties": {
+      "name": "Villa Crespo, Entre Ríos, Argentina",
+      "popupContent": "Villa Crespo, Entre Ríos, Argentina",
+      "affiliatedPeople": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -63.725,
+        -29.9064
+      ]
+    },
+    "properties": {
+      "name": "Villa de María del Río Seco, Argentina",
+      "popupContent": "Villa de María del Río Seco, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "Leopoldo Lugones",
+          "birthdate": "1874-06-13",
+          "deathdate": "1938-02-18",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Translator",
+            "Playwright",
+            "Diplomat",
+            "Politician",
+            "Journalist",
+            "Professor",
+            "Biographer",
+            "Philologist",
+            "Historian",
+            "Theologian"
           ],
           "sex": "Male"
         }
@@ -48996,6 +51400,32 @@ var points =[
             "Author",
             "Philosopher",
             "Journalist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3593,
+        48.7927
+      ]
+    },
+    "properties": {
+      "name": "Villejuif, France",
+      "popupContent": "Villejuif, France",
+      "affiliatedPeople": [
+        {
+          "name": "Jean Massin",
+          "birthdate": "1917-11-05",
+          "deathdate": "1986-07-03",
+          "occupation": [
+            "Historian",
+            "Musicologist"
           ],
           "sex": "Male"
         }
@@ -49432,6 +51862,17 @@ var points =[
             "Biographer"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "James Newman",
+          "birthdate": "1907-01-01",
+          "deathdate": "1966-01-01",
+          "occupation": [
+            "Lawyer",
+            "Historian",
+            "Mathematician"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -49743,6 +52184,32 @@ var points =[
             "Memoirist"
           ],
           "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        174.7762,
+        -41.2865
+      ]
+    },
+    "properties": {
+      "name": "Wellington, New Zealand",
+      "popupContent": "Wellington, New Zealand",
+      "affiliatedPeople": [
+        {
+          "name": "Katherine Mansfield",
+          "birthdate": "1888-10-14",
+          "deathdate": "1923-01-09",
+          "occupation": [
+            "Writer",
+            "Short Story Writer"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -50173,6 +52640,34 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+      -2.1288,
+        52.587
+      ]
+    },
+    "properties": {
+      "name": "Wolverhampton, United Kingdom",
+      "popupContent": "Wolverhampton, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "John Mander",
+          "birthdate": "1932-05-28",
+          "deathdate": "1978-09-02",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Translator",
+            "Political Commentator"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -1.461325,
         53.528409
       ]
@@ -50481,7 +52976,7 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        103.4647,
+        -03.4647,
         19.7036
       ]
     },
