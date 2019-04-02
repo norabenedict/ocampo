@@ -13,17 +13,6 @@ var points =[
       "popupContent": "",
       "affiliatedPeople": [
         {
-          "name": "Patricio Armando Canto",
-          "birthdate": "1918-04-07",
-          "deathdate": "",
-          "occupation": [
-            "Writer",
-            "Translator",
-            "Philosopher"
-          ],
-          "sex": "Male"
-        },
-        {
           "name": "Paul Jourde",
           "birthdate": "1905-03-26",
           "deathdate": "",
@@ -50,15 +39,6 @@ var points =[
             "Author",
             "Professor",
             "Linguist"
-          ],
-          "sex": "Male"
-        },
-        {
-          "name": "Guillermo Jiménez",
-          "birthdate": "1891-03-09",
-          "deathdate": "",
-          "occupation": [
-            "Writer"
           ],
           "sex": "Male"
         },
@@ -885,7 +865,35 @@ var points =[
     "properties": {
       "name": "31 rue Raynouard, Paris, France",
       "popupContent": "31 rue Raynouard, Paris, France",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "María Rosa Oliver",
+          "birthdate": "1898-09-10",
+          "deathdate": "1977-04-19",
+          "occupation": [
+            "Essayist",
+            "Collaborator",
+            "Feminist",
+            "Consejo de Redacción"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -900,7 +908,23 @@ var points =[
     "properties": {
       "name": "7 rue de L'Odéon, Paris, France",
       "popupContent": "7 rue de L'Odéon, Paris, France",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -915,7 +939,23 @@ var points =[
     "properties": {
       "name": "820 Fifth Avenue, New York City, New York",
       "popupContent": "820 Fifth Avenue, New York City, New York",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -2398,6 +2438,17 @@ var points =[
           "deathdate": "2007-08-18",
           "occupation": [
             "Economist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Patricio Armando Canto",
+          "birthdate": "1918-04-07",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Philosopher"
           ],
           "sex": "Male"
         },
@@ -4059,7 +4110,32 @@ var points =[
     "properties": {
       "name": "Bagatelle, France",
       "popupContent": "Bagatelle, France",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "birthdate": "1891-12-19",
+          "deathdate": "1980-01-17",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -5013,7 +5089,32 @@ var points =[
     "properties": {
       "name": "Bayreuth, Germany",
       "popupContent": "Bayreuth, Germany",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "birthdate": "1891-12-19",
+          "deathdate": "1980-01-17",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -5588,7 +5689,32 @@ var points =[
     "properties": {
       "name": "Bergdorf Goodman's, New York City, New York",
       "popupContent": "Bergdorf Goodman's, New York City, New York",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "birthdate": "1891-12-19",
+          "deathdate": "1980-01-17",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -13520,7 +13646,23 @@ var points =[
     "properties": {
       "name": "Charlottesville, Virginia",
       "popupContent": "Charlottesville, Virginia",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Jorge Luis Borges",
+          "birthdate": "1899-08-24",
+          "deathdate": "1986-06-14",
+          "occupation": [
+            "Writer",
+            "Collaborator",
+            "Consejo de Redacción",
+            "Translator",
+            "Short Story Writer",
+            "Librarian",
+            "Prologuist"
+          ],
+          "sex": "Male"
+        }
+      ]
     }
   },
   {
@@ -14384,7 +14526,32 @@ var points =[
     "properties": {
       "name": "Claridge's, London, United Kingdom",
       "popupContent": "Claridge's, London, United Kingdom",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "birthdate": "1891-12-19",
+          "deathdate": "1980-01-17",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -15882,7 +16049,43 @@ var points =[
     "properties": {
       "name": "Dakar, Senegal",
       "popupContent": "Dakar, Senegal",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "José Bianco",
+          "birthdate": "1908-11-21",
+          "deathdate": "1986-04-24",
+          "occupation": [
+            "Writer",
+            "Collaborator",
+            "Secretario de Redacción"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "birthdate": "1891-12-19",
+          "deathdate": "1980-01-17",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -18839,21 +19042,21 @@ var points =[
       ]
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -4.2718,
-        39.6998
-      ]
-    },
-    "properties": {
-      "name": "Gálvez, Toledo, Spain",
-      "popupContent": "Gálvez, Toledo, Spain",
-      "affiliatedPeople": []
-    }
-  },
+  // {
+  //   "type": "Feature",
+  //   "geometry": {
+  //     "type": "Point",
+  //     "coordinates": [
+  //       -4.2718,
+  //       39.6998
+  //     ]
+  //   },
+  //   "properties": {
+  //     "name": "Gálvez, Toledo, Spain",
+  //     "popupContent": "Gálvez, Toledo, Spain",
+  //     "affiliatedPeople": []
+  //   }
+  // },
   {
     "type": "Feature",
     "geometry": {
@@ -21393,7 +21596,35 @@ var points =[
     "properties": {
       "name": "Hotel Athénée, Paris, France",
       "popupContent": "Hotel Athénée, Paris, France",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "María Rosa Oliver",
+          "birthdate": "1898-09-10",
+          "deathdate": "1977-04-19",
+          "occupation": [
+            "Essayist",
+            "Collaborator",
+            "Feminist",
+            "Consejo de Redacción"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -21408,7 +21639,23 @@ var points =[
     "properties": {
       "name": "Hotel Carrera, Santiago, Chile",
       "popupContent": "Hotel Carrera, Santiago, Chile",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -21423,7 +21670,32 @@ var points =[
     "properties": {
       "name": "Hotel de la Trémoille, Paris, France",
       "popupContent": "Hotel de la Trémoille, Paris, France",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "birthdate": "1891-12-19",
+          "deathdate": "1980-01-17",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -21438,7 +21710,23 @@ var points =[
     "properties": {
       "name": "Hotel du Golf, Près de Touques, France",
       "popupContent": "Hotel du Golf, Près de Touques, France",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -21453,7 +21741,23 @@ var points =[
     "properties": {
       "name": "Hotel Pacífico, Casilla No. 1, Arica, Chile",
       "popupContent": "Hotel Pacífico, Casilla No. 1, Arica, Chile",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -22672,7 +22976,33 @@ var points =[
     "properties": {
       "name": "John Simon Guggenheim Memorial Foundation, 551 Fifth Avenue, New York",
       "popupContent": "John Simon Guggenheim Memorial Foundation, 551 Fifth Avenue, New York",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Henry Allen Moe",
+          "birthdate": "1894-07-02",
+          "deathdate": "1975-10-01",
+          "occupation": [
+            "Director",
+            "Philanthropist"
+          ],
+          "sex": "Male"
+        }
+      ]
     }
   },
   {
@@ -25149,7 +25479,32 @@ var points =[
     "properties": {
       "name": "Le Bourget, France",
       "popupContent": "Le Bourget, France",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Soledad Ortega Spottorno",
+          "birthdate": "1905-03-28",
+          "deathdate": "2007-11-19",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -25475,21 +25830,21 @@ var points =[
       ]
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -1.9722513,
-        42.4837725
-      ]
-    },
-    "properties": {
-      "name": "León, Spain",
-      "popupContent": "León, Spain",
-      "affiliatedPeople": []
-    }
-  },
+  // {
+  //   "type": "Feature",
+  //   "geometry": {
+  //     "type": "Point",
+  //     "coordinates": [
+  //       -1.9722513,
+  //       42.4837725
+  //     ]
+  //   },
+  //   "properties": {
+  //     "name": "León, Spain",
+  //     "popupContent": "León, Spain",
+  //     "affiliatedPeople": []
+  //   }
+  // },
   {
     "type": "Feature",
     "geometry": {
@@ -30582,7 +30937,16 @@ var points =[
             "Painter"
           ],
           "sex": "Male"
-        }
+        },
+        {
+            "name": "Guillermo Jiménez",
+            "birthdate": "1891-03-09",
+            "deathdate": "1967-03-13",
+            "occupation": [
+              "Writer"
+            ],
+            "sex": "Male"
+          }
       ]
     }
   },
@@ -37892,7 +38256,32 @@ var points =[
     "properties": {
       "name": "Park Lane Hotel, London, United Kingdom",
       "popupContent": "Park Lane Hotel, London, United Kingdom",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "birthdate": "1891-12-19",
+          "deathdate": "1980-01-17",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -38609,7 +38998,32 @@ var points =[
     "properties": {
       "name": "Piccadilly, London, United Kingdom",
       "popupContent": "Piccadilly, London, United Kingdom",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "birthdate": "1891-12-19",
+          "deathdate": "1980-01-17",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -39826,21 +40240,21 @@ var points =[
       ]
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -66.5901,
-        18.2208
-      ]
-    },
-    "properties": {
-      "name": "Puerto Rico",
-      "popupContent": "Puerto Rico",
-      "affiliatedPeople": []
-    }
-  },
+  // {
+  //   "type": "Feature",
+  //   "geometry": {
+  //     "type": "Point",
+  //     "coordinates": [
+  //       -66.5901,
+  //       18.2208
+  //     ]
+  //   },
+  //   "properties": {
+  //     "name": "Puerto Rico",
+  //     "popupContent": "Puerto Rico",
+  //     "affiliatedPeople": []
+  //   }
+  // },
   {
     "type": "Feature",
     "geometry": {
@@ -41269,7 +41683,23 @@ var points =[
     "properties": {
       "name": "Rodriguez Peña 1960, Buenos Aires, Argentina",
       "popupContent": "Rodriguez Peña 1960, Buenos Aires, Argentina",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -42654,21 +43084,21 @@ var points =[
       ]
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        0.405,
-        46.9002
-      ]
-    },
-    "properties": {
-      "name": "Saint-Gervais-les-Trois-Clochers, France",
-      "popupContent": "Saint-Gervais-les-Trois-Clochers, France",
-      "affiliatedPeople": []
-    }
-  },
+  // {
+  //   "type": "Feature",
+  //   "geometry": {
+  //     "type": "Point",
+  //     "coordinates": [
+  //       0.405,
+  //       46.9002
+  //     ]
+  //   },
+  //   "properties": {
+  //     "name": "Saint-Gervais-les-Trois-Clochers, France",
+  //     "popupContent": "Saint-Gervais-les-Trois-Clochers, France",
+  //     "affiliatedPeople": []
+  //   }
+  // },
   {
     "type": "Feature",
     "geometry": {
@@ -42750,21 +43180,21 @@ var points =[
       ]
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        6.2735,
-        47.8848
-      ]
-    },
-    "properties": {
-      "name": "Saint-Loup-sur-Semouse, France",
-      "popupContent": "Saint-Loup-sur-Semouse, France",
-      "affiliatedPeople": []
-    }
-  },
+  // {
+  //   "type": "Feature",
+  //   "geometry": {
+  //     "type": "Point",
+  //     "coordinates": [
+  //       6.2735,
+  //       47.8848
+  //     ]
+  //   },
+  //   "properties": {
+  //     "name": "Saint-Loup-sur-Semouse, France",
+  //     "popupContent": "Saint-Loup-sur-Semouse, France",
+  //     "affiliatedPeople": []
+  //   }
+  // },
   {
     "type": "Feature",
     "geometry": {
@@ -50129,21 +50559,21 @@ var points =[
       ]
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        2.0422,
-        48.71
-      ]
-    },
-    "properties": {
-      "name": "Vallée de Chevreuse, France",
-      "popupContent": "Vallée de Chevreuse, France",
-      "affiliatedPeople": []
-    }
-  },
+  // {
+  //   "type": "Feature",
+  //   "geometry": {
+  //     "type": "Point",
+  //     "coordinates": [
+  //       2.0422,
+  //       48.71
+  //     ]
+  //   },
+  //   "properties": {
+  //     "name": "Vallée de Chevreuse, France",
+  //     "popupContent": "Vallée de Chevreuse, France",
+  //     "affiliatedPeople": []
+  //   }
+  // },
   {
     "type": "Feature",
     "geometry": {
@@ -50693,7 +51123,46 @@ var points =[
     "properties": {
       "name": "Viamonte 494, Buenos Aires, Argentina",
       "popupContent": "Viamonte 494, Buenos Aires, Argentina",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "María Rosa Oliver",
+          "birthdate": "1898-09-10",
+          "deathdate": "1977-04-19",
+          "occupation": [
+            "Essayist",
+            "Collaborator",
+            "Feminist",
+            "Consejo de Redacción"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "José Bianco",
+          "birthdate": "1908-11-21",
+          "deathdate": "1986-04-24",
+          "occupation": [
+            "Writer",
+            "Collaborator",
+            "Secretario de Redacción"
+          ],
+          "sex": "Male"
+        }
+      ]
     }
   },
   {
@@ -50708,7 +51177,46 @@ var points =[
     "properties": {
       "name": "Viamonte 570, Buenos Aires, Argentina",
       "popupContent": "Viamonte 570, Buenos Aires, Argentina",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "María Rosa Oliver",
+          "birthdate": "1898-09-10",
+          "deathdate": "1977-04-19",
+          "occupation": [
+            "Essayist",
+            "Collaborator",
+            "Feminist",
+            "Consejo de Redacción"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "José Bianco",
+          "birthdate": "1908-11-21",
+          "deathdate": "1986-04-24",
+          "occupation": [
+            "Writer",
+            "Collaborator",
+            "Secretario de Redacción"
+          ],
+          "sex": "Male"
+        }
+      ]
     }
   },
   {
@@ -51113,21 +51621,21 @@ var points =[
       ]
     }
   },
-  {
-    "type": "Feature",
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -60.3072,
-        -32.0309
-      ]
-    },
-    "properties": {
-      "name": "Villa Crespo, Entre Ríos, Argentina",
-      "popupContent": "Villa Crespo, Entre Ríos, Argentina",
-      "affiliatedPeople": []
-    }
-  },
+  // {
+  //   "type": "Feature",
+  //   "geometry": {
+  //     "type": "Point",
+  //     "coordinates": [
+  //       -60.3072,
+  //       -32.0309
+  //     ]
+  //   },
+  //   "properties": {
+  //     "name": "Villa Crespo, Entre Ríos, Argentina",
+  //     "popupContent": "Villa Crespo, Entre Ríos, Argentina",
+  //     "affiliatedPeople": []
+  //   }
+  // },
   {
     "type": "Feature",
     "geometry": {
@@ -51257,7 +51765,23 @@ var points =[
     "properties": {
       "name": "Villa Ocampo, Argentina",
       "popupContent": "Villa Ocampo, Argentina",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -51325,7 +51849,23 @@ var points =[
     "properties": {
       "name": "Villars-sur-Ollon, Switzerland",
       "popupContent": "Villars-sur-Ollon, Switzerland",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -51674,7 +52214,32 @@ var points =[
     "properties": {
       "name": "Waldorf-Astoria, New York City, New York",
       "popupContent": "Waldorf-Astoria, New York City, New York",
-      "affiliatedPeople": []
+      "affiliatedPeople": [
+        {
+          "name": "Victoria Ocampo",
+          "birthdate": "1890-04-07",
+          "deathdate": "1979-01-27",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Collaborator",
+            "Publisher",
+            "Feminist",
+            "Intellectual",
+            "Literary Journal Director"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Angélica Ocampo",
+          "birthdate": "1891-12-19",
+          "deathdate": "1980-01-17",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
     }
   },
   {
@@ -52987,7 +53552,7 @@ var points =[
         {
           "name": "Guillermo Jiménez",
           "birthdate": "1891-03-09",
-          "deathdate": "",
+          "deathdate": "1967-03-13",
           "occupation": [
             "Writer"
           ],
