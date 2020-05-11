@@ -84,16 +84,6 @@ body {
         zoomOffset: -1,
         }).addTo(map);
 
-        var searchCtrl = L.control.fuseSearch()
-         searchCtrl.addTo(map);
-
-         searchCtrl.indexFeatures(feature.properties.affiliatedPeople, ['name']);
-         L.geoJson(data, {
-        onEachFeature: function (feature, layer) {
-            feature.layer = layer;
-        }
-    });
-
       var sidebar = L.control.sidebar('sidebar', {
                closeButton: true,
                position: 'right'
