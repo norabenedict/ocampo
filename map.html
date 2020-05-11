@@ -90,6 +90,16 @@ body {
            });
            map.addControl(sidebar);
 
+    var searchCtrl = L.control.fuseSearch()
+     searchCtrl.addTo(map);
+
+     searchCtrl.indexFeatures(feature.properties.affiliatedPeople, ['name']);
+     L.geoJson(data, {
+    onEachFeature: function (feature, layer) {
+        feature.layer = layer;
+    }
+});
+
       L.geoJson(points, {
         pointToLayer: function(feature, latlng) {
            return new L.CircleMarker(latlng, {
