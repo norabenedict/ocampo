@@ -140,6 +140,16 @@ body {
 
     })
 
+    var searchCtrl = L.control.fuseSearch()
+searchCtrl.addTo(map);
+searchCtrl.indexFeatures(feature.properties.affiliatedPeople, ['name']);
+
+L.geoJson(points, {
+    onEachFeature: function (feature.properties.affiliatedPeople) {
+        feature.layer = layer;
+    }
+});
+
 
   </script>
 
