@@ -2066,8 +2066,8 @@
   },
   {
     "id": 537,
-    "latitude": "",
-    "longitude": "",
+    "latitude": 51.51305,
+    "longitude": -0.14784,
     "name": "Claridge's, London, United Kingdom",
     "notes": ""
   },
@@ -3089,7 +3089,7 @@
   {
     "id": 150,
     "latitude": 32.6669328,
-    "longitude": -16.9240554,
+    "longitude": 16.9240554,
     "name": "Funchal, Portugal",
     "notes": ""
   },
@@ -4888,7 +4888,7 @@
   {
     "id": 1388,
     "latitude": 28.752863,
-    "longitude": -13.824145,
+    "longitude": 13.824145,
     "name": "Lobos Island, Spain",
     "notes": ""
   },
