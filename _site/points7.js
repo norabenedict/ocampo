@@ -1,846 +1,846 @@
 var points =[
-  // {
-  //   "type": "Feature",
-  //   "geometry": {
-  //     "type": "Point",
-  //     "coordinates": [
-  //       "",
-  //       ""
-  //     ]
-  //   },
-  //   "properties": {
-  //     "name": "",
-  //     "popupContent": "",
-  //     "affiliatedPeople": [
-  //       {
-  //         "name": "Paul Jourde",
-  //         "birthdate": "1905-03-26",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Journalist"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Susana Larguía",
-  //         "birthdate": "1898-02-22",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Feminist"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Herminia Hallam Hipwell (Baroness Vivenot)",
-  //         "birthdate": "1907-04-23",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "María Reneé Cura",
-  //         "birthdate": "1905-04-10",
-  //         "deathdate": "2007-07-12",
-  //         "occupation": [
-  //           "Writer",
-  //           "Professor",
-  //           "Geographer",
-  //           "Indologist"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Louis Ollivier",
-  //         "birthdate": "1905-04-17",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Author",
-  //           "Translator",
-  //           "Composer",
-  //           "Editor",
-  //           "Illustrator"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Alvaro Guillot Muñoz",
-  //         "birthdate": "1897-09-27",
-  //         "deathdate": "1971-01-01",
-  //         "occupation": [
-  //           "Writer",
-  //           "Poet"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Christovam de Camargo",
-  //         "birthdate": "1897-01-01",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer",
-  //           "Lawyer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Daniel Arias Argáez",
-  //         "birthdate": "1905-02-11",
-  //         "deathdate": "1905-05-04",
-  //         "occupation": [
-  //           "Writer",
-  //           "Politician",
-  //           "Journalist"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Mohamed Abbad",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Egyptian Delegate"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Magie T. Brown",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Jeanie Drysdale Entwistle",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Carlos Soldevila",
-  //         "birthdate": "1892-03-26",
-  //         "deathdate": "1905-05-20",
-  //         "occupation": [
-  //           "Writer",
-  //           "Poet",
-  //           "Dramatist",
-  //           "Journalist"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "James Donald Adams",
-  //         "birthdate": "1891-09-24",
-  //         "deathdate": "1968-08-23",
-  //         "occupation": [
-  //           "Author",
-  //           "Literary Critic",
-  //           "Journalist",
-  //           "Editor"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Elvine Georglevna Simeon (Adams)",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Mme. Dominique Braga",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Elga Wolff (Mme. Emil Ludwig)",
-  //         "birthdate": "1884-01-01",
-  //         "deathdate": "1971-01-01",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Antoine Radé",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Kalidas Nag",
-  //         "birthdate": "1892-01-01",
-  //         "deathdate": "1966-01-01",
-  //         "occupation": [
-  //           "Author",
-  //           "Professor",
-  //           "Historian",
-  //           "Parliamentarian"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Beatrice Kean Seymour",
-  //         "birthdate": "1886-09-01",
-  //         "deathdate": "1955-10-31",
-  //         "occupation": [
-  //           "Novelist",
-  //           "Short Story Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Norah Rowan Hamilton",
-  //         "birthdate": "1877-01-01",
-  //         "deathdate": "1945-02-01",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Seamus MacCall",
-  //         "birthdate": "1905-03-06",
-  //         "deathdate": "1964-10-29",
-  //         "occupation": [
-  //           "Novelist",
-  //           "Broadcaster",
-  //           "Soldier"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Catherine Ann Andersen (McHaffie)",
-  //         "birthdate": "1870-08-01",
-  //         "deathdate": "1957-09-15",
-  //         "occupation": [
-  //           "Writer",
-  //           "Teacher"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Vladeta Popvić",
-  //         "birthdate": "1894-08-02",
-  //         "deathdate": "1951-01-01",
-  //         "occupation": [
-  //           "Writer",
-  //           "Professor",
-  //           "Scholar"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Michel Berveiller",
-  //         "birthdate": "1910-07-16",
-  //         "deathdate": "1974-01-01",
-  //         "occupation": [
-  //           "Author",
-  //           "Translator",
-  //           "Editor"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Emile Gouirán",
-  //         "birthdate": "1908-12-12",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer",
-  //           "Professor"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Ricardo de los Heros",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Designer",
-  //           "Graphic Artist"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Julia Elena Acuña",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Professor",
-  //           "Historian"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Roberto Cortéz Conde",
-  //         "birthdate": "1932-02-05",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Journalist",
-  //           "Lawyer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Abraham Eidlicz",
-  //         "birthdate": "1905-04-05",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Engineer",
-  //           "Investigator"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "José A. Blanco",
-  //         "birthdate": "1898-10-04",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "President"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Leopoldo Fortnoy",
-  //         "birthdate": "1918-08-13",
-  //         "deathdate": "1995-05-30",
-  //         "occupation": [
-  //           "Economist",
-  //           "Accountant"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Carlos Alberto Floria",
-  //         "birthdate": "1929-08-03",
-  //         "deathdate": "2012-11-18",
-  //         "occupation": [
-  //           "Professor"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Ludovico Ivanissevich Machado",
-  //         "birthdate": "1927-08-13",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Engineer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Alberto J. Aguirre",
-  //         "birthdate": "1912-04-02",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Radio Host"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "C. A. Burone",
-  //         "birthdate": "1924-08-02",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Film Critic"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Joaquín Neyra",
-  //         "birthdate": "1912-07-15",
-  //         "deathdate": "1990-02-14",
-  //         "occupation": [
-  //           "Poet",
-  //           "Journalist",
-  //           "Editor"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Hugo Parpagnoli",
-  //         "birthdate": "1905-03-29",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Collaborator",
-  //           "Professor",
-  //           "Art Critic"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Jorge Cruz",
-  //         "birthdate": "1930-09-30",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer",
-  //           "Professor"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Joaquín Andúriz, S. J.",
-  //         "birthdate": "1920-12-14",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Philosopher",
-  //           "Professor"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Emilio Carreira",
-  //         "birthdate": "1907-05-21",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Politician",
-  //           "Lawyer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Giuseppe Faggin",
-  //         "birthdate": "1906-10-20",
-  //         "deathdate": "1995-09-23",
-  //         "occupation": [
-  //           "Philosopher",
-  //           "Historian"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Oscar Delgado",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Author",
-  //           "Sociologist"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Enrique Luis Revol",
-  //         "birthdate": "1923-04-03",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer",
-  //           "Translator",
-  //           "Professor"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Ivy Herczegh Konjovich",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Violinist",
-  //           "Critic"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Mario Setle",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": ""
-  //       },
-  //       {
-  //         "name": "Uldarica Maños",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": ""
-  //       },
-  //       {
-  //         "name": "María Esther Bruno de Barros",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer",
-  //           "Poet"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Jaime Luis Pous Moroques",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": ""
-  //       },
-  //       {
-  //         "name": "Mauricio Gómez Mayorga",
-  //         "birthdate": "1913-08-05",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer",
-  //           "Art Critic",
-  //           "Architect"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Juan Francisco Ashero",
-  //         "birthdate": "1910-06-25",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Ricardo Delgado",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "José Martínez Orozco",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer",
-  //           "Lawyer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Buenaventura Noé Vita",
-  //         "birthdate": "1884-06-22",
-  //         "deathdate": "1954-06-20",
-  //         "occupation": [
-  //           "Historian"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Juan R. Angueira",
-  //         "birthdate": "1901-09-09",
-  //         "deathdate": "1968-01-16",
-  //         "occupation": [
-  //           "Writer",
-  //           "Historian",
-  //           "Secretary of the Municipal Government"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Hortensia Margarita Raffo",
-  //         "birthdate": "",
-  //         "deathdate": "1982-01-06",
-  //         "occupation": [
-  //           "Poet"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Marcelo Menasché",
-  //         "birthdate": "1911-01-24",
-  //         "deathdate": "1959-01-01",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Delfina Varela Domínguez de Ghioldi",
-  //         "birthdate": "1895-01-29",
-  //         "deathdate": "1985-01-01",
-  //         "occupation": [
-  //           "Writer",
-  //           "Professor"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "José Martínez Jerez",
-  //         "birthdate": "1888-01-01",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer",
-  //           "Poet"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Raquel Santángelo",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Jorge Pinto",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": ""
-  //       },
-  //       {
-  //         "name": "D. Wells Gill (¿?)",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": ""
-  //       },
-  //       {
-  //         "name": "Luis de Elizalde (h.)",
-  //         "birthdate": "1904-08-11",
-  //         "deathdate": "1970-04-17",
-  //         "occupation": [
-  //           "Writer",
-  //           "Essayist",
-  //           "Translator",
-  //           "Journalist",
-  //           "Lawyer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Andrés L. Caro",
-  //         "birthdate": "1898-01-01",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Poet"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Isabel Dato y Barrenechea",
-  //         "birthdate": "",
-  //         "deathdate": "1905-04-20",
-  //         "occupation": [
-  //           "Socialite",
-  //           "Noblewoman"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Francisca (Pancha) Ocampo",
-  //         "birthdate": "1894-10-05",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Carlos Caro Potestad",
-  //         "birthdate": "",
-  //         "deathdate": "1973-02-06",
-  //         "occupation": [
-  //           "Diplomat"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Fani (Estefanía)",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Paul Chadourne",
-  //         "birthdate": "1897-01-01",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Poet"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Daan Bolten",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": ""
-  //       },
-  //       {
-  //         "name": "Harriet de Onís",
-  //         "birthdate": "1905-03-09",
-  //         "deathdate": "1905-05-22",
-  //         "occupation": [
-  //           "Translator"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Christian Murciaux",
-  //         "birthdate": "1915-03-15",
-  //         "deathdate": "1905-05-25",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Valborg Anderson",
-  //         "birthdate": "1905-03-25",
-  //         "deathdate": "1990-02-14",
-  //         "occupation": [
-  //           "Professor"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Alejandra de Kent",
-  //         "birthdate": "1936-12-25",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Maria Nys (Huxley)",
-  //         "birthdate": "1899-09-10",
-  //         "deathdate": "1955-02-12",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "Alain Malraux",
-  //         "birthdate": "1944-06-11",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Umberto Cianciolo",
-  //         "birthdate": "1905-03-28",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Translator",
-  //           "Literary Critic",
-  //           "Professor",
-  //           "Historian"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Ernesto Garzón Valdés",
-  //         "birthdate": "1927-02-17",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Philosopher"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Eugen Millington Drake",
-  //         "birthdate": "1889-02-26",
-  //         "deathdate": "1972-12-12",
-  //         "occupation": [
-  //           "Diplomat"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Sylvia Molloy",
-  //         "birthdate": "1938-08-19",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Professor",
-  //           "Artist"
-  //         ],
-  //         "sex": "Female"
-  //       },
-  //       {
-  //         "name": "David Dove Carver",
-  //         "birthdate": "1903-08-10",
-  //         "deathdate": "1978-04-29",
-  //         "occupation": [
-  //           "Musician",
-  //           "President",
-  //           "Singer",
-  //           "Secretary"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "José María Coco Ferraris",
-  //         "birthdate": "",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Translator",
-  //           "Journalist"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Edgardo Cozarinsky",
-  //         "birthdate": "1939-01-13",
-  //         "deathdate": "",
-  //         "occupation": [
-  //           "Writer",
-  //           "Filmmaker"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Henry Allen Moe",
-  //         "birthdate": "1894-07-02",
-  //         "deathdate": "1975-10-01",
-  //         "occupation": [
-  //           "Director",
-  //           "Philanthropist"
-  //         ],
-  //         "sex": "Male"
-  //       },
-  //       {
-  //         "name": "Manuel S. Ocampo",
-  //         "birthdate": "1860-11-03",
-  //         "deathdate": "1931-01-31",
-  //         "occupation": [
-  //           "Writer",
-  //           "Teacher"
-  //         ],
-  //         "sex": "Male"
-  //       }
-  //     ]
-  //   }
-  // },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "",
+        ""
+      ]
+    },
+    "properties": {
+      "name": "",
+      "popupContent": "",
+      "affiliatedPeople": [
+        {
+          "name": "Paul Jourde",
+          "birthdate": "1905-03-26",
+          "deathdate": "",
+          "occupation": [
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Susana Larguía",
+          "birthdate": "1898-02-22",
+          "deathdate": "",
+          "occupation": [
+            "Feminist"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Herminia Hallam Hipwell (Baroness Vivenot)",
+          "birthdate": "1907-04-23",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "María Reneé Cura",
+          "birthdate": "1905-04-10",
+          "deathdate": "2007-07-12",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Geographer",
+            "Indologist"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Louis Ollivier",
+          "birthdate": "1905-04-17",
+          "deathdate": "",
+          "occupation": [
+            "Author",
+            "Translator",
+            "Composer",
+            "Editor",
+            "Illustrator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alvaro Guillot Muñoz",
+          "birthdate": "1897-09-27",
+          "deathdate": "1971-01-01",
+          "occupation": [
+            "Writer",
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Christovam de Camargo",
+          "birthdate": "1897-01-01",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Daniel Arias Argáez",
+          "birthdate": "1905-02-11",
+          "deathdate": "1905-05-04",
+          "occupation": [
+            "Writer",
+            "Politician",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Mohamed Abbad",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Egyptian Delegate"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Magie T. Brown",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Jeanie Drysdale Entwistle",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Carlos Soldevila",
+          "birthdate": "1892-03-26",
+          "deathdate": "1905-05-20",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Dramatist",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "James Donald Adams",
+          "birthdate": "1891-09-24",
+          "deathdate": "1968-08-23",
+          "occupation": [
+            "Author",
+            "Literary Critic",
+            "Journalist",
+            "Editor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Elvine Georglevna Simeon (Adams)",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Mme. Dominique Braga",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Elga Wolff (Mme. Emil Ludwig)",
+          "birthdate": "1884-01-01",
+          "deathdate": "1971-01-01",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Antoine Radé",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Kalidas Nag",
+          "birthdate": "1892-01-01",
+          "deathdate": "1966-01-01",
+          "occupation": [
+            "Author",
+            "Professor",
+            "Historian",
+            "Parliamentarian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Beatrice Kean Seymour",
+          "birthdate": "1886-09-01",
+          "deathdate": "1955-10-31",
+          "occupation": [
+            "Novelist",
+            "Short Story Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Norah Rowan Hamilton",
+          "birthdate": "1877-01-01",
+          "deathdate": "1945-02-01",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Seamus MacCall",
+          "birthdate": "1905-03-06",
+          "deathdate": "1964-10-29",
+          "occupation": [
+            "Novelist",
+            "Broadcaster",
+            "Soldier"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Catherine Ann Andersen (McHaffie)",
+          "birthdate": "1870-08-01",
+          "deathdate": "1957-09-15",
+          "occupation": [
+            "Writer",
+            "Teacher"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Vladeta Popvić",
+          "birthdate": "1894-08-02",
+          "deathdate": "1951-01-01",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Scholar"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Michel Berveiller",
+          "birthdate": "1910-07-16",
+          "deathdate": "1974-01-01",
+          "occupation": [
+            "Author",
+            "Translator",
+            "Editor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Emile Gouirán",
+          "birthdate": "1908-12-12",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ricardo de los Heros",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Designer",
+            "Graphic Artist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Julia Elena Acuña",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Professor",
+            "Historian"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Roberto Cortéz Conde",
+          "birthdate": "1932-02-05",
+          "deathdate": "",
+          "occupation": [
+            "Journalist",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Abraham Eidlicz",
+          "birthdate": "1905-04-05",
+          "deathdate": "",
+          "occupation": [
+            "Engineer",
+            "Investigator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José A. Blanco",
+          "birthdate": "1898-10-04",
+          "deathdate": "",
+          "occupation": [
+            "President"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Leopoldo Fortnoy",
+          "birthdate": "1918-08-13",
+          "deathdate": "1995-05-30",
+          "occupation": [
+            "Economist",
+            "Accountant"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Carlos Alberto Floria",
+          "birthdate": "1929-08-03",
+          "deathdate": "2012-11-18",
+          "occupation": [
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ludovico Ivanissevich Machado",
+          "birthdate": "1927-08-13",
+          "deathdate": "",
+          "occupation": [
+            "Engineer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alberto J. Aguirre",
+          "birthdate": "1912-04-02",
+          "deathdate": "",
+          "occupation": [
+            "Radio Host"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "C. A. Burone",
+          "birthdate": "1924-08-02",
+          "deathdate": "",
+          "occupation": [
+            "Film Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Joaquín Neyra",
+          "birthdate": "1912-07-15",
+          "deathdate": "1990-02-14",
+          "occupation": [
+            "Poet",
+            "Journalist",
+            "Editor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Hugo Parpagnoli",
+          "birthdate": "1905-03-29",
+          "deathdate": "",
+          "occupation": [
+            "Collaborator",
+            "Professor",
+            "Art Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jorge Cruz",
+          "birthdate": "1930-09-30",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Joaquín Andúriz, S. J.",
+          "birthdate": "1920-12-14",
+          "deathdate": "",
+          "occupation": [
+            "Philosopher",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Emilio Carreira",
+          "birthdate": "1907-05-21",
+          "deathdate": "",
+          "occupation": [
+            "Politician",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Giuseppe Faggin",
+          "birthdate": "1906-10-20",
+          "deathdate": "1995-09-23",
+          "occupation": [
+            "Philosopher",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Oscar Delgado",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Author",
+            "Sociologist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Enrique Luis Revol",
+          "birthdate": "1923-04-03",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ivy Herczegh Konjovich",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Violinist",
+            "Critic"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Mario Setle",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": ""
+        },
+        {
+          "name": "Uldarica Maños",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": ""
+        },
+        {
+          "name": "María Esther Bruno de Barros",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Poet"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Jaime Luis Pous Moroques",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": ""
+        },
+        {
+          "name": "Mauricio Gómez Mayorga",
+          "birthdate": "1913-08-05",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Art Critic",
+            "Architect"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan Francisco Ashero",
+          "birthdate": "1910-06-25",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ricardo Delgado",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José Martínez Orozco",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Buenaventura Noé Vita",
+          "birthdate": "1884-06-22",
+          "deathdate": "1954-06-20",
+          "occupation": [
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan R. Angueira",
+          "birthdate": "1901-09-09",
+          "deathdate": "1968-01-16",
+          "occupation": [
+            "Writer",
+            "Historian",
+            "Secretary of the Municipal Government"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Hortensia Margarita Raffo",
+          "birthdate": "",
+          "deathdate": "1982-01-06",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Marcelo Menasché",
+          "birthdate": "1911-01-24",
+          "deathdate": "1959-01-01",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Delfina Varela Domínguez de Ghioldi",
+          "birthdate": "1895-01-29",
+          "deathdate": "1985-01-01",
+          "occupation": [
+            "Writer",
+            "Professor"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "José Martínez Jerez",
+          "birthdate": "1888-01-01",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Raquel Santángelo",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Jorge Pinto",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": ""
+        },
+        {
+          "name": "D. Wells Gill (¿?)",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": ""
+        },
+        {
+          "name": "Luis de Elizalde (h.)",
+          "birthdate": "1904-08-11",
+          "deathdate": "1970-04-17",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Translator",
+            "Journalist",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Andrés L. Caro",
+          "birthdate": "1898-01-01",
+          "deathdate": "",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Isabel Dato y Barrenechea",
+          "birthdate": "",
+          "deathdate": "1905-04-20",
+          "occupation": [
+            "Socialite",
+            "Noblewoman"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Francisca (Pancha) Ocampo",
+          "birthdate": "1894-10-05",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Carlos Caro Potestad",
+          "birthdate": "",
+          "deathdate": "1973-02-06",
+          "occupation": [
+            "Diplomat"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Fani (Estefanía)",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Paul Chadourne",
+          "birthdate": "1897-01-01",
+          "deathdate": "",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Daan Bolten",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": ""
+        },
+        {
+          "name": "Harriet de Onís",
+          "birthdate": "1905-03-09",
+          "deathdate": "1905-05-22",
+          "occupation": [
+            "Translator"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Christian Murciaux",
+          "birthdate": "1915-03-15",
+          "deathdate": "1905-05-25",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Valborg Anderson",
+          "birthdate": "1905-03-25",
+          "deathdate": "1990-02-14",
+          "occupation": [
+            "Professor"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Alejandra de Kent",
+          "birthdate": "1936-12-25",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Maria Nys (Huxley)",
+          "birthdate": "1899-09-10",
+          "deathdate": "1955-02-12",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Alain Malraux",
+          "birthdate": "1944-06-11",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Umberto Cianciolo",
+          "birthdate": "1905-03-28",
+          "deathdate": "",
+          "occupation": [
+            "Translator",
+            "Literary Critic",
+            "Professor",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ernesto Garzón Valdés",
+          "birthdate": "1927-02-17",
+          "deathdate": "",
+          "occupation": [
+            "Philosopher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Eugen Millington Drake",
+          "birthdate": "1889-02-26",
+          "deathdate": "1972-12-12",
+          "occupation": [
+            "Diplomat"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Sylvia Molloy",
+          "birthdate": "1938-08-19",
+          "deathdate": "",
+          "occupation": [
+            "Professor",
+            "Artist"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "David Dove Carver",
+          "birthdate": "1903-08-10",
+          "deathdate": "1978-04-29",
+          "occupation": [
+            "Musician",
+            "President",
+            "Singer",
+            "Secretary"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José María Coco Ferraris",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Translator",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Edgardo Cozarinsky",
+          "birthdate": "1939-01-13",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Filmmaker"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Henry Allen Moe",
+          "birthdate": "1894-07-02",
+          "deathdate": "1975-10-01",
+          "occupation": [
+            "Director",
+            "Philanthropist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Manuel S. Ocampo",
+          "birthdate": "1860-11-03",
+          "deathdate": "1931-01-31",
+          "occupation": [
+            "Writer",
+            "Teacher"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
   {
     "type": "Feature",
     "geometry": {
@@ -988,6 +988,17 @@ var points =[
             "Singer"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Alfred Adler",
+          "birthdate": "1870-02-07",
+          "deathdate": "1937-05-28",
+          "occupation": [
+            "Doctor",
+            "Psychologist",
+            "Psychotherapist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -1817,6 +1828,16 @@ var points =[
             "Poet",
             "Professor",
             "Academic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alfredo Mendizábal",
+          "birthdate": "1897-04-02",
+          "deathdate": "1981-04-05",
+          "occupation": [
+            "Writer",
+            "Translator"
           ],
           "sex": "Male"
         }
@@ -3204,6 +3225,67 @@ var points =[
             "Short Story Writer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Mateo Booz (Miguel Angel Correa)",
+          "birthdate": "1881-08-07",
+          "deathdate": "1943-05-16",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Augusto Bunge",
+          "birthdate": "1877-04-25",
+          "deathdate": "1948-08-01",
+          "occupation": [
+            "Writer",
+            "Politician"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Susana Calandrelli",
+          "birthdate": "1901-01-17",
+          "deathdate": "1978-07-21",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Teacher"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Manuel Conde Montero",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arturo Lorusso",
+          "birthdate": "1884-12-14",
+          "deathdate": "1947-03-14",
+          "occupation": [
+            "Writer",
+            "Playwright",
+            "Politician",
+            "Doctor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Luis María Rinaldini Gonnet",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Literary Journal Director"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -4306,6 +4388,37 @@ var points =[
             "Poet"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Luis Reissig",
+          "birthdate": "1897-10-08",
+          "deathdate": "1972-01-01",
+          "occupation": [
+            "Director",
+            "Writer",
+            "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Victor Francis Calverton (George Goetz)",
+          "birthdate": "1900-06-25",
+          "deathdate": "1940-11-20",
+          "occupation": [
+            "Writer",
+            "Literary Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "John Dos Passos",
+          "birthdate": "1896-01-14",
+          "deathdate": "1970-09-28",
+          "occupation": [
+            "Writer",
+            "Novelist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -4855,6 +4968,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        16.2838,
+        41.3197
+      ]
+    },
+    "properties": {
+      "name": "Barletta, Italy",
+      "popupContent": "Barletta, Italy",
+      "affiliatedPeople": [
+        {
+          "name": "Nino Frank",
+          "birthdate": "1904-06-27",
+          "deathdate": "1988-08-17",
+          "occupation": [
+            "Writer",
+            "Film Critic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         7.1803,
         51.2688
       ]
@@ -4924,6 +5063,32 @@ var points =[
             "Poet",
             "Teacher",
             "Editor"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        37.2832,
+        55.741
+      ]
+    },
+    "properties": {
+      "name": "Barvikha, Russia",
+      "popupContent": "Barvikha, Russia",
+      "affiliatedPeople": [
+        {
+          "name": "Georgi Dimitrov",
+          "birthdate": "1882-06-18",
+          "deathdate": "1949-07-02",
+          "occupation": [
+            "Politician",
+            "Political Figure"
           ],
           "sex": "Male"
         }
@@ -5743,6 +5908,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        32.2933,
+        47.892
+      ]
+    },
+    "properties": {
+      "name": "Bereslavka, Ukraine",
+      "popupContent": "Bereslavka, Ukraine",
+      "affiliatedPeople": [
+        {
+          "name": "Leon Trotsky",
+          "birthdate": "1879-11-07",
+          "deathdate": "1940-08-21",
+          "occupation": [
+            "Reviewer",
+            "Revolutionary",
+            "Marxist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -73.973947,
         40.764236
       ]
@@ -5838,6 +6030,18 @@ var points =[
             "Philologist",
             "Linguist",
             "Etymologist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arturo Torres Rioseco",
+          "birthdate": "1897-10-17",
+          "deathdate": "1971-11-03",
+          "occupation": [
+            "Writer",
+            "Literary Critic",
+            "Professor",
+            "Critic"
           ],
           "sex": "Male"
         }
@@ -6146,6 +6350,25 @@ var points =[
             "Artist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Carl von Ossietsky",
+          "birthdate": "1889-10-03",
+          "deathdate": "1938-05-04",
+          "occupation": [
+            "Journalist",
+            "Pacifist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Georg Wilhelm Friedrich Hegel",
+          "birthdate": "1770-08-27",
+          "deathdate": "1831-11-14",
+          "occupation": [
+            "Philosopher"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -6229,6 +6452,31 @@ var points =[
           "occupation": [
             "Sociologist",
             "Academic"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -58.2801,
+        -34.7109
+      ]
+    },
+    "properties": {
+      "name": "Bernal, Argentina",
+      "popupContent": "Bernal, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "María Raquel Adler",
+          "birthdate": "1901-10-12",
+          "deathdate": "1974-07-28",
+          "occupation": [
+            "Poet"
           ],
           "sex": "Female"
         }
@@ -6668,6 +6916,34 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        10.9773,
+        51.8164
+      ]
+    },
+    "properties": {
+      "name": "Blankenburg, Germany",
+      "popupContent": "Blankenburg, Germany",
+      "affiliatedPeople": [
+        {
+          "name": "Oswald Spengler",
+          "birthdate": "1880-05-29",
+          "deathdate": "1936-05-08",
+          "occupation": [
+            "Writer",
+            "Philosopher",
+            "Historian",
+            "Academic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -1.361,
         51.8414
       ]
@@ -7022,6 +7298,16 @@ var points =[
             "Philosopher"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Pablo Luis Landsberg",
+          "birthdate": "1901-01-01",
+          "deathdate": "1944-01-01",
+          "occupation": [
+            "Writer",
+            "Philosopher"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -7091,6 +7377,17 @@ var points =[
             "Writer",
             "Painter",
             "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jacques Rivière",
+          "birthdate": "1886-07-15",
+          "deathdate": "1925-02-14",
+          "occupation": [
+            "Writer",
+            "Critic",
+            "Editor"
           ],
           "sex": "Male"
         }
@@ -7545,6 +7842,34 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -59.6132,
+        13.106
+      ]
+    },
+    "properties": {
+      "name": "Bridgetown, Barbados",
+      "popupContent": "Bridgetown, Barbados",
+      "affiliatedPeople": [
+        {
+          "name": "Max Eastman",
+          "birthdate": "1883-01-04",
+          "deathdate": "1969-03-25",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Political Activist",
+            "Activist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -73.3662,
         41.5351
       ]
@@ -7915,6 +8240,33 @@ var points =[
           "occupation": [
             "Writer",
             "Editor"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.8665,
+        56.4743
+      ]
+    },
+    "properties": {
+      "name": "Broughty Ferry, Scotland",
+      "popupContent": "Broughty Ferry, Scotland",
+      "affiliatedPeople": [
+        {
+          "name": "Samuel James Shand",
+          "birthdate": "1882-10-29",
+          "deathdate": "1957-04-19",
+          "occupation": [
+            "Professor",
+            "Geologist",
+            "Mineralogist"
           ],
           "sex": "Male"
         }
@@ -12186,6 +12538,767 @@ var points =[
             "Writer"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Rafael Alberto Arrieta",
+          "birthdate": "1889-01-01",
+          "deathdate": "1968-01-01",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet",
+            "Literary Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Margarita Arsamasseva",
+          "birthdate": "1893-10-04",
+          "deathdate": "1968-05-16",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Julio Aramburu",
+          "birthdate": "1898-12-20",
+          "deathdate": "1974-01-02",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Enrique Banchs",
+          "birthdate": "1888-02-08",
+          "deathdate": "1968-06-06",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ernesto Mario Barreda",
+          "birthdate": "1883-01-01",
+          "deathdate": "1958-01-01",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet",
+            "Museologist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Narciso Binayán",
+          "birthdate": "1896-06-20",
+          "deathdate": "1970-11-30",
+          "occupation": [
+            "Writer",
+            "Author",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Susana Calandrelli",
+          "birthdate": "1901-01-17",
+          "deathdate": "1978-07-21",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Teacher"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Rosa Bazán de Cámara",
+          "birthdate": "1881-09-19",
+          "deathdate": "1972-08-22",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Miguel Andrés Camino",
+          "birthdate": "1877-11-30",
+          "deathdate": "1944-04-07",
+          "occupation": [
+            "Poet",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Cupertino del Campo",
+          "birthdate": "1873-11-01",
+          "deathdate": "1967-11-01",
+          "occupation": [
+            "Director",
+            "Writer",
+            "Poet",
+            "Painter",
+            "Doctor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arturo Cancela",
+          "birthdate": "1892-02-25",
+          "deathdate": "1957-04-26",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Atilio Chiappori",
+          "birthdate": "1880-06-07",
+          "deathdate": "1947-01-01",
+          "occupation": [
+            "Writer",
+            "Art Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Augusto Mario Delfino",
+          "birthdate": "1906-02-08",
+          "deathdate": "1961-06-22",
+          "occupation": [
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Antonio Dellepiane",
+          "birthdate": "1864-10-29",
+          "deathdate": "1939-07-22",
+          "occupation": [
+            "Writer",
+            "Lawyer",
+            "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Justo G. Dessein Merlo",
+          "birthdate": "1893-01-01",
+          "deathdate": "1956-01-01",
+          "occupation": [
+            "Collaborator",
+            "Poet",
+            "Author",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Atilio Dell'Oro Maini",
+          "birthdate": "1895-07-30",
+          "deathdate": "1974-06-15",
+          "occupation": [
+            "Jurist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Leopoldo Díaz",
+          "birthdate": "1862-08-11",
+          "deathdate": "1947-09-28",
+          "occupation": [
+            "Collaborator",
+            "Poet",
+            "Diplomat",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Max Dickmann",
+          "birthdate": "1902-08-08",
+          "deathdate": "1991-01-01",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "María Alicia Domínguez",
+          "birthdate": "1908-09-06",
+          "deathdate": "1988-04-09",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet",
+            "Novelist"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Héctor I. Eandi",
+          "birthdate": "1895-05-16",
+          "deathdate": "1965-05-18",
+          "occupation": [
+            "Writer",
+            "Short Story Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José Fernández Coria",
+          "birthdate": "1877-01-17",
+          "deathdate": "",
+          "occupation": [
+            "Director",
+            "Writer",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Julio Fingerit",
+          "birthdate": "1901-08-05",
+          "deathdate": "1984-06-09",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Teacher",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alberto Franco",
+          "birthdate": "1903-07-14",
+          "deathdate": "1981-01-01",
+          "occupation": [
+            "Writer",
+            "Collaborator",
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan Fuscaldo",
+          "birthdate": "1914-03-02",
+          "deathdate": "",
+          "occupation": [
+            "Poet",
+            "Novelist",
+            "Playwright",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alberto Gerchunoff",
+          "birthdate": "1883-01-01",
+          "deathdate": "1950-03-02",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arturo F. Gonzáles",
+          "birthdate": "1890-10-10",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Enrique González Trillo",
+          "birthdate": "1904-01-01",
+          "deathdate": "1994-01-01",
+          "occupation": [
+            "Collaborator",
+            "Poet",
+            "Journalist",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Guillermo Guerrero Estrella",
+          "birthdate": "1891-01-01",
+          "deathdate": "1945-08-06",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Benigno Herrero Almada",
+          "birthdate": "",
+          "deathdate": "1954-08-09",
+          "occupation": [
+            "Collaborator",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Eugenio Julio Iglesias",
+          "birthdate": "1897-01-01",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Journalist",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Bruno Jacovella",
+          "birthdate": "1910-11-21",
+          "deathdate": "1996-09-10",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Rafael Jijena Sánchez",
+          "birthdate": "1904-09-21",
+          "deathdate": "1977-12-22",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Folklorist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Benito Lynch",
+          "birthdate": "1885-07-25",
+          "deathdate": "1951-12-23",
+          "occupation": [
+            "Writer",
+            "Novelist",
+            "Short Story Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alfonso de Laferrère",
+          "birthdate": "1893-11-24",
+          "deathdate": "1978-01-08",
+          "occupation": [
+            "Writer",
+            "Politician",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Enrique Larreta",
+          "birthdate": "1875-03-04",
+          "deathdate": "1961-07-06",
+          "occupation": [
+            "Writer",
+            "Diplomat",
+            "Academic",
+            "Art Collector"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Carlos Alberto Leuman",
+          "birthdate": "1886-08-17",
+          "deathdate": "1952-06-16",
+          "occupation": [
+            "Essayist",
+            "Poet",
+            "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ricardo Levene",
+          "birthdate": "1885-02-07",
+          "deathdate": "1959-03-13",
+          "occupation": [
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Enrique Loncán",
+          "birthdate": "1892-09-25",
+          "deathdate": "1940-09-30",
+          "occupation": [
+            "Writer",
+            "Author",
+            "Diplomat",
+            "Journalist",
+            "Professor",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Roberto Levillier",
+          "birthdate": "1881-01-01",
+          "deathdate": "1969-03-19",
+          "occupation": [
+            "Diplomat",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Roberto Mariani",
+          "birthdate": "1893-01-01",
+          "deathdate": "1946-03-01",
+          "occupation": [
+            "Poet",
+            "Playwright",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Sixto C. Martelli",
+          "birthdate": "1901-08-06",
+          "deathdate": "1955-06-26",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alvaro Melián Lafinur",
+          "birthdate": "1891-05-16",
+          "deathdate": "1958-12-14",
+          "occupation": [
+            "Poet",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arturo S. Mom",
+          "birthdate": "1893-12-02",
+          "deathdate": "1965-12-12",
+          "occupation": [
+            "Screenwriter",
+            "Film Director"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ernesto Morales",
+          "birthdate": "1890-10-08",
+          "deathdate": "1949-12-13",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Carlos Mouchet",
+          "birthdate": "1886-08-30",
+          "deathdate": "1977-09-22",
+          "occupation": [
+            "Doctor",
+            "Neurologist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Carlos Obligado",
+          "birthdate": "1889-05-21",
+          "deathdate": "1949-02-03",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Pedro Miguel Obligado",
+          "birthdate": "1892-12-02",
+          "deathdate": "1967-03-25",
+          "occupation": [
+            "Essayist",
+            "Poet",
+            "Screenwriter",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Héctor Olivera Lavié",
+          "birthdate": "1893-03-16",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Collaborator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Luis Ortiz Behety",
+          "birthdate": "1908-08-15",
+          "deathdate": "1973-01-01",
+          "occupation": [
+            "Poet",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arturo Orzábal Quintana",
+          "birthdate": "1892-03-22",
+          "deathdate": "1969-01-01",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José León Pagano",
+          "birthdate": "1875-05-05",
+          "deathdate": "1964-11-18",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Painter",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Antonio Pérez Valiente de Moctezuma",
+          "birthdate": "1895-04-13",
+          "deathdate": "1980-01-14",
+          "occupation": [
+            "Writer",
+            "Collaborator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan Oscar Ponferrada",
+          "birthdate": "1908-05-11",
+          "deathdate": "1990-09-05",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Josué Quesada",
+          "birthdate": "1885-11-19",
+          "deathdate": "1958-09-07",
+          "occupation": [
+            "Writer",
+            "Novelist",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Luis Reissig",
+          "birthdate": "1897-10-08",
+          "deathdate": "1972-01-01",
+          "occupation": [
+            "Director",
+            "Writer",
+            "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Emilio Ravignani",
+          "birthdate": "1886-01-15",
+          "deathdate": "1954-03-08",
+          "occupation": [
+            "Historian",
+            "Jurist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Horacio Rega Molina",
+          "birthdate": "1899-07-10",
+          "deathdate": "1957-10-24",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Literary Critic",
+            "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Agustín Rivero Astengo",
+          "birthdate": "1896-10-19",
+          "deathdate": "1951-03-12",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Erwin F. Rubens",
+          "birthdate": "1908-01-01",
+          "deathdate": "1980-01-12",
+          "occupation": [
+            "Essayist",
+            "Playwright",
+            "Theatre Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Emilio Suárez Calimano",
+          "birthdate": "1897-01-01",
+          "deathdate": "1949-11-17",
+          "occupation": [
+            "Literary Critic",
+            "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Gastón O. Talamón",
+          "birthdate": "1883-08-22",
+          "deathdate": "1956-01-01",
+          "occupation": [
+            "Collaborator",
+            "Musicologist",
+            "Music Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "César Tiempo",
+          "birthdate": "1906-03-03",
+          "deathdate": "1980-10-24",
+          "occupation": [
+            "Writer",
+            "Screenwriter",
+            "Journalist",
+            "Editor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José Torre Revello",
+          "birthdate": "1893-11-10",
+          "deathdate": "1964-02-13",
+          "occupation": [
+            "Painter",
+            "Professor",
+            "Historian",
+            "Academic",
+            "Bibliographer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Manuel Ugarte",
+          "birthdate": "1875-02-27",
+          "deathdate": "1951-12-03",
+          "occupation": [
+            "Writer",
+            "Author",
+            "Socialist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Mariano de Vedia y Mitre",
+          "birthdate": "1882-01-01",
+          "deathdate": "1958-10-22",
+          "occupation": [
+            "Writer",
+            "Politician",
+            "Lawyer",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arturo Vázquez Cey",
+          "birthdate": "1888-01-01",
+          "deathdate": "1958-01-01",
+          "occupation": [
+            "Essayist",
+            "Poet",
+            "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Marcos Victoria",
+          "birthdate": "1902-03-08",
+          "deathdate": "1975-11-28",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Pedro Juan Vignale",
+          "birthdate": "1903-01-01",
+          "deathdate": "1974-09-18",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Amado Villar",
+          "birthdate": "1899-01-25",
+          "deathdate": "1954-11-18",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Rómulo Zabala",
+          "birthdate": "1884-01-23",
+          "deathdate": "1949-10-22",
+          "occupation": [
+            "Journalist",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Olegario Víctor Andrade",
+          "birthdate": "1839-03-06",
+          "deathdate": "1882-10-30",
+          "occupation": [
+            "Poet",
+            "Politician",
+            "Journalist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -12893,6 +14006,34 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -77.2817,
+        42.8875
+      ]
+    },
+    "properties": {
+      "name": "Canandaigua, New York",
+      "popupContent": "Canandaigua, New York",
+      "affiliatedPeople": [
+        {
+          "name": "Max Eastman",
+          "birthdate": "1883-01-04",
+          "deathdate": "1969-03-25",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Political Activist",
+            "Activist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -5.1311,
         43.3506
       ]
@@ -13246,6 +14387,18 @@ var points =[
             "Short Story Writer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Arturo Uslar Pietri",
+          "birthdate": "1906-05-16",
+          "deathdate": "2001-02-26",
+          "occupation": [
+            "Intellectual",
+            "Politician",
+            "Historian",
+            "Producer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -13468,6 +14621,32 @@ var points =[
           "occupation": [
             "Writer",
             "Journalist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.6485,
+        41.7498
+      ]
+    },
+    "properties": {
+      "name": "Castel Gandolfo, Italy",
+      "popupContent": "Castel Gandolfo, Italy",
+      "affiliatedPeople": [
+        {
+          "name": "Cardinal Eugenio Pacelli",
+          "birthdate": "1876-03-02",
+          "deathdate": "1958-10-09",
+          "occupation": [
+            "Priest",
+            "Pope"
           ],
           "sex": "Male"
         }
@@ -13954,6 +15133,32 @@ var points =[
       "popupContent": "Charleville-Mézières, France",
       "affiliatedPeople": [
         {
+          "name": "Arthur Rimbaud",
+          "birthdate": "1854-10-20",
+          "deathdate": "1891-11-10",
+          "occupation": [
+            "Poet",
+            "Arms dealer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.7261,
+        49.7621
+      ]
+    },
+    "properties": {
+      "name": "Charleville-Mézières, France",
+      "popupContent": "Charleville-Mézières, France",
+      "affiliatedPeople": [
+        {
           "name": "Adam Charles Ernest",
           "birthdate": "1857-12-14",
           "deathdate": "1940-08-27",
@@ -14001,6 +15206,32 @@ var points =[
             "Poet",
             "Novelist",
             "Short Story Writer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        3.5194,
+        45.9782
+      ]
+    },
+    "properties": {
+      "name": "Châteldon, France",
+      "popupContent": "Châteldon, France",
+      "affiliatedPeople": [
+        {
+          "name": "Pierre Laval",
+          "birthdate": "1883-06-28",
+          "deathdate": "1945-10-15",
+          "occupation": [
+            "Politician",
+            "Political Figure"
           ],
           "sex": "Male"
         }
@@ -14221,6 +15452,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        13.3299,
+        43.6032
+      ]
+    },
+    "properties": {
+      "name": "Chiaravalle, Italy",
+      "popupContent": "Chiaravalle, Italy",
+      "affiliatedPeople": [
+        {
+          "name": "Maria Montessori",
+          "birthdate": "1870-08-31",
+          "deathdate": "1952-05-06",
+          "occupation": [
+            "Educator",
+            "Teacher",
+            "Physician"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -87.6297982,
         41.8781136
       ]
@@ -14299,6 +15557,16 @@ var points =[
             ""
           ],
           "sex": "Female"
+        },
+        {
+          "name": "John Dos Passos",
+          "birthdate": "1896-01-14",
+          "deathdate": "1970-09-28",
+          "occupation": [
+            "Writer",
+            "Novelist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -14523,6 +15791,18 @@ var points =[
             "Poet"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Leopoldo Díaz",
+          "birthdate": "1862-08-11",
+          "deathdate": "1947-09-28",
+          "occupation": [
+            "Collaborator",
+            "Poet",
+            "Diplomat",
+            "Lawyer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -14844,8 +16124,8 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
-        -0.1479,
-        51.5125
+        "",
+        ""
       ]
     },
     "properties": {
@@ -15848,6 +17128,63 @@ var points =[
             "Novelist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Ramón J. Cárcano",
+          "birthdate": "1860-04-18",
+          "deathdate": "1946-06-02",
+          "occupation": [
+            "Politician",
+            "Lawyer",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Abel Cháneton",
+          "birthdate": "1887-09-07",
+          "deathdate": "1943-02-13",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Lawyer",
+            "Historian",
+            "Political Prisoner"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan Filloy",
+          "birthdate": "1894-08-01",
+          "deathdate": "2000-07-15",
+          "occupation": [
+            "Writer",
+            "Jurist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ataliva Herrera",
+          "birthdate": "1888-06-02",
+          "deathdate": "1953-01-01",
+          "occupation": [
+            "Writer",
+            "Collaborator",
+            "Poet",
+            "Lawyer",
+            "Academic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Saúl Taborda",
+          "birthdate": "1885-11-09",
+          "deathdate": "1944-01-01",
+          "occupation": [
+            "Professor",
+            "Lawyer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -15871,6 +17208,34 @@ var points =[
           "deathdate": "1539-07-12",
           "occupation": [
             "Bibliographer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        16.5201,
+        39.5942
+      ]
+    },
+    "properties": {
+      "name": "Corigliano Calabro, Italy",
+      "popupContent": "Corigliano Calabro, Italy",
+      "affiliatedPeople": [
+        {
+          "name": "Arturo Lorusso",
+          "birthdate": "1884-12-14",
+          "deathdate": "1947-03-14",
+          "occupation": [
+            "Writer",
+            "Playwright",
+            "Politician",
+            "Doctor"
           ],
           "sex": "Male"
         }
@@ -15956,6 +17321,34 @@ var points =[
           "deathdate": "1995-03-31",
           "occupation": [
             "Poet"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.8483,
+        46.4725
+      ]
+    },
+    "properties": {
+      "name": "Corsier-sur-Vevey, Switzerland",
+      "popupContent": "Corsier-sur-Vevey, Switzerland",
+      "affiliatedPeople": [
+        {
+          "name": "Charlie Chaplin",
+          "birthdate": "1889-04-16",
+          "deathdate": "1977-12-25",
+          "occupation": [
+            "Composer",
+            "Actor",
+            "Filmmaker",
+            "Comic Actor"
           ],
           "sex": "Male"
         }
@@ -16175,6 +17568,17 @@ var points =[
             "Diplomat"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Leon Trotsky",
+          "birthdate": "1879-11-07",
+          "deathdate": "1940-08-21",
+          "occupation": [
+            "Reviewer",
+            "Revolutionary",
+            "Marxist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -16222,6 +17626,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        0.1659,
+        51.0609
+      ]
+    },
+    "properties": {
+      "name": "Crowborough, United Kingdom",
+      "popupContent": "Crowborough, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "Arthur Conan Doyle",
+          "birthdate": "1859-05-22",
+          "deathdate": "1930-07-07",
+          "occupation": [
+            "Writer",
+            "Novelist",
+            "Doctor"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         0.0982,
         51.3762
       ]
@@ -16239,6 +17670,17 @@ var points =[
             "Journalist",
             "Lecturer",
             "Parliamentarian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Havelock Ellis",
+          "birthdate": "1859-02-02",
+          "deathdate": "1939-07-08",
+          "occupation": [
+            "Writer",
+            "Physician",
+            "Eugenicist"
           ],
           "sex": "Male"
         }
@@ -16777,6 +18219,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -84.0617,
+        9.897
+      ]
+    },
+    "properties": {
+      "name": "Desamparados, Costa Rica",
+      "popupContent": "Desamparados, Costa Rica",
+      "affiliatedPeople": [
+        {
+          "name": "Joaquín García Monge",
+          "birthdate": "1881-01-20",
+          "deathdate": "1958-10-31",
+          "occupation": [
+            "Writer",
+            "Intellectual",
+            "Teacher"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -0.6987,
         46.9735
       ]
@@ -17038,6 +18507,34 @@ var points =[
           "occupation": [
             "Professor",
             "Art Historian"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.0462,
+        48.4647
+      ]
+    },
+    "properties": {
+      "name": "Dnipro, Ukraine",
+      "popupContent": "Dnipro, Ukraine",
+      "affiliatedPeople": [
+        {
+          "name": "César Tiempo",
+          "birthdate": "1906-03-03",
+          "deathdate": "1980-10-24",
+          "occupation": [
+            "Writer",
+            "Screenwriter",
+            "Journalist",
+            "Editor"
           ],
           "sex": "Male"
         }
@@ -17664,6 +19161,28 @@ var points =[
             "Librarian"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Samuel James Shand",
+          "birthdate": "1882-10-29",
+          "deathdate": "1957-04-19",
+          "occupation": [
+            "Professor",
+            "Geologist",
+            "Mineralogist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arthur Conan Doyle",
+          "birthdate": "1859-05-22",
+          "deathdate": "1930-07-07",
+          "occupation": [
+            "Writer",
+            "Novelist",
+            "Doctor"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -17995,6 +19514,31 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -60.4956,
+        -31.7747
+      ]
+    },
+    "properties": {
+      "name": "Entre Rios, Argentina",
+      "popupContent": "Entre Rios, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "Juan L. Ortiz",
+          "birthdate": "1896-06-11",
+          "deathdate": "1978-09-02",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         6.4494,
         48.1724
       ]
@@ -18155,6 +19699,17 @@ var points =[
             "Provost"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Lord Raglan (FitzRoy Richard Somerset)",
+          "birthdate": "1885-06-10",
+          "deathdate": "1964-09-14",
+          "occupation": [
+            "Author",
+            "Anthropologist",
+            "Soldier"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -18209,6 +19764,31 @@ var points =[
             "Activist"
           ],
           "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        15.2551,
+        54.526
+      ]
+    },
+    "properties": {
+      "name": "Europe",
+      "popupContent": "Europe",
+      "affiliatedPeople": [
+        {
+          "name": "María Raquel Adler",
+          "birthdate": "1901-10-12",
+          "deathdate": "1974-07-28",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -18365,6 +19945,32 @@ var points =[
             "Director",
             "Writer",
             "Producer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        11.2889,
+        47.9464
+      ]
+    },
+    "properties": {
+      "name": "Feldafing, Germany",
+      "popupContent": "Feldafing, Germany",
+      "affiliatedPeople": [
+        {
+          "name": "Kurt von Fritz",
+          "birthdate": "1900-08-25",
+          "deathdate": "1985-07-16",
+          "occupation": [
+            "Professor",
+            "Philologist"
           ],
           "sex": "Male"
         }
@@ -19109,6 +20715,65 @@ var points =[
             "Writer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Louis Gautier Vignal",
+          "birthdate": "1888-03-11",
+          "deathdate": "1982-01-01",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jean Catesson",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "René Dupuis",
+          "birthdate": "1905-01-01",
+          "deathdate": "",
+          "occupation": [
+            "Journalist",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Robert Honnert",
+          "birthdate": "1901-05-15",
+          "deathdate": "1939-01-01",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Joseph-Vincent Ducatillon",
+          "birthdate": "1898-01-01",
+          "deathdate": "1957-01-01",
+          "occupation": [
+            "Theologian",
+            "Monk"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jacques Bivort de la Saudée",
+          "birthdate": "1900-01-01",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Editor"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -19247,6 +20912,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -58.2976,
+        -33.1228
+      ]
+    },
+    "properties": {
+      "name": "Fray Bentos, Uruguay",
+      "popupContent": "Fray Bentos, Uruguay",
+      "affiliatedPeople": [
+        {
+          "name": "Erwin F. Rubens",
+          "birthdate": "1908-01-01",
+          "deathdate": "1980-01-12",
+          "occupation": [
+            "Essayist",
+            "Playwright",
+            "Theatre Critic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         10.7059193,
         53.8479951
       ]
@@ -19362,6 +21054,32 @@ var points =[
             "Writer",
             "Literary Critic",
             "Professor"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.3262,
+        48.7572
+      ]
+    },
+    "properties": {
+      "name": "Fresnes, France",
+      "popupContent": "Fresnes, France",
+      "affiliatedPeople": [
+        {
+          "name": "Pierre Laval",
+          "birthdate": "1883-06-28",
+          "deathdate": "1945-10-15",
+          "occupation": [
+            "Politician",
+            "Political Figure"
           ],
           "sex": "Male"
         }
@@ -19523,6 +21241,15 @@ var points =[
             "Professor"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "José Pedroni",
+          "birthdate": "1899-09-21",
+          "deathdate": "1968-02-04",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -19962,6 +21689,16 @@ var points =[
             "Academic"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Pablo Luis Landsberg",
+          "birthdate": "1901-01-01",
+          "deathdate": "1944-01-01",
+          "occupation": [
+            "Writer",
+            "Philosopher"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -20064,6 +21801,17 @@ var points =[
           "deathdate": "1969-06-10",
           "occupation": [
             "Philosopher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Pablo Suero",
+          "birthdate": "1898-03-04",
+          "deathdate": "1943-02-05",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Critic"
           ],
           "sex": "Male"
         }
@@ -20270,6 +22018,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        44.1084,
+        41.9854
+      ]
+    },
+    "properties": {
+      "name": "Gori, Georgia",
+      "popupContent": "Gori, Georgia",
+      "affiliatedPeople": [
+        {
+          "name": "Joseph Stalin",
+          "birthdate": "1878-12-18",
+          "deathdate": "1953-03-05",
+          "occupation": [
+            "Politician",
+            "Political Figure",
+            "Revolutionary"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         13.6201754,
         45.9401812
       ]
@@ -20404,6 +22179,16 @@ var points =[
             "Writer",
             "Diplomat",
             "Politician"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Antonio Pérez Valiente de Moctezuma",
+          "birthdate": "1895-04-13",
+          "deathdate": "1980-01-14",
+          "occupation": [
+            "Writer",
+            "Collaborator"
           ],
           "sex": "Male"
         }
@@ -20987,6 +22772,19 @@ var points =[
             "Poet"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Rafael Arévalo Martínez",
+          "birthdate": "1884-07-25",
+          "deathdate": "1975-06-12",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Novelist",
+            "Diplomat",
+            "Short Story Writer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -21154,6 +22952,35 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -58.5956,
+        -34.6441
+      ]
+    },
+    "properties": {
+      "name": "Haedo, Argentina",
+      "popupContent": "Haedo, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "José Torre Revello",
+          "birthdate": "1893-11-10",
+          "deathdate": "1964-02-13",
+          "occupation": [
+            "Painter",
+            "Professor",
+            "Historian",
+            "Academic",
+            "Bibliographer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -0.591,
         43.6571
       ]
@@ -21231,6 +23058,16 @@ var points =[
           "occupation": [
             "Painter",
             "Artist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Carl von Ossietsky",
+          "birthdate": "1889-10-03",
+          "deathdate": "1938-05-04",
+          "occupation": [
+            "Journalist",
+            "Pacifist"
           ],
           "sex": "Male"
         }
@@ -21602,6 +23439,17 @@ var points =[
             "Author",
             "Playwright",
             "Short Story Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ramón Guirao",
+          "birthdate": "1908-01-01",
+          "deathdate": "1949-04-17",
+          "occupation": [
+            "Poet",
+            "Journalist",
+            "Ethnographer"
           ],
           "sex": "Male"
         }
@@ -21981,6 +23829,33 @@ var points =[
             "Novelist"
           ],
           "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        1.0457,
+        52.0493
+      ]
+    },
+    "properties": {
+      "name": "Hintlesham, United Kingdom",
+      "popupContent": "Hintlesham, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "Havelock Ellis",
+          "birthdate": "1859-02-02",
+          "deathdate": "1939-07-08",
+          "occupation": [
+            "Writer",
+            "Physician",
+            "Eugenicist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -22371,6 +24246,31 @@ var points =[
             "Writer",
             "Poet",
             "Critic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.9015,
+        41.7668
+      ]
+    },
+    "properties": {
+      "name": "Hyde Park, New York",
+      "popupContent": "Hyde Park, New York",
+      "affiliatedPeople": [
+        {
+          "name": "Franklin D. Roosevelt",
+          "birthdate": "1882-01-30",
+          "deathdate": "1945-04-12",
+          "occupation": [
+            "President"
           ],
           "sex": "Male"
         }
@@ -22775,6 +24675,16 @@ var points =[
           "occupation": [
             "Professor",
             "Literary Journal Director"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Emilio Suárez Calimano",
+          "birthdate": "1897-01-01",
+          "deathdate": "1949-11-17",
+          "occupation": [
+            "Literary Critic",
+            "Teacher"
           ],
           "sex": "Male"
         }
@@ -23482,6 +25392,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -102.7193,
+        19.9942
+      ]
+    },
+    "properties": {
+      "name": "Jiquilpan, Mexico",
+      "popupContent": "Jiquilpan, Mexico",
+      "affiliatedPeople": [
+        {
+          "name": "Lázaro Cárdenas",
+          "birthdate": "1895-05-21",
+          "deathdate": "1970-10-19",
+          "occupation": [
+            "President",
+            "Statesman"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         28.0473,
         -26.2041
       ]
@@ -23618,6 +25554,72 @@ var points =[
           "deathdate": "1975-08-13",
           "occupation": [
             "Poet"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -65.2995,
+        -24.1858
+      ]
+    },
+    "properties": {
+      "name": "Jujuy, Argentina",
+      "popupContent": "Jujuy, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "Julio Aramburu",
+          "birthdate": "1898-12-20",
+          "deathdate": "1974-01-02",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Fausto de Tezanos Pinto",
+          "birthdate": "1909-01-01",
+          "deathdate": "1969-09-05",
+          "occupation": [
+            "Director",
+            "Translator"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -60.9496,
+        -34.5885
+      ]
+    },
+    "properties": {
+      "name": "Junín, Argentina",
+      "popupContent": "Junín, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "Elías Carpena",
+          "birthdate": "1897-12-23",
+          "deathdate": "1988-11-02",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Academic",
+            "Librarian",
+            "Illustrator"
           ],
           "sex": "Male"
         }
@@ -24016,6 +26018,18 @@ var points =[
             "Short Story Writer"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Leonard Woolf",
+          "birthdate": "1880-11-25",
+          "deathdate": "1969-08-14",
+          "occupation": [
+            "Writer",
+            "Publisher",
+            "Author",
+            "Civil Servant"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -24154,6 +26168,32 @@ var points =[
             "Translator",
             "Professor",
             "Philologist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        26.9871,
+        49.423
+      ]
+    },
+    "properties": {
+      "name": "Khmelnytskyi, Ukraine",
+      "popupContent": "Khmelnytskyi, Ukraine",
+      "affiliatedPeople": [
+        {
+          "name": "Alberto Gerchunoff",
+          "birthdate": "1883-01-01",
+          "deathdate": "1950-03-02",
+          "occupation": [
+            "Writer",
+            "Journalist"
           ],
           "sex": "Male"
         }
@@ -24815,6 +26855,15 @@ var points =[
             "Artist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Immanuel Kant",
+          "birthdate": "1724-04-22",
+          "deathdate": "1804-02-12",
+          "occupation": [
+            "Philosopher"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -24902,6 +26951,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        22.8178,
+        42.559
+      ]
+    },
+    "properties": {
+      "name": "Kovachevtsi, Bulgaria",
+      "popupContent": "Kovachevtsi, Bulgaria",
+      "affiliatedPeople": [
+        {
+          "name": "Georgi Dimitrov",
+          "birthdate": "1882-06-18",
+          "deathdate": "1949-07-02",
+          "occupation": [
+            "Politician",
+            "Political Figure"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         19.945,
         50.0647
       ]
@@ -24928,6 +27003,34 @@ var points =[
             "Poet",
             "Translator",
             "Diplomat"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        17.1018,
+        52.3753
+      ]
+    },
+    "properties": {
+      "name": "Kruszewnia, Poland",
+      "popupContent": "Kruszewnia, Poland",
+      "affiliatedPeople": [
+        {
+          "name": "Erich Ludendorff",
+          "birthdate": "1865-04-09",
+          "deathdate": "1937-12-20",
+          "occupation": [
+            "Politician",
+            "General",
+            "Political Figure",
+            "Military Officer"
           ],
           "sex": "Male"
         }
@@ -24991,6 +27094,31 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        36.1947,
+        51.7482
+      ]
+    },
+    "properties": {
+      "name": "Kursk, Russia",
+      "popupContent": "Kursk, Russia",
+      "affiliatedPeople": [
+        {
+          "name": "Margarita Arsamasseva",
+          "birthdate": "1893-10-04",
+          "deathdate": "1968-05-16",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         8.5844705,
         47.3189227
       ]
@@ -25011,6 +27139,21 @@ var points =[
           "sex": "Male"
         }
       ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -58.3631,
+        -34.6345
+      ]
+    },
+    "properties": {
+      "name": "La Boca, Argentina",
+      "popupContent": "La Boca, Argentina",
+      "affiliatedPeople": []
     }
   },
   {
@@ -25088,6 +27231,27 @@ var points =[
             "Architect",
             "Designer",
             "Urban Planner"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Blaise Cendrars (Frédéric-Louis Sauser)",
+          "birthdate": "1887-09-01",
+          "deathdate": "1961-01-21",
+          "occupation": [
+            "Poet",
+            "Novelist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Albert Béguin",
+          "birthdate": "1901-07-17",
+          "deathdate": "1957-05-03",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Academic"
           ],
           "sex": "Male"
         }
@@ -25483,6 +27647,37 @@ var points =[
             "Poet"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Benito Lynch",
+          "birthdate": "1885-07-25",
+          "deathdate": "1951-12-23",
+          "occupation": [
+            "Writer",
+            "Novelist",
+            "Short Story Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arturo S. Mom",
+          "birthdate": "1893-12-02",
+          "deathdate": "1965-12-12",
+          "occupation": [
+            "Screenwriter",
+            "Film Director"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alberto Palcos",
+          "birthdate": "1894-03-22",
+          "deathdate": "1966-01-01",
+          "occupation": [
+            "Writer",
+            "Professor"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -25506,6 +27701,31 @@ var points =[
           "deathdate": "1989-07-26",
           "occupation": [
             "Painter"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -66.8565,
+        -29.4135
+      ]
+    },
+    "properties": {
+      "name": "La Rioja, Argentina",
+      "popupContent": "La Rioja, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "Rosa Bazán de Cámara",
+          "birthdate": "1881-09-19",
+          "deathdate": "1972-08-22",
+          "occupation": [
+            "Writer"
           ],
           "sex": "Female"
         }
@@ -25570,6 +27790,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        1.1413,
+        41.2137
+      ]
+    },
+    "properties": {
+      "name": "La Selva del Camp, Spain",
+      "popupContent": "La Selva del Camp, Spain",
+      "affiliatedPeople": [
+        {
+          "name": "Ventura Gassol",
+          "birthdate": "1893-10-06",
+          "deathdate": "1980-09-19",
+          "occupation": [
+            "Poet",
+            "Playwright",
+            "Politician"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -71.2519,
         -29.9027
       ]
@@ -25612,6 +27859,57 @@ var points =[
             "Diplomat",
             "Politician",
             "Lawyer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.6361,
+        44.7783
+      ]
+    },
+    "properties": {
+      "name": "Lacroix-Barrez, French",
+      "popupContent": "Lacroix-Barrez, French",
+      "affiliatedPeople": [
+        {
+          "name": "Cardenal Jean Verdier",
+          "birthdate": "1864-02-19",
+          "deathdate": "1940-04-09",
+          "occupation": [
+            "Priest"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -101.9291,
+        21.3635
+      ]
+    },
+    "properties": {
+      "name": "Lagos de Moreno, Mexico",
+      "popupContent": "Lagos de Moreno, Mexico",
+      "affiliatedPeople": [
+        {
+          "name": "Mariano Azuela",
+          "birthdate": "1873-01-01",
+          "deathdate": "1952-03-01",
+          "occupation": [
+            "Author",
+            "Physician"
           ],
           "sex": "Male"
         }
@@ -25860,6 +28158,33 @@ var points =[
           "deathdate": "1920-01-04",
           "occupation": [
             "Novelist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.9193,
+        22.4937
+      ]
+    },
+    "properties": {
+      "name": "Las Villas, Cuba",
+      "popupContent": "Las Villas, Cuba",
+      "affiliatedPeople": [
+        {
+          "name": "Medardo Vitier Guanche",
+          "birthdate": "1886-06-08",
+          "deathdate": "1960-03-18",
+          "occupation": [
+            "Politician",
+            "Pedagogue",
+            "Political Figure"
           ],
           "sex": "Male"
         }
@@ -26160,6 +28485,17 @@ var points =[
             "Essayist",
             "Journalist",
             "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jacques Napoléon Faure-Biguet",
+          "birthdate": "1893-10-01",
+          "deathdate": "1954-07-18",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Biographer"
           ],
           "sex": "Male"
         }
@@ -26484,6 +28820,34 @@ var points =[
           "occupation": [
             "Literary Critic",
             "Philologist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -0.4344,
+        43.3332
+      ]
+    },
+    "properties": {
+      "name": "Lescar, France",
+      "popupContent": "Lescar, France",
+      "affiliatedPeople": [
+        {
+          "name": "Stanislas Fumet",
+          "birthdate": "1896-05-10",
+          "deathdate": "1983-09-01",
+          "occupation": [
+            "Director",
+            "Writer",
+            "Essayist",
+            "Critic"
           ],
           "sex": "Male"
         }
@@ -26931,6 +29295,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        1.2611,
+        45.8336
+      ]
+    },
+    "properties": {
+      "name": "Limoges, France",
+      "popupContent": "Limoges, France",
+      "affiliatedPeople": [
+        {
+          "name": "André Thérive (Roger Puthoste)",
+          "birthdate": "1891-06-19",
+          "deathdate": "1967-06-04",
+          "occupation": [
+            "Author",
+            "Literary Critic",
+            "Journalist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -9.1393366,
         38.7222524
       ]
@@ -27019,6 +29410,16 @@ var points =[
           "deathdate": "2003-08-05",
           "occupation": [
             "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Amedeo Modigliani",
+          "birthdate": "1884-07-12",
+          "deathdate": "1920-01-24",
+          "occupation": [
+            "Sculptor",
+            "Artist"
           ],
           "sex": "Male"
         }
@@ -27279,6 +29680,17 @@ var points =[
             "Writer",
             "Poet",
             "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alberto Franco",
+          "birthdate": "1903-07-14",
+          "deathdate": "1981-01-01",
+          "occupation": [
+            "Writer",
+            "Collaborator",
+            "Poet"
           ],
           "sex": "Male"
         }
@@ -28090,6 +30502,65 @@ var points =[
             "Actor"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Charlie Chaplin",
+          "birthdate": "1889-04-16",
+          "deathdate": "1977-12-25",
+          "occupation": [
+            "Composer",
+            "Actor",
+            "Filmmaker",
+            "Comic Actor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Sigmund Freud",
+          "birthdate": "1856-05-06",
+          "deathdate": "1939-09-23",
+          "occupation": [
+            "Psychoanalyst",
+            "Psychologist",
+            "Neurologist",
+            "Psychotherapist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Karl Marx",
+          "birthdate": "1818-05-05",
+          "deathdate": "1883-03-14",
+          "occupation": [
+            "Philosopher",
+            "Journalist",
+            "Historian",
+            "Sociologist",
+            "Economist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Lord Raglan (FitzRoy Richard Somerset)",
+          "birthdate": "1885-06-10",
+          "deathdate": "1964-09-14",
+          "occupation": [
+            "Author",
+            "Anthropologist",
+            "Soldier"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Duff Cooper",
+          "birthdate": "1890-02-22",
+          "deathdate": "1954-01-01",
+          "occupation": [
+            "Diplomat",
+            "Politician",
+            "Historian"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -28434,6 +30905,16 @@ var points =[
             "Critic"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Heinrich Mann",
+          "birthdate": "1871-03-27",
+          "deathdate": "1950-03-11",
+          "occupation": [
+            "Writer",
+            "Novelist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -28514,6 +30995,15 @@ var points =[
             "Writer",
             "Scholar",
             "Hispanist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Héctor R. Ratto",
+          "birthdate": "1892-01-21",
+          "deathdate": "1948-02-12",
+          "occupation": [
+            "Historian"
           ],
           "sex": "Male"
         }
@@ -29818,6 +32308,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        16.0498,
+        50.5339
+      ]
+    },
+    "properties": {
+      "name": "Malé Svatoňovice, Czech Republic",
+      "popupContent": "Malé Svatoňovice, Czech Republic",
+      "affiliatedPeople": [
+        {
+          "name": "Karel Capek",
+          "birthdate": "1890-01-09",
+          "deathdate": "1938-12-25",
+          "occupation": [
+            "Writer",
+            "Playwright",
+            "Critic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         3.0176,
         39.6953
       ]
@@ -30299,6 +32816,35 @@ var points =[
             "Journalist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "José Pedroni",
+          "birthdate": "1899-09-21",
+          "deathdate": "1968-02-04",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alfonsina Storni",
+          "birthdate": "1892-05-29",
+          "deathdate": "1938-10-25",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Pablo Suero",
+          "birthdate": "1898-03-04",
+          "deathdate": "1943-02-05",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Critic"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -30508,6 +33054,16 @@ var points =[
             "Novelist",
             "Literary Critic",
             "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arthur Rimbaud",
+          "birthdate": "1854-10-20",
+          "deathdate": "1891-11-10",
+          "occupation": [
+            "Poet",
+            "Arms dealer"
           ],
           "sex": "Male"
         }
@@ -31039,6 +33595,17 @@ var points =[
             "Physician"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Sixto C. Martelli",
+          "birthdate": "1901-08-06",
+          "deathdate": "1955-06-26",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Journalist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -31120,6 +33687,16 @@ var points =[
             "Journalist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Raúl Ortelli",
+          "birthdate": "1905-01-01",
+          "deathdate": "1978-01-01",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -31185,6 +33762,17 @@ var points =[
             "Professor"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Emilio Abreu Gómez",
+          "birthdate": "1894-09-18",
+          "deathdate": "1971-07-14",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Lecturer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -31241,6 +33829,31 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -84.6897,
+        33.0561
+      ]
+    },
+    "properties": {
+      "name": "Meriwether, Georgia",
+      "popupContent": "Meriwether, Georgia",
+      "affiliatedPeople": [
+        {
+          "name": "Franklin D. Roosevelt",
+          "birthdate": "1882-01-30",
+          "deathdate": "1945-04-12",
+          "occupation": [
+            "President"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         9.1156399,
         47.9944211
       ]
@@ -31255,6 +33868,32 @@ var points =[
           "deathdate": "1976-05-26",
           "occupation": [
             "Philosopher"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        6.1757,
+        49.1193
+      ]
+    },
+    "properties": {
+      "name": "Metz, France",
+      "popupContent": "Metz, France",
+      "affiliatedPeople": [
+        {
+          "name": "Kurt von Fritz",
+          "birthdate": "1900-08-25",
+          "deathdate": "1985-07-16",
+          "occupation": [
+            "Professor",
+            "Philologist"
           ],
           "sex": "Male"
         }
@@ -31723,6 +34362,97 @@ var points =[
           "occupation": [
             "Author",
             "Novelist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Lázaro Cárdenas",
+          "birthdate": "1895-05-21",
+          "deathdate": "1970-10-19",
+          "occupation": [
+            "President",
+            "Statesman"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Mariano Azuela",
+          "birthdate": "1873-01-01",
+          "deathdate": "1952-03-01",
+          "occupation": [
+            "Author",
+            "Physician"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José María González de Mendoza",
+          "birthdate": "1893-06-23",
+          "deathdate": "1967-04-10",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Diplomat",
+            "Academic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Manuel Toussanit",
+          "birthdate": "1890-05-29",
+          "deathdate": "1955-11-02",
+          "occupation": [
+            "Writer",
+            "Academic",
+            "Art Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Emilio Abreu Gómez",
+          "birthdate": "1894-09-18",
+          "deathdate": "1971-07-14",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Lecturer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Artemio de Valle Arizpe",
+          "birthdate": "1884-01-25",
+          "deathdate": "1961-11-15",
+          "occupation": [
+            "Writer",
+            "Diplomat",
+            "Lawyer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.0213,
+        47.8233
+      ]
+    },
+    "properties": {
+      "name": "Mézeray, France",
+      "popupContent": "Mézeray, France",
+      "affiliatedPeople": [
+        {
+          "name": "Pierre-Aimé Touchard",
+          "birthdate": "1903-08-15",
+          "deathdate": "1987-11-11",
+          "occupation": [
+            "Writer",
+            "Actor"
           ],
           "sex": "Male"
         }
@@ -33204,6 +35934,15 @@ var points =[
             "Academic"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Augusto Mario Delfino",
+          "birthdate": "1906-02-08",
+          "deathdate": "1961-06-22",
+          "occupation": [
+            "Journalist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -33432,6 +36171,16 @@ var points =[
             "Poet"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Rainer María Rilke",
+          "birthdate": "1875-12-04",
+          "deathdate": "1926-12-29",
+          "occupation": [
+            "Poet",
+            "Novelist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -33552,6 +36301,16 @@ var points =[
             "Journalist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Sigfrido A. Radaelli",
+          "birthdate": "1909-04-30",
+          "deathdate": "1982-09-27",
+          "occupation": [
+            "Poet",
+            "Lawyer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -33651,6 +36410,29 @@ var points =[
           "deathdate": "1957-11-26",
           "occupation": [
             "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Joseph Stalin",
+          "birthdate": "1878-12-18",
+          "deathdate": "1953-03-05",
+          "occupation": [
+            "Politician",
+            "Political Figure",
+            "Revolutionary"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Mikhail Tukhachevsky",
+          "birthdate": "1893-02-16",
+          "deathdate": "1937-06-12",
+          "occupation": [
+            "Theologian",
+            "Political Figure",
+            "Military Officer",
+            "Theoretician"
           ],
           "sex": "Male"
         }
@@ -34010,6 +36792,30 @@ var points =[
             "Writer"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Erich Ludendorff",
+          "birthdate": "1865-04-09",
+          "deathdate": "1937-12-20",
+          "occupation": [
+            "Politician",
+            "General",
+            "Political Figure",
+            "Military Officer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Oswald Spengler",
+          "birthdate": "1880-05-29",
+          "deathdate": "1936-05-08",
+          "occupation": [
+            "Writer",
+            "Philosopher",
+            "Historian",
+            "Academic"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -34675,6 +37481,39 @@ var points =[
           "occupation": [
             "Musicologist",
             "Music Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Marcel Proust",
+          "birthdate": "1871-07-10",
+          "deathdate": "1922-11-18",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Novelist",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Roger Martin du Gard",
+          "birthdate": "1881-03-23",
+          "deathdate": "1958-08-22",
+          "occupation": [
+            "Writer",
+            "Novelist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Gaston Gallimard",
+          "birthdate": "1881-01-18",
+          "deathdate": "1975-12-25",
+          "occupation": [
+            "Publisher",
+            "Editor",
+            "Literary Journal Director"
           ],
           "sex": "Male"
         }
@@ -35619,6 +38458,40 @@ var points =[
             "Playwright"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Jean-Albert Bédé",
+          "birthdate": "1904-01-01",
+          "deathdate": "1977-01-19",
+          "occupation": [
+            "Professor",
+            "Editor",
+            "Literary Scholar"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Manuel Toussanit",
+          "birthdate": "1890-05-29",
+          "deathdate": "1955-11-02",
+          "occupation": [
+            "Writer",
+            "Academic",
+            "Art Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José Eustasio Rivera",
+          "birthdate": "1888-02-19",
+          "deathdate": "1928-12-01",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Novelist",
+            "Lawyer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -35642,6 +38515,32 @@ var points =[
           "deathdate": "2018-06-06",
           "occupation": [
             "Professor"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.3036,
+        41.4141
+      ]
+    },
+    "properties": {
+      "name": "Newtown, Connecticut",
+      "popupContent": "Newtown, Connecticut",
+      "affiliatedPeople": [
+        {
+          "name": "Earl E. Van Derweker",
+          "birthdate": "1890-04-07",
+          "deathdate": "1947-11-02",
+          "occupation": [
+            "Doctor",
+            "Surgeon"
           ],
           "sex": "Male"
         }
@@ -35680,6 +38579,17 @@ var points =[
             "Short Story Writer",
             "Journalist",
             "Editor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Manuel Ugarte",
+          "birthdate": "1875-02-27",
+          "deathdate": "1951-12-03",
+          "occupation": [
+            "Writer",
+            "Author",
+            "Socialist"
           ],
           "sex": "Male"
         }
@@ -35750,6 +38660,33 @@ var points =[
             "Critic"
           ],
           "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.45,
+        52.24
+      ]
+    },
+    "properties": {
+      "name": "Noordwijk, Netherlands",
+      "popupContent": "Noordwijk, Netherlands",
+      "affiliatedPeople": [
+        {
+          "name": "Maria Montessori",
+          "birthdate": "1870-08-31",
+          "deathdate": "1952-05-06",
+          "occupation": [
+            "Educator",
+            "Teacher",
+            "Physician"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -36143,6 +39080,16 @@ var points =[
           "deathdate": "1968-08-19",
           "occupation": [
             "Physicist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alexandre Marc",
+          "birthdate": "1904-01-19",
+          "deathdate": "2000-02-22",
+          "occupation": [
+            "Writer",
+            "Philosopher"
           ],
           "sex": "Male"
         }
@@ -36835,6 +39782,17 @@ var points =[
             "Biographer"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Otto Neurath",
+          "birthdate": "1882-12-10",
+          "deathdate": "1945-12-22",
+          "occupation": [
+            "Philosopher",
+            "Sociologist",
+            "Economist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -37120,6 +40078,15 @@ var points =[
           "name": "Alfredo Martínez Howard",
           "birthdate": "1910-09-23",
           "deathdate": "1968-08-26",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan L. Ortiz",
+          "birthdate": "1896-06-11",
+          "deathdate": "1978-09-02",
           "occupation": [
             "Poet"
           ],
@@ -39215,6 +42182,198 @@ var points =[
             "Physicist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Stéphane Mallarmé",
+          "birthdate": "1842-03-18",
+          "deathdate": "1898-09-09",
+          "occupation": [
+            "Poet",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Charles Vildrac",
+          "birthdate": "1882-11-22",
+          "deathdate": "1971-06-25",
+          "occupation": [
+            "Poet",
+            "Author",
+            "Playwright"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Maxime Leroy",
+          "birthdate": "1873-03-28",
+          "deathdate": "1957-09-15",
+          "occupation": [
+            "Historian",
+            "Jurist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Louis Gautier Vignal",
+          "birthdate": "1888-03-11",
+          "deathdate": "1982-01-01",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Boris de Schloezer",
+          "birthdate": "1881-12-08",
+          "deathdate": "1969-10-07",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Museologist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jacques Napoléon Faure-Biguet",
+          "birthdate": "1893-10-01",
+          "deathdate": "1954-07-18",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Biographer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Marcel Proust",
+          "birthdate": "1871-07-10",
+          "deathdate": "1922-11-18",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Novelist",
+            "Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Gilbert Robin",
+          "birthdate": "1893-04-30",
+          "deathdate": "1967-11-01",
+          "occupation": [
+            "Physician"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Nino Frank",
+          "birthdate": "1904-06-27",
+          "deathdate": "1988-08-17",
+          "occupation": [
+            "Writer",
+            "Film Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ferdinand Brunot",
+          "birthdate": "1860-11-06",
+          "deathdate": "1938-01-07",
+          "occupation": [
+            "Writer",
+            "Philologist",
+            "Editor",
+            "Linguist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "André Thérive (Roger Puthoste)",
+          "birthdate": "1891-06-19",
+          "deathdate": "1967-06-04",
+          "occupation": [
+            "Author",
+            "Literary Critic",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jacques Rivière",
+          "birthdate": "1886-07-15",
+          "deathdate": "1925-02-14",
+          "occupation": [
+            "Writer",
+            "Critic",
+            "Editor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Blaise Cendrars (Frédéric-Louis Sauser)",
+          "birthdate": "1887-09-01",
+          "deathdate": "1961-01-21",
+          "occupation": [
+            "Poet",
+            "Novelist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "André Schaeffner",
+          "birthdate": "1895-02-07",
+          "deathdate": "1980-08-11",
+          "occupation": [
+            "Musicologist",
+            "Ethnographer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Pierre-Aimé Touchard",
+          "birthdate": "1903-08-15",
+          "deathdate": "1987-11-11",
+          "occupation": [
+            "Writer",
+            "Actor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Claudine Chonez",
+          "birthdate": "1906-03-26",
+          "deathdate": "1995-04-19",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Journalist",
+            "Sculptor"
+          ],
+          "sex": "Female"
+        },
+        {
+          "name": "Gaston Gallimard",
+          "birthdate": "1881-01-18",
+          "deathdate": "1975-12-25",
+          "occupation": [
+            "Publisher",
+            "Editor",
+            "Literary Journal Director"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Jacques Élie Faure",
+          "birthdate": "1873-04-04",
+          "deathdate": "1937-10-30",
+          "occupation": [
+            "Essayist",
+            "Biographer",
+            "Critic",
+            "Art Historian"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -39581,6 +42740,18 @@ var points =[
             "Writer",
             "Politician",
             "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Enrique González Trillo",
+          "birthdate": "1904-01-01",
+          "deathdate": "1994-01-01",
+          "occupation": [
+            "Collaborator",
+            "Poet",
+            "Journalist",
+            "Professor"
           ],
           "sex": "Male"
         }
@@ -40832,6 +44003,32 @@ var points =[
       "popupContent": "Portsmouth, United Kingdom",
       "affiliatedPeople": [
         {
+          "name": "Lancelot Hogben",
+          "birthdate": "1895-12-09",
+          "deathdate": "1975-08-22",
+          "occupation": [
+            "Zoologist",
+            "Statistician"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.088,
+        50.8198
+      ]
+    },
+    "properties": {
+      "name": "Portsmouth, United Kingdom",
+      "popupContent": "Portsmouth, United Kingdom",
+      "affiliatedPeople": [
+        {
           "name": "Richard Aldington",
           "birthdate": "1892-07-08",
           "deathdate": "1962-07-27",
@@ -41033,6 +44230,27 @@ var points =[
             "Short Story Writer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Rainer María Rilke",
+          "birthdate": "1875-12-04",
+          "deathdate": "1926-12-29",
+          "occupation": [
+            "Poet",
+            "Novelist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Karel Capek",
+          "birthdate": "1890-01-09",
+          "deathdate": "1938-12-25",
+          "occupation": [
+            "Writer",
+            "Playwright",
+            "Critic"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -41097,6 +44315,34 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        18.145,
+        49.6409
+      ]
+    },
+    "properties": {
+      "name": "Příbor, Czech Republic",
+      "popupContent": "Příbor, Czech Republic",
+      "affiliatedPeople": [
+        {
+          "name": "Sigmund Freud",
+          "birthdate": "1856-05-06",
+          "deathdate": "1939-09-23",
+          "occupation": [
+            "Psychoanalyst",
+            "Psychologist",
+            "Neurologist",
+            "Psychotherapist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -74.6672,
         40.3573
       ]
@@ -41143,6 +44389,17 @@ var points =[
           "occupation": [
             "Diplomat",
             "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Earl Browder",
+          "birthdate": "1891-05-20",
+          "deathdate": "1973-06-27",
+          "occupation": [
+            "Political Activist",
+            "Activist",
+            "Political Figure"
           ],
           "sex": "Male"
         }
@@ -41453,7 +44710,7 @@ var points =[
           "sex": "Male"
         },
         {
-          "name": "Jorge Icaza",
+          "name": "Jorge Icaza Coronel",
           "birthdate": "1906-06-10",
           "deathdate": "1978-05-26",
           "occupation": [
@@ -41625,6 +44882,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -70.7406,
+        -34.1701
+      ]
+    },
+    "properties": {
+      "name": "Rancagua, Chile",
+      "popupContent": "Rancagua, Chile",
+      "affiliatedPeople": [
+        {
+          "name": "Ricardo Tudela",
+          "birthdate": "1893-04-14",
+          "deathdate": "1984-04-02",
+          "occupation": [
+            "Politician",
+            "Odontologist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -80.1484407,
         22.3723336
       ]
@@ -41722,6 +45005,34 @@ var points =[
             "Poet",
             "Novelist",
             "Short Story Writer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -59.0898,
+        -36.7749
+      ]
+    },
+    "properties": {
+      "name": "Rauch, Argentina",
+      "popupContent": "Rauch, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "Rafael Alberto Arrieta",
+          "birthdate": "1889-01-01",
+          "deathdate": "1968-01-01",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet",
+            "Literary Critic"
           ],
           "sex": "Male"
         }
@@ -42469,6 +45780,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -51.2177,
+        -30.0346
+      ]
+    },
+    "properties": {
+      "name": "Rio Grande do Sul, Brazil",
+      "popupContent": "Rio Grande do Sul, Brazil",
+      "affiliatedPeople": [
+        {
+          "name": "Olegario Víctor Andrade",
+          "birthdate": "1839-03-06",
+          "deathdate": "1882-10-30",
+          "occupation": [
+            "Poet",
+            "Politician",
+            "Journalist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -78.654646,
         -1.6635508
       ]
@@ -42539,6 +45877,34 @@ var points =[
             "Professor",
             "Linguist",
             "Humanist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.2594,
+        2.7778
+      ]
+    },
+    "properties": {
+      "name": "Rivera, Colombia",
+      "popupContent": "Rivera, Colombia",
+      "affiliatedPeople": [
+        {
+          "name": "José Eustasio Rivera",
+          "birthdate": "1888-02-19",
+          "deathdate": "1928-12-01",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Novelist",
+            "Lawyer"
           ],
           "sex": "Male"
         }
@@ -42663,6 +46029,31 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        12.1165,
+        51.2415
+      ]
+    },
+    "properties": {
+      "name": "Röcken, Lützen, Germany",
+      "popupContent": "Röcken, Lützen, Germany",
+      "affiliatedPeople": [
+        {
+          "name": "Elisabeth Förter-Nietzsche",
+          "birthdate": "1845-07-10",
+          "deathdate": "1935-11-08",
+          "occupation": [
+            "Archivist"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -70.620363,
         42.6556505
       ]
@@ -42680,6 +46071,34 @@ var points =[
             "Hispanist"
           ],
           "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.0171,
+        50.839
+      ]
+    },
+    "properties": {
+      "name": "Rodmell, United Kingdom",
+      "popupContent": "Rodmell, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "Leonard Woolf",
+          "birthdate": "1880-11-25",
+          "deathdate": "1969-08-14",
+          "occupation": [
+            "Writer",
+            "Publisher",
+            "Author",
+            "Civil Servant"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -43144,6 +46563,38 @@ var points =[
             "Poet"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Cardinal Eugenio Pacelli",
+          "birthdate": "1876-03-02",
+          "deathdate": "1958-10-09",
+          "occupation": [
+            "Priest",
+            "Pope"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Albert Béguin",
+          "birthdate": "1901-07-17",
+          "deathdate": "1957-05-03",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Academic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Sinclair Lewis",
+          "birthdate": "1885-02-07",
+          "deathdate": "1951-01-10",
+          "occupation": [
+            "Novelist",
+            "Playwright",
+            "Short Story Writer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -43329,6 +46780,39 @@ var points =[
             "Architect",
             "Civil Engineer",
             "Socialist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Mateo Booz (Miguel Angel Correa)",
+          "birthdate": "1881-08-07",
+          "deathdate": "1943-05-16",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Armando Cascella",
+          "birthdate": "1900-06-29",
+          "deathdate": "1971-12-01",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alcides Greca",
+          "birthdate": "1889-02-13",
+          "deathdate": "1956-04-16",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Lawyer",
+            "Political Figure",
+            "Legislator"
           ],
           "sex": "Male"
         }
@@ -43530,6 +47014,34 @@ var points =[
           "occupation": [
             "Academic",
             "Provost"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.3607,
+        43.8046
+      ]
+    },
+    "properties": {
+      "name": "Rozès, France",
+      "popupContent": "Rozès, France",
+      "affiliatedPeople": [
+        {
+          "name": "Stanislas Fumet",
+          "birthdate": "1896-05-10",
+          "deathdate": "1983-09-01",
+          "occupation": [
+            "Director",
+            "Writer",
+            "Essayist",
+            "Critic"
           ],
           "sex": "Male"
         }
@@ -44032,6 +47544,34 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        6.9478,
+        48.2875
+      ]
+    },
+    "properties": {
+      "name": "Saint-Dié-des-Vosges, France",
+      "popupContent": "Saint-Dié-des-Vosges, France",
+      "affiliatedPeople": [
+        {
+          "name": "Ferdinand Brunot",
+          "birthdate": "1860-11-06",
+          "deathdate": "1938-01-07",
+          "occupation": [
+            "Writer",
+            "Philologist",
+            "Editor",
+            "Linguist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         4.3872,
         45.4397
       ]
@@ -44058,6 +47598,16 @@ var points =[
             "Writer",
             "Essayist",
             "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Amedeo Modigliani",
+          "birthdate": "1884-07-12",
+          "deathdate": "1920-01-24",
+          "occupation": [
+            "Sculptor",
+            "Artist"
           ],
           "sex": "Male"
         }
@@ -44497,6 +48047,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        6.6407,
+        43.2677
+      ]
+    },
+    "properties": {
+      "name": "Saint-Tropez, France",
+      "popupContent": "Saint-Tropez, France",
+      "affiliatedPeople": [
+        {
+          "name": "Charles Vildrac",
+          "birthdate": "1882-11-22",
+          "deathdate": "1971-06-25",
+          "occupation": [
+            "Poet",
+            "Author",
+            "Playwright"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -71.6152,
         46.8445
       ]
@@ -44522,6 +48099,59 @@ var points =[
           "occupation": [
             "Poet",
             "Author"
+          ],
+          "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        0.215,
+        44.8418
+      ]
+    },
+    "properties": {
+      "name": "Sainte-Foy-la-Grande, France",
+      "popupContent": "Sainte-Foy-la-Grande, France",
+      "affiliatedPeople": [
+        {
+          "name": "Jacques Élie Faure",
+          "birthdate": "1873-04-04",
+          "deathdate": "1937-10-30",
+          "occupation": [
+            "Essayist",
+            "Biographer",
+            "Critic",
+            "Art Historian"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.9564,
+        46.0656
+      ]
+    },
+    "properties": {
+      "name": "Sala Capriasca, Switzerland",
+      "popupContent": "Sala Capriasca, Switzerland",
+      "affiliatedPeople": [
+        {
+          "name": "Alfonsina Storni",
+          "birthdate": "1892-05-29",
+          "deathdate": "1938-10-25",
+          "occupation": [
+            "Poet"
           ],
           "sex": "Female"
         }
@@ -44764,6 +48394,53 @@ var points =[
             "Musician"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Juan Carlos Dávalos",
+          "birthdate": "1887-01-11",
+          "deathdate": "1959-11-06",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Juan Carlos García Santillán",
+          "birthdate": "1897-06-23",
+          "deathdate": "1983-12-01",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Historian"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -100.9737,
+        25.4383
+      ]
+    },
+    "properties": {
+      "name": "Saltillo, Mexico",
+      "popupContent": "Saltillo, Mexico",
+      "affiliatedPeople": [
+        {
+          "name": "Artemio de Valle Arizpe",
+          "birthdate": "1884-01-25",
+          "deathdate": "1961-11-15",
+          "occupation": [
+            "Writer",
+            "Diplomat",
+            "Lawyer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -44790,6 +48467,19 @@ var points =[
             "Lawyer",
             "Academic",
             "Supreme Court Justice"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Abel Cháneton",
+          "birthdate": "1887-09-07",
+          "deathdate": "1943-02-13",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Lawyer",
+            "Historian",
+            "Political Prisoner"
           ],
           "sex": "Male"
         }
@@ -45049,6 +48739,31 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -65.7795,
+        -28.4696
+      ]
+    },
+    "properties": {
+      "name": "San Fernando del Valle de Catamarca, Argentina",
+      "popupContent": "San Fernando del Valle de Catamarca, Argentina",
+      "affiliatedPeople": [
+        {
+          "name": "Juan Oscar Ponferrada",
+          "birthdate": "1908-05-11",
+          "deathdate": "1990-09-05",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -122.4194,
         37.7749
       ]
@@ -45223,6 +48938,28 @@ var points =[
             "Lawyer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Joaquín García Monge",
+          "birthdate": "1881-01-20",
+          "deathdate": "1958-10-31",
+          "occupation": [
+            "Writer",
+            "Intellectual",
+            "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Francisco Marín Cañas",
+          "birthdate": "1904-08-28",
+          "deathdate": "1980-12-15",
+          "occupation": [
+            "Writer",
+            "Journalist",
+            "Farm Worker"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -45322,6 +49059,17 @@ var points =[
             "Politician",
             "Professor",
             "Academic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Arturo Orzábal Quintana",
+          "birthdate": "1892-03-22",
+          "deathdate": "1969-01-01",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Professor"
           ],
           "sex": "Male"
         }
@@ -45491,6 +49239,18 @@ var points =[
           "occupation": [
             "Publisher",
             "Historian"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ángel Acuña",
+          "birthdate": "1882-04-17",
+          "deathdate": "1957-01-01",
+          "occupation": [
+            "Politician",
+            "Lawyer",
+            "Historian",
+            "Political Figure"
           ],
           "sex": "Male"
         }
@@ -45690,6 +49450,18 @@ var points =[
             "Illustrator",
             "Artist",
             "Scenographer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Horacio Rega Molina",
+          "birthdate": "1899-07-10",
+          "deathdate": "1957-10-24",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Literary Critic",
+            "Teacher"
           ],
           "sex": "Male"
         }
@@ -46197,6 +49969,40 @@ var points =[
             "Poet"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Alcides Greca",
+          "birthdate": "1889-02-13",
+          "deathdate": "1956-04-16",
+          "occupation": [
+            "Writer",
+            "Professor",
+            "Lawyer",
+            "Political Figure",
+            "Legislator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Carlos Alberto Leuman",
+          "birthdate": "1886-08-17",
+          "deathdate": "1952-06-16",
+          "occupation": [
+            "Essayist",
+            "Poet",
+            "Teacher"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alberto Palcos",
+          "birthdate": "1894-03-22",
+          "deathdate": "1966-01-01",
+          "occupation": [
+            "Writer",
+            "Professor"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -46292,6 +50098,16 @@ var points =[
             "Novelist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Heinrich Mann",
+          "birthdate": "1871-03-27",
+          "deathdate": "1950-03-11",
+          "occupation": [
+            "Writer",
+            "Novelist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -46315,6 +50131,17 @@ var points =[
           "deathdate": "1984-07-17",
           "occupation": [
             "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Marcelino Menéndez y Pelayo",
+          "birthdate": "1856-11-03",
+          "deathdate": "1912-05-19",
+          "occupation": [
+            "Literary Critic",
+            "Scholar",
+            "Historian"
           ],
           "sex": "Male"
         }
@@ -46343,6 +50170,31 @@ var points =[
             "Poet",
             "Dramatist",
             "Philosopher"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.8302,
+        20.0169
+      ]
+    },
+    "properties": {
+      "name": "Santiago de Cuba, Cuba",
+      "popupContent": "Santiago de Cuba, Cuba",
+      "affiliatedPeople": [
+        {
+          "name": "José María Heredia",
+          "birthdate": "1803-12-31",
+          "deathdate": "1839-05-07",
+          "occupation": [
+            "Poet"
           ],
           "sex": "Male"
         }
@@ -46611,6 +50463,27 @@ var points =[
             "Bibliographer"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Narciso Binayán",
+          "birthdate": "1896-06-20",
+          "deathdate": "1970-11-30",
+          "occupation": [
+            "Writer",
+            "Author",
+            "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Joaquín Edwards Bello",
+          "birthdate": "1887-05-10",
+          "deathdate": "1968-02-19",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -46858,6 +50731,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -94.9525,
+        45.7375
+      ]
+    },
+    "properties": {
+      "name": "Sauk Centre, Minnesota",
+      "popupContent": "Sauk Centre, Minnesota",
+      "affiliatedPeople": [
+        {
+          "name": "Sinclair Lewis",
+          "birthdate": "1885-02-07",
+          "deathdate": "1951-01-10",
+          "occupation": [
+            "Novelist",
+            "Playwright",
+            "Short Story Writer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -81.0912,
         32.0809
       ]
@@ -47017,6 +50917,32 @@ var points =[
             "Photographer"
           ],
           "sex": "Female"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.5818,
+        43.1001
+      ]
+    },
+    "properties": {
+      "name": "Schuylerville, New York",
+      "popupContent": "Schuylerville, New York",
+      "affiliatedPeople": [
+        {
+          "name": "Earl E. Van Derweker",
+          "birthdate": "1890-04-07",
+          "deathdate": "1947-11-02",
+          "occupation": [
+            "Doctor",
+            "Surgeon"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -47312,6 +51238,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        0.5758,
+        48.3727
+      ]
+    },
+    "properties": {
+      "name": "Sérigny, Belforêt-en-Perche, France",
+      "popupContent": "Sérigny, Belforêt-en-Perche, France",
+      "affiliatedPeople": [
+        {
+          "name": "Roger Martin du Gard",
+          "birthdate": "1881-03-23",
+          "deathdate": "1958-08-22",
+          "occupation": [
+            "Writer",
+            "Novelist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         3.7008219,
         43.4078758
       ]
@@ -47430,6 +51382,27 @@ var points =[
           "deathdate": "1939-02-22",
           "occupation": [
             "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Guillermo Guerrero Estrella",
+          "birthdate": "1891-01-01",
+          "deathdate": "1945-08-06",
+          "occupation": [
+            "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "José María González de Mendoza",
+          "birthdate": "1893-06-23",
+          "deathdate": "1967-04-10",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Diplomat",
+            "Academic"
           ],
           "sex": "Male"
         }
@@ -47667,6 +51640,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -69.3172,
+        -22.886
+      ]
+    },
+    "properties": {
+      "name": "Sierra Gorda, Chile",
+      "popupContent": "Sierra Gorda, Chile",
+      "affiliatedPeople": [
+        {
+          "name": "Ricardo Tudela",
+          "birthdate": "1893-04-14",
+          "deathdate": "1984-04-02",
+          "occupation": [
+            "Politician",
+            "Odontologist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         7.5335,
         46.2941
       ]
@@ -47840,6 +51839,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -20.308,
+        65.8242
+      ]
+    },
+    "properties": {
+      "name": "Skagaströnd, Iceland",
+      "popupContent": "Skagaströnd, Iceland",
+      "affiliatedPeople": [
+        {
+          "name": "Holger Cahill",
+          "birthdate": "1887-01-13",
+          "deathdate": "1960-07-08",
+          "occupation": [
+            "Writer",
+            "Curator"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -2.185946,
         51.767035
       ]
@@ -47881,6 +51906,34 @@ var points =[
           "deathdate": "1994-03-28",
           "occupation": [
             "Playwright"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.6058,
+        56.4152
+      ]
+    },
+    "properties": {
+      "name": "Slednevo, Russia",
+      "popupContent": "Slednevo, Russia",
+      "affiliatedPeople": [
+        {
+          "name": "Mikhail Tukhachevsky",
+          "birthdate": "1893-02-16",
+          "deathdate": "1937-06-12",
+          "occupation": [
+            "Theologian",
+            "Political Figure",
+            "Military Officer",
+            "Theoretician"
           ],
           "sex": "Male"
         }
@@ -48223,6 +52276,15 @@ var points =[
             "Sailor"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Amado Villar",
+          "birthdate": "1899-01-25",
+          "deathdate": "1954-11-18",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -48384,6 +52446,16 @@ var points =[
             "Patron"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "David Vigodsky",
+          "birthdate": "",
+          "deathdate": "",
+          "occupation": [
+            "Writer",
+            "Hispanist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -48499,6 +52571,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -73.3204,
+        42.2876
+      ]
+    },
+    "properties": {
+      "name": "Stockbridge, Massachusetts",
+      "popupContent": "Stockbridge, Massachusetts",
+      "affiliatedPeople": [
+        {
+          "name": "Holger Cahill",
+          "birthdate": "1887-01-13",
+          "deathdate": "1960-07-08",
+          "occupation": [
+            "Writer",
+            "Curator"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         18.0685808,
         59.3293235
       ]
@@ -48537,6 +52635,20 @@ var points =[
             "Philosopher",
             "Mathematician",
             "Scientist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "August Strindberg",
+          "birthdate": "1849-01-22",
+          "deathdate": "1912-05-14",
+          "occupation": [
+            "Writer",
+            "Essayist",
+            "Poet",
+            "Painter",
+            "Novelist",
+            "Playwright"
           ],
           "sex": "Male"
         }
@@ -48681,6 +52793,15 @@ var points =[
             "Professor",
             "Critic",
             "Sociologist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Georg Wilhelm Friedrich Hegel",
+          "birthdate": "1770-08-27",
+          "deathdate": "1831-11-14",
+          "occupation": [
+            "Philosopher"
           ],
           "sex": "Male"
         }
@@ -49274,6 +53395,34 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -71.6485,
+        -35.4232
+      ]
+    },
+    "properties": {
+      "name": "Talca, Chile",
+      "popupContent": "Talca, Chile",
+      "affiliatedPeople": [
+        {
+          "name": "Arturo Torres Rioseco",
+          "birthdate": "1897-10-17",
+          "deathdate": "1971-11-03",
+          "occupation": [
+            "Writer",
+            "Literary Critic",
+            "Professor",
+            "Critic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -75.3652,
         43.5334
       ]
@@ -49342,6 +53491,16 @@ var points =[
           "deathdate": "1965-05-18",
           "occupation": [
             "Writer"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Héctor I. Eandi",
+          "birthdate": "1895-05-16",
+          "deathdate": "1965-05-18",
+          "occupation": [
+            "Writer",
+            "Short Story Writer"
           ],
           "sex": "Male"
         }
@@ -49449,6 +53608,17 @@ var points =[
           "deathdate": "2005-07-10",
           "occupation": [
             "Professor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Ventura Gassol",
+          "birthdate": "1893-10-06",
+          "deathdate": "1980-09-19",
+          "occupation": [
+            "Poet",
+            "Playwright",
+            "Politician"
           ],
           "sex": "Male"
         }
@@ -49991,6 +54161,60 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -103.0447,
+        20.1589
+      ]
+    },
+    "properties": {
+      "name": "Tizapán el Alto, Mexico",
+      "popupContent": "Tizapán el Alto, Mexico",
+      "affiliatedPeople": [
+        {
+          "name": "Federico Gómez de Orozco",
+          "birthdate": "1891-01-01",
+          "deathdate": "1962-01-01",
+          "occupation": [
+            "Historian",
+            "Academic",
+            "Bibliophile"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -99.2114,
+        19.2791
+      ]
+    },
+    "properties": {
+      "name": "Tlalpan, Mexico",
+      "popupContent": "Tlalpan, Mexico",
+      "affiliatedPeople": [
+        {
+          "name": "Federico Gómez de Orozco",
+          "birthdate": "1891-01-01",
+          "deathdate": "1962-01-01",
+          "occupation": [
+            "Historian",
+            "Academic",
+            "Bibliophile"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         1.318,
         34.8884
       ]
@@ -50243,6 +54467,31 @@ var points =[
             "Poet",
             "Philosopher",
             "Physician"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -99.6557,
+        19.2826
+      ]
+    },
+    "properties": {
+      "name": "Toluca, Mexico",
+      "popupContent": "Toluca, Mexico",
+      "affiliatedPeople": [
+        {
+          "name": "José María Heredia",
+          "birthdate": "1803-12-31",
+          "deathdate": "1839-05-07",
+          "occupation": [
+            "Poet"
           ],
           "sex": "Male"
         }
@@ -50716,6 +54965,35 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        6.6371,
+        49.75
+      ]
+    },
+    "properties": {
+      "name": "Trier, Germany",
+      "popupContent": "Trier, Germany",
+      "affiliatedPeople": [
+        {
+          "name": "Karl Marx",
+          "birthdate": "1818-05-05",
+          "deathdate": "1883-03-14",
+          "occupation": [
+            "Philosopher",
+            "Journalist",
+            "Historian",
+            "Sociologist",
+            "Economist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -2.208853,
         51.319664
       ]
@@ -50897,6 +55175,35 @@ var points =[
           "occupation": [
             "Writer",
             "Literary Critic"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Bruno Jacovella",
+          "birthdate": "1910-11-21",
+          "deathdate": "1996-09-10",
+          "occupation": [
+            "Poet"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Rafael Jijena Sánchez",
+          "birthdate": "1904-09-21",
+          "deathdate": "1977-12-22",
+          "occupation": [
+            "Writer",
+            "Poet",
+            "Folklorist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Marcos Victoria",
+          "birthdate": "1902-03-08",
+          "deathdate": "1975-11-28",
+          "occupation": [
+            "Writer"
           ],
           "sex": "Male"
         }
@@ -51472,6 +55779,16 @@ var points =[
             "Artist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Saúl Taborda",
+          "birthdate": "1885-11-09",
+          "deathdate": "1944-01-01",
+          "occupation": [
+            "Professor",
+            "Lawyer"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -51970,6 +56287,16 @@ var points =[
             "Author"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Joaquín Edwards Bello",
+          "birthdate": "1887-05-10",
+          "deathdate": "1968-02-19",
+          "occupation": [
+            "Writer",
+            "Journalist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -52205,6 +56532,16 @@ var points =[
             "Writer",
             "Designer",
             "Actor"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alexandre Marc",
+          "birthdate": "1904-01-19",
+          "deathdate": "2000-02-22",
+          "occupation": [
+            "Writer",
+            "Philosopher"
           ],
           "sex": "Male"
         }
@@ -52491,6 +56828,16 @@ var points =[
             "Journalist"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Antonio Fogazzaro",
+          "birthdate": "1842-03-25",
+          "deathdate": "1911-03-07",
+          "occupation": [
+            "Writer",
+            "Novelist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -52509,11 +56856,65 @@ var points =[
       "popupContent": "Vichy, France",
       "affiliatedPeople": [
         {
-          "name": "Valery Larbaud",
+          "name": "Válery Larbaud",
           "birthdate": "1881-08-29",
           "deathdate": "1957-02-02",
           "occupation": [
             "Writer"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        30.2064,
+        55.1927
+      ]
+    },
+    "properties": {
+      "name": "Viciebsk, Belarus",
+      "popupContent": "Viciebsk, Belarus",
+      "affiliatedPeople": [
+        {
+          "name": "Boris de Schloezer",
+          "birthdate": "1881-12-08",
+          "deathdate": "1969-10-07",
+          "occupation": [
+            "Writer",
+            "Translator",
+            "Museologist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.4089,
+        42.9826
+      ]
+    },
+    "properties": {
+      "name": "Victor, New York",
+      "popupContent": "Victor, New York",
+      "affiliatedPeople": [
+        {
+          "name": "Albert H. Aldridge",
+          "birthdate": "1893-07-19",
+          "deathdate": "1983-01-01",
+          "occupation": [
+            "Doctor",
+            "Surgeon",
+            "Gynecologist"
           ],
           "sex": "Male"
         }
@@ -52694,6 +57095,28 @@ var points =[
             "Draftsman"
           ],
           "sex": "Female"
+        },
+        {
+          "name": "Alfred Adler",
+          "birthdate": "1870-02-07",
+          "deathdate": "1937-05-28",
+          "occupation": [
+            "Doctor",
+            "Psychologist",
+            "Psychotherapist"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Otto Neurath",
+          "birthdate": "1882-12-10",
+          "deathdate": "1945-12-22",
+          "occupation": [
+            "Philosopher",
+            "Sociologist",
+            "Economist"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -52785,6 +57208,17 @@ var points =[
             "Historian"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Duff Cooper",
+          "birthdate": "1890-02-22",
+          "deathdate": "1954-01-01",
+          "occupation": [
+            "Diplomat",
+            "Politician",
+            "Historian"
+          ],
+          "sex": "Male"
         }
       ]
     }
@@ -52812,6 +57246,33 @@ var points =[
             "Philosopher",
             "Journalist",
             "Art Critic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.9193,
+        22.4937
+      ]
+    },
+    "properties": {
+      "name": "Villa Clara, Cuba",
+      "popupContent": "Villa Clara, Cuba",
+      "affiliatedPeople": [
+        {
+          "name": "Medardo Vitier Guanche",
+          "birthdate": "1886-06-08",
+          "deathdate": "1960-03-18",
+          "occupation": [
+            "Politician",
+            "Pedagogue",
+            "Political Figure"
           ],
           "sex": "Male"
         }
@@ -53408,6 +57869,32 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        2.7644,
+        48.4309
+      ]
+    },
+    "properties": {
+      "name": "Vulaines-sur-Seine, France",
+      "popupContent": "Vulaines-sur-Seine, France",
+      "affiliatedPeople": [
+        {
+          "name": "Stéphane Mallarmé",
+          "birthdate": "1842-03-18",
+          "deathdate": "1898-09-09",
+          "occupation": [
+            "Poet",
+            "Critic"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         -73.9742,
         40.7565
       ]
@@ -53846,6 +58333,15 @@ var points =[
             "Diplomat"
           ],
           "sex": "Male"
+        },
+        {
+          "name": "Elisabeth Förter-Nietzsche",
+          "birthdate": "1845-07-10",
+          "deathdate": "1935-11-08",
+          "occupation": [
+            "Archivist"
+          ],
+          "sex": "Female"
         }
       ]
     }
@@ -54315,6 +58811,33 @@ var points =[
     "geometry": {
       "type": "Point",
       "coordinates": [
+        -97.3301,
+        37.6872
+      ]
+    },
+    "properties": {
+      "name": "Wichita, Kansas",
+      "popupContent": "Wichita, Kansas",
+      "affiliatedPeople": [
+        {
+          "name": "Earl Browder",
+          "birthdate": "1891-05-20",
+          "deathdate": "1973-06-27",
+          "occupation": [
+            "Political Activist",
+            "Activist",
+            "Political Figure"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
         11.5223,
         51.6654
       ]
@@ -54493,6 +59016,32 @@ var points =[
           "occupation": [
             "Philanthropist",
             "Agronomist"
+          ],
+          "sex": "Male"
+        }
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        2.9925,
+        53.043
+      ]
+    },
+    "properties": {
+      "name": "Wrexham, United Kingdom",
+      "popupContent": "Wrexham, United Kingdom",
+      "affiliatedPeople": [
+        {
+          "name": "Lancelot Hogben",
+          "birthdate": "1895-12-09",
+          "deathdate": "1975-08-22",
+          "occupation": [
+            "Zoologist",
+            "Statistician"
           ],
           "sex": "Male"
         }
@@ -54846,6 +59395,16 @@ var points =[
             "Essayist",
             "Poet",
             "Dramatist",
+            "Translator"
+          ],
+          "sex": "Male"
+        },
+        {
+          "name": "Alfredo Mendizábal",
+          "birthdate": "1897-04-02",
+          "deathdate": "1981-04-05",
+          "occupation": [
+            "Writer",
             "Translator"
           ],
           "sex": "Male"

@@ -4,6 +4,7 @@
   "description": "network stuff",
   "main": "index.js",
   "dependencies": {
+    "fuse.js": "^5.2.3",
     "leaflet-sidebar": "^0.2.0"
   },
   "devDependencies": {},
